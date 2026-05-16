@@ -1,0 +1,863 @@
+{
+  "AAEntrep": {
+    "default": "AAEntrep_AAENTREP_GENERAL.json",
+    "options": [
+      {
+        "label": "2022 General",
+        "file": "AAEntrep_AAENTREP_GENERAL.json"
+      }
+    ]
+  },
+  "BACA": {
+    "default": "BACA_GENERAL.json",
+    "options": [
+      {
+        "label": "General",
+        "file": "BACA_GENERAL.json"
+      },
+      {
+        "label": "Speech Communication",
+        "file": "BACA_SPEECH_COMMUNICATION.json"
+      },
+      {
+        "label": "Theatre Arts",
+        "file": "BACA_THEATRE_ARTS.json"
+      },
+      {
+        "label": "Writing",
+        "file": "BACA_WRITING.json"
+      }
+    ]
+  },
+  "BAPHLO": {
+    "default": "BAPHLO_GENERAL.json",
+    "options": [
+      {
+        "label": "General",
+        "file": "BAPHLO_GENERAL.json"
+      },
+      {
+        "label": "Special Problem",
+        "file": "BAPHLO_SPECIAL_PROBLEM.json"
+      },
+      {
+        "label": "Thesis",
+        "file": "BAPHLO_THESIS.json"
+      }
+    ]
+  },
+  "BASOC": {
+    "default": "BASOC_GENERAL.json",
+    "options": [
+      {
+        "label": "General",
+        "file": "BASOC_GENERAL.json"
+      },
+      {
+        "label": "Practicum",
+        "file": "BASOC_PRACTICUM.json"
+      },
+      {
+        "label": "Thesis",
+        "file": "BASOC_THESIS.json"
+      }
+    ]
+  },
+  "BSAAE": {
+    "default": "BSAAE_AGRICULTURAL_MARKETING_AND_PRICES_MAJOR_PROBLEM.json",
+    "options": [
+      {
+        "label": "Agricultural Marketing And Prices Major Problem",
+        "file": "BSAAE_AGRICULTURAL_MARKETING_AND_PRICES_MAJOR_PROBLEM.json"
+      },
+      {
+        "label": "Agricultural Marketing And Prices Thesis",
+        "file": "BSAAE_AGRICULTURAL_MARKETING_AND_PRICES_THESIS.json"
+      },
+      {
+        "label": "Food And Nutrition Economics Major Problem",
+        "file": "BSAAE_FOOD_AND_NUTRITION_ECONOMICS_MAJOR_PROBLEM.json"
+      },
+      {
+        "label": "Food And Nutrition Economics Thesis",
+        "file": "BSAAE_FOOD_AND_NUTRITION_ECONOMICS_THESIS.json"
+      },
+      {
+        "label": "General",
+        "file": "BSAAE_GENERAL.json"
+      },
+      {
+        "label": "Natural Resource Economics Major Problem",
+        "file": "BSAAE_NATURAL_RESOURCE_ECONOMICS_MAJOR_PROBLEM.json"
+      },
+      {
+        "label": "Natural Resource Economics Thesis",
+        "file": "BSAAE_NATURAL_RESOURCE_ECONOMICS_THESIS.json"
+      },
+      {
+        "label": "Production Economics And Farm Management Major Problem",
+        "file": "BSAAE_PRODUCTION_ECONOMICS_AND_FARM_MANAGEMENT_MAJOR_PROBLEM.json"
+      },
+      {
+        "label": "Production Economics And Farm Management Thesis",
+        "file": "BSAAE_PRODUCTION_ECONOMICS_AND_FARM_MANAGEMENT_THESIS.json"
+      },
+      {
+        "label": "Rural Finance And Cooperatives Major Problem",
+        "file": "BSAAE_RURAL_FINANCE_AND_COOPERATIVES_MAJOR_PROBLEM.json"
+      },
+      {
+        "label": "Rural Finance And Cooperatives Thesis",
+        "file": "BSAAE_RURAL_FINANCE_AND_COOPERATIVES_THESIS.json"
+      }
+    ]
+  },
+  "BSABE": {
+    "default": "BSABE_AGRIBIOSYSTEMS_MACHINERY_POWER_ENGINEERING_ENGINEERING_INDUSTRY_RESEARCH.json",
+    "options": [
+      {
+        "label": "Agribiosystems Machinery Power Engineering Engineering Industry Research",
+        "file": "BSABE_AGRIBIOSYSTEMS_MACHINERY_POWER_ENGINEERING_ENGINEERING_INDUSTRY_RESEARCH.json"
+      },
+      {
+        "label": "Agribiosystems Machinery Power Engineering General",
+        "file": "BSABE_AGRIBIOSYSTEMS_MACHINERY_POWER_ENGINEERING_GENERAL.json"
+      },
+      {
+        "label": "Agribiosystems Machinery Power Engineering Innovationeering",
+        "file": "BSABE_AGRIBIOSYSTEMS_MACHINERY_POWER_ENGINEERING_INNOVATIONEERING.json"
+      },
+      {
+        "label": "Agribiosystems Machinery Power Engineering Thesis",
+        "file": "BSABE_AGRIBIOSYSTEMS_MACHINERY_POWER_ENGINEERING_THESIS.json"
+      },
+      {
+        "label": "Agricultural, Food And Bioprocess Engineering Engineering Industry Research",
+        "file": "BSABE_AGRICULTURAL_FOOD_AND_BIOPROCESS_ENGINEERING_ENGINEERING_INDUSTRY_RESEARCH.json"
+      },
+      {
+        "label": "Agricultural, Food And Bioprocess Engineering General",
+        "file": "BSABE_AGRICULTURAL_FOOD_AND_BIOPROCESS_ENGINEERING_GENERAL.json"
+      },
+      {
+        "label": "Agricultural, Food And Bioprocess Engineering Innovationeering",
+        "file": "BSABE_AGRICULTURAL_FOOD_AND_BIOPROCESS_ENGINEERING_INNOVATIONEERING.json"
+      },
+      {
+        "label": "Agricultural, Food And Bioprocess Engineering Thesis",
+        "file": "BSABE_AGRICULTURAL_FOOD_AND_BIOPROCESS_ENGINEERING_THESIS.json"
+      },
+      {
+        "label": "Agrometeorology, Bio-Structures, And Environment Engineering Engineering Industry Research",
+        "file": "BSABE_AGROMETEOROLOGY_BIO_STRUCTURES_AND_ENVIRONMENT_ENGINEERING_ENGINEERING_INDUSTRY_RESEARCH.json"
+      },
+      {
+        "label": "Agrometeorology, Bio-Structures, And Environment Engineering General",
+        "file": "BSABE_AGROMETEOROLOGY_BIO_STRUCTURES_AND_ENVIRONMENT_ENGINEERING_GENERAL.json"
+      },
+      {
+        "label": "Agrometeorology, Bio-Structures, And Environment Engineering Innovationeering",
+        "file": "BSABE_AGROMETEOROLOGY_BIO_STRUCTURES_AND_ENVIRONMENT_ENGINEERING_INNOVATIONEERING.json"
+      },
+      {
+        "label": "Agrometeorology, Bio-Structures, And Environment Engineering Thesis",
+        "file": "BSABE_AGROMETEOROLOGY_BIO_STRUCTURES_AND_ENVIRONMENT_ENGINEERING_THESIS.json"
+      },
+      {
+        "label": "Land And Water Resources Engineering Engineering Industry Research",
+        "file": "BSABE_LAND_AND_WATER_RESOURCES_ENGINEERING_ENGINEERING_INDUSTRY_RESEARCH.json"
+      },
+      {
+        "label": "Land And Water Resources Engineering Innovationeering",
+        "file": "BSABE_LAND_AND_WATER_RESOURCES_ENGINEERING_INNOVATIONEERING.json"
+      },
+      {
+        "label": "Land And Water Resources Engineering Thesis",
+        "file": "BSABE_LAND_AND_WATER_RESOURCES_ENGINEERING_THESIS.json"
+      },
+      {
+        "label": "Land And Water Resources General",
+        "file": "BSABE_LAND_AND_WATER_RESOURCES_GENERAL.json"
+      }
+    ]
+  },
+  "BSABME": {
+    "default": "BSABME_AGRICULTURAI_ENTREPRENEURSHIP.json",
+    "options": [
+      {
+        "label": "Agriculturai Entrepreneurship",
+        "file": "BSABME_AGRICULTURAI_ENTREPRENEURSHIP.json"
+      },
+      {
+        "label": "Agriculturai Management",
+        "file": "BSABME_AGRICULTURAI_MANAGEMENT.json"
+      },
+      {
+        "label": "General",
+        "file": "BSABME_GENERAL.json"
+      }
+    ]
+  },
+  "BSABT": {
+    "default": "BSABT_ANIMAL_BIOTECHNOLOGY_MAJOR_PROBLEM_SPECIAL_PROBLEM.json",
+    "options": [
+      {
+        "label": "Animal Biotechnology (Major Problem/Special Problem)",
+        "file": "BSABT_ANIMAL_BIOTECHNOLOGY_MAJOR_PROBLEM_SPECIAL_PROBLEM.json"
+      },
+      {
+        "label": "Animal Biotechnology (Thesis/Practicum)",
+        "file": "BSABT_ANIMAL_BIOTECHNOLOGY_THESIS_PRACTICUM.json"
+      },
+      {
+        "label": "Crop Protection Biotechnology (Major Problem/Special Problem)",
+        "file": "BSABT_CROP_PROTECTION_BIOTECHNOLOGY_MAJOR_PROBLEM_SPECIAL_PROBLEM.json"
+      },
+      {
+        "label": "Crop Protection Biotechnology (Thesis/Practicum)",
+        "file": "BSABT_CROP_PROTECTION_BIOTECHNOLOGY_THESIS_PRACTICUM.json"
+      },
+      {
+        "label": "Crop/Plant Biotechnology (Major Problem/Special Problem)",
+        "file": "BSABT_CROP_PLANT_BIOTECHNOLOGY_MAJOR_PROBLEM_SPECIAL_PROBLEM.json"
+      },
+      {
+        "label": "Crop/Plant Biotechnology (Thesis/Practicum)",
+        "file": "BSABT_CROP_PLANT_BIOTECHNOLOGY_THESIS_PRACTICUM.json"
+      },
+      {
+        "label": "Food Biotechnology (Major Problem/Special Problem)",
+        "file": "BSABT_FOOD_BIOTECHNOLOGY_MAJOR_PROBLEM_SPECIAL_PROBLEM.json"
+      },
+      {
+        "label": "Food Biotechnology (Thesis/Practicum)",
+        "file": "BSABT_FOOD_BIOTECHNOLOGY_THESIS_PRACTICUM.json"
+      },
+      {
+        "label": "General",
+        "file": "BSABT_GENERAL.json"
+      }
+    ]
+  },
+  "BSAC": {
+    "default": "BSAC.json",
+    "options": [
+      {
+        "label": "Default",
+        "file": "BSAC.json"
+      },
+      {
+        "label": "Default",
+        "file": "BSAC_2.json"
+      }
+    ]
+  },
+  "BSAcc": {
+    "default": "BSAcc_BSACC_GENERAL.json",
+    "options": [
+      {
+        "label": "2022 General",
+        "file": "BSAcc_BSACC_GENERAL.json"
+      }
+    ]
+  },
+  "BSAM": {
+    "default": "BSAM_GENERAL.json",
+    "options": [
+      {
+        "label": "General",
+        "file": "BSAM_GENERAL.json"
+      },
+      {
+        "label": "Special Problem",
+        "file": "BSAM_SPECIAL_PROBLEM.json"
+      },
+      {
+        "label": "Thesis",
+        "file": "BSAM_THESIS.json"
+      }
+    ]
+  },
+  "BSAP": {
+    "default": "BSAP_GENERAL.json",
+    "options": [
+      {
+        "label": "General",
+        "file": "BSAP_GENERAL.json"
+      },
+      {
+        "label": "Special Problem",
+        "file": "BSAP_SPECIAL_PROBLEM.json"
+      },
+      {
+        "label": "Thesis",
+        "file": "BSAP_THESIS.json"
+      }
+    ]
+  },
+  "BSA": {
+    "default": "BSA_AGRICULTURAL_EXTENSION_MAJOR_PROBLEM_SPECIAL_PROBLEM.json",
+    "options": [
+      {
+        "label": "Agricultural Extension (Major Problem/Special Problem)",
+        "file": "BSA_AGRICULTURAL_EXTENSION_MAJOR_PROBLEM_SPECIAL_PROBLEM.json"
+      },
+      {
+        "label": "Agricultural Extension (Thesis/Practicum)",
+        "file": "BSA_AGRICULTURAL_EXTENSION_THESIS_PRACTICUM.json"
+      },
+      {
+        "label": "Agricultural System (Major Problem/Special Problem)",
+        "file": "BSA_AGRICULTURAL_SYSTEM_MAJOR_PROBLEM_SPECIAL_PROBLEM.json"
+      },
+      {
+        "label": "Agricultural System (Thesis/Practicum)",
+        "file": "BSA_AGRICULTURAL_SYSTEM_THESIS_PRACTICUM.json"
+      },
+      {
+        "label": "Agriculture Crop Production Manangement (Major Problem/Special Problem)",
+        "file": "BSA_AGRICULTURE_CROP_PRODUCTION_MANANGEMENT_MAJOR_PROBLEM_SPECIAL_PROBLEM.json"
+      },
+      {
+        "label": "Agriculture Crop Production Manangement (Thesis/Practicum)",
+        "file": "BSA_AGRICULTURE_CROP_PRODUCTION_MANANGEMENT_THESIS_PRACTICUM.json"
+      },
+      {
+        "label": "Agriculture Plant Breeding Breeding (Major Problem/Special Problem)",
+        "file": "BSA_AGRICULTURE_PLANT_BREEDING_BREEDING_MAJOR_PROBLEM_SPECIAL_PROBLEM.json"
+      },
+      {
+        "label": "Agriculture Plant Breeding Breeding (Thesis/Practicum)",
+        "file": "BSA_AGRICULTURE_PLANT_BREEDING_BREEDING_THESIS_PRACTICUM.json"
+      },
+      {
+        "label": "Agriculture Seed Science Technology (Major Problem/Special Problem)",
+        "file": "BSA_AGRICULTURE_SEED_SCIENCE_TECHNOLOGY_MAJOR_PROBLEM_SPECIAL_PROBLEM.json"
+      },
+      {
+        "label": "Agriculture Seed Science Technology (Thesis/Practicum)",
+        "file": "BSA_AGRICULTURE_SEED_SCIENCE_TECHNOLOGY_THESIS_PRACTICUM.json"
+      },
+      {
+        "label": "Animal Science (Major Problem/Special Problem)",
+        "file": "BSA_ANIMAL_SCIENCE_MAJOR_PROBLEM_SPECIAL_PROBLEM.json"
+      },
+      {
+        "label": "Animal Science (Thesis/Practicum)",
+        "file": "BSA_ANIMAL_SCIENCE_THESIS_PRACTICUM.json"
+      },
+      {
+        "label": "Entomology (Major Problem/Special Problem)",
+        "file": "BSA_ENTOMOLOGY_MAJOR_PROBLEM_SPECIAL_PROBLEM.json"
+      },
+      {
+        "label": "Entomology (Thesis/Practicum)",
+        "file": "BSA_ENTOMOLOGY_THESIS_PRACTICUM.json"
+      },
+      {
+        "label": "General",
+        "file": "BSA_GENERAL.json"
+      },
+      {
+        "label": "Horticulture Crop Production Management Fruits (Major Problem/Special Problem)",
+        "file": "BSA_HORTICULTURE_CROP_PRODUCTION_MANAGEMENT_FRUITS_MAJOR_PROBLEM_SPECIAL_PROBLEM.json"
+      },
+      {
+        "label": "Horticulture Crop Production Management Fruits (Thesis/Practicum)",
+        "file": "BSA_HORTICULTURE_CROP_PRODUCTION_MANAGEMENT_FRUITS_THESIS_PRACTICUM.json"
+      },
+      {
+        "label": "Horticulture Crop Production Management Ornamentals (Major Problem/Special Problem)",
+        "file": "BSA_HORTICULTURE_CROP_PRODUCTION_MANAGEMENT_ORNAMENTALS_MAJOR_PROBLEM_SPECIAL_PROBLEM.json"
+      },
+      {
+        "label": "Horticulture Crop Production Management Ornamentals (Thesis/Practicum)",
+        "file": "BSA_HORTICULTURE_CROP_PRODUCTION_MANAGEMENT_ORNAMENTALS_THESIS_PRACTICUM.json"
+      },
+      {
+        "label": "Horticulture Crop Production Management Vegtables (Major Problem/Special Problem)",
+        "file": "BSA_HORTICULTURE_CROP_PRODUCTION_MANAGEMENT_VEGTABLES_MAJOR_PROBLEM_SPECIAL_PROBLEM.json"
+      },
+      {
+        "label": "Horticulture Crop Production Management Vegtables (Thesis/Practicum)",
+        "file": "BSA_HORTICULTURE_CROP_PRODUCTION_MANAGEMENT_VEGTABLES_THESIS_PRACTICUM.json"
+      },
+      {
+        "label": "Horticulture Landscape (Major Problem/Special Problem)",
+        "file": "BSA_HORTICULTURE_LANDSCAPE_MAJOR_PROBLEM_SPECIAL_PROBLEM.json"
+      },
+      {
+        "label": "Horticulture Landscape (Thesis/Practicum)",
+        "file": "BSA_HORTICULTURE_LANDSCAPE_THESIS_PRACTICUM.json"
+      },
+      {
+        "label": "Horticulture Physiology Tissue Culture",
+        "file": "BSA_HORTICULTURE_PHYSIOLOGY_TISSUE_CULTURE.json"
+      },
+      {
+        "label": "Horticulture Physiology Tissue Culture (Major Problem/Special Problem)",
+        "file": "BSA_HORTICULTURE_PHYSIOLOGY_TISSUE_CULTURE_MAJOR_PROBLEM_SPECIAL_PROBLEM.json"
+      },
+      {
+        "label": "Horticulture Plant Breeding (Major Problem/Special Problem)",
+        "file": "BSA_HORTICULTURE_PLANT_BREEDING_MAJOR_PROBLEM_SPECIAL_PROBLEM.json"
+      },
+      {
+        "label": "Horticulture Plant Breeding (Thesis/Practicum)",
+        "file": "BSA_HORTICULTURE_PLANT_BREEDING_THESIS_PRACTICUM.json"
+      },
+      {
+        "label": "Horticulture Postharvest (Major Problem/Special Problem)",
+        "file": "BSA_HORTICULTURE_POSTHARVEST_MAJOR_PROBLEM_SPECIAL_PROBLEM.json"
+      },
+      {
+        "label": "Horticulture Postharvest (Thesis/Practicum)",
+        "file": "BSA_HORTICULTURE_POSTHARVEST_THESIS_PRACTICUM.json"
+      },
+      {
+        "label": "Landscape Agroforestry (Major Problem/Special Problem)",
+        "file": "BSA_LANDSCAPE_AGROFORESTRY_MAJOR_PROBLEM_SPECIAL_PROBLEM.json"
+      },
+      {
+        "label": "Landscape Agroforestry (Thesis/Practicum)",
+        "file": "BSA_LANDSCAPE_AGROFORESTRY_THESIS_PRACTICUM.json"
+      },
+      {
+        "label": "Plant Pathology (Major Problem/Special Problem)",
+        "file": "BSA_PLANT_PATHOLOGY_MAJOR_PROBLEM_SPECIAL_PROBLEM.json"
+      },
+      {
+        "label": "Plant Pathology (Thesis/Practicum)",
+        "file": "BSA_PLANT_PATHOLOGY_THESIS_PRACTICUM.json"
+      },
+      {
+        "label": "Soil (Major Problem/Special Problem)",
+        "file": "BSA_SOIL_MAJOR_PROBLEM_SPECIAL_PROBLEM.json"
+      },
+      {
+        "label": "Soil (Thesis/Practicum)",
+        "file": "BSA_SOIL_THESIS_PRACTICUM.json"
+      },
+      {
+        "label": "Weeds (Major Problem/Special Problem)",
+        "file": "BSA_WEEDS_MAJOR_PROBLEM_SPECIAL_PROBLEM.json"
+      },
+      {
+        "label": "Weeds (Thesis/Practicum)",
+        "file": "BSA_WEEDS_THESIS_PRACTICUM.json"
+      }
+    ]
+  },
+  "BSBIO": {
+    "default": "BSBIO_CELL_AND_MOLECULAR_BIOLOGY.json",
+    "options": [
+      {
+        "label": "Cell And Molecular Biology",
+        "file": "BSBIO_CELL_AND_MOLECULAR_BIOLOGY.json"
+      },
+      {
+        "label": "Ecology",
+        "file": "BSBIO_ECOLOGY.json"
+      },
+      {
+        "label": "General",
+        "file": "BSBIO_GENERAL.json"
+      },
+      {
+        "label": "Genetics",
+        "file": "BSBIO_GENETICS.json"
+      },
+      {
+        "label": "Microbiology",
+        "file": "BSBIO_MICROBIOLOGY.json"
+      },
+      {
+        "label": "Plant Biology",
+        "file": "BSBIO_PLANT_BIOLOGY.json"
+      },
+      {
+        "label": "Systematics",
+        "file": "BSBIO_SYSTEMATICS.json"
+      },
+      {
+        "label": "Wildlife Biology",
+        "file": "BSBIO_WILDLIFE_BIOLOGY.json"
+      },
+      {
+        "label": "Zoology",
+        "file": "BSBIO_ZOOLOGY.json"
+      }
+    ]
+  },
+  "BSCE": {
+    "default": "BSCE_GENERAL.json",
+    "options": [
+      {
+        "label": "General",
+        "file": "BSCE_GENERAL.json"
+      },
+      {
+        "label": "Innovationeering",
+        "file": "BSCE_INNOVATIONEERING.json"
+      },
+      {
+        "label": "Thesis",
+        "file": "BSCE_THESIS.json"
+      }
+    ]
+  },
+  "BSCHEM": {
+    "default": "BSCHEM.json",
+    "options": [
+      {
+        "label": "Default",
+        "file": "BSCHEM.json"
+      },
+      {
+        "label": "Default",
+        "file": "BSCHEM_2.json"
+      },
+      {
+        "label": "General",
+        "file": "BSCHEM_GENERAL.json"
+      }
+    ]
+  },
+  "BSCHE": {
+    "default": "BSCHE_GENERAL_ENGINEERING_INDUSTRY_RESEARCH.json",
+    "options": [
+      {
+        "label": "Bsche  General Engineering Industry Research",
+        "file": "BSCHE_GENERAL_ENGINEERING_INDUSTRY_RESEARCH.json"
+      },
+      {
+        "label": "Bsche  General Innovationeering",
+        "file": "BSCHE_GENERAL_INNOVATIONEERING.json"
+      },
+      {
+        "label": "Bsche  General Thesis",
+        "file": "BSCHE_GENERAL_THESIS.json"
+      },
+      {
+        "label": "Bsche  Pulp And Paper Engineering Industry Research",
+        "file": "BSCHE_PULP_AND_PAPER_ENGINEERING_INDUSTRY_RESEARCH.json"
+      },
+      {
+        "label": "Bsche  Pulp And Paper Innovationeering",
+        "file": "BSCHE_PULP_AND_PAPER_INNOVATIONEERING.json"
+      },
+      {
+        "label": "Bsche  Pulp And Paper Thesis",
+        "file": "BSCHE_PULP_AND_PAPER_THESIS.json"
+      },
+      {
+        "label": "Bsche  Sugar Technology Engineering Industry Research",
+        "file": "BSCHE_SUGAR_TECHNOLOGY_ENGINEERING_INDUSTRY_RESEARCH.json"
+      },
+      {
+        "label": "Bsche  Sugar Technology Innovationeering",
+        "file": "BSCHE_SUGAR_TECHNOLOGY_INNOVATIONEERING.json"
+      },
+      {
+        "label": "Bsche  Sugar Technology Thesis",
+        "file": "BSCHE_SUGAR_TECHNOLOGY_THESIS.json"
+      },
+      {
+        "label": "General Track",
+        "file": "BSCHE_GENERAL_TRACK.json"
+      },
+      {
+        "label": "Pulp And Paper Technology Track General",
+        "file": "BSCHE_PULP_AND_PAPER_TECHNOLOGY_TRACK_GENERAL.json"
+      },
+      {
+        "label": "Sugar Technology Track General",
+        "file": "BSCHE_SUGAR_TECHNOLOGY_TRACK_GENERAL.json"
+      }
+    ]
+  },
+  "BSCS": {
+    "default": "BSCS_GENERAL.json",
+    "options": [
+      {
+        "label": "General",
+        "file": "BSCS_GENERAL.json"
+      },
+      {
+        "label": "Practicum",
+        "file": "BSCS_PRACTICUM.json"
+      },
+      {
+        "label": "Thesis",
+        "file": "BSCS_THESIS.json"
+      }
+    ]
+  },
+  "BSDC": {
+    "default": "BSDC.json",
+    "options": [
+      {
+        "label": "Default",
+        "file": "BSDC.json"
+      }
+    ]
+  },
+  "BSECO": {
+    "default": "BSECO_N_DEVELOPMENT_ECONOMICS.json",
+    "options": [
+      {
+        "label": "N  Development Economics",
+        "file": "BSECO_N_DEVELOPMENT_ECONOMICS.json"
+      },
+      {
+        "label": "N  Environmental Economics",
+        "file": "BSECO_N_ENVIRONMENTAL_ECONOMICS.json"
+      },
+      {
+        "label": "N  General",
+        "file": "BSECO_N_GENERAL.json"
+      }
+    ]
+  },
+  "BSEE": {
+    "default": "BSEE_BACHELOR_OF_SCIENCE_IN_ELECTRICAL_ENGINEERING.json",
+    "options": [
+      {
+        "label": "Bachelor Of Science In Electrical Engineering",
+        "file": "BSEE_BACHELOR_OF_SCIENCE_IN_ELECTRICAL_ENGINEERING.json"
+      },
+      {
+        "label": "Computer Engineering Engineering Industry Research",
+        "file": "BSEE_COMPUTER_ENGINEERING_ENGINEERING_INDUSTRY_RESEARCH.json"
+      },
+      {
+        "label": "Computer Engineering General",
+        "file": "BSEE_COMPUTER_ENGINEERING_GENERAL.json"
+      },
+      {
+        "label": "Computer Engineering Innovationeering",
+        "file": "BSEE_COMPUTER_ENGINEERING_INNOVATIONEERING.json"
+      },
+      {
+        "label": "Computer Engineering Thesis",
+        "file": "BSEE_COMPUTER_ENGINEERING_THESIS.json"
+      },
+      {
+        "label": "Electronics Engineering Engineering",
+        "file": "BSEE_ELECTRONICS_ENGINEERING_ENGINEERING.json"
+      },
+      {
+        "label": "Electronics Engineering Innovationeering",
+        "file": "BSEE_ELECTRONICS_ENGINEERING_INNOVATIONEERING.json"
+      },
+      {
+        "label": "Electronics Engineering Thesis",
+        "file": "BSEE_ELECTRONICS_ENGINEERING_THESIS.json"
+      },
+      {
+        "label": "Power Engineering Engineering Industry Research",
+        "file": "BSEE_POWER_ENGINEERING_ENGINEERING_INDUSTRY_RESEARCH.json"
+      },
+      {
+        "label": "Power Engineering General",
+        "file": "BSEE_POWER_ENGINEERING_GENERAL.json"
+      },
+      {
+        "label": "Power Engineering Innovationeering",
+        "file": "BSEE_POWER_ENGINEERING_INNOVATIONEERING.json"
+      },
+      {
+        "label": "Power Engineering Thesis",
+        "file": "BSEE_POWER_ENGINEERING_THESIS.json"
+      }
+    ]
+  },
+  "BSFST": {
+    "default": "BSFST_BSFT_PRSP.json",
+    "options": [
+      {
+        "label": "Bsft  Prsp",
+        "file": "BSFST_BSFT_PRSP.json"
+      },
+      {
+        "label": "General",
+        "file": "BSFST_GENERAL.json"
+      },
+      {
+        "label": "Thpr",
+        "file": "BSFST_THPR.json"
+      }
+    ]
+  },
+  "BSF": {
+    "default": "BSF_ENVIRONMENTAL_FORESTRY.json",
+    "options": [
+      {
+        "label": "Environmental Forestry",
+        "file": "BSF_ENVIRONMENTAL_FORESTRY.json"
+      },
+      {
+        "label": "General",
+        "file": "BSF_GENERAL.json"
+      },
+      {
+        "label": "Production And Industrial Forestry",
+        "file": "BSF_PRODUCTION_AND_INDUSTRIAL_FORESTRY.json"
+      },
+      {
+        "label": "Social Forestry And Agroforestry",
+        "file": "BSF_SOCIAL_FORESTRY_AND_AGROFORESTRY.json"
+      }
+    ]
+  },
+  "BSHE": {
+    "default": "BSHE_GENERAL.json",
+    "options": [
+      {
+        "label": "General",
+        "file": "BSHE_GENERAL.json"
+      },
+      {
+        "label": "Human And Family Development",
+        "file": "BSHE_HUMAN_AND_FAMILY_DEVELOPMENT.json"
+      },
+      {
+        "label": "Human Settlements Planning",
+        "file": "BSHE_HUMAN_SETTLEMENTS_PLANNING.json"
+      },
+      {
+        "label": "Social Technology (St)",
+        "file": "BSHE_SOCIAL_TECHNOLOGY_ST.json"
+      }
+    ]
+  },
+  "BSIE": {
+    "default": "BSIE_ENGINEERING_INDUSTRY_RESEARCH.json",
+    "options": [
+      {
+        "label": "Engineering Industry Research",
+        "file": "BSIE_ENGINEERING_INDUSTRY_RESEARCH.json"
+      },
+      {
+        "label": "General",
+        "file": "BSIE_GENERAL.json"
+      },
+      {
+        "label": "Innovationeering",
+        "file": "BSIE_INNOVATIONEERING.json"
+      },
+      {
+        "label": "Thesis",
+        "file": "BSIE_THESIS.json"
+      }
+    ]
+  },
+  "BSMatE": {
+    "default": "BSMatE_BSMATE_GENERAL.json",
+    "options": [
+      {
+        "label": "General 2022",
+        "file": "BSMatE_BSMATE_GENERAL.json"
+      }
+    ]
+  },
+  "BSMATH": {
+    "default": "BSMATH_GENERAL.json",
+    "options": [
+      {
+        "label": "General",
+        "file": "BSMATH_GENERAL.json"
+      },
+      {
+        "label": "Special Problem",
+        "file": "BSMATH_SPECIAL_PROBLEM.json"
+      },
+      {
+        "label": "Thesis",
+        "file": "BSMATH_THESIS.json"
+      }
+    ]
+  },
+  "BSME": {
+    "default": "BSME_ENGINEERING_INDUSTRY_RESEARCH.json",
+    "options": [
+      {
+        "label": "Engineering Industry Research",
+        "file": "BSME_ENGINEERING_INDUSTRY_RESEARCH.json"
+      },
+      {
+        "label": "General",
+        "file": "BSME_GENERAL.json"
+      },
+      {
+        "label": "Innovationeering",
+        "file": "BSME_INNOVATIONEERING.json"
+      },
+      {
+        "label": "Thesis",
+        "file": "BSME_THESIS.json"
+      }
+    ]
+  },
+  "BSMST": {
+    "default": "BSMST_BIOLOGY.json",
+    "options": [
+      {
+        "label": "Biology",
+        "file": "BSMST_BIOLOGY.json"
+      },
+      {
+        "label": "Chemistry",
+        "file": "BSMST_CHEMISTRY.json"
+      },
+      {
+        "label": "General",
+        "file": "BSMST_GENERAL.json"
+      },
+      {
+        "label": "Mathematics",
+        "file": "BSMST_MATHEMATICS.json"
+      },
+      {
+        "label": "Physics",
+        "file": "BSMST_PHYSICS.json"
+      }
+    ]
+  },
+  "BSN": {
+    "default": "BSN.json",
+    "options": [
+      {
+        "label": "Default",
+        "file": "BSN.json"
+      }
+    ]
+  },
+  "BSSTAT": {
+    "default": "BSSTAT.json",
+    "options": [
+      {
+        "label": "Default",
+        "file": "BSSTAT.json"
+      }
+    ]
+  },
+  "CIF": {
+    "default": "CIF.json",
+    "options": [
+      {
+        "label": "Default",
+        "file": "CIF.json"
+      }
+    ]
+  },
+  "DVM": {
+    "default": "DVM.json",
+    "options": [
+      {
+        "label": "Default",
+        "file": "DVM.json"
+      }
+    ]
+  }
+}
