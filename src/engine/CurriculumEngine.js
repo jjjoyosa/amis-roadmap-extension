@@ -86,4 +86,361 @@ export class CurriculumEngine {
         targets.ELECTIVE.requiredUnits = targets.ELECTIVE.requiredCourses * 3;
         return targets;
     }
+
+    calculateDependencyWeights() {
+        const unlocks = new Map(); 
+        this.courses.forEach((_, code) => unlocks.set(code, []));
+
+        this.courses.forEach((courseData, targetCode) => {
+            if (courseData.parsed_prereq) {
+                courseData.parsed_prereq.forEach(orGroup => {
+                    orGroup.forEach(prereqCode => {
+                        if (unlocks.has(prereqCode)) {
+                            unlocks.get(prereqCode).push(targetCode);
+                        }
+                    });
+                });
+            }
+        });
+
+        const weights = new Map();
+        
+        const getWeight = (code, visited = new Set()) => {
+            if (weights.has(code)) return weights.get(code);
+            if (visited.has(code)) return 0; 
+            
+            visited.add(code);
+            let weight = 1; 
+            
+            const children = unlocks.get(code) || [];
+            children.forEach(childCode => {
+                weight += getWeight(childCode, new Set(visited));
+            });
+            
+            weights.set(code, weight);
+            return weight;
+        };
+
+        this.courses.forEach((_, code) => getWeight(code));
+        return weights;
+    }
+
+    generateOptimalPath(report, targetTerm = "1", minAcad = 15, maxAcad = 20, maxNonAcad = 7, isOverloading = false) {
+        const courseWeights = this.calculateDependencyWeights();
+
+        const isMidyear = String(targetTerm).toUpperCase().startsWith("M");
+
+        const actualMinAcad = isMidyear ? 3 : minAcad; 
+        const actualMaxAcad = isMidyear ? (isOverloading ? 9 : 6) : (isOverloading ? 21 : maxAcad);
+        const actualMaxNonAcad = isMidyear ? 5 : maxNonAcad;
+
+        let remainingRequiredAcadUnits = 0;
+        report.unlocked.concat(report.locked).forEach(course => {
+           if (course.is_academic && course.type === "REQUIRED" && !course.title.includes("(GE)")) {
+               remainingRequiredAcadUnits += course.units;
+           }
+        });
+
+        let remainingCoreGEUnits = report.audit["CORE GE"].satisfied ? 0 : 
+            Math.max(0, this.dynamicTargets.CORE_GE.requiredUnits - (report.audit["CORE GE"].earnedCourses * 3)); 
+            
+        let remainingGEElecUnits = report.audit["GE ELECTIVE"].satisfied ? 0 : 
+            Math.max(0, this.dynamicTargets.GE_ELECTIVE.requiredUnits - (report.audit["GE ELECTIVE"].earnedCourses * 3));
+            
+        let remainingElecUnits = report.audit["ELECTIVE"].satisfied ? 0 : 
+            Math.max(0, this.dynamicTargets.ELECTIVE.requiredUnits - (report.audit["ELECTIVE"].earnedCourses * 3));
+
+        const totalRemainingAcadUnits = remainingRequiredAcadUnits + remainingCoreGEUnits + remainingGEElecUnits + remainingElecUnits;
+        const avgLoadPerSem = 18;
+        const estSemsLeft = Math.max(1, Math.ceil(totalRemainingAcadUnits / avgLoadPerSem));
+        
+        let targetAcadLoad = isMidyear 
+            ? Math.min(actualMaxAcad, totalRemainingAcadUnits)
+            : Math.max(actualMinAcad, Math.min(actualMaxAcad, Math.ceil(totalRemainingAcadUnits / estSemsLeft)));
+
+        if (isOverloading) {
+            targetAcadLoad = Math.min(actualMaxAcad, totalRemainingAcadUnits);
+        }
+
+        let majorPool = [];
+        let coreGePool = [];
+        let geElectivePool = [];
+        let electivePool = [];
+        let nonAcadPool = [];
+
+        const isAvailableThisTerm = (course) => {
+            if (!course.sem) return true; 
+            const semStr = String(course.sem).toUpperCase();
+            if (semStr === "ANY" || semStr === "BOTH") return true;
+            if (isMidyear && (semStr.includes("M") || semStr.includes("MIDYEAR"))) return true;
+            if (!isMidyear && semStr.includes(String(targetTerm))) return true;
+            return false;
+        };
+
+        report.unlocked.forEach(course => {
+            if (!isAvailableThisTerm(course)) return; 
+
+            const nType = (course.type || "").toUpperCase();
+            const isCoreGE = this.dynamicTargets.CORE_GE.codes.has(course.code);
+
+            if (!course.is_academic) nonAcadPool.push(course);
+            else if (course.type === "REQUIRED" && !isCoreGE) majorPool.push(course);
+            else if (isCoreGE) coreGePool.push(course);
+            else if (nType.includes("GE ELECTIVE")) geElectivePool.push(course);
+            else if (nType.includes("ELECTIVE") && !nType.includes("GE")) electivePool.push(course);
+        });
+
+        const smartSort = (a, b) => {
+            const weightA = courseWeights.get(a.code) || 1;
+            const weightB = courseWeights.get(b.code) || 1;
+            if (weightB !== weightA) return weightB - weightA; 
+            return (parseInt(a.year) - parseInt(b.year)) || (parseInt(a.sem) - parseInt(b.sem));
+        };
+
+        majorPool.sort(smartSort);
+        coreGePool.sort(smartSort);
+
+        const schedule = [];
+        let acadUnits = 0;
+        let nonAcadUnits = 0;
+        const usedEquivGroups = new Set();
+        const getGroupKey = (code) => this.equivalenceGroups.find(g => g.includes(code))?.sort().join('|');
+
+        // STRICT TRACKER: Reserves slots for GEs and Electives before Major subjects
+        let geElecSlotsUsed = 0;
+        const MAX_GE_ELEC_SLOTS = isMidyear ? (isOverloading ? 2 : 1) : (isOverloading ? 3 : 2); 
+
+        // 1. Core GEs
+        while (geElecSlotsUsed < MAX_GE_ELEC_SLOTS && coreGePool.length > 0 && acadUnits + 3 <= targetAcadLoad) {
+            const course = coreGePool.shift();
+            const groupKey = getGroupKey(course.code);
+            if (groupKey && usedEquivGroups.has(groupKey)) continue;
+
+            schedule.push({ ...course, category: 'ACADEMIC' });
+            acadUnits += course.units;
+            if (groupKey) usedEquivGroups.add(groupKey);
+            geElecSlotsUsed++;
+        }
+
+        // 2. GE Electives
+        let geElecsNeeded = report.audit["GE ELECTIVE"] ? (report.audit["GE ELECTIVE"].requiredCourses - report.audit["GE ELECTIVE"].earnedCourses) : 0;
+        while (geElecsNeeded > 0 && geElecSlotsUsed < MAX_GE_ELEC_SLOTS && geElectivePool.length > 0 && acadUnits + 3 <= targetAcadLoad) {
+            const uniqueOptions = [...new Set(geElectivePool.map(c => c.code))].slice(0, 3).join(" / ");
+            schedule.push({ code: `[GE ELEC]`, title: `${uniqueOptions}`, units: 3, category: 'ACADEMIC' });
+            acadUnits += 3;
+            geElecSlotsUsed++;
+            geElectivePool.push(geElectivePool.shift()); 
+            geElecsNeeded--;
+        }
+
+        // 3. Explicit Free Electives from JSON
+        let electivesNeeded = report.audit["ELECTIVE"] ? (report.audit["ELECTIVE"].requiredCourses - report.audit["ELECTIVE"].earnedCourses) : 0;
+        while (electivesNeeded > 0 && geElecSlotsUsed < MAX_GE_ELEC_SLOTS && electivePool.length > 0 && acadUnits + 3 <= targetAcadLoad) {
+            const uniqueOptions = [...new Set(electivePool.map(c => c.code))].slice(0, 3).join(" / ");
+            schedule.push({ code: `[ELECTIVE]`, title: `${uniqueOptions}`, units: 3, category: 'ACADEMIC' });
+            acadUnits += 3;
+            geElecSlotsUsed++;
+            electivePool.push(electivePool.shift());
+            electivesNeeded--;
+        }
+
+        // 4. Aggressive Elective Padding (Generic Placeholders if JSON pool is empty)
+        while (electivesNeeded > 0 && geElecSlotsUsed < MAX_GE_ELEC_SLOTS && acadUnits + 3 <= targetAcadLoad) {
+            schedule.push({ code: `[ELECTIVE]`, title: `Any 3-Unit Free Elective`, units: 3, category: 'ACADEMIC' });
+            acadUnits += 3;
+            geElecSlotsUsed++;
+            electivesNeeded--;
+        }
+
+        // 5. Major Subjects (Fills the remaining space up to the target load)
+        for (const course of majorPool) {
+            const groupKey = getGroupKey(course.code);
+            if (groupKey && usedEquivGroups.has(groupKey)) continue;
+
+            if (acadUnits + course.units <= targetAcadLoad) {
+                schedule.push({ ...course, category: 'ACADEMIC' });
+                acadUnits += course.units;
+                if (groupKey) usedEquivGroups.add(groupKey);
+                course.added = true; 
+            }
+        }
+
+        majorPool = majorPool.filter(c => !c.added);
+        const fallbackPool = [...majorPool, ...coreGePool]; 
+
+        // 6. Fallback Pool (Bypasses the GE slot limit to ensure you hit the target load if out of majors)
+        for (const course of fallbackPool) {
+            if (acadUnits >= targetAcadLoad && !isMidyear) break; 
+            
+            const groupKey = getGroupKey(course.code);
+            if (groupKey && usedEquivGroups.has(groupKey)) continue;
+
+            if (acadUnits + course.units <= actualMaxAcad) {
+                schedule.push({ ...course, category: 'ACADEMIC' });
+                acadUnits += course.units;
+                if (groupKey) usedEquivGroups.add(groupKey);
+            }
+        }
+
+        // 7. Unrestricted Final Padding (If STILL below target load during an overload)
+        while (electivesNeeded > 0 && acadUnits + 3 <= targetAcadLoad) {
+            schedule.push({ code: `[ELECTIVE]`, title: `Any 3-Unit Free Elective`, units: 3, category: 'ACADEMIC' });
+            acadUnits += 3;
+            electivesNeeded--;
+        }
+
+        // 8. Non-Academic Pool
+        const processedNonAcadGroups = new Set();
+
+        for (const course of nonAcadPool) {
+            const units = course.units;
+            const groupKey = getGroupKey(course.code);
+
+            if (groupKey && usedEquivGroups.has(groupKey)) continue;
+
+            if (nonAcadUnits + units <= actualMaxNonAcad) {
+                if (groupKey) {
+                    if (processedNonAcadGroups.has(groupKey)) continue;
+                    const options = nonAcadPool.filter(c => getGroupKey(c.code) === groupKey).map(c => c.code);
+                    const uniqueOptions = [...new Set(options)].join(" / ");
+                    schedule.push({ code: `HK`, title: `${uniqueOptions}`, units: units, category: 'NON-ACAD' });
+                    nonAcadUnits += units;
+                    processedNonAcadGroups.add(groupKey);
+                    usedEquivGroups.add(groupKey);
+                } else {
+                    schedule.push({ ...course, category: 'NON-ACAD' });
+                    nonAcadUnits += units;
+                }
+            }
+        }
+
+        const isSufficientLoad = isMidyear 
+            ? (acadUnits === 0 || acadUnits >= actualMinAcad) 
+            : acadUnits >= actualMinAcad;
+
+        return {
+            recommendedCourses: schedule,
+            totalAcadUnits: acadUnits,
+            totalNonAcadUnits: nonAcadUnits,
+            targetLoad: targetAcadLoad,
+            semestersRemaining: estSemsLeft,
+            remainingAcadUnits: totalRemainingAcadUnits,
+            isSufficient: isSufficientLoad
+        };
+    }
+
+    analyzeRoadmap(passedArray, currentClassification = "Freshman") {
+        const passedSet = new Set(passedArray);
+        const report = { unlocked: [], locked: [], audit: {} };
+
+        const standingRank = { "Freshman": 1, "Sophomore": 2, "Junior": 3, "Senior": 4 };
+        const currentRank = standingRank[currentClassification] || 1;
+
+        let totalEarnedUnits = 0;
+        let earnedCoreGEUnits = 0, earnedCoreGECourses = 0;
+        let earnedGEElecUnits = 0, earnedGEElecCourses = 0;
+        let earnedElecUnits = 0, earnedElecCourses = 0;
+
+        passedArray.forEach(code => {
+            const course = this.courses.get(code);
+            if (!course) return;
+
+            totalEarnedUnits += (course.units || 0);
+            const isHistKasGroup = (code === 'HIST 1' || code === 'KAS 1');
+
+            if (this.dynamicTargets.CORE_GE.codes.has(code) || isHistKasGroup) {
+                earnedCoreGECourses++;
+                earnedCoreGEUnits += course.units;
+            } else if (course.type === "GE ELECTIVE") {
+                earnedGEElecCourses++;
+                earnedGEElecUnits += course.units;
+            } else if (course.type === "ELECTIVE" || course.type === "SSP ELECTIVE") {
+                earnedElecCourses++;
+                earnedElecUnits += course.units;
+            }
+        });
+
+        report.totalEarnedUnits = totalEarnedUnits;
+
+        report.audit["CORE GE"] = {
+            earnedCourses: earnedCoreGECourses, requiredCourses: this.dynamicTargets.CORE_GE.requiredCourses,
+            satisfied: earnedCoreGECourses >= this.dynamicTargets.CORE_GE.requiredCourses
+        };
+
+        report.audit["GE ELECTIVE"] = {
+            earnedCourses: earnedGEElecCourses, requiredCourses: this.dynamicTargets.GE_ELECTIVE.requiredCourses,
+            satisfied: earnedGEElecCourses >= this.dynamicTargets.GE_ELECTIVE.requiredCourses
+        };
+
+        report.audit["ELECTIVE"] = {
+            earnedCourses: earnedElecCourses, requiredCourses: this.dynamicTargets.ELECTIVE.requiredCourses,
+            satisfied: earnedElecCourses >= this.dynamicTargets.ELECTIVE.requiredCourses
+        };
+
+        if (this.customUnitRules && Object.keys(this.customUnitRules).length > 0) {
+            for (const [category, config] of Object.entries(this.customUnitRules)) {
+                const earnedUnits = passedArray.reduce((sum, code) => {
+                    const course = this.courses.get(code);
+                    if (!course) return sum;
+                    const isMatch = config.filter ? config.filter(code, course) : (course.type === category);
+                    return isMatch ? sum + (course.units || 0) : sum;
+                }, 0);
+                
+                report.audit[category] = { 
+                    earnedUnits: earnedUnits, 
+                    requiredUnits: config.minUnits, 
+                    satisfied: earnedUnits >= config.minUnits
+                };
+            }
+        }
+
+        this.courses.forEach((courseData, courseCode) => {
+            let customBucket = null;
+            if (this.customUnitRules) {
+                for (const [category, config] of Object.entries(this.customUnitRules)) {
+                    const isMatch = config.filter ? config.filter(courseCode, courseData) : (courseData.type === category);
+                    if (isMatch) {
+                        customBucket = category;
+                        break;
+                    }
+                }
+            }
+
+            const isCustomIncomplete = customBucket && report.audit[customBucket] && !report.audit[customBucket].satisfied;
+
+            if (!isCustomIncomplete) {
+                if (passedSet.has(courseCode)) return;
+
+                const group = this.equivalenceGroups.find(g => g.includes(courseCode)) || [];
+                if (group.some(equivCode => passedSet.has(equivCode))) return;
+            }
+
+            if (report.audit["CORE GE"].satisfied && this.dynamicTargets.CORE_GE.codes.has(courseCode)) return;
+            const nType = (courseData.type || "").toUpperCase();
+            if (report.audit["GE ELECTIVE"].satisfied && nType.includes("GE ELECTIVE")) return;
+            if (report.audit["ELECTIVE"].satisfied && nType.includes("ELECTIVE") && !nType.includes("GE")) return;
+
+            const status = this.evaluateStatus(courseData.parsed_prereq, passedSet, currentRank);
+            
+            const courseRecord = {
+                code: courseCode,
+                title: courseData.title,
+                type: courseData.type,
+                year: courseData.year,
+                sem: courseData.sem,
+                units: courseData.units,
+                is_academic: courseData.is_academic,
+                raw_prereq: courseData.raw_prereq
+            };
+
+            if (status.isUnlocked) {
+                report.unlocked.push(courseRecord);
+            } else {
+                courseRecord.missing_reqs = status.missingReqs;
+                report.locked.push(courseRecord);
+            }
+        });
+
+        return report;
+    }
 }
