@@ -1,0 +1,21 @@
+body { font-family: system-ui; width: 650px; padding: 10px; margin: 0; max-height: 600px}
+          .card { background: #fff; border: 1px solid #ddd; border-radius: 12px; padding: 12px; margin-bottom: 10px; }
+          .stats { display: grid; grid-template-columns: repeat(3, 1fr); gap: 10px; margin-bottom: 10px; }
+          .stat { padding: 8px; border-radius: 8px; background: #f6f6f6; text-align: center; font-size: 13px; }
+          .totals-bar { display: grid; grid-template-columns: 1fr 1fr; gap: 10px; margin-top: 15px; padding-top: 10px; border-top: 1px solid #ddd; font-size: 12px; color: #555; }
+          .audit-grid { display: grid; grid-template-columns: repeat(2, 1fr); gap: 8px; margin-top: 5px; }
+          .audit-item { background: #fbfbfb; border: 1px solid #eee; padding: 6px 10px; border-radius: 8px; font-size: 13px; display: flex; align-items: center; gap: 6px; }
+          .tabs { display: flex; gap: 5px; margin-bottom: 10px; }
+          .tab-btn { padding: 6px 12px; cursor: pointer; border: 1px solid #ddd; border-radius: 6px; background: #f0f0f0; font-size: 13px; }
+          .tab-btn.active { background: #2d7ff9; color: #fff; border-color: #2d7ff9; }
+          .view { display: none; } .view.active { display: block; }
+          .course { padding: 8px; margin-bottom: 5px; border-left: 4px solid #2d7ff9; background: #fafafa; font-size: 13px; }
+          .columns { display: grid; grid-template-columns: 1fr 1fr; gap: 10px; }
+          .list-container { display: flex; flex-direction: column; max-height: 270px; overflow-y: auto; padding-right: 5px; }
+          .item { padding: 8px; border-radius: 6px; background: #fafafa; margin-bottom: 6px; border-left: 4px solid #ccc; font-size: 12px; border-bottom: 1px solid #eee; }
+          .eligible { border-left-color: #34a853; } .ineligible { border-left-color: #ea4335; }
+          .type { font-size: 10px; color: #666; display: block; margin-top: 2px; }
+          .header-container { display: flex; justify-content: space-between; align-items: center; padding: 10px; margin-bottom: 10px; border: 1px solid #eee; border-radius: 8px; }
+          .header-left { display: flex; align-items: center; gap: 10px; font-weight: 500; }
+          .header-right { display: flex; align-items: center; gap: 10px; }
+          .prereq { font-size: 10px; color: #d93025; display: block; margin-top: 2px; font-weight: 500; }
