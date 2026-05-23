@@ -75,14 +75,20 @@ export class AmisAPI {
     }
 
     static async getStudentData(token) {
-        const authUser = await this.fetchWithAuth("https://api-amis.uplb.edu.ph/api/auth/user", token);
+        const API_BASE = "https://api.university-domain.edu/api";
+        
+        const authUser = await this.fetchWithAuth(`${API_BASE}/auth/user`, token);
         const userId = authUser.user?.id; 
-        if (!userId) throw new Error("Could not retrieve dynamic user ID from AMIS.");
+
+        if (!userId) {
+            throw new Error("Could not retrieve dynamic user ID from the portal.");
+        }
 
         const [grades, profile] = await Promise.all([
-            this.fetchWithAuth("https://api-amis.uplb.edu.ph/api/students/grades?summarize=true", token),
-            this.fetchWithAuth(`https://api-amis.uplb.edu.ph/api/users/${userId}?personal_information=true`, token)
+            this.fetchWithAuth(`${API_BASE}/students/grades?summarize=true`, token),
+            this.fetchWithAuth(`${API_BASE}/users/${userId}?personal_information=true`, token)
         ]);
+        
         return { grades, profile };
     }
 }
