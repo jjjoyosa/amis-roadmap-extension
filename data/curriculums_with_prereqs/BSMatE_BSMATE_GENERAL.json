@@ -1,0 +1,2085 @@
+{
+    "curriculum_id": 180,
+    "code": "BSMatE_2022",
+    "program_id": 369,
+    "name": "BSMatE General 2022",
+    "type": "GENERAL",
+    "status": "ACTIVE",
+    "acad_org": "LBDENSC",
+    "acad_group": "CEAT",
+    "created_at": "2024-07-14T16:56:10.000000Z",
+    "updated_at": "2024-07-14T16:56:10.000000Z",
+    "is_visible": "TRUE",
+    "course_work_guide": null,
+    "approved_by": null,
+    "date_approved": null,
+    "program": {
+        "program_id": 369,
+        "acronym": "BSMatE",
+        "title": "Bachelor of Science in Materials Engineering",
+        "career": "UGRD",
+        "college": "CEAT",
+        "description": "Materials engineering is a field of engineering that has been central to human civilization and industrialization. It builds on a comprehensive understanding of a material's structure-property relationship to prepare, modify,and tailorit for an intended application. While inseparable from materials science which involves the study of material behavior and phenomena, materials engineering focuses on the design and developmentof processing techniques thatare practical, economic, environment-friendly, and scalable. Fundamental toall other disciplines, materials science and engineering drives innovation in both research and industry, encompassing many sectors, including the environment, renewable energy, advanced manufacturing, Information and communication technology, healthcare, and aerospace and transport among others",
+        "degree_id": 1,
+        "created_at": "2023-09-03T18:01:33.000000Z",
+        "updated_at": "2023-09-03T18:01:33.000000Z",
+        "max_units": 21,
+        "is_visible": "YES",
+        "term_type_offer": "Semestral",
+        "acad_org": null
+    },
+    "curriculum_courses": [
+        {
+            "id": 13155,
+            "curriculum_id": 180,
+            "course_id": 821,
+            "year": "1",
+            "sem": "1",
+            "description": "NA",
+            "course_type": "REQUIRED",
+            "sub_type": "NA",
+            "group_id": 1,
+            "created_at": "2024-07-14T17:32:38.000000Z",
+            "updated_at": "2024-07-14T17:32:38.000000Z",
+            "units": null,
+            "course": {
+                "course_code": "KAS 1",
+                "course_id": 821,
+                "title": "(GE). Kasaysayan ng Pilipinas",
+                "type": "NA",
+                "is_academic": true,
+                "is_multiple_enrollment": false,
+                "is_repeatable": false,
+                "course_code_title": "KAS 1 - (GE). Kasaysayan ng Pilipinas",
+                "acad_orgs": [
+                    "LBDSS"
+                ],
+                "acad_groups": [
+                    "CAS"
+                ]
+            }
+        },
+        {
+            "id": 13156,
+            "curriculum_id": 180,
+            "course_id": 2642,
+            "year": "1",
+            "sem": "1",
+            "description": "NA",
+            "course_type": "REQUIRED",
+            "sub_type": "NA",
+            "group_id": 1,
+            "created_at": "2024-07-14T17:32:38.000000Z",
+            "updated_at": "2024-07-14T17:32:38.000000Z",
+            "units": null,
+            "course": {
+                "course_code": "HIST 1",
+                "course_id": 2642,
+                "title": "(GE). Philippine History",
+                "type": "NA",
+                "is_academic": true,
+                "is_multiple_enrollment": false,
+                "is_repeatable": false,
+                "course_code_title": "HIST 1 - (GE). Philippine History",
+                "acad_orgs": [
+                    "LBDSS"
+                ],
+                "acad_groups": [
+                    "CAS"
+                ]
+            }
+        },
+        {
+            "id": 13157,
+            "curriculum_id": 180,
+            "course_id": 623,
+            "year": "1",
+            "sem": "1",
+            "description": "NA",
+            "course_type": "REQUIRED",
+            "sub_type": "NA",
+            "group_id": null,
+            "created_at": "2024-07-14T17:32:38.000000Z",
+            "updated_at": "2024-07-14T17:32:38.000000Z",
+            "units": null,
+            "course": {
+                "course_code": "MATH 27",
+                "course_id": 623,
+                "title": "Analytic Geometry and Calculus II",
+                "type": "NA",
+                "is_academic": true,
+                "is_multiple_enrollment": false,
+                "is_repeatable": false,
+                "course_code_title": "MATH 27 - Analytic Geometry and Calculus II",
+                "acad_orgs": [
+                    "LBIMS"
+                ],
+                "acad_groups": [
+                    "CAS"
+                ]
+            },
+            "prerequisites": "MATH 26"
+        },
+        {
+            "id": 13158,
+            "curriculum_id": 180,
+            "course_id": 662,
+            "year": "1",
+            "sem": "1",
+            "description": "NA",
+            "course_type": "REQUIRED",
+            "sub_type": "NA",
+            "group_id": null,
+            "created_at": "2024-07-14T17:32:38.000000Z",
+            "updated_at": "2024-07-14T17:32:38.000000Z",
+            "units": null,
+            "course": {
+                "course_code": "PHYS 71",
+                "course_id": 662,
+                "title": "University Physics I",
+                "type": "NA",
+                "is_academic": true,
+                "is_multiple_enrollment": false,
+                "is_repeatable": false,
+                "course_code_title": "PHYS 71 - University Physics I",
+                "acad_orgs": [
+                    "LBIoP"
+                ],
+                "acad_groups": [
+                    "CAS"
+                ]
+            }
+        },
+        {
+            "id": 13159,
+            "curriculum_id": 180,
+            "course_id": 663,
+            "year": "1",
+            "sem": "1",
+            "description": "NA",
+            "course_type": "REQUIRED",
+            "sub_type": "NA",
+            "group_id": null,
+            "created_at": "2024-07-14T17:32:38.000000Z",
+            "updated_at": "2024-07-14T17:32:38.000000Z",
+            "units": null,
+            "course": {
+                "course_code": "PHYS 71.1",
+                "course_id": 663,
+                "title": "University Physics I Laboratory",
+                "type": "NA",
+                "is_academic": true,
+                "is_multiple_enrollment": false,
+                "is_repeatable": false,
+                "course_code_title": "PHYS 71.1 - University Physics I Laboratory",
+                "acad_orgs": [
+                    "LBIoP"
+                ],
+                "acad_groups": [
+                    "CAS"
+                ]
+            }
+        },
+        {
+            "id": 13160,
+            "curriculum_id": 180,
+            "course_id": 492,
+            "year": "1",
+            "sem": "1",
+            "description": "NA",
+            "course_type": "REQUIRED",
+            "sub_type": "NA",
+            "group_id": null,
+            "created_at": "2024-07-14T17:32:38.000000Z",
+            "updated_at": "2024-07-14T17:32:38.000000Z",
+            "units": null,
+            "course": {
+                "course_code": "CHEM 18",
+                "course_id": 492,
+                "title": "University Chemistry",
+                "type": "NA",
+                "is_academic": true,
+                "is_multiple_enrollment": false,
+                "is_repeatable": false,
+                "course_code_title": "CHEM 18 - University Chemistry",
+                "acad_orgs": [
+                    "LBIC"
+                ],
+                "acad_groups": [
+                    "CAS"
+                ]
+            }
+        },
+        {
+            "id": 13161,
+            "curriculum_id": 180,
+            "course_id": 493,
+            "year": "1",
+            "sem": "1",
+            "description": "NA",
+            "course_type": "REQUIRED",
+            "sub_type": "NA",
+            "group_id": null,
+            "created_at": "2024-07-14T17:32:38.000000Z",
+            "updated_at": "2024-07-14T17:32:38.000000Z",
+            "units": null,
+            "course": {
+                "course_code": "CHEM 18.1",
+                "course_id": 493,
+                "title": "University Chemistry Laboratory",
+                "type": "NA",
+                "is_academic": true,
+                "is_multiple_enrollment": false,
+                "is_repeatable": false,
+                "course_code_title": "CHEM 18.1 - University Chemistry Laboratory",
+                "acad_orgs": [
+                    "LBIC"
+                ],
+                "acad_groups": [
+                    "CAS"
+                ]
+            }
+        },
+        {
+            "id": 13162,
+            "curriculum_id": 180,
+            "course_id": 3403,
+            "year": "1",
+            "sem": "1",
+            "description": "NA",
+            "course_type": "REQUIRED",
+            "sub_type": "NA",
+            "group_id": null,
+            "created_at": "2024-07-14T17:32:38.000000Z",
+            "updated_at": "2024-07-14T17:32:38.000000Z",
+            "units": null,
+            "course": {
+                "course_code": "MatE 10",
+                "course_id": 3403,
+                "title": "Introduction to Materials Engineering",
+                "type": "LEC",
+                "is_academic": true,
+                "is_multiple_enrollment": false,
+                "is_repeatable": false,
+                "course_code_title": "MatE 10 - Introduction to Materials Engineering",
+                "acad_orgs": [
+                    "LBDENSC"
+                ],
+                "acad_groups": [
+                    "CEAT"
+                ]
+            }
+        },
+        {
+            "id": 13163,
+            "curriculum_id": 180,
+            "course_id": 813,
+            "year": "1",
+            "sem": "1",
+            "description": "NA",
+            "course_type": "REQUIRED",
+            "sub_type": "NA",
+            "group_id": null,
+            "created_at": "2024-07-14T17:32:38.000000Z",
+            "updated_at": "2024-07-14T17:32:38.000000Z",
+            "units": 2,
+            "course": {
+                "course_code": "HK 11",
+                "course_id": 813,
+                "title": "Wellness and Basic Injury Management",
+                "type": "NA",
+                "is_academic": false,
+                "is_multiple_enrollment": false,
+                "is_repeatable": false,
+                "course_code_title": "HK 11 - Wellness and Basic Injury Management",
+                "acad_orgs": [
+                    "LBDHK"
+                ],
+                "acad_groups": [
+                    "CAS"
+                ]
+            }
+        },
+        {
+            "id": 13164,
+            "curriculum_id": 180,
+            "course_id": 720,
+            "year": "1",
+            "sem": "2",
+            "description": "NA",
+            "course_type": "REQUIRED",
+            "sub_type": "NA",
+            "group_id": null,
+            "created_at": "2024-07-14T17:32:38.000000Z",
+            "updated_at": "2024-07-14T17:32:38.000000Z",
+            "units": null,
+            "course": {
+                "course_code": "ARTS 1",
+                "course_id": 720,
+                "title": "(GE). Critical Perspectives in the Arts",
+                "type": "NA",
+                "is_academic": true,
+                "is_multiple_enrollment": false,
+                "is_repeatable": false,
+                "course_code_title": "ARTS 1 - (GE). Critical Perspectives in the Arts",
+                "acad_orgs": [
+                    "LBDHUM"
+                ],
+                "acad_groups": [
+                    "CAS"
+                ]
+            }
+        },
+        {
+            "id": 13165,
+            "curriculum_id": 180,
+            "course_id": 624,
+            "year": "1",
+            "sem": "2",
+            "description": "NA",
+            "course_type": "REQUIRED",
+            "sub_type": "NA",
+            "group_id": null,
+            "created_at": "2024-07-14T17:32:38.000000Z",
+            "updated_at": "2024-07-14T17:32:38.000000Z",
+            "units": null,
+            "course": {
+                "course_code": "MATH 28",
+                "course_id": 624,
+                "title": "Analytic Geometry and Calculus III",
+                "type": "NA",
+                "is_academic": true,
+                "is_multiple_enrollment": false,
+                "is_repeatable": false,
+                "course_code_title": "MATH 28 - Analytic Geometry and Calculus III",
+                "acad_orgs": [
+                    "LBIMS"
+                ],
+                "acad_groups": [
+                    "CAS"
+                ]
+            },
+            "prerequisites": "MATH 27"
+        },
+        {
+            "id": 13166,
+            "curriculum_id": 180,
+            "course_id": 497,
+            "year": "1",
+            "sem": "2",
+            "description": "NA",
+            "course_type": "REQUIRED",
+            "sub_type": "NA",
+            "group_id": null,
+            "created_at": "2024-07-14T17:32:38.000000Z",
+            "updated_at": "2024-07-14T17:32:38.000000Z",
+            "units": null,
+            "course": {
+                "course_code": "CHEM 40",
+                "course_id": 497,
+                "title": "Basic Organic Chemistry",
+                "type": "NA",
+                "is_academic": true,
+                "is_multiple_enrollment": false,
+                "is_repeatable": false,
+                "course_code_title": "CHEM 40 - Basic Organic Chemistry",
+                "acad_orgs": [
+                    "LBIC"
+                ],
+                "acad_groups": [
+                    "CAS"
+                ]
+            },
+            "prerequisites": "BIO 101"
+        },
+        {
+            "id": 13167,
+            "curriculum_id": 180,
+            "course_id": 498,
+            "year": "1",
+            "sem": "2",
+            "description": "NA",
+            "course_type": "REQUIRED",
+            "sub_type": "NA",
+            "group_id": null,
+            "created_at": "2024-07-14T17:32:38.000000Z",
+            "updated_at": "2024-07-14T17:32:38.000000Z",
+            "units": null,
+            "course": {
+                "course_code": "CHEM 40.1",
+                "course_id": 498,
+                "title": "Basic Organic Chemistry Laboratory",
+                "type": "NA",
+                "is_academic": true,
+                "is_multiple_enrollment": false,
+                "is_repeatable": false,
+                "course_code_title": "CHEM 40.1 - Basic Organic Chemistry Laboratory",
+                "acad_orgs": [
+                    "LBIC"
+                ],
+                "acad_groups": [
+                    "CAS"
+                ]
+            }
+        },
+        {
+            "id": 13168,
+            "curriculum_id": 180,
+            "course_id": 1083,
+            "year": "1",
+            "sem": "2",
+            "description": "NA",
+            "course_type": "REQUIRED",
+            "sub_type": "NA",
+            "group_id": null,
+            "created_at": "2024-07-14T17:32:38.000000Z",
+            "updated_at": "2024-07-14T17:32:38.000000Z",
+            "units": null,
+            "course": {
+                "course_code": "ENSC 10.1",
+                "course_id": 1083,
+                "title": "Engineering Graphics Laboratory",
+                "type": "NA",
+                "is_academic": true,
+                "is_multiple_enrollment": false,
+                "is_repeatable": false,
+                "course_code_title": "ENSC 10.1 - Engineering Graphics Laboratory",
+                "acad_orgs": [
+                    "LBDENSC"
+                ],
+                "acad_groups": [
+                    "CEAT"
+                ]
+            }
+        },
+        {
+            "id": 13169,
+            "curriculum_id": 180,
+            "course_id": 1084,
+            "year": "1",
+            "sem": "2",
+            "description": "NA",
+            "course_type": "REQUIRED",
+            "sub_type": "NA",
+            "group_id": null,
+            "created_at": "2024-07-14T17:32:38.000000Z",
+            "updated_at": "2024-07-14T17:32:38.000000Z",
+            "units": null,
+            "course": {
+                "course_code": "ENSC 11",
+                "course_id": 1084,
+                "title": "Statics of Rigid Bodies",
+                "type": "NA",
+                "is_academic": true,
+                "is_multiple_enrollment": false,
+                "is_repeatable": false,
+                "course_code_title": "ENSC 11 - Statics of Rigid Bodies",
+                "acad_orgs": [
+                    "LBDENSC"
+                ],
+                "acad_groups": [
+                    "CEAT"
+                ]
+            },
+            "prerequisites": "MATH 27 or MATH 37 and PHYS 3 or\nPHYS 81"
+        },
+        {
+            "id": 13170,
+            "curriculum_id": 180,
+            "course_id": 996,
+            "year": "1",
+            "sem": "2",
+            "description": "NA",
+            "course_type": "REQUIRED",
+            "sub_type": "NA",
+            "group_id": null,
+            "created_at": "2024-07-14T17:32:38.000000Z",
+            "updated_at": "2024-07-14T17:32:38.000000Z",
+            "units": null,
+            "course": {
+                "course_code": "EE 1",
+                "course_id": 996,
+                "title": "Basic Electrical Engineering",
+                "type": "NA",
+                "is_academic": true,
+                "is_multiple_enrollment": false,
+                "is_repeatable": false,
+                "course_code_title": "EE 1 - Basic Electrical Engineering",
+                "acad_orgs": [
+                    "LBDEE"
+                ],
+                "acad_groups": [
+                    "CEAT"
+                ]
+            }
+        },
+        {
+            "id": 13171,
+            "curriculum_id": 180,
+            "course_id": 3404,
+            "year": "1",
+            "sem": "2",
+            "description": "NA",
+            "course_type": "REQUIRED",
+            "sub_type": "NA",
+            "group_id": null,
+            "created_at": "2024-07-14T17:32:38.000000Z",
+            "updated_at": "2024-07-14T17:32:38.000000Z",
+            "units": null,
+            "course": {
+                "course_code": "MatE 21",
+                "course_id": 3404,
+                "title": "Structure-Property Relationship of Materials I",
+                "type": "LEC",
+                "is_academic": true,
+                "is_multiple_enrollment": false,
+                "is_repeatable": false,
+                "course_code_title": "MatE 21 - Structure-Property Relationship of Materials I",
+                "acad_orgs": [
+                    "LBDENSC"
+                ],
+                "acad_groups": [
+                    "CEAT"
+                ]
+            }
+        },
+        {
+            "id": 13172,
+            "curriculum_id": 180,
+            "course_id": 814,
+            "year": "1",
+            "sem": "2",
+            "description": "NA",
+            "course_type": "REQUIRED",
+            "sub_type": "NA",
+            "group_id": null,
+            "created_at": "2024-07-14T17:32:38.000000Z",
+            "updated_at": "2024-07-14T17:32:38.000000Z",
+            "units": 2,
+            "course": {
+                "course_code": "HK 12",
+                "course_id": 814,
+                "title": "Human Kinetics Activities",
+                "type": "NA",
+                "is_academic": false,
+                "is_multiple_enrollment": true,
+                "is_repeatable": true,
+                "course_code_title": "HK 12 - Human Kinetics Activities",
+                "acad_orgs": [
+                    "LBDHK"
+                ],
+                "acad_groups": [
+                    "CAS"
+                ]
+            }
+        },
+        {
+            "id": 13173,
+            "curriculum_id": 180,
+            "course_id": 664,
+            "year": "2",
+            "sem": "1",
+            "description": "NA",
+            "course_type": "REQUIRED",
+            "sub_type": "NA",
+            "group_id": null,
+            "created_at": "2024-07-14T17:32:38.000000Z",
+            "updated_at": "2024-07-14T17:32:38.000000Z",
+            "units": null,
+            "course": {
+                "course_code": "PHYS 72",
+                "course_id": 664,
+                "title": "University Physics II",
+                "type": "NA",
+                "is_academic": true,
+                "is_multiple_enrollment": false,
+                "is_repeatable": false,
+                "course_code_title": "PHYS 72 - University Physics II",
+                "acad_orgs": [
+                    "LBIoP"
+                ],
+                "acad_groups": [
+                    "CAS"
+                ]
+            }
+        },
+        {
+            "id": 13174,
+            "curriculum_id": 180,
+            "course_id": 665,
+            "year": "2",
+            "sem": "1",
+            "description": "NA",
+            "course_type": "REQUIRED",
+            "sub_type": "NA",
+            "group_id": null,
+            "created_at": "2024-07-14T17:32:38.000000Z",
+            "updated_at": "2024-07-14T17:32:38.000000Z",
+            "units": null,
+            "course": {
+                "course_code": "PHYS 72.1",
+                "course_id": 665,
+                "title": "University Physics II Laboratory",
+                "type": "NA",
+                "is_academic": true,
+                "is_multiple_enrollment": false,
+                "is_repeatable": false,
+                "course_code_title": "PHYS 72.1 - University Physics II Laboratory",
+                "acad_orgs": [
+                    "LBIoP"
+                ],
+                "acad_groups": [
+                    "CAS"
+                ]
+            }
+        },
+        {
+            "id": 13175,
+            "curriculum_id": 180,
+            "course_id": 495,
+            "year": "2",
+            "sem": "1",
+            "description": "NA",
+            "course_type": "REQUIRED",
+            "sub_type": "NA",
+            "group_id": null,
+            "created_at": "2024-07-14T17:32:38.000000Z",
+            "updated_at": "2024-07-14T17:32:38.000000Z",
+            "units": null,
+            "course": {
+                "course_code": "CHEM 32",
+                "course_id": 495,
+                "title": "Quantitative Inorganic Analysis",
+                "type": "NA",
+                "is_academic": true,
+                "is_multiple_enrollment": false,
+                "is_repeatable": false,
+                "course_code_title": "CHEM 32 - Quantitative Inorganic Analysis",
+                "acad_orgs": [
+                    "LBIC"
+                ],
+                "acad_groups": [
+                    "CAS"
+                ]
+            }
+        },
+        {
+            "id": 13176,
+            "curriculum_id": 180,
+            "course_id": 496,
+            "year": "2",
+            "sem": "1",
+            "description": "NA",
+            "course_type": "REQUIRED",
+            "sub_type": "NA",
+            "group_id": null,
+            "created_at": "2024-07-14T17:32:38.000000Z",
+            "updated_at": "2024-07-14T17:32:38.000000Z",
+            "units": null,
+            "course": {
+                "course_code": "CHEM 32.1",
+                "course_id": 496,
+                "title": "Quantitative Inorganic Analysis Laboratory",
+                "type": "NA",
+                "is_academic": true,
+                "is_multiple_enrollment": false,
+                "is_repeatable": false,
+                "course_code_title": "CHEM 32.1 - Quantitative Inorganic Analysis Laboratory",
+                "acad_orgs": [
+                    "LBIC"
+                ],
+                "acad_groups": [
+                    "CAS"
+                ]
+            },
+            "prerequisites": "CHEM\n160 or CHEM 161"
+        },
+        {
+            "id": 13177,
+            "curriculum_id": 180,
+            "course_id": 1086,
+            "year": "2",
+            "sem": "1",
+            "description": "NA",
+            "course_type": "REQUIRED",
+            "sub_type": "NA",
+            "group_id": null,
+            "created_at": "2024-07-14T17:32:38.000000Z",
+            "updated_at": "2024-07-14T17:32:38.000000Z",
+            "units": null,
+            "course": {
+                "course_code": "ENSC 13",
+                "course_id": 1086,
+                "title": "Strength of Materials",
+                "type": "NA",
+                "is_academic": true,
+                "is_multiple_enrollment": false,
+                "is_repeatable": false,
+                "course_code_title": "ENSC 13 - Strength of Materials",
+                "acad_orgs": [
+                    "LBDENSC"
+                ],
+                "acad_groups": [
+                    "CEAT"
+                ]
+            },
+            "prerequisites": "ENSC 11"
+        },
+        {
+            "id": 13178,
+            "curriculum_id": 180,
+            "course_id": 1093,
+            "year": "2",
+            "sem": "1",
+            "description": "NA",
+            "course_type": "REQUIRED",
+            "sub_type": "NA",
+            "group_id": null,
+            "created_at": "2024-07-14T17:32:38.000000Z",
+            "updated_at": "2024-07-14T17:32:38.000000Z",
+            "units": null,
+            "course": {
+                "course_code": "ENSC 21",
+                "course_id": 1093,
+                "title": "Mathematical Methods in Engineering",
+                "type": "NA",
+                "is_academic": true,
+                "is_multiple_enrollment": false,
+                "is_repeatable": false,
+                "course_code_title": "ENSC 21 - Mathematical Methods in Engineering",
+                "acad_orgs": [
+                    "LBDENSC"
+                ],
+                "acad_groups": [
+                    "CEAT"
+                ]
+            },
+            "prerequisites": "MATH 28 or MATH 38"
+        },
+        {
+            "id": 13179,
+            "curriculum_id": 180,
+            "course_id": 3391,
+            "year": "2",
+            "sem": "1",
+            "description": "NA",
+            "course_type": "REQUIRED",
+            "sub_type": "NA",
+            "group_id": null,
+            "created_at": "2024-07-14T17:32:38.000000Z",
+            "updated_at": "2024-07-14T17:32:38.000000Z",
+            "units": null,
+            "course": {
+                "course_code": "MatE 101",
+                "course_id": 3391,
+                "title": "Thermodynamics of Materials",
+                "type": "LEC & LAB",
+                "is_academic": true,
+                "is_multiple_enrollment": false,
+                "is_repeatable": false,
+                "course_code_title": "MatE 101 - Thermodynamics of Materials",
+                "acad_orgs": [
+                    "LBDENSC"
+                ],
+                "acad_groups": [
+                    "CEAT"
+                ]
+            }
+        },
+        {
+            "id": 13180,
+            "curriculum_id": 180,
+            "course_id": 3107,
+            "year": "2",
+            "sem": "1",
+            "description": "NA",
+            "course_type": "REQUIRED",
+            "sub_type": "NA",
+            "group_id": null,
+            "created_at": "2024-07-14T17:32:38.000000Z",
+            "updated_at": "2024-07-14T17:32:38.000000Z",
+            "units": 3,
+            "course": {
+                "course_code": "NSTP 1",
+                "course_id": 3107,
+                "title": "National Service Training Program I",
+                "type": "NA",
+                "is_academic": false,
+                "is_multiple_enrollment": true,
+                "is_repeatable": true,
+                "course_code_title": "NSTP 1 - National Service Training Program I",
+                "acad_orgs": [
+                    "LBASI",
+                    "LBDAAE",
+                    "LBDAME",
+                    "LBDBVS",
+                    "LBDCE",
+                    "LBDCERP",
+                    "LBDCHE",
+                    "LBDDBT",
+                    "LBDDJ",
+                    "LBDEC",
+                    "LBDEE",
+                    "LBDENSC",
+                    "LBDFBS",
+                    "LBDFPPS",
+                    "LBDHFDS",
+                    "LBDIE",
+                    "LBDME",
+                    "LBDMST",
+                    "LBDSC",
+                    "LBDSDS",
+                    "LBDSFFG",
+                    "LBDVCS",
+                    "LBDVPS",
+                    "LBIABE",
+                    "LBIAS",
+                    "LBICOPED",
+                    "LBIHNF",
+                    "LBIRNR",
+                    "LBOVCCA"
+                ],
+                "acad_groups": [
+                    "CAFS",
+                    "CAS",
+                    "CEAT",
+                    "CEM",
+                    "CHE",
+                    "CVM"
+                ]
+            }
+        },
+        {
+            "id": 13181,
+            "curriculum_id": 180,
+            "course_id": 745,
+            "year": "2",
+            "sem": "2",
+            "description": "NA",
+            "course_type": "REQUIRED",
+            "sub_type": "NA",
+            "group_id": null,
+            "created_at": "2024-07-14T17:32:38.000000Z",
+            "updated_at": "2024-07-14T17:32:38.000000Z",
+            "units": null,
+            "course": {
+                "course_code": "ETHICS 1",
+                "course_id": 745,
+                "title": "(GE). Ethics and Moral Reasoning in Everyday Life",
+                "type": "NA",
+                "is_academic": true,
+                "is_multiple_enrollment": false,
+                "is_repeatable": false,
+                "course_code_title": "ETHICS 1 - (GE). Ethics and Moral Reasoning in Everyday Life",
+                "acad_orgs": [
+                    "LBDHUM"
+                ],
+                "acad_groups": [
+                    "CAS"
+                ]
+            }
+        },
+        {
+            "id": 13182,
+            "curriculum_id": 180,
+            "course_id": 3388,
+            "year": "2",
+            "sem": "2",
+            "description": "NA",
+            "course_type": "REQUIRED",
+            "sub_type": "NA",
+            "group_id": null,
+            "created_at": "2024-07-14T17:32:38.000000Z",
+            "updated_at": "2024-07-14T17:32:38.000000Z",
+            "units": null,
+            "course": {
+                "course_code": "MatE 22",
+                "course_id": 3388,
+                "title": "Structure-Property Relationship of Materials II",
+                "type": "LEC & LAB",
+                "is_academic": true,
+                "is_multiple_enrollment": false,
+                "is_repeatable": false,
+                "course_code_title": "MatE 22 - Structure-Property Relationship of Materials II",
+                "acad_orgs": [
+                    "LBDENSC"
+                ],
+                "acad_groups": [
+                    "CEAT"
+                ]
+            }
+        },
+        {
+            "id": 13183,
+            "curriculum_id": 180,
+            "course_id": 3389,
+            "year": "2",
+            "sem": "2",
+            "description": "NA",
+            "course_type": "REQUIRED",
+            "sub_type": "NA",
+            "group_id": null,
+            "created_at": "2024-07-14T17:32:38.000000Z",
+            "updated_at": "2024-07-14T17:32:38.000000Z",
+            "units": null,
+            "course": {
+                "course_code": "MatE 23",
+                "course_id": 3389,
+                "title": "Structure-Property Relationship of Materials III",
+                "type": "LEC",
+                "is_academic": true,
+                "is_multiple_enrollment": false,
+                "is_repeatable": false,
+                "course_code_title": "MatE 23 - Structure-Property Relationship of Materials III",
+                "acad_orgs": [
+                    "LBDENSC"
+                ],
+                "acad_groups": [
+                    "CEAT"
+                ]
+            }
+        },
+        {
+            "id": 13184,
+            "curriculum_id": 180,
+            "course_id": 3390,
+            "year": "2",
+            "sem": "2",
+            "description": "NA",
+            "course_type": "REQUIRED",
+            "sub_type": "NA",
+            "group_id": null,
+            "created_at": "2024-07-14T17:32:38.000000Z",
+            "updated_at": "2024-07-14T17:32:38.000000Z",
+            "units": null,
+            "course": {
+                "course_code": "MatE 103",
+                "course_id": 3390,
+                "title": "Rate Processes in Materials Engineering",
+                "type": "LEC & LAB",
+                "is_academic": true,
+                "is_multiple_enrollment": false,
+                "is_repeatable": false,
+                "course_code_title": "MatE 103 - Rate Processes in Materials Engineering",
+                "acad_orgs": [
+                    "LBDENSC"
+                ],
+                "acad_groups": [
+                    "CEAT"
+                ]
+            }
+        },
+        {
+            "id": 13185,
+            "curriculum_id": 180,
+            "course_id": 1085,
+            "year": "2",
+            "sem": "2",
+            "description": "NA",
+            "course_type": "REQUIRED",
+            "sub_type": "NA",
+            "group_id": null,
+            "created_at": "2024-07-14T17:32:38.000000Z",
+            "updated_at": "2024-07-14T17:32:38.000000Z",
+            "units": null,
+            "course": {
+                "course_code": "ENSC 12",
+                "course_id": 1085,
+                "title": "Dynamics of Rigid Bodies",
+                "type": "NA",
+                "is_academic": true,
+                "is_multiple_enrollment": false,
+                "is_repeatable": false,
+                "course_code_title": "ENSC 12 - Dynamics of Rigid Bodies",
+                "acad_orgs": [
+                    "LBDENSC"
+                ],
+                "acad_groups": [
+                    "CEAT"
+                ]
+            },
+            "prerequisites": "ENSC 11"
+        },
+        {
+            "id": 13186,
+            "curriculum_id": 180,
+            "course_id": 997,
+            "year": "2",
+            "sem": "2",
+            "description": "NA",
+            "course_type": "REQUIRED",
+            "sub_type": "NA",
+            "group_id": null,
+            "created_at": "2024-07-14T17:32:38.000000Z",
+            "updated_at": "2024-07-14T17:32:38.000000Z",
+            "units": null,
+            "course": {
+                "course_code": "EE 2",
+                "course_id": 997,
+                "title": "Basic Electronics Engineering",
+                "type": "NA",
+                "is_academic": true,
+                "is_multiple_enrollment": false,
+                "is_repeatable": false,
+                "course_code_title": "EE 2 - Basic Electronics Engineering",
+                "acad_orgs": [
+                    "LBDEE"
+                ],
+                "acad_groups": [
+                    "CEAT"
+                ]
+            }
+        },
+        {
+            "id": 13187,
+            "curriculum_id": 180,
+            "course_id": 2055,
+            "year": "2",
+            "sem": "2",
+            "description": "NA",
+            "course_type": "REQUIRED",
+            "sub_type": "NA",
+            "group_id": null,
+            "created_at": "2024-07-14T17:32:38.000000Z",
+            "updated_at": "2024-07-14T17:32:38.000000Z",
+            "units": 3,
+            "course": {
+                "course_code": "NSTP 2",
+                "course_id": 2055,
+                "title": "National Service Training Program II",
+                "type": "NA",
+                "is_academic": false,
+                "is_multiple_enrollment": true,
+                "is_repeatable": true,
+                "course_code_title": "NSTP 2 - National Service Training Program II",
+                "acad_orgs": [
+                    "LBASI",
+                    "LBDAAE",
+                    "LBDAECO",
+                    "LBDAME",
+                    "LBDBVS",
+                    "LBDCE",
+                    "LBDCERP",
+                    "LBDCHE",
+                    "LBDDBT",
+                    "LBDDJ",
+                    "LBDE",
+                    "LBDEC",
+                    "LBDECO",
+                    "LBDEE",
+                    "LBDENSC",
+                    "LBDFBS",
+                    "LBDFPPS",
+                    "LBDHFDS",
+                    "LBDIE",
+                    "LBDME",
+                    "LBDMST",
+                    "LBDSC",
+                    "LBDSDS",
+                    "LBDSFFG",
+                    "LBDVCS",
+                    "LBDVPS",
+                    "LBIABE",
+                    "LBICOPED",
+                    "LBIHNF",
+                    "LBIRNR",
+                    "LBOVCCA"
+                ],
+                "acad_groups": [
+                    "CAFS",
+                    "CAS",
+                    "CEAT",
+                    "CEM",
+                    "CHE",
+                    "CVM"
+                ]
+            }
+        },
+        {
+            "id": 13188,
+            "curriculum_id": 180,
+            "course_id": 841,
+            "year": "3",
+            "sem": "1",
+            "description": "NA",
+            "course_type": "REQUIRED",
+            "sub_type": "NA",
+            "group_id": null,
+            "created_at": "2024-07-14T17:32:38.000000Z",
+            "updated_at": "2024-07-14T17:32:38.000000Z",
+            "units": null,
+            "course": {
+                "course_code": "STS 1",
+                "course_id": 841,
+                "title": "(GE). Science, Technology, and Society",
+                "type": "NA",
+                "is_academic": true,
+                "is_multiple_enrollment": false,
+                "is_repeatable": false,
+                "course_code_title": "STS 1 - (GE). Science, Technology, and Society",
+                "acad_orgs": [
+                    "LBDSS"
+                ],
+                "acad_groups": [
+                    "CAS"
+                ]
+            }
+        },
+        {
+            "id": 13189,
+            "curriculum_id": 180,
+            "course_id": 1090,
+            "year": "3",
+            "sem": "1",
+            "description": "NA",
+            "course_type": "REQUIRED",
+            "sub_type": "NA",
+            "group_id": null,
+            "created_at": "2024-07-14T17:32:38.000000Z",
+            "updated_at": "2024-07-14T17:32:38.000000Z",
+            "units": null,
+            "course": {
+                "course_code": "ENSC 16",
+                "course_id": 1090,
+                "title": "Fluid Mechanics",
+                "type": "NA",
+                "is_academic": true,
+                "is_multiple_enrollment": false,
+                "is_repeatable": false,
+                "course_code_title": "ENSC 16 - Fluid Mechanics",
+                "acad_orgs": [
+                    "LBDENSC"
+                ],
+                "acad_groups": [
+                    "CEAT"
+                ]
+            },
+            "prerequisites": "ENSC 13 and CHEM 15 or CHEM 17"
+        },
+        {
+            "id": 13190,
+            "curriculum_id": 180,
+            "course_id": 1094,
+            "year": "3",
+            "sem": "1",
+            "description": "NA",
+            "course_type": "REQUIRED",
+            "sub_type": "NA",
+            "group_id": null,
+            "created_at": "2024-07-14T17:32:38.000000Z",
+            "updated_at": "2024-07-14T17:32:38.000000Z",
+            "units": null,
+            "course": {
+                "course_code": "ENSC 26",
+                "course_id": 1094,
+                "title": "Computer Applications in Engineering",
+                "type": "NA",
+                "is_academic": true,
+                "is_multiple_enrollment": false,
+                "is_repeatable": false,
+                "course_code_title": "ENSC 26 - Computer Applications in Engineering",
+                "acad_orgs": [
+                    "LBDENSC"
+                ],
+                "acad_groups": [
+                    "CEAT"
+                ]
+            },
+            "prerequisites": "CMSC 11 or COI and MATH 28 or MATH 38"
+        },
+        {
+            "id": 13191,
+            "curriculum_id": 180,
+            "course_id": 1049,
+            "year": "3",
+            "sem": "1",
+            "description": "NA",
+            "course_type": "REQUIRED",
+            "sub_type": "NA",
+            "group_id": null,
+            "created_at": "2024-07-14T17:32:38.000000Z",
+            "updated_at": "2024-07-14T17:32:38.000000Z",
+            "units": null,
+            "course": {
+                "course_code": "IE 150",
+                "course_id": 1049,
+                "title": "Systems Evaluation",
+                "type": "NA",
+                "is_academic": true,
+                "is_multiple_enrollment": false,
+                "is_repeatable": false,
+                "course_code_title": "IE 150 - Systems Evaluation",
+                "acad_orgs": [
+                    "LBDIE"
+                ],
+                "acad_groups": [
+                    "CEAT"
+                ]
+            }
+        },
+        {
+            "id": 13192,
+            "curriculum_id": 180,
+            "course_id": 702,
+            "year": "3",
+            "sem": "1",
+            "description": "NA",
+            "course_type": "REQUIRED",
+            "sub_type": "NA",
+            "group_id": null,
+            "created_at": "2024-07-14T17:32:38.000000Z",
+            "updated_at": "2024-07-14T17:32:38.000000Z",
+            "units": null,
+            "course": {
+                "course_code": "STAT 162",
+                "course_id": 702,
+                "title": "Experimental Designs",
+                "type": "NA",
+                "is_academic": true,
+                "is_multiple_enrollment": false,
+                "is_repeatable": false,
+                "course_code_title": "STAT 162 - Experimental Designs",
+                "acad_orgs": [
+                    "LBINSTAT"
+                ],
+                "acad_groups": [
+                    "CAS"
+                ]
+            },
+            "prerequisites": "STAT 1 or\nCOI"
+        },
+        {
+            "id": 13193,
+            "curriculum_id": 180,
+            "course_id": 3392,
+            "year": "3",
+            "sem": "1",
+            "description": "NA",
+            "course_type": "REQUIRED",
+            "sub_type": "NA",
+            "group_id": null,
+            "created_at": "2024-07-14T17:32:38.000000Z",
+            "updated_at": "2024-07-14T17:32:38.000000Z",
+            "units": null,
+            "course": {
+                "course_code": "MatE 105",
+                "course_id": 3392,
+                "title": "Materials Analysis and Testing",
+                "type": "LEC & LAB",
+                "is_academic": true,
+                "is_multiple_enrollment": false,
+                "is_repeatable": false,
+                "course_code_title": "MatE 105 - Materials Analysis and Testing",
+                "acad_orgs": [
+                    "LBDENSC"
+                ],
+                "acad_groups": [
+                    "CEAT"
+                ]
+            }
+        },
+        {
+            "id": 13194,
+            "curriculum_id": 180,
+            "course_id": 814,
+            "year": "3",
+            "sem": "1",
+            "description": "NA",
+            "course_type": "REQUIRED",
+            "sub_type": "NA",
+            "group_id": null,
+            "created_at": "2024-07-14T17:32:38.000000Z",
+            "updated_at": "2024-07-14T17:32:38.000000Z",
+            "units": 2,
+            "course": {
+                "course_code": "HK 12",
+                "course_id": 814,
+                "title": "Human Kinetics Activities",
+                "type": "NA",
+                "is_academic": false,
+                "is_multiple_enrollment": true,
+                "is_repeatable": true,
+                "course_code_title": "HK 12 - Human Kinetics Activities",
+                "acad_orgs": [
+                    "LBDHK"
+                ],
+                "acad_groups": [
+                    "CAS"
+                ]
+            }
+        },
+        {
+            "id": 13195,
+            "curriculum_id": 180,
+            "course_id": 1055,
+            "year": "3",
+            "sem": "2",
+            "description": "NA",
+            "course_type": "REQUIRED",
+            "sub_type": "NA",
+            "group_id": null,
+            "created_at": "2024-07-14T17:32:38.000000Z",
+            "updated_at": "2024-07-14T17:32:38.000000Z",
+            "units": null,
+            "course": {
+                "course_code": "IE 184",
+                "course_id": 1055,
+                "title": "Project Development and Management",
+                "type": "NA",
+                "is_academic": true,
+                "is_multiple_enrollment": false,
+                "is_repeatable": false,
+                "course_code_title": "IE 184 - Project Development and Management",
+                "acad_orgs": [
+                    "LBDIE"
+                ],
+                "acad_groups": [
+                    "CEAT"
+                ]
+            },
+            "prerequisites": "5th year\nstanding"
+        },
+        {
+            "id": 13196,
+            "curriculum_id": 180,
+            "course_id": 3393,
+            "year": "3",
+            "sem": "2",
+            "description": "NA",
+            "course_type": "REQUIRED",
+            "sub_type": "NA",
+            "group_id": null,
+            "created_at": "2024-07-14T17:32:38.000000Z",
+            "updated_at": "2024-07-14T17:32:38.000000Z",
+            "units": null,
+            "course": {
+                "course_code": "MatE 165",
+                "course_id": 3393,
+                "title": "Materials Synthesis and Processing",
+                "type": "LEC",
+                "is_academic": true,
+                "is_multiple_enrollment": false,
+                "is_repeatable": false,
+                "course_code_title": "MatE 165 - Materials Synthesis and Processing",
+                "acad_orgs": [
+                    "LBDENSC"
+                ],
+                "acad_groups": [
+                    "CEAT"
+                ]
+            }
+        },
+        {
+            "id": 13197,
+            "curriculum_id": 180,
+            "course_id": 3394,
+            "year": "3",
+            "sem": "2",
+            "description": "NA",
+            "course_type": "REQUIRED",
+            "sub_type": "NA",
+            "group_id": null,
+            "created_at": "2024-07-14T17:32:38.000000Z",
+            "updated_at": "2024-07-14T17:32:38.000000Z",
+            "units": null,
+            "course": {
+                "course_code": "MatE 165.1",
+                "course_id": 3394,
+                "title": "Materials Synthesis and Processing Laboratory",
+                "type": "LAB",
+                "is_academic": true,
+                "is_multiple_enrollment": false,
+                "is_repeatable": false,
+                "course_code_title": "MatE 165.1 - Materials Synthesis and Processing Laboratory",
+                "acad_orgs": [
+                    "LBDENSC"
+                ],
+                "acad_groups": [
+                    "CEAT"
+                ]
+            }
+        },
+        {
+            "id": 13198,
+            "curriculum_id": 180,
+            "course_id": 3395,
+            "year": "3",
+            "sem": "2",
+            "description": "NA",
+            "course_type": "REQUIRED",
+            "sub_type": "NA",
+            "group_id": null,
+            "created_at": "2024-07-14T17:32:38.000000Z",
+            "updated_at": "2024-07-14T17:32:38.000000Z",
+            "units": null,
+            "course": {
+                "course_code": "MatE 175",
+                "course_id": 3395,
+                "title": "Materials Fabrication",
+                "type": "LEC",
+                "is_academic": true,
+                "is_multiple_enrollment": false,
+                "is_repeatable": false,
+                "course_code_title": "MatE 175 - Materials Fabrication",
+                "acad_orgs": [
+                    "LBDENSC"
+                ],
+                "acad_groups": [
+                    "CEAT"
+                ]
+            }
+        },
+        {
+            "id": 13199,
+            "curriculum_id": 180,
+            "course_id": 3396,
+            "year": "3",
+            "sem": "2",
+            "description": "NA",
+            "course_type": "REQUIRED",
+            "sub_type": "NA",
+            "group_id": null,
+            "created_at": "2024-07-14T17:32:38.000000Z",
+            "updated_at": "2024-07-14T17:32:38.000000Z",
+            "units": null,
+            "course": {
+                "course_code": "MatE 175.1",
+                "course_id": 3396,
+                "title": "Materials Fabrication Laboratory",
+                "type": "LAB",
+                "is_academic": true,
+                "is_multiple_enrollment": false,
+                "is_repeatable": false,
+                "course_code_title": "MatE 175.1 - Materials Fabrication Laboratory",
+                "acad_orgs": [
+                    "LBDENSC"
+                ],
+                "acad_groups": [
+                    "CEAT"
+                ]
+            }
+        },
+        {
+            "id": 13200,
+            "curriculum_id": 180,
+            "course_id": 3397,
+            "year": "3",
+            "sem": "2",
+            "description": "NA",
+            "course_type": "REQUIRED",
+            "sub_type": "NA",
+            "group_id": null,
+            "created_at": "2024-07-14T17:32:38.000000Z",
+            "updated_at": "2024-07-14T17:32:38.000000Z",
+            "units": null,
+            "course": {
+                "course_code": "MatE 199",
+                "course_id": 3397,
+                "title": "Undergraduate Seminar",
+                "type": "SEM",
+                "is_academic": true,
+                "is_multiple_enrollment": false,
+                "is_repeatable": false,
+                "course_code_title": "MatE 199 - Undergraduate Seminar",
+                "acad_orgs": [
+                    "LBDENSC"
+                ],
+                "acad_groups": [
+                    "CEAT"
+                ]
+            }
+        },
+        {
+            "id": 13201,
+            "curriculum_id": 180,
+            "course_id": 814,
+            "year": "3",
+            "sem": "2",
+            "description": "NA",
+            "course_type": "REQUIRED",
+            "sub_type": "NA",
+            "group_id": 1,
+            "created_at": "2024-07-14T17:32:38.000000Z",
+            "updated_at": "2024-07-14T17:32:38.000000Z",
+            "units": 2,
+            "course": {
+                "course_code": "HK 12",
+                "course_id": 814,
+                "title": "Human Kinetics Activities",
+                "type": "NA",
+                "is_academic": false,
+                "is_multiple_enrollment": true,
+                "is_repeatable": true,
+                "course_code_title": "HK 12 - Human Kinetics Activities",
+                "acad_orgs": [
+                    "LBDHK"
+                ],
+                "acad_groups": [
+                    "CAS"
+                ]
+            }
+        },
+        {
+            "id": 13202,
+            "curriculum_id": 180,
+            "course_id": 815,
+            "year": "3",
+            "sem": "2",
+            "description": "NA",
+            "course_type": "REQUIRED",
+            "sub_type": "NA",
+            "group_id": 1,
+            "created_at": "2024-07-14T17:32:38.000000Z",
+            "updated_at": "2024-07-14T17:32:38.000000Z",
+            "units": 2,
+            "course": {
+                "course_code": "HK 13",
+                "course_id": 815,
+                "title": "Advanced Human Kinetics Activities",
+                "type": "NA",
+                "is_academic": false,
+                "is_multiple_enrollment": false,
+                "is_repeatable": false,
+                "course_code_title": "HK 13 - Advanced Human Kinetics Activities",
+                "acad_orgs": [],
+                "acad_groups": []
+            }
+        },
+        {
+            "id": 13203,
+            "curriculum_id": 180,
+            "course_id": 3398,
+            "year": "3",
+            "sem": "3",
+            "description": "NA",
+            "course_type": "REQUIRED",
+            "sub_type": "NA",
+            "group_id": null,
+            "created_at": "2024-07-14T17:32:38.000000Z",
+            "updated_at": "2024-07-14T17:32:38.000000Z",
+            "units": null,
+            "course": {
+                "course_code": "MatE 198",
+                "course_id": 3398,
+                "title": "Internship",
+                "type": null,
+                "is_academic": true,
+                "is_multiple_enrollment": false,
+                "is_repeatable": false,
+                "course_code_title": "MatE 198 - Internship",
+                "acad_orgs": [
+                    "LBDENSC"
+                ],
+                "acad_groups": [
+                    "CEAT"
+                ]
+            }
+        },
+        {
+            "id": 13204,
+            "curriculum_id": 180,
+            "course_id": 733,
+            "year": "4",
+            "sem": "1",
+            "description": "NA",
+            "course_type": "REQUIRED",
+            "sub_type": "NA",
+            "group_id": null,
+            "created_at": "2024-07-14T17:32:38.000000Z",
+            "updated_at": "2024-07-14T17:32:38.000000Z",
+            "units": null,
+            "course": {
+                "course_code": "ENG 10",
+                "course_id": 733,
+                "title": "Writing of Scientific Papers",
+                "type": "NA",
+                "is_academic": true,
+                "is_multiple_enrollment": false,
+                "is_repeatable": false,
+                "course_code_title": "ENG 10 - Writing of Scientific Papers",
+                "acad_orgs": [
+                    "LBDHUM"
+                ],
+                "acad_groups": [
+                    "CAS"
+                ]
+            },
+            "prerequisites": "ENG 2 (AH) and at least\nJunior standing"
+        },
+        {
+            "id": 13205,
+            "curriculum_id": 180,
+            "course_id": 3399,
+            "year": "4",
+            "sem": "1",
+            "description": "NA",
+            "course_type": "REQUIRED",
+            "sub_type": "NA",
+            "group_id": null,
+            "created_at": "2024-07-14T17:32:38.000000Z",
+            "updated_at": "2024-07-14T17:32:38.000000Z",
+            "units": null,
+            "course": {
+                "course_code": "MatE 171",
+                "course_id": 3399,
+                "title": "Degradation of Materials",
+                "type": "LEC",
+                "is_academic": true,
+                "is_multiple_enrollment": false,
+                "is_repeatable": false,
+                "course_code_title": "MatE 171 - Degradation of Materials",
+                "acad_orgs": [
+                    "LBDENSC"
+                ],
+                "acad_groups": [
+                    "CEAT"
+                ]
+            }
+        },
+        {
+            "id": 13206,
+            "curriculum_id": 180,
+            "course_id": 3400,
+            "year": "4",
+            "sem": "1",
+            "description": "NA",
+            "course_type": "REQUIRED",
+            "sub_type": "NA",
+            "group_id": null,
+            "created_at": "2024-07-14T17:32:38.000000Z",
+            "updated_at": "2024-07-14T17:32:38.000000Z",
+            "units": null,
+            "course": {
+                "course_code": "MatE 194",
+                "course_id": 3400,
+                "title": "Materials Selection and Design",
+                "type": "LEC & LAB",
+                "is_academic": true,
+                "is_multiple_enrollment": false,
+                "is_repeatable": false,
+                "course_code_title": "MatE 194 - Materials Selection and Design",
+                "acad_orgs": [
+                    "LBDENSC"
+                ],
+                "acad_groups": [
+                    "CEAT"
+                ]
+            }
+        },
+        {
+            "id": 13207,
+            "curriculum_id": 180,
+            "course_id": 3401,
+            "year": "4",
+            "sem": "1",
+            "description": "NA",
+            "course_type": "REQUIRED",
+            "sub_type": "NA",
+            "group_id": null,
+            "created_at": "2024-07-14T17:32:38.000000Z",
+            "updated_at": "2024-07-14T17:32:38.000000Z",
+            "units": null,
+            "course": {
+                "course_code": "MatE 200",
+                "course_id": 3401,
+                "title": "Undergraduate Thesis",
+                "type": "THE",
+                "is_academic": true,
+                "is_multiple_enrollment": false,
+                "is_repeatable": false,
+                "course_code_title": "MatE 200 - Undergraduate Thesis",
+                "acad_orgs": [
+                    "LBDENSC"
+                ],
+                "acad_groups": [
+                    "CEAT"
+                ]
+            }
+        },
+        {
+            "id": 13208,
+            "curriculum_id": 180,
+            "course_id": 828,
+            "year": "4",
+            "sem": "2",
+            "description": "NA",
+            "course_type": "REQUIRED",
+            "sub_type": "NA",
+            "group_id": null,
+            "created_at": "2024-07-14T17:32:38.000000Z",
+            "updated_at": "2024-07-14T17:32:38.000000Z",
+            "units": null,
+            "course": {
+                "course_code": "PI 10",
+                "course_id": 828,
+                "title": "(GE). The Life and Works of Rizal",
+                "type": "NA",
+                "is_academic": true,
+                "is_multiple_enrollment": false,
+                "is_repeatable": false,
+                "course_code_title": "PI 10 - (GE). The Life and Works of Rizal",
+                "acad_orgs": [
+                    "LBDSS"
+                ],
+                "acad_groups": [
+                    "CAS"
+                ]
+            }
+        },
+        {
+            "id": 13209,
+            "curriculum_id": 180,
+            "course_id": 3405,
+            "year": "4",
+            "sem": "2",
+            "description": "NA",
+            "course_type": "REQUIRED",
+            "sub_type": "NA",
+            "group_id": null,
+            "created_at": "2024-07-14T17:32:38.000000Z",
+            "updated_at": "2024-07-14T17:32:38.000000Z",
+            "units": null,
+            "course": {
+                "course_code": "MatE 90",
+                "course_id": 3405,
+                "title": "Laws and Ethics for Materials Engineers",
+                "type": "LEC",
+                "is_academic": true,
+                "is_multiple_enrollment": false,
+                "is_repeatable": false,
+                "course_code_title": "MatE 90 - Laws and Ethics for Materials Engineers",
+                "acad_orgs": [
+                    "LBDENSC"
+                ],
+                "acad_groups": [
+                    "CEAT"
+                ]
+            }
+        },
+        {
+            "id": 13210,
+            "curriculum_id": 180,
+            "course_id": 3402,
+            "year": "4",
+            "sem": "2",
+            "description": "NA",
+            "course_type": "REQUIRED",
+            "sub_type": "NA",
+            "group_id": null,
+            "created_at": "2024-07-14T17:32:38.000000Z",
+            "updated_at": "2024-07-14T17:32:38.000000Z",
+            "units": null,
+            "course": {
+                "course_code": "MatE 173",
+                "course_id": 3402,
+                "title": "Forensic Engineering in Materials",
+                "type": "LEC",
+                "is_academic": true,
+                "is_multiple_enrollment": false,
+                "is_repeatable": false,
+                "course_code_title": "MatE 173 - Forensic Engineering in Materials",
+                "acad_orgs": [
+                    "LBDENSC"
+                ],
+                "acad_groups": [
+                    "CEAT"
+                ]
+            }
+        },
+        {
+            "id": 13211,
+            "curriculum_id": 180,
+            "course_id": 3401,
+            "year": "4",
+            "sem": "2",
+            "description": "NA",
+            "course_type": "REQUIRED",
+            "sub_type": "NA",
+            "group_id": null,
+            "created_at": "2024-07-14T17:32:38.000000Z",
+            "updated_at": "2024-07-14T17:32:38.000000Z",
+            "units": null,
+            "course": {
+                "course_code": "MatE 200",
+                "course_id": 3401,
+                "title": "Undergraduate Thesis",
+                "type": "THE",
+                "is_academic": true,
+                "is_multiple_enrollment": false,
+                "is_repeatable": false,
+                "course_code_title": "MatE 200 - Undergraduate Thesis",
+                "acad_orgs": [
+                    "LBDENSC"
+                ],
+                "acad_groups": [
+                    "CEAT"
+                ]
+            }
+        },
+        {
+            "id": 13212,
+            "curriculum_id": 180,
+            "course_id": 721,
+            "year": "1",
+            "sem": "1",
+            "description": "NA",
+            "course_type": "REQUIRED",
+            "sub_type": "NA",
+            "group_id": null,
+            "created_at": "2024-07-14T19:04:08.000000Z",
+            "updated_at": "2024-07-14T19:04:08.000000Z",
+            "units": null,
+            "course": {
+                "course_code": "COMM 10",
+                "course_id": 721,
+                "title": "(GE). Critical Perspectives in Communication",
+                "type": "NA",
+                "is_academic": true,
+                "is_multiple_enrollment": false,
+                "is_repeatable": false,
+                "course_code_title": "COMM 10 - (GE). Critical Perspectives in Communication",
+                "acad_orgs": [
+                    "LBDHUM"
+                ],
+                "acad_groups": [
+                    "CDC"
+                ]
+            }
+        },
+        {
+            "id": 9999,
+            "curriculum_id": 180,
+            "course_id": 999,
+            "year": "0",
+            "sem": "0",
+            "course_type": "GE ELECTIVE",
+            "sub_type": "--",
+            "course": {
+                "course_code": "PHLO 1",
+                "course_id": 999,
+                "title": "(GE). Philosophical Analysis",
+                "type": "GE ELECTIVE",
+                "is_academic": true,
+                "course_code_title": "PHLO 1 - (GE). Philosophical Analysis",
+                "acad_orgs": [
+                    "LBDHUM"
+                ],
+                "acad_groups": [
+                    "CAS"
+                ]
+            }
+        }
+    ],
+    "curriculum_structures": [
+        {
+            "curriculum_id": 180,
+            "year": "1",
+            "sem": "1",
+            "major_units": 0,
+            "ge_elective_units": 0,
+            "required_units": 0,
+            "elective_units": 0,
+            "cognate_units": 0,
+            "specialized_units": 0,
+            "track_units": 0,
+            "total_units": 0,
+            "major_count": 0,
+            "ge_elective_count": 0,
+            "required_count": 9,
+            "elective_count": 0,
+            "cognate_count": 0,
+            "specialized_count": 0,
+            "track_count": 0,
+            "total_count": 9,
+            "created_at": null,
+            "updated_at": null
+        },
+        {
+            "curriculum_id": 180,
+            "year": "1",
+            "sem": "2",
+            "major_units": 0,
+            "ge_elective_units": 0,
+            "required_units": 0,
+            "elective_units": 0,
+            "cognate_units": 0,
+            "specialized_units": 0,
+            "track_units": 0,
+            "total_units": 0,
+            "major_count": 0,
+            "ge_elective_count": 0,
+            "required_count": 9,
+            "elective_count": 0,
+            "cognate_count": 0,
+            "specialized_count": 0,
+            "track_count": 0,
+            "total_count": 9,
+            "created_at": null,
+            "updated_at": null
+        },
+        {
+            "curriculum_id": 180,
+            "year": "2",
+            "sem": "1",
+            "major_units": 0,
+            "ge_elective_units": 0,
+            "required_units": 0,
+            "elective_units": 0,
+            "cognate_units": 0,
+            "specialized_units": 0,
+            "track_units": 0,
+            "total_units": 0,
+            "major_count": 0,
+            "ge_elective_count": 0,
+            "required_count": 8,
+            "elective_count": 0,
+            "cognate_count": 0,
+            "specialized_count": 0,
+            "track_count": 0,
+            "total_count": 8,
+            "created_at": null,
+            "updated_at": null
+        },
+        {
+            "curriculum_id": 180,
+            "year": "2",
+            "sem": "2",
+            "major_units": 0,
+            "ge_elective_units": 0,
+            "required_units": 0,
+            "elective_units": 0,
+            "cognate_units": 0,
+            "specialized_units": 0,
+            "track_units": 0,
+            "total_units": 0,
+            "major_count": 0,
+            "ge_elective_count": 0,
+            "required_count": 7,
+            "elective_count": 0,
+            "cognate_count": 0,
+            "specialized_count": 0,
+            "track_count": 0,
+            "total_count": 7,
+            "created_at": null,
+            "updated_at": null
+        },
+        {
+            "curriculum_id": 180,
+            "year": "3",
+            "sem": "1",
+            "major_units": 0,
+            "ge_elective_units": 0,
+            "required_units": 0,
+            "elective_units": 0,
+            "cognate_units": 0,
+            "specialized_units": 0,
+            "track_units": 0,
+            "total_units": 0,
+            "major_count": 0,
+            "ge_elective_count": 0,
+            "required_count": 7,
+            "elective_count": 0,
+            "cognate_count": 0,
+            "specialized_count": 0,
+            "track_count": 0,
+            "total_count": 7,
+            "created_at": null,
+            "updated_at": null
+        },
+        {
+            "curriculum_id": 180,
+            "year": "3",
+            "sem": "2",
+            "major_units": 0,
+            "ge_elective_units": 0,
+            "required_units": 0,
+            "elective_units": 0,
+            "cognate_units": 0,
+            "specialized_units": 0,
+            "track_units": 0,
+            "total_units": 0,
+            "major_count": 0,
+            "ge_elective_count": 1,
+            "required_count": 7,
+            "elective_count": 0,
+            "cognate_count": 0,
+            "specialized_count": 0,
+            "track_count": 0,
+            "total_count": 8,
+            "created_at": null,
+            "updated_at": null
+        },
+        {
+            "curriculum_id": 180,
+            "year": "3",
+            "sem": "3",
+            "major_units": 0,
+            "ge_elective_units": 0,
+            "required_units": 0,
+            "elective_units": 0,
+            "cognate_units": 0,
+            "specialized_units": 0,
+            "track_units": 0,
+            "total_units": 0,
+            "major_count": 0,
+            "ge_elective_count": 0,
+            "required_count": 1,
+            "elective_count": 0,
+            "cognate_count": 0,
+            "specialized_count": 0,
+            "track_count": 0,
+            "total_count": 1,
+            "created_at": null,
+            "updated_at": null
+        },
+        {
+            "curriculum_id": 180,
+            "year": "4",
+            "sem": "1",
+            "major_units": 0,
+            "ge_elective_units": 0,
+            "required_units": 0,
+            "elective_units": 0,
+            "cognate_units": 0,
+            "specialized_units": 0,
+            "track_units": 0,
+            "total_units": 0,
+            "major_count": 0,
+            "ge_elective_count": 1,
+            "required_count": 5,
+            "elective_count": 0,
+            "cognate_count": 0,
+            "specialized_count": 0,
+            "track_count": 0,
+            "total_count": 6,
+            "created_at": null,
+            "updated_at": null
+        },
+        {
+            "curriculum_id": 180,
+            "year": "4",
+            "sem": "2",
+            "major_units": 0,
+            "ge_elective_units": 0,
+            "required_units": 0,
+            "elective_units": 0,
+            "cognate_units": 0,
+            "specialized_units": 0,
+            "track_units": 0,
+            "total_units": 0,
+            "major_count": 0,
+            "ge_elective_count": 1,
+            "required_count": 5,
+            "elective_count": 0,
+            "cognate_count": 0,
+            "specialized_count": 0,
+            "track_count": 0,
+            "total_count": 6,
+            "created_at": null,
+            "updated_at": null
+        }
+    ],
+    "curriculum_courses_list": [],
+    "curriculum_components": [],
+    "number_of_required_mentors": []
+}

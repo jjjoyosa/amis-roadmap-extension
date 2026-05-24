@@ -1,0 +1,2413 @@
+{
+    "curriculum_id": 68,
+    "code": "BSMATH_2018_THESIS",
+    "program_id": 12,
+    "name": "BSMATH 2018 Thesis",
+    "type": null,
+    "status": "ACTIVE",
+    "acad_org": null,
+    "acad_group": null,
+    "created_at": null,
+    "updated_at": null,
+    "is_visible": "true",
+    "course_work_guide": null,
+    "approved_by": null,
+    "date_approved": null,
+    "program": {
+        "program_id": 12,
+        "acronym": "BSMATH",
+        "title": "Bachelor of Science in Mathematics",
+        "career": "UGRD",
+        "college": "CAS",
+        "description": "The BS Mathematics program is a four-year course that seeks to develop and enhance students\u00e2\u20ac\u2122 mathematical skills necessary in pursuing careers in the academe, research institutions, and areas of work requiring analytical and critical thinking. It covers the breadth and depth of mathematics, from classical to contemporary, from the theoretical to applied. Major and elective courses cover advanced topics in algebra, analysis, geometry, and combinatorics. Students of the program may pursue specialized research in the areas of graph theory, coding theory and cryptography, and partial differential equations. Graduates of the BS Mathematics program may pursue careers in business, economics, and banking that require strong analytical and problem-solving skills. They are also prepared for mathematics teaching in the university, graduate studies, and research.",
+        "degree_id": 1,
+        "created_at": null,
+        "updated_at": null,
+        "max_units": 21,
+        "is_visible": "YES",
+        "term_type_offer": "Semestral",
+        "acad_org": null
+    },
+    "curriculum_courses": [
+        {
+            "id": 5525,
+            "curriculum_id": 68,
+            "course_id": 720,
+            "year": "1",
+            "sem": "2",
+            "description": "",
+            "course_type": "REQUIRED",
+            "sub_type": "--",
+            "group_id": null,
+            "created_at": null,
+            "updated_at": null,
+            "units": null,
+            "course": {
+                "course_code": "ARTS 1",
+                "course_id": 720,
+                "title": "(GE). Critical Perspectives in the Arts",
+                "type": "NA",
+                "is_academic": true,
+                "is_multiple_enrollment": false,
+                "is_repeatable": false,
+                "course_code_title": "ARTS 1 - (GE). Critical Perspectives in the Arts",
+                "acad_orgs": [
+                    "LBDHUM"
+                ],
+                "acad_groups": [
+                    "CAS"
+                ]
+            }
+        },
+        {
+            "id": 5514,
+            "curriculum_id": 68,
+            "course_id": 625,
+            "year": "1",
+            "sem": "1",
+            "description": "",
+            "course_type": "REQUIRED",
+            "sub_type": "--",
+            "group_id": null,
+            "created_at": null,
+            "updated_at": null,
+            "units": null,
+            "course": {
+                "course_code": "MATH 36",
+                "course_id": 625,
+                "title": "Mathematical Analysis I",
+                "type": "NA",
+                "is_academic": true,
+                "is_multiple_enrollment": false,
+                "is_repeatable": false,
+                "course_code_title": "MATH 36 - Mathematical Analysis I",
+                "acad_orgs": [
+                    "LBIMS"
+                ],
+                "acad_groups": [
+                    "CAS"
+                ]
+            },
+            "prerequisites": "MATH 14 or MATH 17"
+        },
+        {
+            "id": 5515,
+            "curriculum_id": 68,
+            "course_id": 621,
+            "year": "1",
+            "sem": "1",
+            "description": "",
+            "course_type": "REQUIRED",
+            "sub_type": "--",
+            "group_id": null,
+            "created_at": null,
+            "updated_at": null,
+            "units": null,
+            "course": {
+                "course_code": "MATH 20",
+                "course_id": 621,
+                "title": "The Landscape of Mathematics",
+                "type": "NA",
+                "is_academic": true,
+                "is_multiple_enrollment": false,
+                "is_repeatable": false,
+                "course_code_title": "MATH 20 - The Landscape of Mathematics",
+                "acad_orgs": [
+                    "LBIMS"
+                ],
+                "acad_groups": [
+                    "CAS"
+                ]
+            },
+            "prerequisites": "None"
+        },
+        {
+            "id": 5518,
+            "curriculum_id": 68,
+            "course_id": 745,
+            "year": "1",
+            "sem": "1",
+            "description": "",
+            "course_type": "REQUIRED",
+            "sub_type": "--",
+            "group_id": null,
+            "created_at": null,
+            "updated_at": null,
+            "units": null,
+            "course": {
+                "course_code": "ETHICS 1",
+                "course_id": 745,
+                "title": "(GE). Ethics and Moral Reasoning in Everyday Life",
+                "type": "NA",
+                "is_academic": true,
+                "is_multiple_enrollment": false,
+                "is_repeatable": false,
+                "course_code_title": "ETHICS 1 - (GE). Ethics and Moral Reasoning in Everyday Life",
+                "acad_orgs": [
+                    "LBDHUM"
+                ],
+                "acad_groups": [
+                    "CAS"
+                ]
+            }
+        },
+        {
+            "id": 5519,
+            "curriculum_id": 68,
+            "course_id": 408,
+            "year": "1",
+            "sem": "1",
+            "description": "",
+            "course_type": "REQUIRED",
+            "sub_type": "--",
+            "group_id": null,
+            "created_at": null,
+            "updated_at": null,
+            "units": null,
+            "course": {
+                "course_code": "BIO 11.1",
+                "course_id": 408,
+                "title": "Investigative Biology Laboratory",
+                "type": "NA",
+                "is_academic": true,
+                "is_multiple_enrollment": false,
+                "is_repeatable": false,
+                "course_code_title": "BIO 11.1 - Investigative Biology Laboratory",
+                "acad_orgs": [
+                    "LBIBS"
+                ],
+                "acad_groups": [
+                    "CAS"
+                ]
+            }
+        },
+        {
+            "id": 5520,
+            "curriculum_id": 68,
+            "course_id": 813,
+            "year": "1",
+            "sem": "1",
+            "description": "",
+            "course_type": "REQUIRED",
+            "sub_type": "--",
+            "group_id": null,
+            "created_at": null,
+            "updated_at": null,
+            "units": 2,
+            "course": {
+                "course_code": "HK 11",
+                "course_id": 813,
+                "title": "Wellness and Basic Injury Management",
+                "type": "NA",
+                "is_academic": false,
+                "is_multiple_enrollment": false,
+                "is_repeatable": false,
+                "course_code_title": "HK 11 - Wellness and Basic Injury Management",
+                "acad_orgs": [
+                    "LBDHK"
+                ],
+                "acad_groups": [
+                    "CAS"
+                ]
+            }
+        },
+        {
+            "id": 5521,
+            "curriculum_id": 68,
+            "course_id": 626,
+            "year": "1",
+            "sem": "2",
+            "description": "",
+            "course_type": "REQUIRED",
+            "sub_type": "--",
+            "group_id": null,
+            "created_at": null,
+            "updated_at": null,
+            "units": null,
+            "course": {
+                "course_code": "MATH 37",
+                "course_id": 626,
+                "title": "Mathematical Analysis II",
+                "type": "NA",
+                "is_academic": true,
+                "is_multiple_enrollment": false,
+                "is_repeatable": false,
+                "course_code_title": "MATH 37 - Mathematical Analysis II",
+                "acad_orgs": [
+                    "LBIMS"
+                ],
+                "acad_groups": [
+                    "CAS"
+                ]
+            },
+            "prerequisites": "MATH 36"
+        },
+        {
+            "id": 5516,
+            "curriculum_id": 68,
+            "course_id": 821,
+            "year": "1",
+            "sem": "1",
+            "description": "",
+            "course_type": "REQUIRED",
+            "sub_type": "--",
+            "group_id": 1,
+            "created_at": null,
+            "updated_at": null,
+            "units": null,
+            "course": {
+                "course_code": "KAS 1",
+                "course_id": 821,
+                "title": "(GE). Kasaysayan ng Pilipinas",
+                "type": "NA",
+                "is_academic": true,
+                "is_multiple_enrollment": false,
+                "is_repeatable": false,
+                "course_code_title": "KAS 1 - (GE). Kasaysayan ng Pilipinas",
+                "acad_orgs": [
+                    "LBDSS"
+                ],
+                "acad_groups": [
+                    "CAS"
+                ]
+            }
+        },
+        {
+            "id": 5517,
+            "curriculum_id": 68,
+            "course_id": 2642,
+            "year": "1",
+            "sem": "1",
+            "description": "",
+            "course_type": "REQUIRED",
+            "sub_type": "--",
+            "group_id": 1,
+            "created_at": null,
+            "updated_at": null,
+            "units": null,
+            "course": {
+                "course_code": "HIST 1",
+                "course_id": 2642,
+                "title": "(GE). Philippine History",
+                "type": "NA",
+                "is_academic": true,
+                "is_multiple_enrollment": false,
+                "is_repeatable": false,
+                "course_code_title": "HIST 1 - (GE). Philippine History",
+                "acad_orgs": [
+                    "LBDSS"
+                ],
+                "acad_groups": [
+                    "CAS"
+                ]
+            }
+        },
+        {
+            "id": 5522,
+            "curriculum_id": 68,
+            "course_id": 692,
+            "year": "1",
+            "sem": "2",
+            "description": "",
+            "course_type": "REQUIRED",
+            "sub_type": "--",
+            "group_id": null,
+            "created_at": null,
+            "updated_at": null,
+            "units": null,
+            "course": {
+                "course_code": "STAT 101",
+                "course_id": 692,
+                "title": "Statistical Methods",
+                "type": "NA",
+                "is_academic": true,
+                "is_multiple_enrollment": false,
+                "is_repeatable": false,
+                "course_code_title": "STAT 101 - Statistical Methods",
+                "acad_orgs": [
+                    "LBINSTAT"
+                ],
+                "acad_groups": [
+                    "CAS"
+                ]
+            },
+            "prerequisites": "STAT 1"
+        },
+        {
+            "id": 5523,
+            "curriculum_id": 68,
+            "course_id": 492,
+            "year": "1",
+            "sem": "2",
+            "description": "",
+            "course_type": "REQUIRED",
+            "sub_type": "--",
+            "group_id": null,
+            "created_at": null,
+            "updated_at": null,
+            "units": null,
+            "course": {
+                "course_code": "CHEM 18",
+                "course_id": 492,
+                "title": "University Chemistry",
+                "type": "NA",
+                "is_academic": true,
+                "is_multiple_enrollment": false,
+                "is_repeatable": false,
+                "course_code_title": "CHEM 18 - University Chemistry",
+                "acad_orgs": [
+                    "LBIC"
+                ],
+                "acad_groups": [
+                    "CAS"
+                ]
+            }
+        },
+        {
+            "id": 5524,
+            "curriculum_id": 68,
+            "course_id": 493,
+            "year": "1",
+            "sem": "2",
+            "description": "",
+            "course_type": "REQUIRED",
+            "sub_type": "--",
+            "group_id": null,
+            "created_at": null,
+            "updated_at": null,
+            "units": null,
+            "course": {
+                "course_code": "CHEM 18.1",
+                "course_id": 493,
+                "title": "University Chemistry Laboratory",
+                "type": "NA",
+                "is_academic": true,
+                "is_multiple_enrollment": false,
+                "is_repeatable": false,
+                "course_code_title": "CHEM 18.1 - University Chemistry Laboratory",
+                "acad_orgs": [
+                    "LBIC"
+                ],
+                "acad_groups": [
+                    "CAS"
+                ]
+            }
+        },
+        {
+            "id": 5528,
+            "curriculum_id": 68,
+            "course_id": 627,
+            "year": "2",
+            "sem": "1",
+            "description": "",
+            "course_type": "REQUIRED",
+            "sub_type": "--",
+            "group_id": null,
+            "created_at": null,
+            "updated_at": null,
+            "units": null,
+            "course": {
+                "course_code": "MATH 38",
+                "course_id": 627,
+                "title": "Mathematical Analysis III",
+                "type": "NA",
+                "is_academic": true,
+                "is_multiple_enrollment": false,
+                "is_repeatable": false,
+                "course_code_title": "MATH 38 - Mathematical Analysis III",
+                "acad_orgs": [
+                    "LBIMS"
+                ],
+                "acad_groups": [
+                    "CAS"
+                ]
+            },
+            "prerequisites": "IE 125, IE\n141 and IE 150"
+        },
+        {
+            "id": 5529,
+            "curriculum_id": 68,
+            "course_id": 628,
+            "year": "2",
+            "sem": "1",
+            "description": "",
+            "course_type": "REQUIRED",
+            "sub_type": "--",
+            "group_id": null,
+            "created_at": null,
+            "updated_at": null,
+            "units": null,
+            "course": {
+                "course_code": "MATH 101",
+                "course_id": 628,
+                "title": "Logic and Set Theory",
+                "type": "NA",
+                "is_academic": true,
+                "is_multiple_enrollment": false,
+                "is_repeatable": false,
+                "course_code_title": "MATH 101 - Logic and Set Theory",
+                "acad_orgs": [
+                    "LBIMS"
+                ],
+                "acad_groups": [
+                    "CAS"
+                ]
+            },
+            "prerequisites": "AMAT 19 or MATH 20 and MATH 26 or MATH\n36"
+        },
+        {
+            "id": 5530,
+            "curriculum_id": 68,
+            "course_id": 660,
+            "year": "2",
+            "sem": "1",
+            "description": "",
+            "course_type": "REQUIRED",
+            "sub_type": "--",
+            "group_id": null,
+            "created_at": null,
+            "updated_at": null,
+            "units": null,
+            "course": {
+                "course_code": "PHYS 51",
+                "course_id": 660,
+                "title": "Elements of Physics",
+                "type": "NA",
+                "is_academic": true,
+                "is_multiple_enrollment": false,
+                "is_repeatable": false,
+                "course_code_title": "PHYS 51 - Elements of Physics",
+                "acad_orgs": [
+                    "LBIoP"
+                ],
+                "acad_groups": [
+                    "CAS"
+                ]
+            }
+        },
+        {
+            "id": 5531,
+            "curriculum_id": 68,
+            "course_id": 661,
+            "year": "2",
+            "sem": "1",
+            "description": "",
+            "course_type": "REQUIRED",
+            "sub_type": "--",
+            "group_id": null,
+            "created_at": null,
+            "updated_at": null,
+            "units": null,
+            "course": {
+                "course_code": "PHYS 51.1",
+                "course_id": 661,
+                "title": "Elements of Physics Laboratory",
+                "type": "NA",
+                "is_academic": true,
+                "is_multiple_enrollment": false,
+                "is_repeatable": false,
+                "course_code_title": "PHYS 51.1 - Elements of Physics Laboratory",
+                "acad_orgs": [
+                    "LBIoP"
+                ],
+                "acad_groups": [
+                    "CAS"
+                ]
+            }
+        },
+        {
+            "id": 5534,
+            "curriculum_id": 68,
+            "course_id": 3107,
+            "year": "2",
+            "sem": "1",
+            "description": "",
+            "course_type": "REQUIRED",
+            "sub_type": "--",
+            "group_id": null,
+            "created_at": null,
+            "updated_at": null,
+            "units": 3,
+            "course": {
+                "course_code": "NSTP 1",
+                "course_id": 3107,
+                "title": "National Service Training Program I",
+                "type": "NA",
+                "is_academic": false,
+                "is_multiple_enrollment": true,
+                "is_repeatable": true,
+                "course_code_title": "NSTP 1 - National Service Training Program I",
+                "acad_orgs": [
+                    "LBASI",
+                    "LBDAAE",
+                    "LBDAME",
+                    "LBDBVS",
+                    "LBDCE",
+                    "LBDCERP",
+                    "LBDCHE",
+                    "LBDDBT",
+                    "LBDDJ",
+                    "LBDEC",
+                    "LBDEE",
+                    "LBDENSC",
+                    "LBDFBS",
+                    "LBDFPPS",
+                    "LBDHFDS",
+                    "LBDIE",
+                    "LBDME",
+                    "LBDMST",
+                    "LBDSC",
+                    "LBDSDS",
+                    "LBDSFFG",
+                    "LBDVCS",
+                    "LBDVPS",
+                    "LBIABE",
+                    "LBIAS",
+                    "LBICOPED",
+                    "LBIHNF",
+                    "LBIRNR",
+                    "LBOVCCA"
+                ],
+                "acad_groups": [
+                    "CAFS",
+                    "CAS",
+                    "CEAT",
+                    "CEM",
+                    "CHE",
+                    "CVM"
+                ]
+            }
+        },
+        {
+            "id": 5535,
+            "curriculum_id": 68,
+            "course_id": 629,
+            "year": "2",
+            "sem": "2",
+            "description": "",
+            "course_type": "REQUIRED",
+            "sub_type": "--",
+            "group_id": null,
+            "created_at": null,
+            "updated_at": null,
+            "units": null,
+            "course": {
+                "course_code": "MATH 103",
+                "course_id": 629,
+                "title": "Elementary Theory of Numbers",
+                "type": "NA",
+                "is_academic": true,
+                "is_multiple_enrollment": false,
+                "is_repeatable": false,
+                "course_code_title": "MATH 103 - Elementary Theory of Numbers",
+                "acad_orgs": [
+                    "LBIMS"
+                ],
+                "acad_groups": [
+                    "CAS"
+                ]
+            },
+            "prerequisites": "MATH 101"
+        },
+        {
+            "id": 5536,
+            "curriculum_id": 68,
+            "course_id": 637,
+            "year": "2",
+            "sem": "2",
+            "description": "",
+            "course_type": "REQUIRED",
+            "sub_type": "--",
+            "group_id": null,
+            "created_at": null,
+            "updated_at": null,
+            "units": null,
+            "course": {
+                "course_code": "MATH 138",
+                "course_id": 637,
+                "title": "Introductory Topology",
+                "type": "NA",
+                "is_academic": true,
+                "is_multiple_enrollment": false,
+                "is_repeatable": false,
+                "course_code_title": "MATH 138 - Introductory Topology",
+                "acad_orgs": [
+                    "LBIMS"
+                ],
+                "acad_groups": [
+                    "CAS"
+                ]
+            },
+            "prerequisites": "MATH 38 and MATH 101"
+        },
+        {
+            "id": 5537,
+            "curriculum_id": 68,
+            "course_id": 638,
+            "year": "2",
+            "sem": "2",
+            "description": "",
+            "course_type": "REQUIRED",
+            "sub_type": "--",
+            "group_id": null,
+            "created_at": null,
+            "updated_at": null,
+            "units": null,
+            "course": {
+                "course_code": "MATH 141",
+                "course_id": 638,
+                "title": "Introductory Combinatorics",
+                "type": "NA",
+                "is_academic": true,
+                "is_multiple_enrollment": false,
+                "is_repeatable": false,
+                "course_code_title": "MATH 141 - Introductory Combinatorics",
+                "acad_orgs": [
+                    "LBIMS"
+                ],
+                "acad_groups": [
+                    "CAS"
+                ]
+            },
+            "prerequisites": "MATH 38 and either MATH 101 or CMSC 56 and\nCMSC 57"
+        },
+        {
+            "id": 5538,
+            "curriculum_id": 68,
+            "course_id": 579,
+            "year": "2",
+            "sem": "2",
+            "description": "",
+            "course_type": "REQUIRED",
+            "sub_type": "--",
+            "group_id": null,
+            "created_at": null,
+            "updated_at": null,
+            "units": null,
+            "course": {
+                "course_code": "AMAT 152",
+                "course_id": 579,
+                "title": "Fundamentals of Mathematical Computing",
+                "type": "NA",
+                "is_academic": true,
+                "is_multiple_enrollment": false,
+                "is_repeatable": false,
+                "course_code_title": "AMAT 152 - Fundamentals of Mathematical Computing",
+                "acad_orgs": [
+                    "LBIMS"
+                ],
+                "acad_groups": [
+                    "CAS"
+                ]
+            }
+        },
+        {
+            "id": 5542,
+            "curriculum_id": 68,
+            "course_id": 2055,
+            "year": "2",
+            "sem": "2",
+            "description": "",
+            "course_type": "REQUIRED",
+            "sub_type": "--",
+            "group_id": null,
+            "created_at": null,
+            "updated_at": null,
+            "units": 3,
+            "course": {
+                "course_code": "NSTP 2",
+                "course_id": 2055,
+                "title": "National Service Training Program II",
+                "type": "NA",
+                "is_academic": false,
+                "is_multiple_enrollment": true,
+                "is_repeatable": true,
+                "course_code_title": "NSTP 2 - National Service Training Program II",
+                "acad_orgs": [
+                    "LBASI",
+                    "LBDAAE",
+                    "LBDAECO",
+                    "LBDAME",
+                    "LBDBVS",
+                    "LBDCE",
+                    "LBDCERP",
+                    "LBDCHE",
+                    "LBDDBT",
+                    "LBDDJ",
+                    "LBDE",
+                    "LBDEC",
+                    "LBDECO",
+                    "LBDEE",
+                    "LBDENSC",
+                    "LBDFBS",
+                    "LBDFPPS",
+                    "LBDHFDS",
+                    "LBDIE",
+                    "LBDME",
+                    "LBDMST",
+                    "LBDSC",
+                    "LBDSDS",
+                    "LBDSFFG",
+                    "LBDVCS",
+                    "LBDVPS",
+                    "LBIABE",
+                    "LBICOPED",
+                    "LBIHNF",
+                    "LBIRNR",
+                    "LBOVCCA"
+                ],
+                "acad_groups": [
+                    "CAFS",
+                    "CAS",
+                    "CEAT",
+                    "CEM",
+                    "CHE",
+                    "CVM"
+                ]
+            }
+        },
+        {
+            "id": 5543,
+            "curriculum_id": 68,
+            "course_id": 630,
+            "year": "3",
+            "sem": "1",
+            "description": "",
+            "course_type": "REQUIRED",
+            "sub_type": "--",
+            "group_id": null,
+            "created_at": null,
+            "updated_at": null,
+            "units": null,
+            "course": {
+                "course_code": "MATH 111",
+                "course_id": 630,
+                "title": "Modern Algebra I",
+                "type": "NA",
+                "is_academic": true,
+                "is_multiple_enrollment": false,
+                "is_repeatable": false,
+                "course_code_title": "MATH 111 - Modern Algebra I",
+                "acad_orgs": [
+                    "LBIMS"
+                ],
+                "acad_groups": [
+                    "CAS"
+                ]
+            },
+            "prerequisites": "MATH 101"
+        },
+        {
+            "id": 5544,
+            "curriculum_id": 68,
+            "course_id": 642,
+            "year": "3",
+            "sem": "1",
+            "description": "",
+            "course_type": "REQUIRED",
+            "sub_type": "--",
+            "group_id": null,
+            "created_at": null,
+            "updated_at": null,
+            "units": null,
+            "course": {
+                "course_code": "MATH 155",
+                "course_id": 642,
+                "title": "Advanced Calculus I",
+                "type": "NA",
+                "is_academic": true,
+                "is_multiple_enrollment": false,
+                "is_repeatable": false,
+                "course_code_title": "MATH 155 - Advanced Calculus I",
+                "acad_orgs": [
+                    "LBIMS"
+                ],
+                "acad_groups": [
+                    "CAS"
+                ]
+            },
+            "prerequisites": "MATH\n38 and MATH 101 or COI"
+        },
+        {
+            "id": 5545,
+            "curriculum_id": 68,
+            "course_id": 815,
+            "year": "3",
+            "sem": "1",
+            "description": "",
+            "course_type": "REQUIRED",
+            "sub_type": "--",
+            "group_id": null,
+            "created_at": null,
+            "updated_at": null,
+            "units": 2,
+            "course": {
+                "course_code": "HK 13",
+                "course_id": 815,
+                "title": "Advanced Human Kinetics Activities",
+                "type": "NA",
+                "is_academic": false,
+                "is_multiple_enrollment": false,
+                "is_repeatable": false,
+                "course_code_title": "HK 13 - Advanced Human Kinetics Activities",
+                "acad_orgs": [],
+                "acad_groups": []
+            }
+        },
+        {
+            "id": 5547,
+            "curriculum_id": 68,
+            "course_id": 655,
+            "year": "3",
+            "sem": "1",
+            "description": "",
+            "course_type": "REQUIRED",
+            "sub_type": "--",
+            "group_id": null,
+            "created_at": null,
+            "updated_at": null,
+            "units": null,
+            "course": {
+                "course_code": "MATH 195",
+                "course_id": 655,
+                "title": "Research Methods in Mathematics",
+                "type": "NA",
+                "is_academic": true,
+                "is_multiple_enrollment": false,
+                "is_repeatable": false,
+                "course_code_title": "MATH 195 - Research Methods in Mathematics",
+                "acad_orgs": [
+                    "LBIMS"
+                ],
+                "acad_groups": [
+                    "CAS"
+                ]
+            },
+            "prerequisites": "MATH 38 and MATH\n101"
+        },
+        {
+            "id": 5548,
+            "curriculum_id": 68,
+            "course_id": 633,
+            "year": "3",
+            "sem": "2",
+            "description": "",
+            "course_type": "REQUIRED",
+            "sub_type": "--",
+            "group_id": null,
+            "created_at": null,
+            "updated_at": null,
+            "units": null,
+            "course": {
+                "course_code": "MATH 120",
+                "course_id": 633,
+                "title": "Linear Algebra",
+                "type": "NA",
+                "is_academic": true,
+                "is_multiple_enrollment": false,
+                "is_repeatable": false,
+                "course_code_title": "MATH 120 - Linear Algebra",
+                "acad_orgs": [
+                    "LBIMS"
+                ],
+                "acad_groups": [
+                    "CAS"
+                ]
+            },
+            "prerequisites": "MATH\n37 and MATH 101 or COI"
+        },
+        {
+            "id": 5549,
+            "curriculum_id": 68,
+            "course_id": 635,
+            "year": "3",
+            "sem": "2",
+            "description": "",
+            "course_type": "REQUIRED",
+            "sub_type": "--",
+            "group_id": null,
+            "created_at": null,
+            "updated_at": null,
+            "units": null,
+            "course": {
+                "course_code": "MATH 133",
+                "course_id": 635,
+                "title": "Euclidean and Non-Euclidean Geometry",
+                "type": "NA",
+                "is_academic": true,
+                "is_multiple_enrollment": false,
+                "is_repeatable": false,
+                "course_code_title": "MATH 133 - Euclidean and Non-Euclidean Geometry",
+                "acad_orgs": [
+                    "LBIMS"
+                ],
+                "acad_groups": [
+                    "CAS"
+                ]
+            },
+            "prerequisites": "MATH 130"
+        },
+        {
+            "id": 5550,
+            "curriculum_id": 68,
+            "course_id": 640,
+            "year": "3",
+            "sem": "2",
+            "description": "",
+            "course_type": "REQUIRED",
+            "sub_type": "--",
+            "group_id": null,
+            "created_at": null,
+            "updated_at": null,
+            "units": null,
+            "course": {
+                "course_code": "MATH 151",
+                "course_id": 640,
+                "title": "Ordinary Differential Equations",
+                "type": "NA",
+                "is_academic": true,
+                "is_multiple_enrollment": false,
+                "is_repeatable": false,
+                "course_code_title": "MATH 151 - Ordinary Differential Equations",
+                "acad_orgs": [
+                    "LBIMS"
+                ],
+                "acad_groups": [
+                    "CAS"
+                ]
+            },
+            "prerequisites": "MATH 38 or MATH 28"
+        },
+        {
+            "id": 5551,
+            "curriculum_id": 68,
+            "course_id": 828,
+            "year": "3",
+            "sem": "2",
+            "description": "",
+            "course_type": "REQUIRED",
+            "sub_type": "--",
+            "group_id": null,
+            "created_at": null,
+            "updated_at": null,
+            "units": null,
+            "course": {
+                "course_code": "PI 10",
+                "course_id": 828,
+                "title": "(GE). The Life and Works of Rizal",
+                "type": "NA",
+                "is_academic": true,
+                "is_multiple_enrollment": false,
+                "is_repeatable": false,
+                "course_code_title": "PI 10 - (GE). The Life and Works of Rizal",
+                "acad_orgs": [
+                    "LBDSS"
+                ],
+                "acad_groups": [
+                    "CAS"
+                ]
+            }
+        },
+        {
+            "id": 5552,
+            "curriculum_id": 68,
+            "course_id": 656,
+            "year": "3",
+            "sem": "3",
+            "description": "",
+            "course_type": "REQUIRED",
+            "sub_type": "--",
+            "group_id": null,
+            "created_at": null,
+            "updated_at": null,
+            "units": null,
+            "course": {
+                "course_code": "MATH 198",
+                "course_id": 656,
+                "title": "Practicum",
+                "type": "NA",
+                "is_academic": true,
+                "is_multiple_enrollment": false,
+                "is_repeatable": false,
+                "course_code_title": "MATH 198 - Practicum",
+                "acad_orgs": [
+                    "LBIMS"
+                ],
+                "acad_groups": [
+                    "CAS"
+                ]
+            }
+        },
+        {
+            "id": 5553,
+            "curriculum_id": 68,
+            "course_id": 636,
+            "year": "4",
+            "sem": "1",
+            "description": "",
+            "course_type": "REQUIRED",
+            "sub_type": "--",
+            "group_id": null,
+            "created_at": null,
+            "updated_at": null,
+            "units": null,
+            "course": {
+                "course_code": "MATH 135",
+                "course_id": 636,
+                "title": "Projective Geometry",
+                "type": "NA",
+                "is_academic": true,
+                "is_multiple_enrollment": false,
+                "is_repeatable": false,
+                "course_code_title": "MATH 135 - Projective Geometry",
+                "acad_orgs": [
+                    "LBIMS"
+                ],
+                "acad_groups": [
+                    "CAS"
+                ]
+            }
+        },
+        {
+            "id": 5554,
+            "curriculum_id": 68,
+            "course_id": 645,
+            "year": "4",
+            "sem": "1",
+            "description": "",
+            "course_type": "REQUIRED",
+            "sub_type": "--",
+            "group_id": null,
+            "created_at": null,
+            "updated_at": null,
+            "units": null,
+            "course": {
+                "course_code": "MATH 165",
+                "course_id": 645,
+                "title": "Complex Analysis I",
+                "type": "NA",
+                "is_academic": true,
+                "is_multiple_enrollment": false,
+                "is_repeatable": false,
+                "course_code_title": "MATH 165 - Complex Analysis I",
+                "acad_orgs": [
+                    "LBIMS"
+                ],
+                "acad_groups": [
+                    "CAS"
+                ]
+            },
+            "prerequisites": "MATH 38 and\nMATH 101 or COI"
+        },
+        {
+            "id": 5555,
+            "curriculum_id": 68,
+            "course_id": 650,
+            "year": "4",
+            "sem": "1",
+            "description": "",
+            "course_type": "REQUIRED",
+            "sub_type": "--",
+            "group_id": null,
+            "created_at": null,
+            "updated_at": null,
+            "units": null,
+            "course": {
+                "course_code": "MATH 181",
+                "course_id": 650,
+                "title": "Introduction to Probability Theory",
+                "type": "NA",
+                "is_academic": true,
+                "is_multiple_enrollment": false,
+                "is_repeatable": false,
+                "course_code_title": "MATH 181 - Introduction to Probability Theory",
+                "acad_orgs": [
+                    "LBIMS"
+                ],
+                "acad_groups": [
+                    "CAS"
+                ]
+            },
+            "prerequisites": "MATH 101 and MATH\n38 or MATH 28 (1)\nMATH 182"
+        },
+        {
+            "id": 5556,
+            "curriculum_id": 68,
+            "course_id": 658,
+            "year": "4",
+            "sem": "1",
+            "description": "",
+            "course_type": "REQUIRED",
+            "sub_type": "--",
+            "group_id": null,
+            "created_at": null,
+            "updated_at": null,
+            "units": null,
+            "course": {
+                "course_code": "MATH 200",
+                "course_id": 658,
+                "title": "Undergraduate Thesis",
+                "type": "NA",
+                "is_academic": true,
+                "is_multiple_enrollment": true,
+                "is_repeatable": true,
+                "course_code_title": "MATH 200 - Undergraduate Thesis",
+                "acad_orgs": [
+                    "LBIMS"
+                ],
+                "acad_groups": [
+                    "CAS"
+                ]
+            },
+            "prerequisites": "COI"
+        },
+        {
+            "id": 5557,
+            "curriculum_id": 68,
+            "course_id": 654,
+            "year": "4",
+            "sem": "2",
+            "description": "",
+            "course_type": "REQUIRED",
+            "sub_type": "--",
+            "group_id": null,
+            "created_at": null,
+            "updated_at": null,
+            "units": null,
+            "course": {
+                "course_code": "MATH 192",
+                "course_id": 654,
+                "title": "Foundations of Mathematics",
+                "type": "NA",
+                "is_academic": true,
+                "is_multiple_enrollment": false,
+                "is_repeatable": false,
+                "course_code_title": "MATH 192 - Foundations of Mathematics",
+                "acad_orgs": [
+                    "LBIMS"
+                ],
+                "acad_groups": [
+                    "CAS"
+                ]
+            },
+            "prerequisites": "COI"
+        },
+        {
+            "id": 5558,
+            "curriculum_id": 68,
+            "course_id": 657,
+            "year": "4",
+            "sem": "2",
+            "description": "",
+            "course_type": "REQUIRED",
+            "sub_type": "--",
+            "group_id": null,
+            "created_at": null,
+            "updated_at": null,
+            "units": null,
+            "course": {
+                "course_code": "MATH 199",
+                "course_id": 657,
+                "title": "Undergraduate Seminar",
+                "type": "NA",
+                "is_academic": true,
+                "is_multiple_enrollment": false,
+                "is_repeatable": true,
+                "course_code_title": "MATH 199 - Undergraduate Seminar",
+                "acad_orgs": [
+                    "LBIMS"
+                ],
+                "acad_groups": [
+                    "CAS"
+                ]
+            },
+            "prerequisites": "COI"
+        },
+        {
+            "id": 5559,
+            "curriculum_id": 68,
+            "course_id": 658,
+            "year": "4",
+            "sem": "2",
+            "description": "",
+            "course_type": "REQUIRED",
+            "sub_type": "--",
+            "group_id": null,
+            "created_at": null,
+            "updated_at": null,
+            "units": null,
+            "course": {
+                "course_code": "MATH 200",
+                "course_id": 658,
+                "title": "Undergraduate Thesis",
+                "type": "NA",
+                "is_academic": true,
+                "is_multiple_enrollment": true,
+                "is_repeatable": true,
+                "course_code_title": "MATH 200 - Undergraduate Thesis",
+                "acad_orgs": [
+                    "LBIMS"
+                ],
+                "acad_groups": [
+                    "CAS"
+                ]
+            },
+            "prerequisites": "COI"
+        },
+        {
+            "id": 5560,
+            "curriculum_id": 68,
+            "course_id": 842,
+            "year": "0",
+            "sem": "0",
+            "description": "",
+            "course_type": "GE ELECTIVE",
+            "sub_type": "--",
+            "group_id": null,
+            "created_at": null,
+            "updated_at": null,
+            "units": null,
+            "course": {
+                "course_code": "SAS 1",
+                "course_id": 842,
+                "title": "(GE). Self and Society",
+                "type": "NA",
+                "is_academic": true,
+                "is_multiple_enrollment": false,
+                "is_repeatable": false,
+                "course_code_title": "SAS 1 - (GE). Self and Society",
+                "acad_orgs": [
+                    "LBDSS"
+                ],
+                "acad_groups": [
+                    "CAS"
+                ]
+            }
+        },
+        {
+            "id": 5561,
+            "curriculum_id": 68,
+            "course_id": 619,
+            "year": "0",
+            "sem": "0",
+            "description": "",
+            "course_type": "GE ELECTIVE",
+            "sub_type": "--",
+            "group_id": null,
+            "created_at": null,
+            "updated_at": null,
+            "units": null,
+            "course": {
+                "course_code": "MATH 10",
+                "course_id": 619,
+                "title": "(GE). Mathematics, Culture, and Society",
+                "type": "NA",
+                "is_academic": true,
+                "is_multiple_enrollment": false,
+                "is_repeatable": false,
+                "course_code_title": "MATH 10 - (GE). Mathematics, Culture, and Society",
+                "acad_orgs": [
+                    "LBIMS"
+                ],
+                "acad_groups": [
+                    "CAS"
+                ]
+            }
+        },
+        {
+            "id": 5562,
+            "curriculum_id": 68,
+            "course_id": 811,
+            "year": "0",
+            "sem": "0",
+            "description": "",
+            "course_type": "GE ELECTIVE",
+            "sub_type": "--",
+            "group_id": null,
+            "created_at": null,
+            "updated_at": null,
+            "units": null,
+            "course": {
+                "course_code": "WIKA 1",
+                "course_id": 811,
+                "title": "(GE). Wika, Kultura, at Lipunan",
+                "type": "NA",
+                "is_academic": true,
+                "is_multiple_enrollment": false,
+                "is_repeatable": false,
+                "course_code_title": "WIKA 1 - (GE). Wika, Kultura, at Lipunan",
+                "acad_orgs": [
+                    "LBDHUM"
+                ],
+                "acad_groups": [
+                    "CAS"
+                ]
+            }
+        },
+        {
+            "id": 5563,
+            "curriculum_id": 68,
+            "course_id": 758,
+            "year": "0",
+            "sem": "0",
+            "description": "",
+            "course_type": "GE ELECTIVE",
+            "sub_type": "--",
+            "group_id": null,
+            "created_at": null,
+            "updated_at": null,
+            "units": null,
+            "course": {
+                "course_code": "PHILARTS 1",
+                "course_id": 758,
+                "title": "(GE). Philippine Arts and Culture",
+                "type": "NA",
+                "is_academic": true,
+                "is_multiple_enrollment": false,
+                "is_repeatable": false,
+                "course_code_title": "PHILARTS 1 - (GE). Philippine Arts and Culture",
+                "acad_orgs": [
+                    "LBDHUM"
+                ],
+                "acad_groups": [
+                    "CAS"
+                ]
+            }
+        },
+        {
+            "id": 5564,
+            "curriculum_id": 68,
+            "course_id": 691,
+            "year": "0",
+            "sem": "0",
+            "description": "",
+            "course_type": "GE ELECTIVE",
+            "sub_type": "--",
+            "group_id": null,
+            "created_at": null,
+            "updated_at": null,
+            "units": null,
+            "course": {
+                "course_code": "SCIENCE 10",
+                "course_id": 691,
+                "title": "(GE). Probing the Physical World",
+                "type": "NA",
+                "is_academic": true,
+                "is_multiple_enrollment": false,
+                "is_repeatable": false,
+                "course_code_title": "SCIENCE 10 - (GE). Probing the Physical World",
+                "acad_orgs": [
+                    "LBIC",
+                    "LBIMSP",
+                    "LBIoP"
+                ],
+                "acad_groups": [
+                    "CAS"
+                ]
+            }
+        },
+        {
+            "id": 5565,
+            "curriculum_id": 68,
+            "course_id": 464,
+            "year": "0",
+            "sem": "0",
+            "description": "",
+            "course_type": "GE ELECTIVE",
+            "sub_type": "--",
+            "group_id": null,
+            "created_at": null,
+            "updated_at": null,
+            "units": null,
+            "course": {
+                "course_code": "SCIENCE 11",
+                "course_id": 464,
+                "title": "(GE). Living Systems: Concepts and Dynamics",
+                "type": "NA",
+                "is_academic": true,
+                "is_multiple_enrollment": false,
+                "is_repeatable": false,
+                "course_code_title": "SCIENCE 11 - (GE). Living Systems: Concepts and Dynamics",
+                "acad_orgs": [
+                    "LBIBS"
+                ],
+                "acad_groups": [
+                    "CAS"
+                ]
+            }
+        },
+        {
+            "id": 5566,
+            "curriculum_id": 68,
+            "course_id": 843,
+            "year": "0",
+            "sem": "0",
+            "description": "",
+            "course_type": "GE ELECTIVE",
+            "sub_type": "--",
+            "group_id": null,
+            "created_at": null,
+            "updated_at": null,
+            "units": null,
+            "course": {
+                "course_code": "SOSC 3",
+                "course_id": 843,
+                "title": "(GE). Exploring Gender and Sexuality",
+                "type": "NA",
+                "is_academic": true,
+                "is_multiple_enrollment": false,
+                "is_repeatable": false,
+                "course_code_title": "SOSC 3 - (GE). Exploring Gender and Sexuality",
+                "acad_orgs": [
+                    "LBDSS"
+                ],
+                "acad_groups": [
+                    "CAS"
+                ]
+            }
+        },
+        {
+            "id": 5567,
+            "curriculum_id": 68,
+            "course_id": 752,
+            "year": "0",
+            "sem": "0",
+            "description": "",
+            "course_type": "GE ELECTIVE",
+            "sub_type": "--",
+            "group_id": null,
+            "created_at": null,
+            "updated_at": null,
+            "units": null,
+            "course": {
+                "course_code": "HUM 3",
+                "course_id": 752,
+                "title": "(GE). Reading Film, TV, and the Internet",
+                "type": "NA",
+                "is_academic": true,
+                "is_multiple_enrollment": false,
+                "is_repeatable": false,
+                "course_code_title": "HUM 3 - (GE). Reading Film, TV, and the Internet",
+                "acad_orgs": [
+                    "LBDHUM"
+                ],
+                "acad_groups": [
+                    "CAS"
+                ]
+            }
+        },
+        {
+            "id": 5568,
+            "curriculum_id": 68,
+            "course_id": 822,
+            "year": "0",
+            "sem": "0",
+            "description": "",
+            "course_type": "GE ELECTIVE",
+            "sub_type": "--",
+            "group_id": null,
+            "created_at": null,
+            "updated_at": null,
+            "units": null,
+            "course": {
+                "course_code": "KAS 4",
+                "course_id": 822,
+                "title": "(GE). Ang Kababaihan sa Kasaysayan ng Pilipinas",
+                "type": "NA",
+                "is_academic": true,
+                "is_multiple_enrollment": false,
+                "is_repeatable": false,
+                "course_code_title": "KAS 4 - (GE). Ang Kababaihan sa Kasaysayan ng Pilipinas",
+                "acad_orgs": [
+                    "LBDSS"
+                ],
+                "acad_groups": [
+                    "CAS"
+                ]
+            }
+        },
+        {
+            "id": 5569,
+            "curriculum_id": 68,
+            "course_id": 760,
+            "year": "0",
+            "sem": "0",
+            "description": "",
+            "course_type": "GE ELECTIVE",
+            "sub_type": "--",
+            "group_id": null,
+            "created_at": null,
+            "updated_at": null,
+            "units": null,
+            "course": {
+                "course_code": "PHLO 1",
+                "course_id": 760,
+                "title": "(GE). Understanding Philosophy",
+                "type": "NA",
+                "is_academic": true,
+                "is_multiple_enrollment": false,
+                "is_repeatable": false,
+                "course_code_title": "PHLO 1 - (GE). Understanding Philosophy",
+                "acad_orgs": [
+                    "LBDHUM"
+                ],
+                "acad_groups": [
+                    "CAS"
+                ]
+            }
+        },
+        {
+            "id": 5570,
+            "curriculum_id": 68,
+            "course_id": 759,
+            "year": "0",
+            "sem": "0",
+            "description": "",
+            "course_type": "GE ELECTIVE",
+            "sub_type": "--",
+            "group_id": null,
+            "created_at": null,
+            "updated_at": null,
+            "units": null,
+            "course": {
+                "course_code": "PS 21",
+                "course_id": 759,
+                "title": "(GE). Wika, Panitikan, at Kultura sa Ilalim ng Batas Militar sa Pilipinas.",
+                "type": "NA",
+                "is_academic": true,
+                "is_multiple_enrollment": false,
+                "is_repeatable": false,
+                "course_code_title": "PS 21 - (GE). Wika, Panitikan, at Kultura sa Ilalim ng Batas Militar sa Pilipinas.",
+                "acad_orgs": [
+                    "LBDHUM"
+                ],
+                "acad_groups": [
+                    "CAS"
+                ]
+            }
+        },
+        {
+            "id": 5571,
+            "curriculum_id": 68,
+            "course_id": 639,
+            "year": "0",
+            "sem": "0",
+            "description": "",
+            "course_type": "MAJOR",
+            "sub_type": "--",
+            "group_id": null,
+            "created_at": null,
+            "updated_at": null,
+            "units": null,
+            "course": {
+                "course_code": "MATH 143",
+                "course_id": 639,
+                "title": "Graph Theory",
+                "type": "NA",
+                "is_academic": true,
+                "is_multiple_enrollment": false,
+                "is_repeatable": false,
+                "course_code_title": "MATH 143 - Graph Theory",
+                "acad_orgs": [
+                    "LBIMS"
+                ],
+                "acad_groups": [
+                    "CAS"
+                ]
+            },
+            "prerequisites": "MATH 101 or CMSC 56 and CMSC 57"
+        },
+        {
+            "id": 5572,
+            "curriculum_id": 68,
+            "course_id": 647,
+            "year": "0",
+            "sem": "0",
+            "description": "",
+            "course_type": "MAJOR",
+            "sub_type": "--",
+            "group_id": null,
+            "created_at": null,
+            "updated_at": null,
+            "units": null,
+            "course": {
+                "course_code": "MATH 170",
+                "course_id": 647,
+                "title": "Finite Differences",
+                "type": "NA",
+                "is_academic": true,
+                "is_multiple_enrollment": false,
+                "is_repeatable": false,
+                "course_code_title": "MATH 170 - Finite Differences",
+                "acad_orgs": [
+                    "LBIMS"
+                ],
+                "acad_groups": [
+                    "CAS"
+                ]
+            },
+            "prerequisites": "MATH 38"
+        },
+        {
+            "id": 5573,
+            "curriculum_id": 68,
+            "course_id": 648,
+            "year": "0",
+            "sem": "0",
+            "description": "",
+            "course_type": "MAJOR",
+            "sub_type": "--",
+            "group_id": null,
+            "created_at": null,
+            "updated_at": null,
+            "units": null,
+            "course": {
+                "course_code": "MATH 174",
+                "course_id": 648,
+                "title": "Numerical Analysis I",
+                "type": "NA",
+                "is_academic": true,
+                "is_multiple_enrollment": false,
+                "is_repeatable": false,
+                "course_code_title": "MATH 174 - Numerical Analysis I",
+                "acad_orgs": [
+                    "LBIMS"
+                ],
+                "acad_groups": [
+                    "CAS"
+                ]
+            },
+            "prerequisites": "MATH 174"
+        },
+        {
+            "id": 5574,
+            "curriculum_id": 68,
+            "course_id": 653,
+            "year": "0",
+            "sem": "0",
+            "description": "",
+            "course_type": "MAJOR",
+            "sub_type": "--",
+            "group_id": null,
+            "created_at": null,
+            "updated_at": null,
+            "units": null,
+            "course": {
+                "course_code": "MATH 191",
+                "course_id": 653,
+                "title": "Special Topics",
+                "type": "NA",
+                "is_academic": true,
+                "is_multiple_enrollment": true,
+                "is_repeatable": true,
+                "course_code_title": "MATH 191 - Special Topics",
+                "acad_orgs": [
+                    "LBIMS"
+                ],
+                "acad_groups": [
+                    "CAS"
+                ]
+            }
+        },
+        {
+            "id": 5575,
+            "curriculum_id": 68,
+            "course_id": 631,
+            "year": "0",
+            "sem": "0",
+            "description": "",
+            "course_type": "MAJOR",
+            "sub_type": "--",
+            "group_id": null,
+            "created_at": null,
+            "updated_at": null,
+            "units": null,
+            "course": {
+                "course_code": "MATH 112",
+                "course_id": 631,
+                "title": "Modern Algebra II",
+                "type": "NA",
+                "is_academic": true,
+                "is_multiple_enrollment": false,
+                "is_repeatable": false,
+                "course_code_title": "MATH 112 - Modern Algebra II",
+                "acad_orgs": [
+                    "LBIMS"
+                ],
+                "acad_groups": [
+                    "CAS"
+                ]
+            },
+            "prerequisites": "MATH 111"
+        },
+        {
+            "id": 5576,
+            "curriculum_id": 68,
+            "course_id": 632,
+            "year": "0",
+            "sem": "0",
+            "description": "",
+            "course_type": "MAJOR",
+            "sub_type": "--",
+            "group_id": null,
+            "created_at": null,
+            "updated_at": null,
+            "units": null,
+            "course": {
+                "course_code": "MATH 115",
+                "course_id": 632,
+                "title": "Introduction to Coding Theory and Cryptography",
+                "type": "NA",
+                "is_academic": true,
+                "is_multiple_enrollment": false,
+                "is_repeatable": false,
+                "course_code_title": "MATH 115 - Introduction to Coding Theory and Cryptography",
+                "acad_orgs": [
+                    "LBIMS"
+                ],
+                "acad_groups": [
+                    "CAS"
+                ]
+            }
+        },
+        {
+            "id": 5577,
+            "curriculum_id": 68,
+            "course_id": 641,
+            "year": "0",
+            "sem": "0",
+            "description": "",
+            "course_type": "MAJOR",
+            "sub_type": "--",
+            "group_id": null,
+            "created_at": null,
+            "updated_at": null,
+            "units": null,
+            "course": {
+                "course_code": "MATH 152",
+                "course_id": 641,
+                "title": "Partial Differential Equations",
+                "type": "NA",
+                "is_academic": true,
+                "is_multiple_enrollment": false,
+                "is_repeatable": false,
+                "course_code_title": "MATH 152 - Partial Differential Equations",
+                "acad_orgs": [
+                    "LBIMS"
+                ],
+                "acad_groups": [
+                    "CAS"
+                ]
+            },
+            "prerequisites": "MATH 151"
+        },
+        {
+            "id": 5578,
+            "curriculum_id": 68,
+            "course_id": 643,
+            "year": "0",
+            "sem": "0",
+            "description": "",
+            "course_type": "MAJOR",
+            "sub_type": "--",
+            "group_id": null,
+            "created_at": null,
+            "updated_at": null,
+            "units": null,
+            "course": {
+                "course_code": "MATH 156",
+                "course_id": 643,
+                "title": "Advanced Calculus II",
+                "type": "NA",
+                "is_academic": true,
+                "is_multiple_enrollment": false,
+                "is_repeatable": false,
+                "course_code_title": "MATH 156 - Advanced Calculus II",
+                "acad_orgs": [
+                    "LBIMS"
+                ],
+                "acad_groups": [
+                    "CAS"
+                ]
+            },
+            "prerequisites": "MATH 155"
+        },
+        {
+            "id": 5579,
+            "curriculum_id": 68,
+            "course_id": 644,
+            "year": "0",
+            "sem": "0",
+            "description": "",
+            "course_type": "MAJOR",
+            "sub_type": "--",
+            "group_id": null,
+            "created_at": null,
+            "updated_at": null,
+            "units": null,
+            "course": {
+                "course_code": "MATH 160",
+                "course_id": 644,
+                "title": "Vector Analysis",
+                "type": "NA",
+                "is_academic": true,
+                "is_multiple_enrollment": false,
+                "is_repeatable": false,
+                "course_code_title": "MATH 160 - Vector Analysis",
+                "acad_orgs": [
+                    "LBIMS"
+                ],
+                "acad_groups": [
+                    "CAS"
+                ]
+            },
+            "prerequisites": "MATH 38 or MATH 28"
+        },
+        {
+            "id": 5580,
+            "curriculum_id": 68,
+            "course_id": 646,
+            "year": "0",
+            "sem": "0",
+            "description": "",
+            "course_type": "MAJOR",
+            "sub_type": "--",
+            "group_id": null,
+            "created_at": null,
+            "updated_at": null,
+            "units": null,
+            "course": {
+                "course_code": "MATH 166",
+                "course_id": 646,
+                "title": "Complex Analysis II",
+                "type": "NA",
+                "is_academic": true,
+                "is_multiple_enrollment": false,
+                "is_repeatable": false,
+                "course_code_title": "MATH 166 - Complex Analysis II",
+                "acad_orgs": [
+                    "LBIMS"
+                ],
+                "acad_groups": [
+                    "CAS"
+                ]
+            },
+            "prerequisites": "MATH 165"
+        },
+        {
+            "id": 5581,
+            "curriculum_id": 68,
+            "course_id": 649,
+            "year": "0",
+            "sem": "0",
+            "description": "",
+            "course_type": "MAJOR",
+            "sub_type": "--",
+            "group_id": null,
+            "created_at": null,
+            "updated_at": null,
+            "units": null,
+            "course": {
+                "course_code": "MATH 175",
+                "course_id": 649,
+                "title": "Numerical Analysis II",
+                "type": "NA",
+                "is_academic": true,
+                "is_multiple_enrollment": false,
+                "is_repeatable": false,
+                "course_code_title": "MATH 175 - Numerical Analysis II",
+                "acad_orgs": [
+                    "LBIMS"
+                ],
+                "acad_groups": [
+                    "CAS"
+                ]
+            }
+        },
+        {
+            "id": 5582,
+            "curriculum_id": 68,
+            "course_id": 651,
+            "year": "0",
+            "sem": "0",
+            "description": "",
+            "course_type": "MAJOR",
+            "sub_type": "--",
+            "group_id": null,
+            "created_at": null,
+            "updated_at": null,
+            "units": null,
+            "course": {
+                "course_code": "MATH 182",
+                "course_id": 651,
+                "title": "Introduction to Stochastic Processes",
+                "type": "NA",
+                "is_academic": true,
+                "is_multiple_enrollment": false,
+                "is_repeatable": false,
+                "course_code_title": "MATH 182 - Introduction to Stochastic Processes",
+                "acad_orgs": [
+                    "LBIMS"
+                ],
+                "acad_groups": [
+                    "CAS"
+                ]
+            }
+        },
+        {
+            "id": 5583,
+            "curriculum_id": 68,
+            "course_id": null,
+            "year": "0",
+            "sem": "0",
+            "description": "",
+            "course_type": "ELECTIVE",
+            "sub_type": "--",
+            "group_id": null,
+            "created_at": null,
+            "updated_at": null,
+            "units": null,
+            "course": null
+        },
+        {
+            "id": 5539,
+            "curriculum_id": 68,
+            "course_id": 841,
+            "year": "2",
+            "sem": "2",
+            "description": "",
+            "course_type": "REQUIRED",
+            "sub_type": "--",
+            "group_id": null,
+            "created_at": null,
+            "updated_at": null,
+            "units": null,
+            "course": {
+                "course_code": "STS 1",
+                "course_id": 841,
+                "title": "(GE). Science, Technology, and Society",
+                "type": "NA",
+                "is_academic": true,
+                "is_multiple_enrollment": false,
+                "is_repeatable": false,
+                "course_code_title": "STS 1 - (GE). Science, Technology, and Society",
+                "acad_orgs": [
+                    "LBDSS"
+                ],
+                "acad_groups": [
+                    "CAS"
+                ]
+            }
+        },
+        {
+            "id": 5546,
+            "curriculum_id": 68,
+            "course_id": 721,
+            "year": "3",
+            "sem": "1",
+            "description": "",
+            "course_type": "REQUIRED",
+            "sub_type": "--",
+            "group_id": null,
+            "created_at": null,
+            "updated_at": null,
+            "units": null,
+            "course": {
+                "course_code": "COMM 10",
+                "course_id": 721,
+                "title": "(GE). Critical Perspectives in Communication",
+                "type": "NA",
+                "is_academic": true,
+                "is_multiple_enrollment": false,
+                "is_repeatable": false,
+                "course_code_title": "COMM 10 - (GE). Critical Perspectives in Communication",
+                "acad_orgs": [
+                    "LBDHUM"
+                ],
+                "acad_groups": [
+                    "CDC"
+                ]
+            }
+        },
+        {
+            "id": 5527,
+            "curriculum_id": 68,
+            "course_id": 815,
+            "year": "1",
+            "sem": "2",
+            "description": "",
+            "course_type": "REQUIRED",
+            "sub_type": "--",
+            "group_id": 1,
+            "created_at": null,
+            "updated_at": null,
+            "units": 2,
+            "course": {
+                "course_code": "HK 13",
+                "course_id": 815,
+                "title": "Advanced Human Kinetics Activities",
+                "type": "NA",
+                "is_academic": false,
+                "is_multiple_enrollment": false,
+                "is_repeatable": false,
+                "course_code_title": "HK 13 - Advanced Human Kinetics Activities",
+                "acad_orgs": [],
+                "acad_groups": []
+            }
+        },
+        {
+            "id": 5532,
+            "curriculum_id": 68,
+            "course_id": 814,
+            "year": "2",
+            "sem": "1",
+            "description": "",
+            "course_type": "REQUIRED",
+            "sub_type": "--",
+            "group_id": 1,
+            "created_at": null,
+            "updated_at": null,
+            "units": 2,
+            "course": {
+                "course_code": "HK 12",
+                "course_id": 814,
+                "title": "Human Kinetics Activities",
+                "type": "NA",
+                "is_academic": false,
+                "is_multiple_enrollment": true,
+                "is_repeatable": true,
+                "course_code_title": "HK 12 - Human Kinetics Activities",
+                "acad_orgs": [
+                    "LBDHK"
+                ],
+                "acad_groups": [
+                    "CAS"
+                ]
+            }
+        },
+        {
+            "id": 5533,
+            "curriculum_id": 68,
+            "course_id": 815,
+            "year": "2",
+            "sem": "1",
+            "description": "",
+            "course_type": "REQUIRED",
+            "sub_type": "--",
+            "group_id": 1,
+            "created_at": null,
+            "updated_at": null,
+            "units": 2,
+            "course": {
+                "course_code": "HK 13",
+                "course_id": 815,
+                "title": "Advanced Human Kinetics Activities",
+                "type": "NA",
+                "is_academic": false,
+                "is_multiple_enrollment": false,
+                "is_repeatable": false,
+                "course_code_title": "HK 13 - Advanced Human Kinetics Activities",
+                "acad_orgs": [],
+                "acad_groups": []
+            }
+        },
+        {
+            "id": 5540,
+            "curriculum_id": 68,
+            "course_id": 814,
+            "year": "2",
+            "sem": "2",
+            "description": "",
+            "course_type": "REQUIRED",
+            "sub_type": "--",
+            "group_id": 1,
+            "created_at": null,
+            "updated_at": null,
+            "units": 2,
+            "course": {
+                "course_code": "HK 12",
+                "course_id": 814,
+                "title": "Human Kinetics Activities",
+                "type": "NA",
+                "is_academic": false,
+                "is_multiple_enrollment": true,
+                "is_repeatable": true,
+                "course_code_title": "HK 12 - Human Kinetics Activities",
+                "acad_orgs": [
+                    "LBDHK"
+                ],
+                "acad_groups": [
+                    "CAS"
+                ]
+            }
+        },
+        {
+            "id": 5541,
+            "curriculum_id": 68,
+            "course_id": 815,
+            "year": "2",
+            "sem": "2",
+            "description": "",
+            "course_type": "REQUIRED",
+            "sub_type": "--",
+            "group_id": 1,
+            "created_at": null,
+            "updated_at": null,
+            "units": 2,
+            "course": {
+                "course_code": "HK 13",
+                "course_id": 815,
+                "title": "Advanced Human Kinetics Activities",
+                "type": "NA",
+                "is_academic": false,
+                "is_multiple_enrollment": false,
+                "is_repeatable": false,
+                "course_code_title": "HK 13 - Advanced Human Kinetics Activities",
+                "acad_orgs": [],
+                "acad_groups": []
+            }
+        },
+        {
+            "id": 5526,
+            "curriculum_id": 68,
+            "course_id": 814,
+            "year": "1",
+            "sem": "2",
+            "description": "",
+            "course_type": "REQUIRED",
+            "sub_type": "--",
+            "group_id": 1,
+            "created_at": null,
+            "updated_at": null,
+            "units": 2,
+            "course": {
+                "course_code": "HK 12",
+                "course_id": 814,
+                "title": "Human Kinetics Activities",
+                "type": "NA",
+                "is_academic": false,
+                "is_multiple_enrollment": true,
+                "is_repeatable": true,
+                "course_code_title": "HK 12 - Human Kinetics Activities",
+                "acad_orgs": [
+                    "LBDHK"
+                ],
+                "acad_groups": [
+                    "CAS"
+                ]
+            }
+        }
+    ],
+    "curriculum_structures": [
+        {
+            "curriculum_id": 68,
+            "year": "1",
+            "sem": "1",
+            "major_units": 0,
+            "ge_elective_units": 0,
+            "required_units": 0,
+            "elective_units": 0,
+            "cognate_units": 0,
+            "specialized_units": 0,
+            "track_units": 0,
+            "total_units": 0,
+            "major_count": 0,
+            "ge_elective_count": 0,
+            "required_count": 5,
+            "elective_count": 0,
+            "cognate_count": 0,
+            "specialized_count": 0,
+            "track_count": 0,
+            "total_count": 5,
+            "created_at": null,
+            "updated_at": null
+        },
+        {
+            "curriculum_id": 68,
+            "year": "1",
+            "sem": "2",
+            "major_units": 0,
+            "ge_elective_units": 0,
+            "required_units": 0,
+            "elective_units": 0,
+            "cognate_units": 0,
+            "specialized_units": 0,
+            "track_units": 0,
+            "total_units": 0,
+            "major_count": 0,
+            "ge_elective_count": 1,
+            "required_count": 5,
+            "elective_count": 0,
+            "cognate_count": 0,
+            "specialized_count": 0,
+            "track_count": 0,
+            "total_count": 6,
+            "created_at": null,
+            "updated_at": null
+        },
+        {
+            "curriculum_id": 68,
+            "year": "2",
+            "sem": "1",
+            "major_units": 0,
+            "ge_elective_units": 0,
+            "required_units": 0,
+            "elective_units": 0,
+            "cognate_units": 0,
+            "specialized_units": 0,
+            "track_units": 0,
+            "total_units": 0,
+            "major_count": 0,
+            "ge_elective_count": 1,
+            "required_count": 4,
+            "elective_count": 0,
+            "cognate_count": 0,
+            "specialized_count": 0,
+            "track_count": 0,
+            "total_count": 5,
+            "created_at": null,
+            "updated_at": null
+        },
+        {
+            "curriculum_id": 68,
+            "year": "2",
+            "sem": "2",
+            "major_units": 0,
+            "ge_elective_units": 0,
+            "required_units": 0,
+            "elective_units": 0,
+            "cognate_units": 0,
+            "specialized_units": 0,
+            "track_units": 0,
+            "total_units": 0,
+            "major_count": 0,
+            "ge_elective_count": 1,
+            "required_count": 5,
+            "elective_count": 0,
+            "cognate_count": 0,
+            "specialized_count": 0,
+            "track_count": 0,
+            "total_count": 6,
+            "created_at": null,
+            "updated_at": null
+        },
+        {
+            "curriculum_id": 68,
+            "year": "3",
+            "sem": "1",
+            "major_units": 0,
+            "ge_elective_units": 0,
+            "required_units": 0,
+            "elective_units": 0,
+            "cognate_units": 0,
+            "specialized_units": 0,
+            "track_units": 0,
+            "total_units": 0,
+            "major_count": 0,
+            "ge_elective_count": 0,
+            "required_count": 5,
+            "elective_count": 0,
+            "cognate_count": 0,
+            "specialized_count": 0,
+            "track_count": 0,
+            "total_count": 5,
+            "created_at": null,
+            "updated_at": null
+        },
+        {
+            "curriculum_id": 68,
+            "year": "3",
+            "sem": "2",
+            "major_units": 0,
+            "ge_elective_units": 0,
+            "required_units": 0,
+            "elective_units": 0,
+            "cognate_units": 0,
+            "specialized_units": 0,
+            "track_units": 0,
+            "total_units": 0,
+            "major_count": 0,
+            "ge_elective_count": 1,
+            "required_count": 4,
+            "elective_count": 0,
+            "cognate_count": 0,
+            "specialized_count": 0,
+            "track_count": 0,
+            "total_count": 5,
+            "created_at": null,
+            "updated_at": null
+        },
+        {
+            "curriculum_id": 68,
+            "year": "3",
+            "sem": "3",
+            "major_units": 0,
+            "ge_elective_units": 0,
+            "required_units": 0,
+            "elective_units": 0,
+            "cognate_units": 0,
+            "specialized_units": 0,
+            "track_units": 0,
+            "total_units": 0,
+            "major_count": 0,
+            "ge_elective_count": 0,
+            "required_count": 1,
+            "elective_count": 0,
+            "cognate_count": 0,
+            "specialized_count": 0,
+            "track_count": 0,
+            "total_count": 1,
+            "created_at": null,
+            "updated_at": null
+        },
+        {
+            "curriculum_id": 68,
+            "year": "4",
+            "sem": "1",
+            "major_units": 0,
+            "ge_elective_units": 0,
+            "required_units": 0,
+            "elective_units": 0,
+            "cognate_units": 0,
+            "specialized_units": 0,
+            "track_units": 0,
+            "total_units": 0,
+            "major_count": 0,
+            "ge_elective_count": 1,
+            "required_count": 4,
+            "elective_count": 0,
+            "cognate_count": 0,
+            "specialized_count": 0,
+            "track_count": 0,
+            "total_count": 5,
+            "created_at": null,
+            "updated_at": null
+        },
+        {
+            "curriculum_id": 68,
+            "year": "4",
+            "sem": "2",
+            "major_units": 0,
+            "ge_elective_units": 0,
+            "required_units": 0,
+            "elective_units": 0,
+            "cognate_units": 0,
+            "specialized_units": 0,
+            "track_units": 0,
+            "total_units": 0,
+            "major_count": 0,
+            "ge_elective_count": 0,
+            "required_count": 3,
+            "elective_count": 2,
+            "cognate_count": 0,
+            "specialized_count": 0,
+            "track_count": 0,
+            "total_count": 5,
+            "created_at": null,
+            "updated_at": null
+        }
+    ],
+    "curriculum_courses_list": [],
+    "curriculum_components": [],
+    "number_of_required_mentors": []
+}

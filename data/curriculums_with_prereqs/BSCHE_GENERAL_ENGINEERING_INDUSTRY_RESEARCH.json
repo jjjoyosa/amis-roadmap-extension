@@ -1,0 +1,3611 @@
+{
+    "curriculum_id": 96,
+    "code": "BSChE_2018_GENERAL_ENGINEERING_INDUSTRY_RESEARCH",
+    "program_id": 21,
+    "name": "BSChE 2018 General Engineering Industry Research",
+    "type": "GENERAL",
+    "status": "ACTIVE",
+    "acad_org": null,
+    "acad_group": null,
+    "created_at": null,
+    "updated_at": null,
+    "is_visible": "true",
+    "course_work_guide": null,
+    "approved_by": null,
+    "date_approved": null,
+    "program": {
+        "program_id": 21,
+        "acronym": "BSCHE",
+        "title": "Bachelor of Science in Chemical Engineering",
+        "career": "UGRD",
+        "college": "CEAT",
+        "description": "The graduates of this curriculum are expected to meet the technical manpower requirements of the newly emerging agri-based industries and traditional chemical process industries, specifically in the area of bioprocess engineering and chemical process engineering. Chemical engineers with some understanding of bioprocesses are needed to scale up production from laboratory to pilot into the industrial level. In the long run, local processing of raw materials into consumer and industrial products should help raise rural income, generate foreign exchange and protect the Philippine economy from adverse external trade conditions. Students in this program may take the general curriculum or the major in Sugar Technology or Pulp and Paper Technology options. These curricula require 15 units of GE Core courses, 9 units of GE Elective courses, 3 units of a legislated course, 46 units of foundation courses in basic sciences (Mathematics, Physics and Chemistry), and 20 units of general engineering courses. The general curriculum includes 54 units of Chemical Engineering courses and 6 units of cognate courses which may be chosen from the following fields: statistical modeling, forest products and paper science, management, scientific and technical communication, environmental chemistry, biotechnology, food microbiology, economics, sugar engineering, food engineering, dairy technology, entrepreneurship, and technopreneurship. In addition, a 3-unit internship course provides on-the-job training and experience for graduating students. Finally, 6 units are devoted to either of the following 3 options: undergraduate thesis, innovationeering or engineering industry research, to provide the student experience in integrating and applying his technical knowledge in solving industrial processing problems and generating new technologies relevant to agri-based industries.",
+        "degree_id": 1,
+        "created_at": null,
+        "updated_at": null,
+        "max_units": 21,
+        "is_visible": "YES",
+        "term_type_offer": "Semestral",
+        "acad_org": null
+    },
+    "curriculum_courses": [
+        {
+            "id": 7582,
+            "curriculum_id": 96,
+            "course_id": 1250,
+            "year": "0",
+            "sem": "0",
+            "description": "",
+            "course_type": "COGNATE",
+            "sub_type": "--",
+            "group_id": null,
+            "created_at": null,
+            "updated_at": null,
+            "units": null,
+            "course": {
+                "course_code": "FST 130",
+                "course_id": 1250,
+                "title": "Food Engineering I",
+                "type": "NA",
+                "is_academic": true,
+                "is_multiple_enrollment": false,
+                "is_repeatable": false,
+                "course_code_title": "FST 130 - Food Engineering I",
+                "acad_orgs": [
+                    "LBIFST"
+                ],
+                "acad_groups": [
+                    "CAFS"
+                ]
+            },
+            "prerequisites": "MATH 27 and PHYS 3"
+        },
+        {
+            "id": 7485,
+            "curriculum_id": 96,
+            "course_id": 939,
+            "year": "1",
+            "sem": "1",
+            "description": "",
+            "course_type": "REQUIRED",
+            "sub_type": "--",
+            "group_id": null,
+            "created_at": null,
+            "updated_at": null,
+            "units": null,
+            "course": {
+                "course_code": "ChE 10",
+                "course_id": 939,
+                "title": "Introduction to Chemical Engineering Profession",
+                "type": "NA",
+                "is_academic": true,
+                "is_multiple_enrollment": false,
+                "is_repeatable": false,
+                "course_code_title": "ChE 10 - Introduction to Chemical Engineering Profession",
+                "acad_orgs": [
+                    "LBDCHE"
+                ],
+                "acad_groups": [
+                    "CEAT"
+                ]
+            }
+        },
+        {
+            "id": 7486,
+            "curriculum_id": 96,
+            "course_id": 492,
+            "year": "1",
+            "sem": "1",
+            "description": "",
+            "course_type": "REQUIRED",
+            "sub_type": "--",
+            "group_id": null,
+            "created_at": null,
+            "updated_at": null,
+            "units": null,
+            "course": {
+                "course_code": "CHEM 18",
+                "course_id": 492,
+                "title": "University Chemistry",
+                "type": "NA",
+                "is_academic": true,
+                "is_multiple_enrollment": false,
+                "is_repeatable": false,
+                "course_code_title": "CHEM 18 - University Chemistry",
+                "acad_orgs": [
+                    "LBIC"
+                ],
+                "acad_groups": [
+                    "CAS"
+                ]
+            }
+        },
+        {
+            "id": 7487,
+            "curriculum_id": 96,
+            "course_id": 493,
+            "year": "1",
+            "sem": "1",
+            "description": "",
+            "course_type": "REQUIRED",
+            "sub_type": "--",
+            "group_id": null,
+            "created_at": null,
+            "updated_at": null,
+            "units": null,
+            "course": {
+                "course_code": "CHEM 18.1",
+                "course_id": 493,
+                "title": "University Chemistry Laboratory",
+                "type": "NA",
+                "is_academic": true,
+                "is_multiple_enrollment": false,
+                "is_repeatable": false,
+                "course_code_title": "CHEM 18.1 - University Chemistry Laboratory",
+                "acad_orgs": [
+                    "LBIC"
+                ],
+                "acad_groups": [
+                    "CAS"
+                ]
+            }
+        },
+        {
+            "id": 7488,
+            "curriculum_id": 96,
+            "course_id": 623,
+            "year": "1",
+            "sem": "1",
+            "description": "",
+            "course_type": "REQUIRED",
+            "sub_type": "--",
+            "group_id": null,
+            "created_at": null,
+            "updated_at": null,
+            "units": null,
+            "course": {
+                "course_code": "MATH 27",
+                "course_id": 623,
+                "title": "Analytic Geometry and Calculus II",
+                "type": "NA",
+                "is_academic": true,
+                "is_multiple_enrollment": false,
+                "is_repeatable": false,
+                "course_code_title": "MATH 27 - Analytic Geometry and Calculus II",
+                "acad_orgs": [
+                    "LBIMS"
+                ],
+                "acad_groups": [
+                    "CAS"
+                ]
+            },
+            "prerequisites": "MATH 26"
+        },
+        {
+            "id": 7489,
+            "curriculum_id": 96,
+            "course_id": 660,
+            "year": "1",
+            "sem": "1",
+            "description": "",
+            "course_type": "REQUIRED",
+            "sub_type": "--",
+            "group_id": null,
+            "created_at": null,
+            "updated_at": null,
+            "units": null,
+            "course": {
+                "course_code": "PHYS 51",
+                "course_id": 660,
+                "title": "Elements of Physics",
+                "type": "NA",
+                "is_academic": true,
+                "is_multiple_enrollment": false,
+                "is_repeatable": false,
+                "course_code_title": "PHYS 51 - Elements of Physics",
+                "acad_orgs": [
+                    "LBIoP"
+                ],
+                "acad_groups": [
+                    "CAS"
+                ]
+            }
+        },
+        {
+            "id": 7490,
+            "curriculum_id": 96,
+            "course_id": 661,
+            "year": "1",
+            "sem": "1",
+            "description": "",
+            "course_type": "REQUIRED",
+            "sub_type": "--",
+            "group_id": null,
+            "created_at": null,
+            "updated_at": null,
+            "units": null,
+            "course": {
+                "course_code": "PHYS 51.1",
+                "course_id": 661,
+                "title": "Elements of Physics Laboratory",
+                "type": "NA",
+                "is_academic": true,
+                "is_multiple_enrollment": false,
+                "is_repeatable": false,
+                "course_code_title": "PHYS 51.1 - Elements of Physics Laboratory",
+                "acad_orgs": [
+                    "LBIoP"
+                ],
+                "acad_groups": [
+                    "CAS"
+                ]
+            }
+        },
+        {
+            "id": 7491,
+            "curriculum_id": 96,
+            "course_id": 453,
+            "year": "1",
+            "sem": "1",
+            "description": "",
+            "course_type": "REQUIRED",
+            "sub_type": "--",
+            "group_id": null,
+            "created_at": null,
+            "updated_at": null,
+            "units": null,
+            "course": {
+                "course_code": "MCB 11",
+                "course_id": 453,
+                "title": "Biology and Applications of Microorganisms",
+                "type": "NA",
+                "is_academic": true,
+                "is_multiple_enrollment": false,
+                "is_repeatable": false,
+                "course_code_title": "MCB 11 - Biology and Applications of Microorganisms",
+                "acad_orgs": [
+                    "LBIBS"
+                ],
+                "acad_groups": [
+                    "CAS"
+                ]
+            }
+        },
+        {
+            "id": 7492,
+            "curriculum_id": 96,
+            "course_id": 828,
+            "year": "1",
+            "sem": "1",
+            "description": "",
+            "course_type": "REQUIRED",
+            "sub_type": "--",
+            "group_id": null,
+            "created_at": null,
+            "updated_at": null,
+            "units": null,
+            "course": {
+                "course_code": "PI 10",
+                "course_id": 828,
+                "title": "(GE). The Life and Works of Rizal",
+                "type": "NA",
+                "is_academic": true,
+                "is_multiple_enrollment": false,
+                "is_repeatable": false,
+                "course_code_title": "PI 10 - (GE). The Life and Works of Rizal",
+                "acad_orgs": [
+                    "LBDSS"
+                ],
+                "acad_groups": [
+                    "CAS"
+                ]
+            }
+        },
+        {
+            "id": 7493,
+            "curriculum_id": 96,
+            "course_id": 813,
+            "year": "1",
+            "sem": "1",
+            "description": "",
+            "course_type": "REQUIRED",
+            "sub_type": "--",
+            "group_id": null,
+            "created_at": null,
+            "updated_at": null,
+            "units": 2,
+            "course": {
+                "course_code": "HK 11",
+                "course_id": 813,
+                "title": "Wellness and Basic Injury Management",
+                "type": "NA",
+                "is_academic": false,
+                "is_multiple_enrollment": false,
+                "is_repeatable": false,
+                "course_code_title": "HK 11 - Wellness and Basic Injury Management",
+                "acad_orgs": [
+                    "LBDHK"
+                ],
+                "acad_groups": [
+                    "CAS"
+                ]
+            }
+        },
+        {
+            "id": 7495,
+            "curriculum_id": 96,
+            "course_id": 495,
+            "year": "1",
+            "sem": "2",
+            "description": "",
+            "course_type": "REQUIRED",
+            "sub_type": "--",
+            "group_id": null,
+            "created_at": null,
+            "updated_at": null,
+            "units": null,
+            "course": {
+                "course_code": "CHEM 32",
+                "course_id": 495,
+                "title": "Quantitative Inorganic Analysis",
+                "type": "NA",
+                "is_academic": true,
+                "is_multiple_enrollment": false,
+                "is_repeatable": false,
+                "course_code_title": "CHEM 32 - Quantitative Inorganic Analysis",
+                "acad_orgs": [
+                    "LBIC"
+                ],
+                "acad_groups": [
+                    "CAS"
+                ]
+            }
+        },
+        {
+            "id": 7496,
+            "curriculum_id": 96,
+            "course_id": 496,
+            "year": "1",
+            "sem": "2",
+            "description": "",
+            "course_type": "REQUIRED",
+            "sub_type": "--",
+            "group_id": null,
+            "created_at": null,
+            "updated_at": null,
+            "units": null,
+            "course": {
+                "course_code": "CHEM 32.1",
+                "course_id": 496,
+                "title": "Quantitative Inorganic Analysis Laboratory",
+                "type": "NA",
+                "is_academic": true,
+                "is_multiple_enrollment": false,
+                "is_repeatable": false,
+                "course_code_title": "CHEM 32.1 - Quantitative Inorganic Analysis Laboratory",
+                "acad_orgs": [
+                    "LBIC"
+                ],
+                "acad_groups": [
+                    "CAS"
+                ]
+            },
+            "prerequisites": "CHEM\n160 or CHEM 161"
+        },
+        {
+            "id": 7497,
+            "curriculum_id": 96,
+            "course_id": 497,
+            "year": "1",
+            "sem": "2",
+            "description": "",
+            "course_type": "REQUIRED",
+            "sub_type": "--",
+            "group_id": null,
+            "created_at": null,
+            "updated_at": null,
+            "units": null,
+            "course": {
+                "course_code": "CHEM 40",
+                "course_id": 497,
+                "title": "Basic Organic Chemistry",
+                "type": "NA",
+                "is_academic": true,
+                "is_multiple_enrollment": false,
+                "is_repeatable": false,
+                "course_code_title": "CHEM 40 - Basic Organic Chemistry",
+                "acad_orgs": [
+                    "LBIC"
+                ],
+                "acad_groups": [
+                    "CAS"
+                ]
+            },
+            "prerequisites": "BIO 101"
+        },
+        {
+            "id": 7498,
+            "curriculum_id": 96,
+            "course_id": 498,
+            "year": "1",
+            "sem": "2",
+            "description": "",
+            "course_type": "REQUIRED",
+            "sub_type": "--",
+            "group_id": null,
+            "created_at": null,
+            "updated_at": null,
+            "units": null,
+            "course": {
+                "course_code": "CHEM 40.1",
+                "course_id": 498,
+                "title": "Basic Organic Chemistry Laboratory",
+                "type": "NA",
+                "is_academic": true,
+                "is_multiple_enrollment": false,
+                "is_repeatable": false,
+                "course_code_title": "CHEM 40.1 - Basic Organic Chemistry Laboratory",
+                "acad_orgs": [
+                    "LBIC"
+                ],
+                "acad_groups": [
+                    "CAS"
+                ]
+            }
+        },
+        {
+            "id": 7499,
+            "curriculum_id": 96,
+            "course_id": 624,
+            "year": "1",
+            "sem": "2",
+            "description": "",
+            "course_type": "REQUIRED",
+            "sub_type": "--",
+            "group_id": null,
+            "created_at": null,
+            "updated_at": null,
+            "units": null,
+            "course": {
+                "course_code": "MATH 28",
+                "course_id": 624,
+                "title": "Analytic Geometry and Calculus III",
+                "type": "NA",
+                "is_academic": true,
+                "is_multiple_enrollment": false,
+                "is_repeatable": false,
+                "course_code_title": "MATH 28 - Analytic Geometry and Calculus III",
+                "acad_orgs": [
+                    "LBIMS"
+                ],
+                "acad_groups": [
+                    "CAS"
+                ]
+            },
+            "prerequisites": "MATH 27"
+        },
+        {
+            "id": 7502,
+            "curriculum_id": 96,
+            "course_id": 814,
+            "year": "1",
+            "sem": "2",
+            "description": "",
+            "course_type": "REQUIRED",
+            "sub_type": "--",
+            "group_id": null,
+            "created_at": null,
+            "updated_at": null,
+            "units": 2,
+            "course": {
+                "course_code": "HK 12",
+                "course_id": 814,
+                "title": "Human Kinetics Activities",
+                "type": "NA",
+                "is_academic": false,
+                "is_multiple_enrollment": true,
+                "is_repeatable": true,
+                "course_code_title": "HK 12 - Human Kinetics Activities",
+                "acad_orgs": [
+                    "LBDHK"
+                ],
+                "acad_groups": [
+                    "CAS"
+                ]
+            }
+        },
+        {
+            "id": 7504,
+            "curriculum_id": 96,
+            "course_id": 940,
+            "year": "2",
+            "sem": "1",
+            "description": "",
+            "course_type": "REQUIRED",
+            "sub_type": "--",
+            "group_id": null,
+            "created_at": null,
+            "updated_at": null,
+            "units": null,
+            "course": {
+                "course_code": "ChE 30",
+                "course_id": 940,
+                "title": "Fundamentals of Chemical Engineering",
+                "type": "NA",
+                "is_academic": true,
+                "is_multiple_enrollment": false,
+                "is_repeatable": false,
+                "course_code_title": "ChE 30 - Fundamentals of Chemical Engineering",
+                "acad_orgs": [
+                    "LBDCHE"
+                ],
+                "acad_groups": [
+                    "CEAT"
+                ]
+            }
+        },
+        {
+            "id": 7505,
+            "curriculum_id": 96,
+            "course_id": 1083,
+            "year": "2",
+            "sem": "1",
+            "description": "",
+            "course_type": "REQUIRED",
+            "sub_type": "--",
+            "group_id": null,
+            "created_at": null,
+            "updated_at": null,
+            "units": null,
+            "course": {
+                "course_code": "ENSC 10.1",
+                "course_id": 1083,
+                "title": "Engineering Graphics Laboratory",
+                "type": "NA",
+                "is_academic": true,
+                "is_multiple_enrollment": false,
+                "is_repeatable": false,
+                "course_code_title": "ENSC 10.1 - Engineering Graphics Laboratory",
+                "acad_orgs": [
+                    "LBDENSC"
+                ],
+                "acad_groups": [
+                    "CEAT"
+                ]
+            }
+        },
+        {
+            "id": 7506,
+            "curriculum_id": 96,
+            "course_id": 1084,
+            "year": "2",
+            "sem": "1",
+            "description": "",
+            "course_type": "REQUIRED",
+            "sub_type": "--",
+            "group_id": null,
+            "created_at": null,
+            "updated_at": null,
+            "units": null,
+            "course": {
+                "course_code": "ENSC 11",
+                "course_id": 1084,
+                "title": "Statics of Rigid Bodies",
+                "type": "NA",
+                "is_academic": true,
+                "is_multiple_enrollment": false,
+                "is_repeatable": false,
+                "course_code_title": "ENSC 11 - Statics of Rigid Bodies",
+                "acad_orgs": [
+                    "LBDENSC"
+                ],
+                "acad_groups": [
+                    "CEAT"
+                ]
+            },
+            "prerequisites": "MATH 27 or MATH 37 and PHYS 3 or\nPHYS 81"
+        },
+        {
+            "id": 7507,
+            "curriculum_id": 96,
+            "course_id": 996,
+            "year": "2",
+            "sem": "1",
+            "description": "",
+            "course_type": "REQUIRED",
+            "sub_type": "--",
+            "group_id": null,
+            "created_at": null,
+            "updated_at": null,
+            "units": null,
+            "course": {
+                "course_code": "EE 1",
+                "course_id": 996,
+                "title": "Basic Electrical Engineering",
+                "type": "NA",
+                "is_academic": true,
+                "is_multiple_enrollment": false,
+                "is_repeatable": false,
+                "course_code_title": "EE 1 - Basic Electrical Engineering",
+                "acad_orgs": [
+                    "LBDEE"
+                ],
+                "acad_groups": [
+                    "CEAT"
+                ]
+            }
+        },
+        {
+            "id": 7508,
+            "curriculum_id": 96,
+            "course_id": 504,
+            "year": "2",
+            "sem": "1",
+            "description": "",
+            "course_type": "REQUIRED",
+            "sub_type": "--",
+            "group_id": null,
+            "created_at": null,
+            "updated_at": null,
+            "units": null,
+            "course": {
+                "course_code": "CHEM 111",
+                "course_id": 504,
+                "title": "Physical Chemistry I",
+                "type": "NA",
+                "is_academic": true,
+                "is_multiple_enrollment": false,
+                "is_repeatable": false,
+                "course_code_title": "CHEM 111 - Physical Chemistry I",
+                "acad_orgs": [
+                    "LBIC"
+                ],
+                "acad_groups": [
+                    "CAS"
+                ]
+            }
+        },
+        {
+            "id": 7509,
+            "curriculum_id": 96,
+            "course_id": 518,
+            "year": "2",
+            "sem": "1",
+            "description": "",
+            "course_type": "REQUIRED",
+            "sub_type": "--",
+            "group_id": null,
+            "created_at": null,
+            "updated_at": null,
+            "units": null,
+            "course": {
+                "course_code": "CHEM 160",
+                "course_id": 518,
+                "title": "Introductory Biochemistry",
+                "type": "NA",
+                "is_academic": true,
+                "is_multiple_enrollment": false,
+                "is_repeatable": false,
+                "course_code_title": "CHEM 160 - Introductory Biochemistry",
+                "acad_orgs": [
+                    "LBIC"
+                ],
+                "acad_groups": [
+                    "CAS"
+                ]
+            },
+            "prerequisites": "CHEM 40 and CHEM 40"
+        },
+        {
+            "id": 7514,
+            "curriculum_id": 96,
+            "course_id": 1094,
+            "year": "2",
+            "sem": "2",
+            "description": "",
+            "course_type": "REQUIRED",
+            "sub_type": "--",
+            "group_id": null,
+            "created_at": null,
+            "updated_at": null,
+            "units": null,
+            "course": {
+                "course_code": "ENSC 26",
+                "course_id": 1094,
+                "title": "Computer Applications in Engineering",
+                "type": "NA",
+                "is_academic": true,
+                "is_multiple_enrollment": false,
+                "is_repeatable": false,
+                "course_code_title": "ENSC 26 - Computer Applications in Engineering",
+                "acad_orgs": [
+                    "LBDENSC"
+                ],
+                "acad_groups": [
+                    "CEAT"
+                ]
+            },
+            "prerequisites": "CMSC 11 or COI and MATH 28 or MATH 38"
+        },
+        {
+            "id": 7515,
+            "curriculum_id": 96,
+            "course_id": 941,
+            "year": "2",
+            "sem": "2",
+            "description": "",
+            "course_type": "REQUIRED",
+            "sub_type": "--",
+            "group_id": null,
+            "created_at": null,
+            "updated_at": null,
+            "units": null,
+            "course": {
+                "course_code": "ChE 32",
+                "course_id": 941,
+                "title": "Industrial Stoichiometry",
+                "type": "NA",
+                "is_academic": true,
+                "is_multiple_enrollment": false,
+                "is_repeatable": false,
+                "course_code_title": "ChE 32 - Industrial Stoichiometry",
+                "acad_orgs": [
+                    "LBDCHE"
+                ],
+                "acad_groups": [
+                    "CEAT"
+                ]
+            }
+        },
+        {
+            "id": 7516,
+            "curriculum_id": 96,
+            "course_id": 1085,
+            "year": "2",
+            "sem": "2",
+            "description": "",
+            "course_type": "REQUIRED",
+            "sub_type": "--",
+            "group_id": null,
+            "created_at": null,
+            "updated_at": null,
+            "units": null,
+            "course": {
+                "course_code": "ENSC 12",
+                "course_id": 1085,
+                "title": "Dynamics of Rigid Bodies",
+                "type": "NA",
+                "is_academic": true,
+                "is_multiple_enrollment": false,
+                "is_repeatable": false,
+                "course_code_title": "ENSC 12 - Dynamics of Rigid Bodies",
+                "acad_orgs": [
+                    "LBDENSC"
+                ],
+                "acad_groups": [
+                    "CEAT"
+                ]
+            },
+            "prerequisites": "ENSC 11"
+        },
+        {
+            "id": 7517,
+            "curriculum_id": 96,
+            "course_id": 1093,
+            "year": "2",
+            "sem": "2",
+            "description": "",
+            "course_type": "REQUIRED",
+            "sub_type": "--",
+            "group_id": null,
+            "created_at": null,
+            "updated_at": null,
+            "units": null,
+            "course": {
+                "course_code": "ENSC 21",
+                "course_id": 1093,
+                "title": "Mathematical Methods in Engineering",
+                "type": "NA",
+                "is_academic": true,
+                "is_multiple_enrollment": false,
+                "is_repeatable": false,
+                "course_code_title": "ENSC 21 - Mathematical Methods in Engineering",
+                "acad_orgs": [
+                    "LBDENSC"
+                ],
+                "acad_groups": [
+                    "CEAT"
+                ]
+            },
+            "prerequisites": "MATH 28 or MATH 38"
+        },
+        {
+            "id": 7518,
+            "curriculum_id": 96,
+            "course_id": 505,
+            "year": "2",
+            "sem": "2",
+            "description": "",
+            "course_type": "REQUIRED",
+            "sub_type": "--",
+            "group_id": null,
+            "created_at": null,
+            "updated_at": null,
+            "units": null,
+            "course": {
+                "course_code": "CHEM 111.1",
+                "course_id": 505,
+                "title": "Physical Chemistry I Laboratory",
+                "type": "NA",
+                "is_academic": true,
+                "is_multiple_enrollment": false,
+                "is_repeatable": false,
+                "course_code_title": "CHEM 111.1 - Physical Chemistry I Laboratory",
+                "acad_orgs": [
+                    "LBIC"
+                ],
+                "acad_groups": [
+                    "CAS"
+                ]
+            },
+            "prerequisites": "CHEM 112 and\nconcurrent with PHYS 83"
+        },
+        {
+            "id": 7519,
+            "curriculum_id": 96,
+            "course_id": 506,
+            "year": "2",
+            "sem": "2",
+            "description": "",
+            "course_type": "REQUIRED",
+            "sub_type": "--",
+            "group_id": null,
+            "created_at": null,
+            "updated_at": null,
+            "units": null,
+            "course": {
+                "course_code": "CHEM 112",
+                "course_id": 506,
+                "title": "Physical Chemistry II",
+                "type": "NA",
+                "is_academic": true,
+                "is_multiple_enrollment": false,
+                "is_repeatable": false,
+                "course_code_title": "CHEM 112 - Physical Chemistry II",
+                "acad_orgs": [
+                    "LBIC"
+                ],
+                "acad_groups": [
+                    "CAS"
+                ]
+            },
+            "prerequisites": "CHEM\n32 and CHEM 32"
+        },
+        {
+            "id": 7522,
+            "curriculum_id": 96,
+            "course_id": 942,
+            "year": "3",
+            "sem": "1",
+            "description": "",
+            "course_type": "REQUIRED",
+            "sub_type": "--",
+            "group_id": null,
+            "created_at": null,
+            "updated_at": null,
+            "units": null,
+            "course": {
+                "course_code": "ChE 142",
+                "course_id": 942,
+                "title": "Chemical Engineering Thermodynamics I",
+                "type": "NA",
+                "is_academic": true,
+                "is_multiple_enrollment": false,
+                "is_repeatable": false,
+                "course_code_title": "ChE 142 - Chemical Engineering Thermodynamics I",
+                "acad_orgs": [
+                    "LBDCHE"
+                ],
+                "acad_groups": [
+                    "CEAT"
+                ]
+            }
+        },
+        {
+            "id": 7523,
+            "curriculum_id": 96,
+            "course_id": 945,
+            "year": "3",
+            "sem": "1",
+            "description": "",
+            "course_type": "REQUIRED",
+            "sub_type": "--",
+            "group_id": null,
+            "created_at": null,
+            "updated_at": null,
+            "units": null,
+            "course": {
+                "course_code": "ChE 147",
+                "course_id": 945,
+                "title": "Application of Fluid Dynamics in Chemical Engineering",
+                "type": "NA",
+                "is_academic": true,
+                "is_multiple_enrollment": false,
+                "is_repeatable": false,
+                "course_code_title": "ChE 147 - Application of Fluid Dynamics in Chemical Engineering",
+                "acad_orgs": [
+                    "LBDCHE"
+                ],
+                "acad_groups": [
+                    "CEAT"
+                ]
+            }
+        },
+        {
+            "id": 7524,
+            "curriculum_id": 96,
+            "course_id": 946,
+            "year": "3",
+            "sem": "1",
+            "description": "",
+            "course_type": "REQUIRED",
+            "sub_type": "--",
+            "group_id": null,
+            "created_at": null,
+            "updated_at": null,
+            "units": null,
+            "course": {
+                "course_code": "ChE 149",
+                "course_id": 946,
+                "title": "Transport Phenomena",
+                "type": "NA",
+                "is_academic": true,
+                "is_multiple_enrollment": false,
+                "is_repeatable": false,
+                "course_code_title": "ChE 149 - Transport Phenomena",
+                "acad_orgs": [
+                    "LBDCHE"
+                ],
+                "acad_groups": [
+                    "CEAT"
+                ]
+            }
+        },
+        {
+            "id": 7525,
+            "curriculum_id": 96,
+            "course_id": 947,
+            "year": "3",
+            "sem": "1",
+            "description": "",
+            "course_type": "REQUIRED",
+            "sub_type": "--",
+            "group_id": null,
+            "created_at": null,
+            "updated_at": null,
+            "units": null,
+            "course": {
+                "course_code": "ChE 152",
+                "course_id": 947,
+                "title": "Separation Processes",
+                "type": "NA",
+                "is_academic": true,
+                "is_multiple_enrollment": false,
+                "is_repeatable": false,
+                "course_code_title": "ChE 152 - Separation Processes",
+                "acad_orgs": [
+                    "LBDCHE"
+                ],
+                "acad_groups": [
+                    "CEAT"
+                ]
+            }
+        },
+        {
+            "id": 7526,
+            "curriculum_id": 96,
+            "course_id": 1086,
+            "year": "3",
+            "sem": "1",
+            "description": "",
+            "course_type": "REQUIRED",
+            "sub_type": "--",
+            "group_id": null,
+            "created_at": null,
+            "updated_at": null,
+            "units": null,
+            "course": {
+                "course_code": "ENSC 13",
+                "course_id": 1086,
+                "title": "Strength of Materials",
+                "type": "NA",
+                "is_academic": true,
+                "is_multiple_enrollment": false,
+                "is_repeatable": false,
+                "course_code_title": "ENSC 13 - Strength of Materials",
+                "acad_orgs": [
+                    "LBDENSC"
+                ],
+                "acad_groups": [
+                    "CEAT"
+                ]
+            },
+            "prerequisites": "ENSC 11"
+        },
+        {
+            "id": 7527,
+            "curriculum_id": 96,
+            "course_id": 708,
+            "year": "3",
+            "sem": "1",
+            "description": "",
+            "course_type": "REQUIRED",
+            "sub_type": "--",
+            "group_id": null,
+            "created_at": null,
+            "updated_at": null,
+            "units": null,
+            "course": {
+                "course_code": "STAT 168",
+                "course_id": 708,
+                "title": "Response Surface Methodology",
+                "type": "NA",
+                "is_academic": true,
+                "is_multiple_enrollment": false,
+                "is_repeatable": false,
+                "course_code_title": "STAT 168 - Response Surface Methodology",
+                "acad_orgs": [
+                    "LBINSTAT"
+                ],
+                "acad_groups": [
+                    "CAS"
+                ]
+            }
+        },
+        {
+            "id": 7529,
+            "curriculum_id": 96,
+            "course_id": 943,
+            "year": "3",
+            "sem": "2",
+            "description": "",
+            "course_type": "REQUIRED",
+            "sub_type": "--",
+            "group_id": null,
+            "created_at": null,
+            "updated_at": null,
+            "units": null,
+            "course": {
+                "course_code": "ChE 143",
+                "course_id": 943,
+                "title": "Chemical Engineering Thermodynamics II",
+                "type": "NA",
+                "is_academic": true,
+                "is_multiple_enrollment": false,
+                "is_repeatable": false,
+                "course_code_title": "ChE 143 - Chemical Engineering Thermodynamics II",
+                "acad_orgs": [
+                    "LBDCHE"
+                ],
+                "acad_groups": [
+                    "CEAT"
+                ]
+            }
+        },
+        {
+            "id": 7530,
+            "curriculum_id": 96,
+            "course_id": 944,
+            "year": "3",
+            "sem": "2",
+            "description": "",
+            "course_type": "REQUIRED",
+            "sub_type": "--",
+            "group_id": null,
+            "created_at": null,
+            "updated_at": null,
+            "units": null,
+            "course": {
+                "course_code": "ChE 145",
+                "course_id": 944,
+                "title": "Chemical Reaction Engineering",
+                "type": "NA",
+                "is_academic": true,
+                "is_multiple_enrollment": false,
+                "is_repeatable": false,
+                "course_code_title": "ChE 145 - Chemical Reaction Engineering",
+                "acad_orgs": [
+                    "LBDCHE"
+                ],
+                "acad_groups": [
+                    "CEAT"
+                ]
+            }
+        },
+        {
+            "id": 7531,
+            "curriculum_id": 96,
+            "course_id": 948,
+            "year": "3",
+            "sem": "2",
+            "description": "",
+            "course_type": "REQUIRED",
+            "sub_type": "--",
+            "group_id": null,
+            "created_at": null,
+            "updated_at": null,
+            "units": null,
+            "course": {
+                "course_code": "ChE 153",
+                "course_id": 948,
+                "title": "Transfer Operations I",
+                "type": "NA",
+                "is_academic": true,
+                "is_multiple_enrollment": false,
+                "is_repeatable": false,
+                "course_code_title": "ChE 153 - Transfer Operations I",
+                "acad_orgs": [
+                    "LBDCHE"
+                ],
+                "acad_groups": [
+                    "CEAT"
+                ]
+            }
+        },
+        {
+            "id": 7532,
+            "curriculum_id": 96,
+            "course_id": 949,
+            "year": "3",
+            "sem": "2",
+            "description": "",
+            "course_type": "REQUIRED",
+            "sub_type": "--",
+            "group_id": null,
+            "created_at": null,
+            "updated_at": null,
+            "units": null,
+            "course": {
+                "course_code": "ChE 154",
+                "course_id": 949,
+                "title": "Transfer Operations II",
+                "type": "NA",
+                "is_academic": true,
+                "is_multiple_enrollment": false,
+                "is_repeatable": false,
+                "course_code_title": "ChE 154 - Transfer Operations II",
+                "acad_orgs": [
+                    "LBDCHE"
+                ],
+                "acad_groups": [
+                    "CEAT"
+                ]
+            }
+        },
+        {
+            "id": 7533,
+            "curriculum_id": 96,
+            "course_id": 952,
+            "year": "3",
+            "sem": "2",
+            "description": "",
+            "course_type": "REQUIRED",
+            "sub_type": "--",
+            "group_id": null,
+            "created_at": null,
+            "updated_at": null,
+            "units": null,
+            "course": {
+                "course_code": "ChE 172",
+                "course_id": 952,
+                "title": "Introduction to Biochemical Engineering",
+                "type": "NA",
+                "is_academic": true,
+                "is_multiple_enrollment": false,
+                "is_repeatable": false,
+                "course_code_title": "ChE 172 - Introduction to Biochemical Engineering",
+                "acad_orgs": [
+                    "LBDCHE"
+                ],
+                "acad_groups": [
+                    "CEAT"
+                ]
+            }
+        },
+        {
+            "id": 7534,
+            "curriculum_id": 96,
+            "course_id": 953,
+            "year": "3",
+            "sem": "2",
+            "description": "",
+            "course_type": "REQUIRED",
+            "sub_type": "--",
+            "group_id": null,
+            "created_at": null,
+            "updated_at": null,
+            "units": null,
+            "course": {
+                "course_code": "ChE 180",
+                "course_id": 953,
+                "title": "Agro-industrial Waste Management",
+                "type": "NA",
+                "is_academic": true,
+                "is_multiple_enrollment": false,
+                "is_repeatable": false,
+                "course_code_title": "ChE 180 - Agro-industrial Waste Management",
+                "acad_orgs": [
+                    "LBDCHE"
+                ],
+                "acad_groups": [
+                    "CEAT"
+                ]
+            }
+        },
+        {
+            "id": 7535,
+            "curriculum_id": 96,
+            "course_id": 733,
+            "year": "3",
+            "sem": "2",
+            "description": "",
+            "course_type": "REQUIRED",
+            "sub_type": "--",
+            "group_id": null,
+            "created_at": null,
+            "updated_at": null,
+            "units": null,
+            "course": {
+                "course_code": "ENG 10",
+                "course_id": 733,
+                "title": "Writing of Scientific Papers",
+                "type": "NA",
+                "is_academic": true,
+                "is_multiple_enrollment": false,
+                "is_repeatable": false,
+                "course_code_title": "ENG 10 - Writing of Scientific Papers",
+                "acad_orgs": [
+                    "LBDHUM"
+                ],
+                "acad_groups": [
+                    "CAS"
+                ]
+            },
+            "prerequisites": "ENG 2 (AH) and at least\nJunior standing"
+        },
+        {
+            "id": 7536,
+            "curriculum_id": 96,
+            "course_id": 958,
+            "year": "3",
+            "sem": "3",
+            "description": "",
+            "course_type": "REQUIRED",
+            "sub_type": "--",
+            "group_id": null,
+            "created_at": null,
+            "updated_at": null,
+            "units": null,
+            "course": {
+                "course_code": "ChE 198",
+                "course_id": 958,
+                "title": "Internship",
+                "type": "NA",
+                "is_academic": true,
+                "is_multiple_enrollment": false,
+                "is_repeatable": false,
+                "course_code_title": "ChE 198 - Internship",
+                "acad_orgs": [
+                    "LBDCHE"
+                ],
+                "acad_groups": [
+                    "CEAT"
+                ]
+            }
+        },
+        {
+            "id": 7537,
+            "curriculum_id": 96,
+            "course_id": 950,
+            "year": "4",
+            "sem": "1",
+            "description": "",
+            "course_type": "REQUIRED",
+            "sub_type": "--",
+            "group_id": null,
+            "created_at": null,
+            "updated_at": null,
+            "units": null,
+            "course": {
+                "course_code": "ChE 157.1",
+                "course_id": 950,
+                "title": "Chemical Engineering Unit Operations Laboratory",
+                "type": "NA",
+                "is_academic": true,
+                "is_multiple_enrollment": false,
+                "is_repeatable": false,
+                "course_code_title": "ChE 157.1 - Chemical Engineering Unit Operations Laboratory",
+                "acad_orgs": [
+                    "LBDCHE"
+                ],
+                "acad_groups": [
+                    "CEAT"
+                ]
+            }
+        },
+        {
+            "id": 7538,
+            "curriculum_id": 96,
+            "course_id": 955,
+            "year": "4",
+            "sem": "1",
+            "description": "",
+            "course_type": "REQUIRED",
+            "sub_type": "--",
+            "group_id": null,
+            "created_at": null,
+            "updated_at": null,
+            "units": null,
+            "course": {
+                "course_code": "ChE 191",
+                "course_id": 955,
+                "title": "Special Topics",
+                "type": "NA",
+                "is_academic": true,
+                "is_multiple_enrollment": true,
+                "is_repeatable": true,
+                "course_code_title": "ChE 191 - Special Topics",
+                "acad_orgs": [
+                    "LBDCHE"
+                ],
+                "acad_groups": [
+                    "CEAT"
+                ]
+            }
+        },
+        {
+            "id": 7539,
+            "curriculum_id": 96,
+            "course_id": 956,
+            "year": "4",
+            "sem": "1",
+            "description": "",
+            "course_type": "REQUIRED",
+            "sub_type": "--",
+            "group_id": null,
+            "created_at": null,
+            "updated_at": null,
+            "units": null,
+            "course": {
+                "course_code": "ChE 192",
+                "course_id": 956,
+                "title": "Chemical Process Equipment Design",
+                "type": "NA",
+                "is_academic": true,
+                "is_multiple_enrollment": false,
+                "is_repeatable": false,
+                "course_code_title": "ChE 192 - Chemical Process Equipment Design",
+                "acad_orgs": [
+                    "LBDCHE"
+                ],
+                "acad_groups": [
+                    "CEAT"
+                ]
+            }
+        },
+        {
+            "id": 7542,
+            "curriculum_id": 96,
+            "course_id": 951,
+            "year": "4",
+            "sem": "2",
+            "description": "",
+            "course_type": "REQUIRED",
+            "sub_type": "--",
+            "group_id": null,
+            "created_at": null,
+            "updated_at": null,
+            "units": null,
+            "course": {
+                "course_code": "ChE 170",
+                "course_id": 951,
+                "title": "Instrumentation and Process Dynamics and Control",
+                "type": "NA",
+                "is_academic": true,
+                "is_multiple_enrollment": false,
+                "is_repeatable": false,
+                "course_code_title": "ChE 170 - Instrumentation and Process Dynamics and Control",
+                "acad_orgs": [
+                    "LBDCHE"
+                ],
+                "acad_groups": [
+                    "CEAT"
+                ]
+            }
+        },
+        {
+            "id": 7543,
+            "curriculum_id": 96,
+            "course_id": 954,
+            "year": "4",
+            "sem": "2",
+            "description": "",
+            "course_type": "REQUIRED",
+            "sub_type": "--",
+            "group_id": null,
+            "created_at": null,
+            "updated_at": null,
+            "units": null,
+            "course": {
+                "course_code": "ChE 185",
+                "course_id": 954,
+                "title": "Chemical Engineering Laws, Ethics, Specifications, and Contracts",
+                "type": "NA",
+                "is_academic": true,
+                "is_multiple_enrollment": false,
+                "is_repeatable": false,
+                "course_code_title": "ChE 185 - Chemical Engineering Laws, Ethics, Specifications, and Contracts",
+                "acad_orgs": [
+                    "LBDCHE"
+                ],
+                "acad_groups": [
+                    "CEAT"
+                ]
+            }
+        },
+        {
+            "id": 7544,
+            "curriculum_id": 96,
+            "course_id": 957,
+            "year": "4",
+            "sem": "2",
+            "description": "",
+            "course_type": "REQUIRED",
+            "sub_type": "--",
+            "group_id": null,
+            "created_at": null,
+            "updated_at": null,
+            "units": null,
+            "course": {
+                "course_code": "ChE 193",
+                "course_id": 957,
+                "title": "Plant Design",
+                "type": "NA",
+                "is_academic": true,
+                "is_multiple_enrollment": false,
+                "is_repeatable": false,
+                "course_code_title": "ChE 193 - Plant Design",
+                "acad_orgs": [
+                    "LBDCHE"
+                ],
+                "acad_groups": [
+                    "CEAT"
+                ]
+            }
+        },
+        {
+            "id": 7545,
+            "curriculum_id": 96,
+            "course_id": 959,
+            "year": "4",
+            "sem": "2",
+            "description": "",
+            "course_type": "REQUIRED",
+            "sub_type": "--",
+            "group_id": null,
+            "created_at": null,
+            "updated_at": null,
+            "units": null,
+            "course": {
+                "course_code": "ChE 199",
+                "course_id": 959,
+                "title": "Plant Inspection and Seminar",
+                "type": "NA",
+                "is_academic": true,
+                "is_multiple_enrollment": false,
+                "is_repeatable": true,
+                "course_code_title": "ChE 199 - Plant Inspection and Seminar",
+                "acad_orgs": [
+                    "LBDCHE"
+                ],
+                "acad_groups": [
+                    "CEAT"
+                ]
+            }
+        },
+        {
+            "id": 7547,
+            "curriculum_id": 96,
+            "course_id": 811,
+            "year": "0",
+            "sem": "0",
+            "description": "",
+            "course_type": "GE ELECTIVE",
+            "sub_type": "--",
+            "group_id": null,
+            "created_at": null,
+            "updated_at": null,
+            "units": null,
+            "course": {
+                "course_code": "WIKA 1",
+                "course_id": 811,
+                "title": "(GE). Wika, Kultura, at Lipunan",
+                "type": "NA",
+                "is_academic": true,
+                "is_multiple_enrollment": false,
+                "is_repeatable": false,
+                "course_code_title": "WIKA 1 - (GE). Wika, Kultura, at Lipunan",
+                "acad_orgs": [
+                    "LBDHUM"
+                ],
+                "acad_groups": [
+                    "CAS"
+                ]
+            }
+        },
+        {
+            "id": 7548,
+            "curriculum_id": 96,
+            "course_id": 842,
+            "year": "0",
+            "sem": "0",
+            "description": "",
+            "course_type": "GE ELECTIVE",
+            "sub_type": "--",
+            "group_id": null,
+            "created_at": null,
+            "updated_at": null,
+            "units": null,
+            "course": {
+                "course_code": "SAS 1",
+                "course_id": 842,
+                "title": "(GE). Self and Society",
+                "type": "NA",
+                "is_academic": true,
+                "is_multiple_enrollment": false,
+                "is_repeatable": false,
+                "course_code_title": "SAS 1 - (GE). Self and Society",
+                "acad_orgs": [
+                    "LBDSS"
+                ],
+                "acad_groups": [
+                    "CAS"
+                ]
+            }
+        },
+        {
+            "id": 7549,
+            "curriculum_id": 96,
+            "course_id": 619,
+            "year": "0",
+            "sem": "0",
+            "description": "",
+            "course_type": "GE ELECTIVE",
+            "sub_type": "--",
+            "group_id": null,
+            "created_at": null,
+            "updated_at": null,
+            "units": null,
+            "course": {
+                "course_code": "MATH 10",
+                "course_id": 619,
+                "title": "(GE). Mathematics, Culture, and Society",
+                "type": "NA",
+                "is_academic": true,
+                "is_multiple_enrollment": false,
+                "is_repeatable": false,
+                "course_code_title": "MATH 10 - (GE). Mathematics, Culture, and Society",
+                "acad_orgs": [
+                    "LBIMS"
+                ],
+                "acad_groups": [
+                    "CAS"
+                ]
+            }
+        },
+        {
+            "id": 7550,
+            "curriculum_id": 96,
+            "course_id": 758,
+            "year": "0",
+            "sem": "0",
+            "description": "",
+            "course_type": "GE ELECTIVE",
+            "sub_type": "--",
+            "group_id": null,
+            "created_at": null,
+            "updated_at": null,
+            "units": null,
+            "course": {
+                "course_code": "PHILARTS 1",
+                "course_id": 758,
+                "title": "(GE). Philippine Arts and Culture",
+                "type": "NA",
+                "is_academic": true,
+                "is_multiple_enrollment": false,
+                "is_repeatable": false,
+                "course_code_title": "PHILARTS 1 - (GE). Philippine Arts and Culture",
+                "acad_orgs": [
+                    "LBDHUM"
+                ],
+                "acad_groups": [
+                    "CAS"
+                ]
+            }
+        },
+        {
+            "id": 7551,
+            "curriculum_id": 96,
+            "course_id": 815,
+            "year": "0",
+            "sem": "0",
+            "description": "",
+            "course_type": "GE ELECTIVE",
+            "sub_type": "--",
+            "group_id": null,
+            "created_at": null,
+            "updated_at": null,
+            "units": 2,
+            "course": {
+                "course_code": "HK 13",
+                "course_id": 815,
+                "title": "Advanced Human Kinetics Activities",
+                "type": "NA",
+                "is_academic": false,
+                "is_multiple_enrollment": false,
+                "is_repeatable": false,
+                "course_code_title": "HK 13 - Advanced Human Kinetics Activities",
+                "acad_orgs": [],
+                "acad_groups": []
+            }
+        },
+        {
+            "id": 7500,
+            "curriculum_id": 96,
+            "course_id": 720,
+            "year": "1",
+            "sem": "2",
+            "description": "",
+            "course_type": "REQUIRED",
+            "sub_type": "--",
+            "group_id": null,
+            "created_at": null,
+            "updated_at": null,
+            "units": null,
+            "course": {
+                "course_code": "ARTS 1",
+                "course_id": 720,
+                "title": "(GE). Critical Perspectives in the Arts",
+                "type": "NA",
+                "is_academic": true,
+                "is_multiple_enrollment": false,
+                "is_repeatable": false,
+                "course_code_title": "ARTS 1 - (GE). Critical Perspectives in the Arts",
+                "acad_orgs": [
+                    "LBDHUM"
+                ],
+                "acad_groups": [
+                    "CAS"
+                ]
+            }
+        },
+        {
+            "id": 7501,
+            "curriculum_id": 96,
+            "course_id": 841,
+            "year": "1",
+            "sem": "2",
+            "description": "",
+            "course_type": "REQUIRED",
+            "sub_type": "--",
+            "group_id": null,
+            "created_at": null,
+            "updated_at": null,
+            "units": null,
+            "course": {
+                "course_code": "STS 1",
+                "course_id": 841,
+                "title": "(GE). Science, Technology, and Society",
+                "type": "NA",
+                "is_academic": true,
+                "is_multiple_enrollment": false,
+                "is_repeatable": false,
+                "course_code_title": "STS 1 - (GE). Science, Technology, and Society",
+                "acad_orgs": [
+                    "LBDSS"
+                ],
+                "acad_groups": [
+                    "CAS"
+                ]
+            }
+        },
+        {
+            "id": 7528,
+            "curriculum_id": 96,
+            "course_id": 721,
+            "year": "3",
+            "sem": "1",
+            "description": "",
+            "course_type": "REQUIRED",
+            "sub_type": "--",
+            "group_id": null,
+            "created_at": null,
+            "updated_at": null,
+            "units": null,
+            "course": {
+                "course_code": "COMM 10",
+                "course_id": 721,
+                "title": "(GE). Critical Perspectives in Communication",
+                "type": "NA",
+                "is_academic": true,
+                "is_multiple_enrollment": false,
+                "is_repeatable": false,
+                "course_code_title": "COMM 10 - (GE). Critical Perspectives in Communication",
+                "acad_orgs": [
+                    "LBDHUM"
+                ],
+                "acad_groups": [
+                    "CDC"
+                ]
+            }
+        },
+        {
+            "id": 7541,
+            "curriculum_id": 96,
+            "course_id": 745,
+            "year": "4",
+            "sem": "1",
+            "description": "",
+            "course_type": "REQUIRED",
+            "sub_type": "--",
+            "group_id": null,
+            "created_at": null,
+            "updated_at": null,
+            "units": null,
+            "course": {
+                "course_code": "ETHICS 1",
+                "course_id": 745,
+                "title": "(GE). Ethics and Moral Reasoning in Everyday Life",
+                "type": "NA",
+                "is_academic": true,
+                "is_multiple_enrollment": false,
+                "is_repeatable": false,
+                "course_code_title": "ETHICS 1 - (GE). Ethics and Moral Reasoning in Everyday Life",
+                "acad_orgs": [
+                    "LBDHUM"
+                ],
+                "acad_groups": [
+                    "CAS"
+                ]
+            }
+        },
+        {
+            "id": 7552,
+            "curriculum_id": 96,
+            "course_id": 815,
+            "year": "0",
+            "sem": "0",
+            "description": "",
+            "course_type": "GE ELECTIVE",
+            "sub_type": "--",
+            "group_id": null,
+            "created_at": null,
+            "updated_at": null,
+            "units": 2,
+            "course": {
+                "course_code": "HK 13",
+                "course_id": 815,
+                "title": "Advanced Human Kinetics Activities",
+                "type": "NA",
+                "is_academic": false,
+                "is_multiple_enrollment": false,
+                "is_repeatable": false,
+                "course_code_title": "HK 13 - Advanced Human Kinetics Activities",
+                "acad_orgs": [],
+                "acad_groups": []
+            }
+        },
+        {
+            "id": 7553,
+            "curriculum_id": 96,
+            "course_id": 843,
+            "year": "0",
+            "sem": "0",
+            "description": "",
+            "course_type": "GE ELECTIVE",
+            "sub_type": "--",
+            "group_id": null,
+            "created_at": null,
+            "updated_at": null,
+            "units": null,
+            "course": {
+                "course_code": "SOSC 3",
+                "course_id": 843,
+                "title": "(GE). Exploring Gender and Sexuality",
+                "type": "NA",
+                "is_academic": true,
+                "is_multiple_enrollment": false,
+                "is_repeatable": false,
+                "course_code_title": "SOSC 3 - (GE). Exploring Gender and Sexuality",
+                "acad_orgs": [
+                    "LBDSS"
+                ],
+                "acad_groups": [
+                    "CAS"
+                ]
+            }
+        },
+        {
+            "id": 7554,
+            "curriculum_id": 96,
+            "course_id": 752,
+            "year": "0",
+            "sem": "0",
+            "description": "",
+            "course_type": "GE ELECTIVE",
+            "sub_type": "--",
+            "group_id": null,
+            "created_at": null,
+            "updated_at": null,
+            "units": null,
+            "course": {
+                "course_code": "HUM 3",
+                "course_id": 752,
+                "title": "(GE). Reading Film, TV, and the Internet",
+                "type": "NA",
+                "is_academic": true,
+                "is_multiple_enrollment": false,
+                "is_repeatable": false,
+                "course_code_title": "HUM 3 - (GE). Reading Film, TV, and the Internet",
+                "acad_orgs": [
+                    "LBDHUM"
+                ],
+                "acad_groups": [
+                    "CAS"
+                ]
+            }
+        },
+        {
+            "id": 7555,
+            "curriculum_id": 96,
+            "course_id": 822,
+            "year": "0",
+            "sem": "0",
+            "description": "",
+            "course_type": "GE ELECTIVE",
+            "sub_type": "--",
+            "group_id": null,
+            "created_at": null,
+            "updated_at": null,
+            "units": null,
+            "course": {
+                "course_code": "KAS 4",
+                "course_id": 822,
+                "title": "(GE). Ang Kababaihan sa Kasaysayan ng Pilipinas",
+                "type": "NA",
+                "is_academic": true,
+                "is_multiple_enrollment": false,
+                "is_repeatable": false,
+                "course_code_title": "KAS 4 - (GE). Ang Kababaihan sa Kasaysayan ng Pilipinas",
+                "acad_orgs": [
+                    "LBDSS"
+                ],
+                "acad_groups": [
+                    "CAS"
+                ]
+            }
+        },
+        {
+            "id": 7556,
+            "curriculum_id": 96,
+            "course_id": 760,
+            "year": "0",
+            "sem": "0",
+            "description": "",
+            "course_type": "GE ELECTIVE",
+            "sub_type": "--",
+            "group_id": null,
+            "created_at": null,
+            "updated_at": null,
+            "units": null,
+            "course": {
+                "course_code": "PHLO 1",
+                "course_id": 760,
+                "title": "(GE). Understanding Philosophy",
+                "type": "NA",
+                "is_academic": true,
+                "is_multiple_enrollment": false,
+                "is_repeatable": false,
+                "course_code_title": "PHLO 1 - (GE). Understanding Philosophy",
+                "acad_orgs": [
+                    "LBDHUM"
+                ],
+                "acad_groups": [
+                    "CAS"
+                ]
+            }
+        },
+        {
+            "id": 7557,
+            "curriculum_id": 96,
+            "course_id": 759,
+            "year": "0",
+            "sem": "0",
+            "description": "",
+            "course_type": "GE ELECTIVE",
+            "sub_type": "--",
+            "group_id": null,
+            "created_at": null,
+            "updated_at": null,
+            "units": null,
+            "course": {
+                "course_code": "PS 21",
+                "course_id": 759,
+                "title": "(GE). Wika, Panitikan, at Kultura sa Ilalim ng Batas Militar sa Pilipinas.",
+                "type": "NA",
+                "is_academic": true,
+                "is_multiple_enrollment": false,
+                "is_repeatable": false,
+                "course_code_title": "PS 21 - (GE). Wika, Panitikan, at Kultura sa Ilalim ng Batas Militar sa Pilipinas.",
+                "acad_orgs": [
+                    "LBDHUM"
+                ],
+                "acad_groups": [
+                    "CAS"
+                ]
+            }
+        },
+        {
+            "id": 7558,
+            "curriculum_id": 96,
+            "course_id": 702,
+            "year": "0",
+            "sem": "0",
+            "description": "",
+            "course_type": "COGNATE",
+            "sub_type": "--",
+            "group_id": null,
+            "created_at": null,
+            "updated_at": null,
+            "units": null,
+            "course": {
+                "course_code": "STAT 162",
+                "course_id": 702,
+                "title": "Experimental Designs",
+                "type": "NA",
+                "is_academic": true,
+                "is_multiple_enrollment": false,
+                "is_repeatable": false,
+                "course_code_title": "STAT 162 - Experimental Designs",
+                "acad_orgs": [
+                    "LBINSTAT"
+                ],
+                "acad_groups": [
+                    "CAS"
+                ]
+            },
+            "prerequisites": "STAT 1 or\nCOI"
+        },
+        {
+            "id": 7559,
+            "curriculum_id": 96,
+            "course_id": 707,
+            "year": "0",
+            "sem": "0",
+            "description": "",
+            "course_type": "COGNATE",
+            "sub_type": "--",
+            "group_id": null,
+            "created_at": null,
+            "updated_at": null,
+            "units": null,
+            "course": {
+                "course_code": "STAT 167",
+                "course_id": 707,
+                "title": "Statistical Quality Control",
+                "type": "NA",
+                "is_academic": true,
+                "is_multiple_enrollment": false,
+                "is_repeatable": false,
+                "course_code_title": "STAT 167 - Statistical Quality Control",
+                "acad_orgs": [
+                    "LBINSTAT"
+                ],
+                "acad_groups": [
+                    "CAS"
+                ]
+            },
+            "prerequisites": "ENG 2(AH)"
+        },
+        {
+            "id": 7560,
+            "curriculum_id": 96,
+            "course_id": 241,
+            "year": "0",
+            "sem": "0",
+            "description": "",
+            "course_type": "COGNATE",
+            "sub_type": "--",
+            "group_id": null,
+            "created_at": null,
+            "updated_at": null,
+            "units": null,
+            "course": {
+                "course_code": "FPPS 121",
+                "course_id": 241,
+                "title": "Wood Physics 1",
+                "type": "NA",
+                "is_academic": true,
+                "is_multiple_enrollment": false,
+                "is_repeatable": false,
+                "course_code_title": "FPPS 121 - Wood Physics 1",
+                "acad_orgs": [
+                    "LBDFPPS"
+                ],
+                "acad_groups": [
+                    "CFNR"
+                ]
+            }
+        },
+        {
+            "id": 7561,
+            "curriculum_id": 96,
+            "course_id": 246,
+            "year": "0",
+            "sem": "0",
+            "description": "",
+            "course_type": "COGNATE",
+            "sub_type": "--",
+            "group_id": null,
+            "created_at": null,
+            "updated_at": null,
+            "units": null,
+            "course": {
+                "course_code": "FPPS 131",
+                "course_id": 246,
+                "title": "Wood Chemistry 1",
+                "type": "NA",
+                "is_academic": true,
+                "is_multiple_enrollment": false,
+                "is_repeatable": false,
+                "course_code_title": "FPPS 131 - Wood Chemistry 1",
+                "acad_orgs": [
+                    "LBDFPPS"
+                ],
+                "acad_groups": [
+                    "CFNR"
+                ]
+            },
+            "prerequisites": "CHEM 40"
+        },
+        {
+            "id": 7562,
+            "curriculum_id": 96,
+            "course_id": 250,
+            "year": "0",
+            "sem": "0",
+            "description": "",
+            "course_type": "COGNATE",
+            "sub_type": "--",
+            "group_id": null,
+            "created_at": null,
+            "updated_at": null,
+            "units": null,
+            "course": {
+                "course_code": "FPPS 136",
+                "course_id": 250,
+                "title": "Chemical Properties and Processing of Forest Products",
+                "type": "NA",
+                "is_academic": true,
+                "is_multiple_enrollment": false,
+                "is_repeatable": false,
+                "course_code_title": "FPPS 136 - Chemical Properties and Processing of Forest Products",
+                "acad_orgs": [
+                    "LBDFPPS"
+                ],
+                "acad_groups": [
+                    "CFNR"
+                ]
+            },
+            "prerequisites": "CHEM 40"
+        },
+        {
+            "id": 7563,
+            "curriculum_id": 96,
+            "course_id": 252,
+            "year": "0",
+            "sem": "0",
+            "description": "",
+            "course_type": "COGNATE",
+            "sub_type": "--",
+            "group_id": null,
+            "created_at": null,
+            "updated_at": null,
+            "units": null,
+            "course": {
+                "course_code": "FPPS 140",
+                "course_id": 252,
+                "title": "Environmental Pollution in Forest Industries",
+                "type": "NA",
+                "is_academic": true,
+                "is_multiple_enrollment": false,
+                "is_repeatable": false,
+                "course_code_title": "FPPS 140 - Environmental Pollution in Forest Industries",
+                "acad_orgs": [
+                    "LBDFPPS"
+                ],
+                "acad_groups": [
+                    "CFNR"
+                ]
+            }
+        },
+        {
+            "id": 7564,
+            "curriculum_id": 96,
+            "course_id": 258,
+            "year": "0",
+            "sem": "0",
+            "description": "",
+            "course_type": "COGNATE",
+            "sub_type": "--",
+            "group_id": null,
+            "created_at": null,
+            "updated_at": null,
+            "units": null,
+            "course": {
+                "course_code": "FPPS 171",
+                "course_id": 258,
+                "title": "Adhesives and Gluing",
+                "type": "NA",
+                "is_academic": true,
+                "is_multiple_enrollment": false,
+                "is_repeatable": false,
+                "course_code_title": "FPPS 171 - Adhesives and Gluing",
+                "acad_orgs": [
+                    "LBDFPPS"
+                ],
+                "acad_groups": [
+                    "CFNR"
+                ]
+            },
+            "prerequisites": "CHEM 40"
+        },
+        {
+            "id": 7565,
+            "curriculum_id": 96,
+            "course_id": 259,
+            "year": "0",
+            "sem": "0",
+            "description": "",
+            "course_type": "COGNATE",
+            "sub_type": "--",
+            "group_id": null,
+            "created_at": null,
+            "updated_at": null,
+            "units": null,
+            "course": {
+                "course_code": "FPPS 172",
+                "course_id": 259,
+                "title": "Glued Wood Products Technology",
+                "type": "NA",
+                "is_academic": true,
+                "is_multiple_enrollment": false,
+                "is_repeatable": false,
+                "course_code_title": "FPPS 172 - Glued Wood Products Technology",
+                "acad_orgs": [
+                    "LBDFPPS"
+                ],
+                "acad_groups": [
+                    "CFNR"
+                ]
+            },
+            "prerequisites": "COI"
+        },
+        {
+            "id": 7566,
+            "curriculum_id": 96,
+            "course_id": 304,
+            "year": "0",
+            "sem": "0",
+            "description": "",
+            "course_type": "COGNATE",
+            "sub_type": "--",
+            "group_id": null,
+            "created_at": null,
+            "updated_at": null,
+            "units": null,
+            "course": {
+                "course_code": "MGT 101",
+                "course_id": 304,
+                "title": "Concepts and Dynamics of Management",
+                "type": "NA",
+                "is_academic": true,
+                "is_multiple_enrollment": false,
+                "is_repeatable": false,
+                "course_code_title": "MGT 101 - Concepts and Dynamics of Management",
+                "acad_orgs": [
+                    "LBDAME"
+                ],
+                "acad_groups": [
+                    "CEM"
+                ]
+            },
+            "prerequisites": "COI"
+        },
+        {
+            "id": 7567,
+            "curriculum_id": 96,
+            "course_id": 311,
+            "year": "0",
+            "sem": "0",
+            "description": "",
+            "course_type": "COGNATE",
+            "sub_type": "--",
+            "group_id": null,
+            "created_at": null,
+            "updated_at": null,
+            "units": null,
+            "course": {
+                "course_code": "MGT 131",
+                "course_id": 311,
+                "title": "Introduction to Human Relations and Behavior in Organizations",
+                "type": "NA",
+                "is_academic": true,
+                "is_multiple_enrollment": false,
+                "is_repeatable": false,
+                "course_code_title": "MGT 131 - Introduction to Human Relations and Behavior in Organizations",
+                "acad_orgs": [
+                    "LBDAME"
+                ],
+                "acad_groups": [
+                    "CEM"
+                ]
+            },
+            "prerequisites": "MGT\n101 or COI"
+        },
+        {
+            "id": 7568,
+            "curriculum_id": 96,
+            "course_id": 312,
+            "year": "0",
+            "sem": "0",
+            "description": "",
+            "course_type": "COGNATE",
+            "sub_type": "--",
+            "group_id": null,
+            "created_at": null,
+            "updated_at": null,
+            "units": null,
+            "course": {
+                "course_code": "MGT 133",
+                "course_id": 312,
+                "title": "Human Resource Management",
+                "type": "NA",
+                "is_academic": true,
+                "is_multiple_enrollment": false,
+                "is_repeatable": false,
+                "course_code_title": "MGT 133 - Human Resource Management",
+                "acad_orgs": [
+                    "LBDAME"
+                ],
+                "acad_groups": [
+                    "CEM"
+                ]
+            },
+            "prerequisites": "MGT 101 or COI"
+        },
+        {
+            "id": 7569,
+            "curriculum_id": 96,
+            "course_id": 534,
+            "year": "0",
+            "sem": "0",
+            "description": "",
+            "course_type": "COGNATE",
+            "sub_type": "--",
+            "group_id": null,
+            "created_at": null,
+            "updated_at": null,
+            "units": null,
+            "course": {
+                "course_code": "CHEM 180",
+                "course_id": 534,
+                "title": "Environmental Chemistry",
+                "type": "NA",
+                "is_academic": true,
+                "is_multiple_enrollment": false,
+                "is_repeatable": false,
+                "course_code_title": "CHEM 180 - Environmental Chemistry",
+                "acad_orgs": [
+                    "LBIC"
+                ],
+                "acad_groups": [
+                    "CAS"
+                ]
+            }
+        },
+        {
+            "id": 7570,
+            "curriculum_id": 96,
+            "course_id": 535,
+            "year": "0",
+            "sem": "0",
+            "description": "",
+            "course_type": "COGNATE",
+            "sub_type": "--",
+            "group_id": null,
+            "created_at": null,
+            "updated_at": null,
+            "units": null,
+            "course": {
+                "course_code": "CHEM 181",
+                "course_id": 535,
+                "title": "Pollution Chemistry",
+                "type": "NA",
+                "is_academic": true,
+                "is_multiple_enrollment": false,
+                "is_repeatable": false,
+                "course_code_title": "CHEM 181 - Pollution Chemistry",
+                "acad_orgs": [
+                    "LBIC"
+                ],
+                "acad_groups": [
+                    "CAS"
+                ]
+            },
+            "prerequisites": "CHEM 180 or COI"
+        },
+        {
+            "id": 7571,
+            "curriculum_id": 96,
+            "course_id": 462,
+            "year": "0",
+            "sem": "0",
+            "description": "",
+            "course_type": "COGNATE",
+            "sub_type": "--",
+            "group_id": null,
+            "created_at": null,
+            "updated_at": null,
+            "units": null,
+            "course": {
+                "course_code": "MCB 182",
+                "course_id": 462,
+                "title": "Industrial Microbiology",
+                "type": "NA",
+                "is_academic": true,
+                "is_multiple_enrollment": false,
+                "is_repeatable": false,
+                "course_code_title": "MCB 182 - Industrial Microbiology",
+                "acad_orgs": [
+                    "LBIBS"
+                ],
+                "acad_groups": [
+                    "CAS"
+                ]
+            }
+        },
+        {
+            "id": 7572,
+            "curriculum_id": 96,
+            "course_id": 456,
+            "year": "0",
+            "sem": "0",
+            "description": "",
+            "course_type": "COGNATE",
+            "sub_type": "--",
+            "group_id": null,
+            "created_at": null,
+            "updated_at": null,
+            "units": null,
+            "course": {
+                "course_code": "MCB 103",
+                "course_id": 456,
+                "title": "Introductory Medical Microbiology",
+                "type": "NA",
+                "is_academic": true,
+                "is_multiple_enrollment": false,
+                "is_repeatable": false,
+                "course_code_title": "MCB 103 - Introductory Medical Microbiology",
+                "acad_orgs": [
+                    "LBIBS"
+                ],
+                "acad_groups": [
+                    "CAS"
+                ]
+            },
+            "prerequisites": "MCB\n1"
+        },
+        {
+            "id": 7573,
+            "curriculum_id": 96,
+            "course_id": 460,
+            "year": "0",
+            "sem": "0",
+            "description": "",
+            "course_type": "COGNATE",
+            "sub_type": "--",
+            "group_id": null,
+            "created_at": null,
+            "updated_at": null,
+            "units": null,
+            "course": {
+                "course_code": "MCB 180",
+                "course_id": 460,
+                "title": "Introductory Food Microbiology",
+                "type": "NA",
+                "is_academic": true,
+                "is_multiple_enrollment": false,
+                "is_repeatable": false,
+                "course_code_title": "MCB 180 - Introductory Food Microbiology",
+                "acad_orgs": [
+                    "LBIBS"
+                ],
+                "acad_groups": [
+                    "CAS"
+                ]
+            },
+            "prerequisites": "MCB 1"
+        },
+        {
+            "id": 7574,
+            "curriculum_id": 96,
+            "course_id": 461,
+            "year": "0",
+            "sem": "0",
+            "description": "",
+            "course_type": "COGNATE",
+            "sub_type": "--",
+            "group_id": null,
+            "created_at": null,
+            "updated_at": null,
+            "units": null,
+            "course": {
+                "course_code": "MCB 181",
+                "course_id": 461,
+                "title": "Dairy Microbiology",
+                "type": "NA",
+                "is_academic": true,
+                "is_multiple_enrollment": false,
+                "is_repeatable": false,
+                "course_code_title": "MCB 181 - Dairy Microbiology",
+                "acad_orgs": [
+                    "LBIBS"
+                ],
+                "acad_groups": [
+                    "CAS"
+                ]
+            },
+            "prerequisites": "MCB 1"
+        },
+        {
+            "id": 7575,
+            "curriculum_id": 96,
+            "course_id": 1246,
+            "year": "0",
+            "sem": "0",
+            "description": "",
+            "course_type": "COGNATE",
+            "sub_type": "--",
+            "group_id": null,
+            "created_at": null,
+            "updated_at": null,
+            "units": null,
+            "course": {
+                "course_code": "FST 101",
+                "course_id": 1246,
+                "title": "Food Chemistry I",
+                "type": "NA",
+                "is_academic": true,
+                "is_multiple_enrollment": false,
+                "is_repeatable": false,
+                "course_code_title": "FST 101 - Food Chemistry I",
+                "acad_orgs": [
+                    "LBIFST"
+                ],
+                "acad_groups": [
+                    "CAFS"
+                ]
+            },
+            "prerequisites": "CHEM 40\nand CHEM 40"
+        },
+        {
+            "id": 7576,
+            "curriculum_id": 96,
+            "course_id": 262,
+            "year": "0",
+            "sem": "0",
+            "description": "",
+            "course_type": "COGNATE",
+            "sub_type": "--",
+            "group_id": null,
+            "created_at": null,
+            "updated_at": null,
+            "units": null,
+            "course": {
+                "course_code": "FPPS 183",
+                "course_id": 262,
+                "title": "Engineering Economic Analysis",
+                "type": "NA",
+                "is_academic": true,
+                "is_multiple_enrollment": false,
+                "is_repeatable": false,
+                "course_code_title": "FPPS 183 - Engineering Economic Analysis",
+                "acad_orgs": [
+                    "LBDFPPS"
+                ],
+                "acad_groups": [
+                    "CFNR"
+                ]
+            },
+            "prerequisites": "COI"
+        },
+        {
+            "id": 7577,
+            "curriculum_id": 96,
+            "course_id": 348,
+            "year": "0",
+            "sem": "0",
+            "description": "",
+            "course_type": "COGNATE",
+            "sub_type": "--",
+            "group_id": null,
+            "created_at": null,
+            "updated_at": null,
+            "units": null,
+            "course": {
+                "course_code": "ECON 11",
+                "course_id": 348,
+                "title": "General Economics",
+                "type": "NA",
+                "is_academic": true,
+                "is_multiple_enrollment": false,
+                "is_repeatable": false,
+                "course_code_title": "ECON 11 - General Economics",
+                "acad_orgs": [
+                    "LBDE"
+                ],
+                "acad_groups": [
+                    "CEM"
+                ]
+            },
+            "prerequisites": "PHYS 3"
+        },
+        {
+            "id": 7578,
+            "curriculum_id": 96,
+            "course_id": 963,
+            "year": "0",
+            "sem": "0",
+            "description": "",
+            "course_type": "COGNATE",
+            "sub_type": "--",
+            "group_id": null,
+            "created_at": null,
+            "updated_at": null,
+            "units": null,
+            "course": {
+                "course_code": "SUTC 148",
+                "course_id": 963,
+                "title": "Sugar Analysis and Factory Operations Control",
+                "type": "NA",
+                "is_academic": true,
+                "is_multiple_enrollment": false,
+                "is_repeatable": false,
+                "course_code_title": "SUTC 148 - Sugar Analysis and Factory Operations Control",
+                "acad_orgs": [
+                    "LBDCHE"
+                ],
+                "acad_groups": [
+                    "CEAT"
+                ]
+            }
+        },
+        {
+            "id": 7579,
+            "curriculum_id": 96,
+            "course_id": 964,
+            "year": "0",
+            "sem": "0",
+            "description": "",
+            "course_type": "COGNATE",
+            "sub_type": "--",
+            "group_id": null,
+            "created_at": null,
+            "updated_at": null,
+            "units": null,
+            "course": {
+                "course_code": "SUTC 154",
+                "course_id": 964,
+                "title": "Field and Factory Operations and Processes",
+                "type": "NA",
+                "is_academic": true,
+                "is_multiple_enrollment": false,
+                "is_repeatable": false,
+                "course_code_title": "SUTC 154 - Field and Factory Operations and Processes",
+                "acad_orgs": [
+                    "LBDCHE"
+                ],
+                "acad_groups": [
+                    "CEAT"
+                ]
+            },
+            "prerequisites": "CHEM 32 and ChE 149"
+        },
+        {
+            "id": 7580,
+            "curriculum_id": 96,
+            "course_id": 969,
+            "year": "0",
+            "sem": "0",
+            "description": "",
+            "course_type": "COGNATE",
+            "sub_type": "--",
+            "group_id": null,
+            "created_at": null,
+            "updated_at": null,
+            "units": null,
+            "course": {
+                "course_code": "SUTC 193",
+                "course_id": 969,
+                "title": "Sugar Process Engineering and Plant Design",
+                "type": "NA",
+                "is_academic": true,
+                "is_multiple_enrollment": false,
+                "is_repeatable": false,
+                "course_code_title": "SUTC 193 - Sugar Process Engineering and Plant Design",
+                "acad_orgs": [
+                    "LBDCHE"
+                ],
+                "acad_groups": [
+                    "CEAT"
+                ]
+            },
+            "prerequisites": "SUTC 154"
+        },
+        {
+            "id": 7581,
+            "curriculum_id": 96,
+            "course_id": 966,
+            "year": "0",
+            "sem": "0",
+            "description": "",
+            "course_type": "COGNATE",
+            "sub_type": "--",
+            "group_id": null,
+            "created_at": null,
+            "updated_at": null,
+            "units": null,
+            "course": {
+                "course_code": "SUTC 171",
+                "course_id": 966,
+                "title": "Sugarcane-By-Products Utilization and Sucrochemistry",
+                "type": "NA",
+                "is_academic": true,
+                "is_multiple_enrollment": false,
+                "is_repeatable": false,
+                "course_code_title": "SUTC 171 - Sugarcane-By-Products Utilization and Sucrochemistry",
+                "acad_orgs": [
+                    "LBDCHE"
+                ],
+                "acad_groups": [
+                    "CEAT"
+                ]
+            },
+            "prerequisites": "CHEM 40 or CHEM 44 and MCB 1"
+        },
+        {
+            "id": 7520,
+            "curriculum_id": 96,
+            "course_id": 814,
+            "year": "2",
+            "sem": "2",
+            "description": "",
+            "course_type": "REQUIRED",
+            "sub_type": "--",
+            "group_id": 1,
+            "created_at": null,
+            "updated_at": null,
+            "units": 2,
+            "course": {
+                "course_code": "HK 12",
+                "course_id": 814,
+                "title": "Human Kinetics Activities",
+                "type": "NA",
+                "is_academic": false,
+                "is_multiple_enrollment": true,
+                "is_repeatable": true,
+                "course_code_title": "HK 12 - Human Kinetics Activities",
+                "acad_orgs": [
+                    "LBDHK"
+                ],
+                "acad_groups": [
+                    "CAS"
+                ]
+            }
+        },
+        {
+            "id": 7521,
+            "curriculum_id": 96,
+            "course_id": 815,
+            "year": "2",
+            "sem": "2",
+            "description": "",
+            "course_type": "REQUIRED",
+            "sub_type": "--",
+            "group_id": 1,
+            "created_at": null,
+            "updated_at": null,
+            "units": 2,
+            "course": {
+                "course_code": "HK 13",
+                "course_id": 815,
+                "title": "Advanced Human Kinetics Activities",
+                "type": "NA",
+                "is_academic": false,
+                "is_multiple_enrollment": false,
+                "is_repeatable": false,
+                "course_code_title": "HK 13 - Advanced Human Kinetics Activities",
+                "acad_orgs": [],
+                "acad_groups": []
+            }
+        },
+        {
+            "id": 7583,
+            "curriculum_id": 96,
+            "course_id": 1251,
+            "year": "0",
+            "sem": "0",
+            "description": "",
+            "course_type": "COGNATE",
+            "sub_type": "--",
+            "group_id": null,
+            "created_at": null,
+            "updated_at": null,
+            "units": null,
+            "course": {
+                "course_code": "FST 131",
+                "course_id": 1251,
+                "title": "Food Engineering II",
+                "type": "NA",
+                "is_academic": true,
+                "is_multiple_enrollment": false,
+                "is_repeatable": false,
+                "course_code_title": "FST 131 - Food Engineering II",
+                "acad_orgs": [
+                    "LBIFST"
+                ],
+                "acad_groups": [
+                    "CAFS"
+                ]
+            },
+            "prerequisites": "FST 130 and PHYS 13"
+        },
+        {
+            "id": 7584,
+            "curriculum_id": 96,
+            "course_id": 1252,
+            "year": "0",
+            "sem": "0",
+            "description": "",
+            "course_type": "COGNATE",
+            "sub_type": "--",
+            "group_id": null,
+            "created_at": null,
+            "updated_at": null,
+            "units": null,
+            "course": {
+                "course_code": "FST 132",
+                "course_id": 1252,
+                "title": "Food Engineering III",
+                "type": "NA",
+                "is_academic": true,
+                "is_multiple_enrollment": false,
+                "is_repeatable": false,
+                "course_code_title": "FST 132 - Food Engineering III",
+                "acad_orgs": [
+                    "LBIFST"
+                ],
+                "acad_groups": [
+                    "CAFS"
+                ]
+            },
+            "prerequisites": "FST 130"
+        },
+        {
+            "id": 7585,
+            "curriculum_id": 96,
+            "course_id": 1253,
+            "year": "0",
+            "sem": "0",
+            "description": "",
+            "course_type": "COGNATE",
+            "sub_type": "--",
+            "group_id": null,
+            "created_at": null,
+            "updated_at": null,
+            "units": null,
+            "course": {
+                "course_code": "FST 138",
+                "course_id": 1253,
+                "title": "Food Packaging",
+                "type": "NA",
+                "is_academic": true,
+                "is_multiple_enrollment": false,
+                "is_repeatable": false,
+                "course_code_title": "FST 138 - Food Packaging",
+                "acad_orgs": [
+                    "LBIFST"
+                ],
+                "acad_groups": [
+                    "CAFS"
+                ]
+            }
+        },
+        {
+            "id": 7586,
+            "curriculum_id": 96,
+            "course_id": 1257,
+            "year": "0",
+            "sem": "0",
+            "description": "",
+            "course_type": "COGNATE",
+            "sub_type": "--",
+            "group_id": null,
+            "created_at": null,
+            "updated_at": null,
+            "units": null,
+            "course": {
+                "course_code": "FST 147",
+                "course_id": 1257,
+                "title": "Principles of Food Product and Process Development",
+                "type": "NA",
+                "is_academic": true,
+                "is_multiple_enrollment": false,
+                "is_repeatable": false,
+                "course_code_title": "FST 147 - Principles of Food Product and Process Development",
+                "acad_orgs": [
+                    "LBIFST"
+                ],
+                "acad_groups": [
+                    "CAFS"
+                ]
+            },
+            "prerequisites": "FST 140 and FST 141 or COI"
+        },
+        {
+            "id": 7587,
+            "curriculum_id": 96,
+            "course_id": 1260,
+            "year": "0",
+            "sem": "0",
+            "description": "",
+            "course_type": "COGNATE",
+            "sub_type": "--",
+            "group_id": null,
+            "created_at": null,
+            "updated_at": null,
+            "units": null,
+            "course": {
+                "course_code": "FST 166",
+                "course_id": 1260,
+                "title": "Food Hygiene and Sanitation",
+                "type": "NA",
+                "is_academic": true,
+                "is_multiple_enrollment": false,
+                "is_repeatable": false,
+                "course_code_title": "FST 166 - Food Hygiene and Sanitation",
+                "acad_orgs": [
+                    "LBIFST"
+                ],
+                "acad_groups": [
+                    "CAFS"
+                ]
+            }
+        },
+        {
+            "id": 7588,
+            "curriculum_id": 96,
+            "course_id": 1160,
+            "year": "0",
+            "sem": "0",
+            "description": "",
+            "course_type": "COGNATE",
+            "sub_type": "--",
+            "group_id": null,
+            "created_at": null,
+            "updated_at": null,
+            "units": null,
+            "course": {
+                "course_code": "ANSC 135",
+                "course_id": 1160,
+                "title": "Introduction to Dairy Technology",
+                "type": "NA",
+                "is_academic": true,
+                "is_multiple_enrollment": false,
+                "is_repeatable": false,
+                "course_code_title": "ANSC 135 - Introduction to Dairy Technology",
+                "acad_orgs": [
+                    "LBIAS"
+                ],
+                "acad_groups": [
+                    "CAFS"
+                ]
+            },
+            "prerequisites": "CHEM 40 or COI"
+        },
+        {
+            "id": 7589,
+            "curriculum_id": 96,
+            "course_id": 1162,
+            "year": "0",
+            "sem": "0",
+            "description": "",
+            "course_type": "COGNATE",
+            "sub_type": "--",
+            "group_id": null,
+            "created_at": null,
+            "updated_at": null,
+            "units": null,
+            "course": {
+                "course_code": "ANSC 137",
+                "course_id": 1162,
+                "title": "Cheese Technology",
+                "type": "NA",
+                "is_academic": true,
+                "is_multiple_enrollment": false,
+                "is_repeatable": false,
+                "course_code_title": "ANSC 137 - Cheese Technology",
+                "acad_orgs": [
+                    "LBIAS"
+                ],
+                "acad_groups": [
+                    "CAFS"
+                ]
+            },
+            "prerequisites": "ANSC\n135 or COI"
+        },
+        {
+            "id": 7590,
+            "curriculum_id": 96,
+            "course_id": 294,
+            "year": "0",
+            "sem": "0",
+            "description": "",
+            "course_type": "COGNATE",
+            "sub_type": "--",
+            "group_id": null,
+            "created_at": null,
+            "updated_at": null,
+            "units": null,
+            "course": {
+                "course_code": "ABME 10",
+                "course_id": 294,
+                "title": "Foundations of Entrepreneurship",
+                "type": "NA",
+                "is_academic": true,
+                "is_multiple_enrollment": false,
+                "is_repeatable": false,
+                "course_code_title": "ABME 10 - Foundations of Entrepreneurship",
+                "acad_orgs": [
+                    "LBDAME"
+                ],
+                "acad_groups": [
+                    "CEM"
+                ]
+            }
+        },
+        {
+            "id": 7591,
+            "curriculum_id": 96,
+            "course_id": 298,
+            "year": "0",
+            "sem": "0",
+            "description": "",
+            "course_type": "COGNATE",
+            "sub_type": "--",
+            "group_id": null,
+            "created_at": null,
+            "updated_at": null,
+            "units": null,
+            "course": {
+                "course_code": "ABME 172",
+                "course_id": 298,
+                "title": "Product Ideation and Creation",
+                "type": "NA",
+                "is_academic": true,
+                "is_multiple_enrollment": false,
+                "is_repeatable": false,
+                "course_code_title": "ABME 172 - Product Ideation and Creation",
+                "acad_orgs": [
+                    "LBDAME"
+                ],
+                "acad_groups": [
+                    "CEM"
+                ]
+            }
+        },
+        {
+            "id": 7592,
+            "curriculum_id": 96,
+            "course_id": 262,
+            "year": "0",
+            "sem": "0",
+            "description": "",
+            "course_type": "COGNATE",
+            "sub_type": "--",
+            "group_id": null,
+            "created_at": null,
+            "updated_at": null,
+            "units": null,
+            "course": {
+                "course_code": "FPPS 183",
+                "course_id": 262,
+                "title": "Engineering Economic Analysis",
+                "type": "NA",
+                "is_academic": true,
+                "is_multiple_enrollment": false,
+                "is_repeatable": false,
+                "course_code_title": "FPPS 183 - Engineering Economic Analysis",
+                "acad_orgs": [
+                    "LBDFPPS"
+                ],
+                "acad_groups": [
+                    "CFNR"
+                ]
+            },
+            "prerequisites": "COI"
+        },
+        {
+            "id": 7593,
+            "curriculum_id": 96,
+            "course_id": 1049,
+            "year": "0",
+            "sem": "0",
+            "description": "",
+            "course_type": "COGNATE",
+            "sub_type": "--",
+            "group_id": null,
+            "created_at": null,
+            "updated_at": null,
+            "units": null,
+            "course": {
+                "course_code": "IE 150",
+                "course_id": 1049,
+                "title": "Systems Evaluation",
+                "type": "NA",
+                "is_academic": true,
+                "is_multiple_enrollment": false,
+                "is_repeatable": false,
+                "course_code_title": "IE 150 - Systems Evaluation",
+                "acad_orgs": [
+                    "LBDIE"
+                ],
+                "acad_groups": [
+                    "CEAT"
+                ]
+            }
+        },
+        {
+            "id": 7594,
+            "curriculum_id": 96,
+            "course_id": 1055,
+            "year": "0",
+            "sem": "0",
+            "description": "",
+            "course_type": "COGNATE",
+            "sub_type": "--",
+            "group_id": null,
+            "created_at": null,
+            "updated_at": null,
+            "units": null,
+            "course": {
+                "course_code": "IE 184",
+                "course_id": 1055,
+                "title": "Project Development and Management",
+                "type": "NA",
+                "is_academic": true,
+                "is_multiple_enrollment": false,
+                "is_repeatable": false,
+                "course_code_title": "IE 184 - Project Development and Management",
+                "acad_orgs": [
+                    "LBDIE"
+                ],
+                "acad_groups": [
+                    "CEAT"
+                ]
+            },
+            "prerequisites": "5th year\nstanding"
+        },
+        {
+            "id": 7503,
+            "curriculum_id": 96,
+            "course_id": 2055,
+            "year": "2",
+            "sem": "1",
+            "description": "",
+            "course_type": "REQUIRED",
+            "sub_type": "--",
+            "group_id": null,
+            "created_at": null,
+            "updated_at": null,
+            "units": 3,
+            "course": {
+                "course_code": "NSTP 2",
+                "course_id": 2055,
+                "title": "National Service Training Program II",
+                "type": "NA",
+                "is_academic": false,
+                "is_multiple_enrollment": true,
+                "is_repeatable": true,
+                "course_code_title": "NSTP 2 - National Service Training Program II",
+                "acad_orgs": [
+                    "LBASI",
+                    "LBDAAE",
+                    "LBDAECO",
+                    "LBDAME",
+                    "LBDBVS",
+                    "LBDCE",
+                    "LBDCERP",
+                    "LBDCHE",
+                    "LBDDBT",
+                    "LBDDJ",
+                    "LBDE",
+                    "LBDEC",
+                    "LBDECO",
+                    "LBDEE",
+                    "LBDENSC",
+                    "LBDFBS",
+                    "LBDFPPS",
+                    "LBDHFDS",
+                    "LBDIE",
+                    "LBDME",
+                    "LBDMST",
+                    "LBDSC",
+                    "LBDSDS",
+                    "LBDSFFG",
+                    "LBDVCS",
+                    "LBDVPS",
+                    "LBIABE",
+                    "LBICOPED",
+                    "LBIHNF",
+                    "LBIRNR",
+                    "LBOVCCA"
+                ],
+                "acad_groups": [
+                    "CAFS",
+                    "CAS",
+                    "CEAT",
+                    "CEM",
+                    "CHE",
+                    "CVM"
+                ]
+            }
+        },
+        {
+            "id": 7510,
+            "curriculum_id": 96,
+            "course_id": 821,
+            "year": "2",
+            "sem": "1",
+            "description": "",
+            "course_type": "REQUIRED",
+            "sub_type": "--",
+            "group_id": 1,
+            "created_at": null,
+            "updated_at": null,
+            "units": null,
+            "course": {
+                "course_code": "KAS 1",
+                "course_id": 821,
+                "title": "(GE). Kasaysayan ng Pilipinas",
+                "type": "NA",
+                "is_academic": true,
+                "is_multiple_enrollment": false,
+                "is_repeatable": false,
+                "course_code_title": "KAS 1 - (GE). Kasaysayan ng Pilipinas",
+                "acad_orgs": [
+                    "LBDSS"
+                ],
+                "acad_groups": [
+                    "CAS"
+                ]
+            }
+        },
+        {
+            "id": 7511,
+            "curriculum_id": 96,
+            "course_id": 2642,
+            "year": "2",
+            "sem": "1",
+            "description": "",
+            "course_type": "REQUIRED",
+            "sub_type": "--",
+            "group_id": 1,
+            "created_at": null,
+            "updated_at": null,
+            "units": null,
+            "course": {
+                "course_code": "HIST 1",
+                "course_id": 2642,
+                "title": "(GE). Philippine History",
+                "type": "NA",
+                "is_academic": true,
+                "is_multiple_enrollment": false,
+                "is_repeatable": false,
+                "course_code_title": "HIST 1 - (GE). Philippine History",
+                "acad_orgs": [
+                    "LBDSS"
+                ],
+                "acad_groups": [
+                    "CAS"
+                ]
+            }
+        },
+        {
+            "id": 7540,
+            "curriculum_id": 96,
+            "course_id": 962,
+            "year": "4",
+            "sem": "1",
+            "description": "",
+            "course_type": "REQUIRED",
+            "sub_type": "--",
+            "group_id": null,
+            "created_at": null,
+            "updated_at": null,
+            "units": null,
+            "course": {
+                "course_code": "ChE 200c",
+                "course_id": 962,
+                "title": "Engineering Industry Research",
+                "type": "NA",
+                "is_academic": true,
+                "is_multiple_enrollment": true,
+                "is_repeatable": true,
+                "course_code_title": "ChE 200c - Engineering Industry Research",
+                "acad_orgs": [
+                    "LBDCHE"
+                ],
+                "acad_groups": [
+                    "CEAT"
+                ]
+            }
+        },
+        {
+            "id": 7546,
+            "curriculum_id": 96,
+            "course_id": 962,
+            "year": "4",
+            "sem": "2",
+            "description": "",
+            "course_type": "REQUIRED",
+            "sub_type": "--",
+            "group_id": null,
+            "created_at": null,
+            "updated_at": null,
+            "units": null,
+            "course": {
+                "course_code": "ChE 200c",
+                "course_id": 962,
+                "title": "Engineering Industry Research",
+                "type": "NA",
+                "is_academic": true,
+                "is_multiple_enrollment": true,
+                "is_repeatable": true,
+                "course_code_title": "ChE 200c - Engineering Industry Research",
+                "acad_orgs": [
+                    "LBDCHE"
+                ],
+                "acad_groups": [
+                    "CEAT"
+                ]
+            }
+        },
+        {
+            "id": 7494,
+            "curriculum_id": 96,
+            "course_id": 3107,
+            "year": "1",
+            "sem": "2",
+            "description": "",
+            "course_type": "REQUIRED",
+            "sub_type": "--",
+            "group_id": null,
+            "created_at": null,
+            "updated_at": null,
+            "units": 3,
+            "course": {
+                "course_code": "NSTP 1",
+                "course_id": 3107,
+                "title": "National Service Training Program I",
+                "type": "NA",
+                "is_academic": false,
+                "is_multiple_enrollment": true,
+                "is_repeatable": true,
+                "course_code_title": "NSTP 1 - National Service Training Program I",
+                "acad_orgs": [
+                    "LBASI",
+                    "LBDAAE",
+                    "LBDAME",
+                    "LBDBVS",
+                    "LBDCE",
+                    "LBDCERP",
+                    "LBDCHE",
+                    "LBDDBT",
+                    "LBDDJ",
+                    "LBDEC",
+                    "LBDEE",
+                    "LBDENSC",
+                    "LBDFBS",
+                    "LBDFPPS",
+                    "LBDHFDS",
+                    "LBDIE",
+                    "LBDME",
+                    "LBDMST",
+                    "LBDSC",
+                    "LBDSDS",
+                    "LBDSFFG",
+                    "LBDVCS",
+                    "LBDVPS",
+                    "LBIABE",
+                    "LBIAS",
+                    "LBICOPED",
+                    "LBIHNF",
+                    "LBIRNR",
+                    "LBOVCCA"
+                ],
+                "acad_groups": [
+                    "CAFS",
+                    "CAS",
+                    "CEAT",
+                    "CEM",
+                    "CHE",
+                    "CVM"
+                ]
+            }
+        },
+        {
+            "id": 7512,
+            "curriculum_id": 96,
+            "course_id": 814,
+            "year": "2",
+            "sem": "1",
+            "description": "",
+            "course_type": "REQUIRED",
+            "sub_type": "--",
+            "group_id": null,
+            "created_at": null,
+            "updated_at": null,
+            "units": 2,
+            "course": {
+                "course_code": "HK 12",
+                "course_id": 814,
+                "title": "Human Kinetics Activities",
+                "type": "NA",
+                "is_academic": false,
+                "is_multiple_enrollment": true,
+                "is_repeatable": true,
+                "course_code_title": "HK 12 - Human Kinetics Activities",
+                "acad_orgs": [
+                    "LBDHK"
+                ],
+                "acad_groups": [
+                    "CAS"
+                ]
+            }
+        }
+    ],
+    "curriculum_structures": [
+        {
+            "curriculum_id": 96,
+            "year": "1",
+            "sem": "1",
+            "major_units": 0,
+            "ge_elective_units": 0,
+            "required_units": 0,
+            "elective_units": 0,
+            "cognate_units": 0,
+            "specialized_units": 0,
+            "track_units": 0,
+            "total_units": 0,
+            "major_count": 0,
+            "ge_elective_count": 0,
+            "required_count": 9,
+            "elective_count": 0,
+            "cognate_count": 0,
+            "specialized_count": 0,
+            "track_count": 0,
+            "total_count": 9,
+            "created_at": null,
+            "updated_at": null
+        },
+        {
+            "curriculum_id": 96,
+            "year": "1",
+            "sem": "2",
+            "major_units": 0,
+            "ge_elective_units": 0,
+            "required_units": 0,
+            "elective_units": 0,
+            "cognate_units": 0,
+            "specialized_units": 0,
+            "track_units": 0,
+            "total_units": 0,
+            "major_count": 0,
+            "ge_elective_count": 1,
+            "required_count": 9,
+            "elective_count": 0,
+            "cognate_count": 0,
+            "specialized_count": 0,
+            "track_count": 0,
+            "total_count": 10,
+            "created_at": null,
+            "updated_at": null
+        },
+        {
+            "curriculum_id": 96,
+            "year": "2",
+            "sem": "1",
+            "major_units": 0,
+            "ge_elective_units": 0,
+            "required_units": 0,
+            "elective_units": 0,
+            "cognate_units": 0,
+            "specialized_units": 0,
+            "track_units": 0,
+            "total_units": 0,
+            "major_count": 0,
+            "ge_elective_count": 0,
+            "required_count": 9,
+            "elective_count": 0,
+            "cognate_count": 0,
+            "specialized_count": 0,
+            "track_count": 0,
+            "total_count": 9,
+            "created_at": null,
+            "updated_at": null
+        },
+        {
+            "curriculum_id": 96,
+            "year": "2",
+            "sem": "2",
+            "major_units": 0,
+            "ge_elective_units": 0,
+            "required_units": 0,
+            "elective_units": 0,
+            "cognate_units": 0,
+            "specialized_units": 0,
+            "track_units": 0,
+            "total_units": 0,
+            "major_count": 0,
+            "ge_elective_count": 1,
+            "required_count": 7,
+            "elective_count": 0,
+            "cognate_count": 0,
+            "specialized_count": 0,
+            "track_count": 0,
+            "total_count": 8,
+            "created_at": null,
+            "updated_at": null
+        },
+        {
+            "curriculum_id": 96,
+            "year": "3",
+            "sem": "1",
+            "major_units": 0,
+            "ge_elective_units": 0,
+            "required_units": 0,
+            "elective_units": 0,
+            "cognate_units": 0,
+            "specialized_units": 0,
+            "track_units": 0,
+            "total_units": 0,
+            "major_count": 0,
+            "ge_elective_count": 0,
+            "required_count": 7,
+            "elective_count": 0,
+            "cognate_count": 0,
+            "specialized_count": 0,
+            "track_count": 0,
+            "total_count": 7,
+            "created_at": null,
+            "updated_at": null
+        },
+        {
+            "curriculum_id": 96,
+            "year": "3",
+            "sem": "2",
+            "major_units": 0,
+            "ge_elective_units": 0,
+            "required_units": 0,
+            "elective_units": 0,
+            "cognate_units": 0,
+            "specialized_units": 0,
+            "track_units": 0,
+            "total_units": 0,
+            "major_count": 0,
+            "ge_elective_count": 0,
+            "required_count": 7,
+            "elective_count": 0,
+            "cognate_count": 0,
+            "specialized_count": 0,
+            "track_count": 0,
+            "total_count": 7,
+            "created_at": null,
+            "updated_at": null
+        },
+        {
+            "curriculum_id": 96,
+            "year": "3",
+            "sem": "3",
+            "major_units": 0,
+            "ge_elective_units": 0,
+            "required_units": 0,
+            "elective_units": 0,
+            "cognate_units": 0,
+            "specialized_units": 0,
+            "track_units": 0,
+            "total_units": 0,
+            "major_count": 0,
+            "ge_elective_count": 0,
+            "required_count": 1,
+            "elective_count": 0,
+            "cognate_count": 0,
+            "specialized_count": 0,
+            "track_count": 0,
+            "total_count": 1,
+            "created_at": null,
+            "updated_at": null
+        },
+        {
+            "curriculum_id": 96,
+            "year": "4",
+            "sem": "1",
+            "major_units": 0,
+            "ge_elective_units": 0,
+            "required_units": 0,
+            "elective_units": 0,
+            "cognate_units": 0,
+            "specialized_units": 0,
+            "track_units": 0,
+            "total_units": 0,
+            "major_count": 0,
+            "ge_elective_count": 1,
+            "required_count": 5,
+            "elective_count": 0,
+            "cognate_count": 1,
+            "specialized_count": 0,
+            "track_count": 0,
+            "total_count": 7,
+            "created_at": null,
+            "updated_at": null
+        },
+        {
+            "curriculum_id": 96,
+            "year": "4",
+            "sem": "2",
+            "major_units": 0,
+            "ge_elective_units": 0,
+            "required_units": 0,
+            "elective_units": 0,
+            "cognate_units": 0,
+            "specialized_units": 0,
+            "track_units": 0,
+            "total_units": 0,
+            "major_count": 0,
+            "ge_elective_count": 0,
+            "required_count": 5,
+            "elective_count": 0,
+            "cognate_count": 1,
+            "specialized_count": 0,
+            "track_count": 0,
+            "total_count": 6,
+            "created_at": null,
+            "updated_at": null
+        }
+    ],
+    "curriculum_courses_list": [],
+    "curriculum_components": [],
+    "number_of_required_mentors": []
+}

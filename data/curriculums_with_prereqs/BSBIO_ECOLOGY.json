@@ -1,0 +1,3854 @@
+{
+    "curriculum_id": 59,
+    "code": "BSBIO_2018_ECOLOGY",
+    "program_id": 9,
+    "name": "BSBIO 2018 Ecology",
+    "type": null,
+    "status": "ACTIVE",
+    "acad_org": null,
+    "acad_group": null,
+    "created_at": null,
+    "updated_at": null,
+    "is_visible": "true",
+    "course_work_guide": null,
+    "approved_by": null,
+    "date_approved": null,
+    "program": {
+        "program_id": 9,
+        "acronym": "BSBIO",
+        "title": "Bachelor of Science in Biology",
+        "career": "UGRD",
+        "college": "CAS",
+        "description": "The program provides updated training for 21st century biologists in the light of the expanding knowledge in the biological sciences. It aims to expose students to cutting-edge developments in Biology in order to produce graduates that are well-honed in field research as well as in laboratory investigations. The BS Biology program holds the distinction of being the first academic degree program in UPLB to be accredited by the ASEAN University Network-Quality Assurance (AUN-QA) in 2014. The curriculum includes 41 units of core biology courses (BIO, BOT, MCB, ZOO), 26 units of ancillary courses (MATH, STAT, CHEM, PHYS), 24 units of major courses, 27 units of GE courses, 6 units of social science and humanities courses, 9 units of free elective courses, 3 units of practicum, 1 unit of undergraduate seminar, and 6 units of undergraduate thesis. Students are allowed to choose from the following areas/disciplines of biology as their major field: Cell and Molecular Biology, Ecology, Genetics, Microbiology, Plant Biology, Systematics, Wildlife Biology, and Zoology.",
+        "degree_id": 1,
+        "created_at": null,
+        "updated_at": null,
+        "max_units": 21,
+        "is_visible": "YES",
+        "term_type_offer": "Semestral",
+        "acad_org": null
+    },
+    "curriculum_courses": [
+        {
+            "id": 4697,
+            "curriculum_id": 59,
+            "course_id": 408,
+            "year": "1",
+            "sem": "1",
+            "description": "",
+            "course_type": "REQUIRED",
+            "sub_type": "--",
+            "group_id": null,
+            "created_at": null,
+            "updated_at": null,
+            "units": null,
+            "course": {
+                "course_code": "BIO 11.1",
+                "course_id": 408,
+                "title": "Investigative Biology Laboratory",
+                "type": "NA",
+                "is_academic": true,
+                "is_multiple_enrollment": false,
+                "is_repeatable": false,
+                "course_code_title": "BIO 11.1 - Investigative Biology Laboratory",
+                "acad_orgs": [
+                    "LBIBS"
+                ],
+                "acad_groups": [
+                    "CAS"
+                ]
+            }
+        },
+        {
+            "id": 4698,
+            "curriculum_id": 59,
+            "course_id": 492,
+            "year": "1",
+            "sem": "1",
+            "description": "",
+            "course_type": "REQUIRED",
+            "sub_type": "--",
+            "group_id": null,
+            "created_at": null,
+            "updated_at": null,
+            "units": null,
+            "course": {
+                "course_code": "CHEM 18",
+                "course_id": 492,
+                "title": "University Chemistry",
+                "type": "NA",
+                "is_academic": true,
+                "is_multiple_enrollment": false,
+                "is_repeatable": false,
+                "course_code_title": "CHEM 18 - University Chemistry",
+                "acad_orgs": [
+                    "LBIC"
+                ],
+                "acad_groups": [
+                    "CAS"
+                ]
+            }
+        },
+        {
+            "id": 4699,
+            "curriculum_id": 59,
+            "course_id": 492,
+            "year": "1",
+            "sem": "1",
+            "description": "",
+            "course_type": "REQUIRED",
+            "sub_type": "--",
+            "group_id": null,
+            "created_at": null,
+            "updated_at": null,
+            "units": null,
+            "course": {
+                "course_code": "CHEM 18",
+                "course_id": 492,
+                "title": "University Chemistry",
+                "type": "NA",
+                "is_academic": true,
+                "is_multiple_enrollment": false,
+                "is_repeatable": false,
+                "course_code_title": "CHEM 18 - University Chemistry",
+                "acad_orgs": [
+                    "LBIC"
+                ],
+                "acad_groups": [
+                    "CAS"
+                ]
+            }
+        },
+        {
+            "id": 4700,
+            "curriculum_id": 59,
+            "course_id": 622,
+            "year": "1",
+            "sem": "1",
+            "description": "",
+            "course_type": "REQUIRED",
+            "sub_type": "--",
+            "group_id": null,
+            "created_at": null,
+            "updated_at": null,
+            "units": null,
+            "course": {
+                "course_code": "MATH 25",
+                "course_id": 622,
+                "title": "Fundamental Calculus",
+                "type": "NA",
+                "is_academic": true,
+                "is_multiple_enrollment": false,
+                "is_repeatable": false,
+                "course_code_title": "MATH 25 - Fundamental Calculus",
+                "acad_orgs": [
+                    "LBIMS"
+                ],
+                "acad_groups": [
+                    "CAS"
+                ]
+            }
+        },
+        {
+            "id": 4701,
+            "curriculum_id": 59,
+            "course_id": 453,
+            "year": "1",
+            "sem": "1",
+            "description": "",
+            "course_type": "REQUIRED",
+            "sub_type": "--",
+            "group_id": null,
+            "created_at": null,
+            "updated_at": null,
+            "units": null,
+            "course": {
+                "course_code": "MCB 11",
+                "course_id": 453,
+                "title": "Biology and Applications of Microorganisms",
+                "type": "NA",
+                "is_academic": true,
+                "is_multiple_enrollment": false,
+                "is_repeatable": false,
+                "course_code_title": "MCB 11 - Biology and Applications of Microorganisms",
+                "acad_orgs": [
+                    "LBIBS"
+                ],
+                "acad_groups": [
+                    "CAS"
+                ]
+            }
+        },
+        {
+            "id": 4705,
+            "curriculum_id": 59,
+            "course_id": 813,
+            "year": "1",
+            "sem": "1",
+            "description": "",
+            "course_type": "REQUIRED",
+            "sub_type": "--",
+            "group_id": null,
+            "created_at": null,
+            "updated_at": null,
+            "units": 2,
+            "course": {
+                "course_code": "HK 11",
+                "course_id": 813,
+                "title": "Wellness and Basic Injury Management",
+                "type": "NA",
+                "is_academic": false,
+                "is_multiple_enrollment": false,
+                "is_repeatable": false,
+                "course_code_title": "HK 11 - Wellness and Basic Injury Management",
+                "acad_orgs": [
+                    "LBDHK"
+                ],
+                "acad_groups": [
+                    "CAS"
+                ]
+            }
+        },
+        {
+            "id": 4706,
+            "curriculum_id": 59,
+            "course_id": 409,
+            "year": "1",
+            "sem": "2",
+            "description": "",
+            "course_type": "REQUIRED",
+            "sub_type": "--",
+            "group_id": null,
+            "created_at": null,
+            "updated_at": null,
+            "units": null,
+            "course": {
+                "course_code": "BIO 14",
+                "course_id": 409,
+                "title": "Biodiversity",
+                "type": "NA",
+                "is_academic": true,
+                "is_multiple_enrollment": false,
+                "is_repeatable": false,
+                "course_code_title": "BIO 14 - Biodiversity",
+                "acad_orgs": [
+                    "LBIBS"
+                ],
+                "acad_groups": [
+                    "CAS"
+                ]
+            }
+        },
+        {
+            "id": 4707,
+            "curriculum_id": 59,
+            "course_id": 497,
+            "year": "1",
+            "sem": "2",
+            "description": "",
+            "course_type": "REQUIRED",
+            "sub_type": "--",
+            "group_id": null,
+            "created_at": null,
+            "updated_at": null,
+            "units": null,
+            "course": {
+                "course_code": "CHEM 40",
+                "course_id": 497,
+                "title": "Basic Organic Chemistry",
+                "type": "NA",
+                "is_academic": true,
+                "is_multiple_enrollment": false,
+                "is_repeatable": false,
+                "course_code_title": "CHEM 40 - Basic Organic Chemistry",
+                "acad_orgs": [
+                    "LBIC"
+                ],
+                "acad_groups": [
+                    "CAS"
+                ]
+            },
+            "prerequisites": "BIO 101"
+        },
+        {
+            "id": 4708,
+            "curriculum_id": 59,
+            "course_id": 498,
+            "year": "1",
+            "sem": "2",
+            "description": "",
+            "course_type": "REQUIRED",
+            "sub_type": "--",
+            "group_id": null,
+            "created_at": null,
+            "updated_at": null,
+            "units": null,
+            "course": {
+                "course_code": "CHEM 40.1",
+                "course_id": 498,
+                "title": "Basic Organic Chemistry Laboratory",
+                "type": "NA",
+                "is_academic": true,
+                "is_multiple_enrollment": false,
+                "is_repeatable": false,
+                "course_code_title": "CHEM 40.1 - Basic Organic Chemistry Laboratory",
+                "acad_orgs": [
+                    "LBIC"
+                ],
+                "acad_groups": [
+                    "CAS"
+                ]
+            }
+        },
+        {
+            "id": 4709,
+            "curriculum_id": 59,
+            "course_id": 410,
+            "year": "1",
+            "sem": "2",
+            "description": "",
+            "course_type": "REQUIRED",
+            "sub_type": "--",
+            "group_id": null,
+            "created_at": null,
+            "updated_at": null,
+            "units": null,
+            "course": {
+                "course_code": "BIO 30",
+                "course_id": 410,
+                "title": "Genetics",
+                "type": "NA",
+                "is_academic": true,
+                "is_multiple_enrollment": false,
+                "is_repeatable": false,
+                "course_code_title": "BIO 30 - Genetics",
+                "acad_orgs": [
+                    "LBIBS"
+                ],
+                "acad_groups": [
+                    "CAS"
+                ]
+            },
+            "prerequisites": "BIO\n2 or BIO 3 or BOT 1 and ZOO 1"
+        },
+        {
+            "id": 4711,
+            "curriculum_id": 59,
+            "course_id": 828,
+            "year": "1",
+            "sem": "2",
+            "description": "",
+            "course_type": "REQUIRED",
+            "sub_type": "--",
+            "group_id": null,
+            "created_at": null,
+            "updated_at": null,
+            "units": null,
+            "course": {
+                "course_code": "PI 10",
+                "course_id": 828,
+                "title": "(GE). The Life and Works of Rizal",
+                "type": "NA",
+                "is_academic": true,
+                "is_multiple_enrollment": false,
+                "is_repeatable": false,
+                "course_code_title": "PI 10 - (GE). The Life and Works of Rizal",
+                "acad_orgs": [
+                    "LBDSS"
+                ],
+                "acad_groups": [
+                    "CAS"
+                ]
+            }
+        },
+        {
+            "id": 4714,
+            "curriculum_id": 59,
+            "course_id": 439,
+            "year": "2",
+            "sem": "1",
+            "description": "",
+            "course_type": "REQUIRED",
+            "sub_type": "--",
+            "group_id": null,
+            "created_at": null,
+            "updated_at": null,
+            "units": null,
+            "course": {
+                "course_code": "BOT 14",
+                "course_id": 439,
+                "title": "University Botany",
+                "type": "NA",
+                "is_academic": true,
+                "is_multiple_enrollment": false,
+                "is_repeatable": false,
+                "course_code_title": "BOT 14 - University Botany",
+                "acad_orgs": [
+                    "LBIBS"
+                ],
+                "acad_groups": [
+                    "CAS"
+                ]
+            }
+        },
+        {
+            "id": 4715,
+            "curriculum_id": 59,
+            "course_id": 467,
+            "year": "2",
+            "sem": "1",
+            "description": "",
+            "course_type": "REQUIRED",
+            "sub_type": "--",
+            "group_id": null,
+            "created_at": null,
+            "updated_at": null,
+            "units": null,
+            "course": {
+                "course_code": "ZOO 14",
+                "course_id": 467,
+                "title": "University Zoology",
+                "type": "NA",
+                "is_academic": true,
+                "is_multiple_enrollment": false,
+                "is_repeatable": false,
+                "course_code_title": "ZOO 14 - University Zoology",
+                "acad_orgs": [
+                    "LBIBS"
+                ],
+                "acad_groups": [
+                    "CAS"
+                ]
+            }
+        },
+        {
+            "id": 4716,
+            "curriculum_id": 59,
+            "course_id": 518,
+            "year": "2",
+            "sem": "1",
+            "description": "",
+            "course_type": "REQUIRED",
+            "sub_type": "--",
+            "group_id": null,
+            "created_at": null,
+            "updated_at": null,
+            "units": null,
+            "course": {
+                "course_code": "CHEM 160",
+                "course_id": 518,
+                "title": "Introductory Biochemistry",
+                "type": "NA",
+                "is_academic": true,
+                "is_multiple_enrollment": false,
+                "is_repeatable": false,
+                "course_code_title": "CHEM 160 - Introductory Biochemistry",
+                "acad_orgs": [
+                    "LBIC"
+                ],
+                "acad_groups": [
+                    "CAS"
+                ]
+            },
+            "prerequisites": "CHEM 40 and CHEM 40"
+        },
+        {
+            "id": 4717,
+            "curriculum_id": 59,
+            "course_id": 425,
+            "year": "2",
+            "sem": "1",
+            "description": "",
+            "course_type": "REQUIRED",
+            "sub_type": "--",
+            "group_id": null,
+            "created_at": null,
+            "updated_at": null,
+            "units": null,
+            "course": {
+                "course_code": "BIO 150",
+                "course_id": 425,
+                "title": "Ecology",
+                "type": "NA",
+                "is_academic": true,
+                "is_multiple_enrollment": false,
+                "is_repeatable": false,
+                "course_code_title": "BIO 150 - Ecology",
+                "acad_orgs": [
+                    "LBIBS"
+                ],
+                "acad_groups": [
+                    "CAS"
+                ]
+            },
+            "prerequisites": "BIO 2 or BIO 3 or BOT 1 and ZOO 1"
+        },
+        {
+            "id": 4720,
+            "curriculum_id": 59,
+            "course_id": 3107,
+            "year": "2",
+            "sem": "1",
+            "description": "",
+            "course_type": "REQUIRED",
+            "sub_type": "--",
+            "group_id": null,
+            "created_at": null,
+            "updated_at": null,
+            "units": 3,
+            "course": {
+                "course_code": "NSTP 1",
+                "course_id": 3107,
+                "title": "National Service Training Program I",
+                "type": "NA",
+                "is_academic": false,
+                "is_multiple_enrollment": true,
+                "is_repeatable": true,
+                "course_code_title": "NSTP 1 - National Service Training Program I",
+                "acad_orgs": [
+                    "LBASI",
+                    "LBDAAE",
+                    "LBDAME",
+                    "LBDBVS",
+                    "LBDCE",
+                    "LBDCERP",
+                    "LBDCHE",
+                    "LBDDBT",
+                    "LBDDJ",
+                    "LBDEC",
+                    "LBDEE",
+                    "LBDENSC",
+                    "LBDFBS",
+                    "LBDFPPS",
+                    "LBDHFDS",
+                    "LBDIE",
+                    "LBDME",
+                    "LBDMST",
+                    "LBDSC",
+                    "LBDSDS",
+                    "LBDSFFG",
+                    "LBDVCS",
+                    "LBDVPS",
+                    "LBIABE",
+                    "LBIAS",
+                    "LBICOPED",
+                    "LBIHNF",
+                    "LBIRNR",
+                    "LBOVCCA"
+                ],
+                "acad_groups": [
+                    "CAFS",
+                    "CAS",
+                    "CEAT",
+                    "CEM",
+                    "CHE",
+                    "CVM"
+                ]
+            }
+        },
+        {
+            "id": 4721,
+            "curriculum_id": 59,
+            "course_id": 660,
+            "year": "2",
+            "sem": "2",
+            "description": "",
+            "course_type": "REQUIRED",
+            "sub_type": "--",
+            "group_id": null,
+            "created_at": null,
+            "updated_at": null,
+            "units": null,
+            "course": {
+                "course_code": "PHYS 51",
+                "course_id": 660,
+                "title": "Elements of Physics",
+                "type": "NA",
+                "is_academic": true,
+                "is_multiple_enrollment": false,
+                "is_repeatable": false,
+                "course_code_title": "PHYS 51 - Elements of Physics",
+                "acad_orgs": [
+                    "LBIoP"
+                ],
+                "acad_groups": [
+                    "CAS"
+                ]
+            }
+        },
+        {
+            "id": 4722,
+            "curriculum_id": 59,
+            "course_id": 661,
+            "year": "2",
+            "sem": "2",
+            "description": "",
+            "course_type": "REQUIRED",
+            "sub_type": "--",
+            "group_id": null,
+            "created_at": null,
+            "updated_at": null,
+            "units": null,
+            "course": {
+                "course_code": "PHYS 51.1",
+                "course_id": 661,
+                "title": "Elements of Physics Laboratory",
+                "type": "NA",
+                "is_academic": true,
+                "is_multiple_enrollment": false,
+                "is_repeatable": false,
+                "course_code_title": "PHYS 51.1 - Elements of Physics Laboratory",
+                "acad_orgs": [
+                    "LBIoP"
+                ],
+                "acad_groups": [
+                    "CAS"
+                ]
+            }
+        },
+        {
+            "id": 4723,
+            "curriculum_id": 59,
+            "course_id": 412,
+            "year": "2",
+            "sem": "2",
+            "description": "",
+            "course_type": "REQUIRED",
+            "sub_type": "--",
+            "group_id": null,
+            "created_at": null,
+            "updated_at": null,
+            "units": null,
+            "course": {
+                "course_code": "BIO 101",
+                "course_id": 412,
+                "title": "Introductory Molecular Biology",
+                "type": "NA",
+                "is_academic": true,
+                "is_multiple_enrollment": false,
+                "is_repeatable": false,
+                "course_code_title": "BIO 101 - Introductory Molecular Biology",
+                "acad_orgs": [
+                    "LBIBS"
+                ],
+                "acad_groups": [
+                    "CAS"
+                ]
+            },
+            "prerequisites": "BIO\n30 and CHEM 160 or CHEM 161"
+        },
+        {
+            "id": 4724,
+            "curriculum_id": 59,
+            "course_id": 519,
+            "year": "2",
+            "sem": "2",
+            "description": "",
+            "course_type": "REQUIRED",
+            "sub_type": "--",
+            "group_id": null,
+            "created_at": null,
+            "updated_at": null,
+            "units": null,
+            "course": {
+                "course_code": "CHEM 160.1",
+                "course_id": 519,
+                "title": "Introductory Biochemistry Laboratory",
+                "type": "NA",
+                "is_academic": true,
+                "is_multiple_enrollment": false,
+                "is_repeatable": false,
+                "course_code_title": "CHEM 160.1 - Introductory Biochemistry Laboratory",
+                "acad_orgs": [
+                    "LBIC"
+                ],
+                "acad_groups": [
+                    "CAS"
+                ]
+            }
+        },
+        {
+            "id": 4725,
+            "curriculum_id": 59,
+            "course_id": 423,
+            "year": "2",
+            "sem": "2",
+            "description": "",
+            "course_type": "REQUIRED",
+            "sub_type": "--",
+            "group_id": null,
+            "created_at": null,
+            "updated_at": null,
+            "units": null,
+            "course": {
+                "course_code": "BIO 140",
+                "course_id": 423,
+                "title": "Evolutionary Biology",
+                "type": "NA",
+                "is_academic": true,
+                "is_multiple_enrollment": false,
+                "is_repeatable": false,
+                "course_code_title": "BIO 140 - Evolutionary Biology",
+                "acad_orgs": [
+                    "LBIBS"
+                ],
+                "acad_groups": [
+                    "CAS"
+                ]
+            },
+            "prerequisites": "BIO 30"
+        },
+        {
+            "id": 4726,
+            "curriculum_id": 59,
+            "course_id": 294,
+            "year": "2",
+            "sem": "2",
+            "description": "",
+            "course_type": "REQUIRED",
+            "sub_type": "--",
+            "group_id": null,
+            "created_at": null,
+            "updated_at": null,
+            "units": null,
+            "course": {
+                "course_code": "ABME 10",
+                "course_id": 294,
+                "title": "Foundations of Entrepreneurship",
+                "type": "NA",
+                "is_academic": true,
+                "is_multiple_enrollment": false,
+                "is_repeatable": false,
+                "course_code_title": "ABME 10 - Foundations of Entrepreneurship",
+                "acad_orgs": [
+                    "LBDAME"
+                ],
+                "acad_groups": [
+                    "CEM"
+                ]
+            }
+        },
+        {
+            "id": 4729,
+            "curriculum_id": 59,
+            "course_id": 2055,
+            "year": "2",
+            "sem": "2",
+            "description": "",
+            "course_type": "REQUIRED",
+            "sub_type": "--",
+            "group_id": null,
+            "created_at": null,
+            "updated_at": null,
+            "units": 3,
+            "course": {
+                "course_code": "NSTP 2",
+                "course_id": 2055,
+                "title": "National Service Training Program II",
+                "type": "NA",
+                "is_academic": false,
+                "is_multiple_enrollment": true,
+                "is_repeatable": true,
+                "course_code_title": "NSTP 2 - National Service Training Program II",
+                "acad_orgs": [
+                    "LBASI",
+                    "LBDAAE",
+                    "LBDAECO",
+                    "LBDAME",
+                    "LBDBVS",
+                    "LBDCE",
+                    "LBDCERP",
+                    "LBDCHE",
+                    "LBDDBT",
+                    "LBDDJ",
+                    "LBDE",
+                    "LBDEC",
+                    "LBDECO",
+                    "LBDEE",
+                    "LBDENSC",
+                    "LBDFBS",
+                    "LBDFPPS",
+                    "LBDHFDS",
+                    "LBDIE",
+                    "LBDME",
+                    "LBDMST",
+                    "LBDSC",
+                    "LBDSDS",
+                    "LBDSFFG",
+                    "LBDVCS",
+                    "LBDVPS",
+                    "LBIABE",
+                    "LBICOPED",
+                    "LBIHNF",
+                    "LBIRNR",
+                    "LBOVCCA"
+                ],
+                "acad_groups": [
+                    "CAFS",
+                    "CAS",
+                    "CEAT",
+                    "CEM",
+                    "CHE",
+                    "CVM"
+                ]
+            }
+        },
+        {
+            "id": 4730,
+            "curriculum_id": 59,
+            "course_id": 704,
+            "year": "3",
+            "sem": "1",
+            "description": "",
+            "course_type": "REQUIRED",
+            "sub_type": "--",
+            "group_id": null,
+            "created_at": null,
+            "updated_at": null,
+            "units": null,
+            "course": {
+                "course_code": "STAT 164",
+                "course_id": 704,
+                "title": "Statistics for the Biological Sciences",
+                "type": "NA",
+                "is_academic": true,
+                "is_multiple_enrollment": false,
+                "is_repeatable": false,
+                "course_code_title": "STAT 164 - Statistics for the Biological Sciences",
+                "acad_orgs": [
+                    "LBINSTAT"
+                ],
+                "acad_groups": [
+                    "CAS"
+                ]
+            },
+            "prerequisites": "STAT 1"
+        },
+        {
+            "id": 4731,
+            "curriculum_id": 59,
+            "course_id": 413,
+            "year": "3",
+            "sem": "1",
+            "description": "",
+            "course_type": "REQUIRED",
+            "sub_type": "--",
+            "group_id": null,
+            "created_at": null,
+            "updated_at": null,
+            "units": null,
+            "course": {
+                "course_code": "BIO 120",
+                "course_id": 413,
+                "title": "Cell Biology",
+                "type": "NA",
+                "is_academic": true,
+                "is_multiple_enrollment": false,
+                "is_repeatable": false,
+                "course_code_title": "BIO 120 - Cell Biology",
+                "acad_orgs": [
+                    "LBIBS"
+                ],
+                "acad_groups": [
+                    "CAS"
+                ]
+            },
+            "prerequisites": "BIO 30 and CHEM 160"
+        },
+        {
+            "id": 4732,
+            "curriculum_id": 59,
+            "course_id": 424,
+            "year": "3",
+            "sem": "1",
+            "description": "",
+            "course_type": "REQUIRED",
+            "sub_type": "--",
+            "group_id": null,
+            "created_at": null,
+            "updated_at": null,
+            "units": null,
+            "course": {
+                "course_code": "BIO 142",
+                "course_id": 424,
+                "title": "Principles of Systematic Biology",
+                "type": "NA",
+                "is_academic": true,
+                "is_multiple_enrollment": false,
+                "is_repeatable": false,
+                "course_code_title": "BIO 142 - Principles of Systematic Biology",
+                "acad_orgs": [
+                    "LBIBS"
+                ],
+                "acad_groups": [
+                    "CAS"
+                ]
+            },
+            "prerequisites": "BIO 2 or BIO 3 or BOT 1 and ZOO 1"
+        },
+        {
+            "id": 4734,
+            "curriculum_id": 59,
+            "course_id": 435,
+            "year": "3",
+            "sem": "2",
+            "description": "",
+            "course_type": "REQUIRED",
+            "sub_type": "--",
+            "group_id": null,
+            "created_at": null,
+            "updated_at": null,
+            "units": null,
+            "course": {
+                "course_code": "BIO 195",
+                "course_id": 435,
+                "title": "Research Methods in Biological Sciences",
+                "type": "NA",
+                "is_academic": true,
+                "is_multiple_enrollment": false,
+                "is_repeatable": false,
+                "course_code_title": "BIO 195 - Research Methods in Biological Sciences",
+                "acad_orgs": [
+                    "LBIBS"
+                ],
+                "acad_groups": [
+                    "CAS"
+                ]
+            },
+            "prerequisites": "STAT 1"
+        },
+        {
+            "id": 4735,
+            "curriculum_id": 59,
+            "course_id": 415,
+            "year": "3",
+            "sem": "2",
+            "description": "",
+            "course_type": "REQUIRED",
+            "sub_type": "--",
+            "group_id": null,
+            "created_at": null,
+            "updated_at": null,
+            "units": null,
+            "course": {
+                "course_code": "BIO 127",
+                "course_id": 415,
+                "title": "Developmental BIology",
+                "type": "NA",
+                "is_academic": true,
+                "is_multiple_enrollment": false,
+                "is_repeatable": false,
+                "course_code_title": "BIO 127 - Developmental BIology",
+                "acad_orgs": [
+                    "LBIBS"
+                ],
+                "acad_groups": [
+                    "CAS"
+                ]
+            }
+        },
+        {
+            "id": 4737,
+            "curriculum_id": 59,
+            "course_id": 436,
+            "year": "3",
+            "sem": "3",
+            "description": "",
+            "course_type": "REQUIRED",
+            "sub_type": "--",
+            "group_id": null,
+            "created_at": null,
+            "updated_at": null,
+            "units": null,
+            "course": {
+                "course_code": "BIO 198",
+                "course_id": 436,
+                "title": "Practicum",
+                "type": "NA",
+                "is_academic": true,
+                "is_multiple_enrollment": false,
+                "is_repeatable": false,
+                "course_code_title": "BIO 198 - Practicum",
+                "acad_orgs": [
+                    "LBIBS"
+                ],
+                "acad_groups": [
+                    "CAS"
+                ]
+            }
+        },
+        {
+            "id": 4738,
+            "curriculum_id": 59,
+            "course_id": 726,
+            "year": "4",
+            "sem": "1",
+            "description": "",
+            "course_type": "REQUIRED",
+            "sub_type": "--",
+            "group_id": null,
+            "created_at": null,
+            "updated_at": null,
+            "units": null,
+            "course": {
+                "course_code": "COMA 150",
+                "course_id": 726,
+                "title": "Workplace Communication",
+                "type": "NA",
+                "is_academic": true,
+                "is_multiple_enrollment": false,
+                "is_repeatable": false,
+                "course_code_title": "COMA 150 - Workplace Communication",
+                "acad_orgs": [
+                    "LBDHUM"
+                ],
+                "acad_groups": [
+                    "CAS"
+                ]
+            }
+        },
+        {
+            "id": 4739,
+            "curriculum_id": 59,
+            "course_id": 437,
+            "year": "4",
+            "sem": "1",
+            "description": "",
+            "course_type": "REQUIRED",
+            "sub_type": "--",
+            "group_id": null,
+            "created_at": null,
+            "updated_at": null,
+            "units": null,
+            "course": {
+                "course_code": "BIO 199",
+                "course_id": 437,
+                "title": "Undergraduate Seminar in Biology",
+                "type": "NA",
+                "is_academic": true,
+                "is_multiple_enrollment": false,
+                "is_repeatable": true,
+                "course_code_title": "BIO 199 - Undergraduate Seminar in Biology",
+                "acad_orgs": [
+                    "LBIBS"
+                ],
+                "acad_groups": [
+                    "CAS"
+                ]
+            },
+            "prerequisites": "Senior standing or COI"
+        },
+        {
+            "id": 4740,
+            "curriculum_id": 59,
+            "course_id": 438,
+            "year": "4",
+            "sem": "1",
+            "description": "",
+            "course_type": "REQUIRED",
+            "sub_type": "--",
+            "group_id": null,
+            "created_at": null,
+            "updated_at": null,
+            "units": null,
+            "course": {
+                "course_code": "BIO 200",
+                "course_id": 438,
+                "title": "Undergraduate Thesis in Biology",
+                "type": "NA",
+                "is_academic": true,
+                "is_multiple_enrollment": true,
+                "is_repeatable": true,
+                "course_code_title": "BIO 200 - Undergraduate Thesis in Biology",
+                "acad_orgs": [
+                    "LBIBS"
+                ],
+                "acad_groups": [
+                    "CAS"
+                ]
+            },
+            "prerequisites": "BIO 2\nor BIO 3 or BOT 1 and ZOO 1"
+        },
+        {
+            "id": 4741,
+            "curriculum_id": 59,
+            "course_id": 438,
+            "year": "4",
+            "sem": "2",
+            "description": "",
+            "course_type": "REQUIRED",
+            "sub_type": "--",
+            "group_id": null,
+            "created_at": null,
+            "updated_at": null,
+            "units": null,
+            "course": {
+                "course_code": "BIO 200",
+                "course_id": 438,
+                "title": "Undergraduate Thesis in Biology",
+                "type": "NA",
+                "is_academic": true,
+                "is_multiple_enrollment": true,
+                "is_repeatable": true,
+                "course_code_title": "BIO 200 - Undergraduate Thesis in Biology",
+                "acad_orgs": [
+                    "LBIBS"
+                ],
+                "acad_groups": [
+                    "CAS"
+                ]
+            },
+            "prerequisites": "BIO 2\nor BIO 3 or BOT 1 and ZOO 1"
+        },
+        {
+            "id": 4742,
+            "curriculum_id": 59,
+            "course_id": 842,
+            "year": "0",
+            "sem": "0",
+            "description": "",
+            "course_type": "GE ELECTIVE",
+            "sub_type": "--",
+            "group_id": null,
+            "created_at": null,
+            "updated_at": null,
+            "units": null,
+            "course": {
+                "course_code": "SAS 1",
+                "course_id": 842,
+                "title": "(GE). Self and Society",
+                "type": "NA",
+                "is_academic": true,
+                "is_multiple_enrollment": false,
+                "is_repeatable": false,
+                "course_code_title": "SAS 1 - (GE). Self and Society",
+                "acad_orgs": [
+                    "LBDSS"
+                ],
+                "acad_groups": [
+                    "CAS"
+                ]
+            }
+        },
+        {
+            "id": 4703,
+            "curriculum_id": 59,
+            "course_id": 2642,
+            "year": "1",
+            "sem": "1",
+            "description": "",
+            "course_type": "REQUIRED",
+            "sub_type": "--",
+            "group_id": 1,
+            "created_at": null,
+            "updated_at": null,
+            "units": null,
+            "course": {
+                "course_code": "HIST 1",
+                "course_id": 2642,
+                "title": "(GE). Philippine History",
+                "type": "NA",
+                "is_academic": true,
+                "is_multiple_enrollment": false,
+                "is_repeatable": false,
+                "course_code_title": "HIST 1 - (GE). Philippine History",
+                "acad_orgs": [
+                    "LBDSS"
+                ],
+                "acad_groups": [
+                    "CAS"
+                ]
+            }
+        },
+        {
+            "id": 4712,
+            "curriculum_id": 59,
+            "course_id": 814,
+            "year": "1",
+            "sem": "2",
+            "description": "",
+            "course_type": "REQUIRED",
+            "sub_type": "--",
+            "group_id": 1,
+            "created_at": null,
+            "updated_at": null,
+            "units": 2,
+            "course": {
+                "course_code": "HK 12",
+                "course_id": 814,
+                "title": "Human Kinetics Activities",
+                "type": "NA",
+                "is_academic": false,
+                "is_multiple_enrollment": true,
+                "is_repeatable": true,
+                "course_code_title": "HK 12 - Human Kinetics Activities",
+                "acad_orgs": [
+                    "LBDHK"
+                ],
+                "acad_groups": [
+                    "CAS"
+                ]
+            }
+        },
+        {
+            "id": 4713,
+            "curriculum_id": 59,
+            "course_id": 815,
+            "year": "1",
+            "sem": "2",
+            "description": "",
+            "course_type": "REQUIRED",
+            "sub_type": "--",
+            "group_id": 1,
+            "created_at": null,
+            "updated_at": null,
+            "units": 2,
+            "course": {
+                "course_code": "HK 13",
+                "course_id": 815,
+                "title": "Advanced Human Kinetics Activities",
+                "type": "NA",
+                "is_academic": false,
+                "is_multiple_enrollment": false,
+                "is_repeatable": false,
+                "course_code_title": "HK 13 - Advanced Human Kinetics Activities",
+                "acad_orgs": [],
+                "acad_groups": []
+            }
+        },
+        {
+            "id": 4718,
+            "curriculum_id": 59,
+            "course_id": 814,
+            "year": "2",
+            "sem": "1",
+            "description": "",
+            "course_type": "REQUIRED",
+            "sub_type": "--",
+            "group_id": 1,
+            "created_at": null,
+            "updated_at": null,
+            "units": 2,
+            "course": {
+                "course_code": "HK 12",
+                "course_id": 814,
+                "title": "Human Kinetics Activities",
+                "type": "NA",
+                "is_academic": false,
+                "is_multiple_enrollment": true,
+                "is_repeatable": true,
+                "course_code_title": "HK 12 - Human Kinetics Activities",
+                "acad_orgs": [
+                    "LBDHK"
+                ],
+                "acad_groups": [
+                    "CAS"
+                ]
+            }
+        },
+        {
+            "id": 4719,
+            "curriculum_id": 59,
+            "course_id": 815,
+            "year": "2",
+            "sem": "1",
+            "description": "",
+            "course_type": "REQUIRED",
+            "sub_type": "--",
+            "group_id": 1,
+            "created_at": null,
+            "updated_at": null,
+            "units": 2,
+            "course": {
+                "course_code": "HK 13",
+                "course_id": 815,
+                "title": "Advanced Human Kinetics Activities",
+                "type": "NA",
+                "is_academic": false,
+                "is_multiple_enrollment": false,
+                "is_repeatable": false,
+                "course_code_title": "HK 13 - Advanced Human Kinetics Activities",
+                "acad_orgs": [],
+                "acad_groups": []
+            }
+        },
+        {
+            "id": 4727,
+            "curriculum_id": 59,
+            "course_id": 814,
+            "year": "2",
+            "sem": "2",
+            "description": "",
+            "course_type": "REQUIRED",
+            "sub_type": "--",
+            "group_id": 1,
+            "created_at": null,
+            "updated_at": null,
+            "units": 2,
+            "course": {
+                "course_code": "HK 12",
+                "course_id": 814,
+                "title": "Human Kinetics Activities",
+                "type": "NA",
+                "is_academic": false,
+                "is_multiple_enrollment": true,
+                "is_repeatable": true,
+                "course_code_title": "HK 12 - Human Kinetics Activities",
+                "acad_orgs": [
+                    "LBDHK"
+                ],
+                "acad_groups": [
+                    "CAS"
+                ]
+            }
+        },
+        {
+            "id": 4728,
+            "curriculum_id": 59,
+            "course_id": 815,
+            "year": "2",
+            "sem": "2",
+            "description": "",
+            "course_type": "REQUIRED",
+            "sub_type": "--",
+            "group_id": 1,
+            "created_at": null,
+            "updated_at": null,
+            "units": 2,
+            "course": {
+                "course_code": "HK 13",
+                "course_id": 815,
+                "title": "Advanced Human Kinetics Activities",
+                "type": "NA",
+                "is_academic": false,
+                "is_multiple_enrollment": false,
+                "is_repeatable": false,
+                "course_code_title": "HK 13 - Advanced Human Kinetics Activities",
+                "acad_orgs": [],
+                "acad_groups": []
+            }
+        },
+        {
+            "id": 4743,
+            "curriculum_id": 59,
+            "course_id": 619,
+            "year": "0",
+            "sem": "0",
+            "description": "",
+            "course_type": "GE ELECTIVE",
+            "sub_type": "--",
+            "group_id": null,
+            "created_at": null,
+            "updated_at": null,
+            "units": null,
+            "course": {
+                "course_code": "MATH 10",
+                "course_id": 619,
+                "title": "(GE). Mathematics, Culture, and Society",
+                "type": "NA",
+                "is_academic": true,
+                "is_multiple_enrollment": false,
+                "is_repeatable": false,
+                "course_code_title": "MATH 10 - (GE). Mathematics, Culture, and Society",
+                "acad_orgs": [
+                    "LBIMS"
+                ],
+                "acad_groups": [
+                    "CAS"
+                ]
+            }
+        },
+        {
+            "id": 4704,
+            "curriculum_id": 59,
+            "course_id": 720,
+            "year": "1",
+            "sem": "1",
+            "description": "",
+            "course_type": "REQUIRED",
+            "sub_type": "--",
+            "group_id": null,
+            "created_at": null,
+            "updated_at": null,
+            "units": null,
+            "course": {
+                "course_code": "ARTS 1",
+                "course_id": 720,
+                "title": "(GE). Critical Perspectives in the Arts",
+                "type": "NA",
+                "is_academic": true,
+                "is_multiple_enrollment": false,
+                "is_repeatable": false,
+                "course_code_title": "ARTS 1 - (GE). Critical Perspectives in the Arts",
+                "acad_orgs": [
+                    "LBDHUM"
+                ],
+                "acad_groups": [
+                    "CAS"
+                ]
+            }
+        },
+        {
+            "id": 4710,
+            "curriculum_id": 59,
+            "course_id": 841,
+            "year": "1",
+            "sem": "2",
+            "description": "",
+            "course_type": "REQUIRED",
+            "sub_type": "--",
+            "group_id": null,
+            "created_at": null,
+            "updated_at": null,
+            "units": null,
+            "course": {
+                "course_code": "STS 1",
+                "course_id": 841,
+                "title": "(GE). Science, Technology, and Society",
+                "type": "NA",
+                "is_academic": true,
+                "is_multiple_enrollment": false,
+                "is_repeatable": false,
+                "course_code_title": "STS 1 - (GE). Science, Technology, and Society",
+                "acad_orgs": [
+                    "LBDSS"
+                ],
+                "acad_groups": [
+                    "CAS"
+                ]
+            }
+        },
+        {
+            "id": 4733,
+            "curriculum_id": 59,
+            "course_id": 721,
+            "year": "3",
+            "sem": "1",
+            "description": "",
+            "course_type": "REQUIRED",
+            "sub_type": "--",
+            "group_id": null,
+            "created_at": null,
+            "updated_at": null,
+            "units": null,
+            "course": {
+                "course_code": "COMM 10",
+                "course_id": 721,
+                "title": "(GE). Critical Perspectives in Communication",
+                "type": "NA",
+                "is_academic": true,
+                "is_multiple_enrollment": false,
+                "is_repeatable": false,
+                "course_code_title": "COMM 10 - (GE). Critical Perspectives in Communication",
+                "acad_orgs": [
+                    "LBDHUM"
+                ],
+                "acad_groups": [
+                    "CDC"
+                ]
+            }
+        },
+        {
+            "id": 4736,
+            "curriculum_id": 59,
+            "course_id": 745,
+            "year": "3",
+            "sem": "2",
+            "description": "",
+            "course_type": "REQUIRED",
+            "sub_type": "--",
+            "group_id": null,
+            "created_at": null,
+            "updated_at": null,
+            "units": null,
+            "course": {
+                "course_code": "ETHICS 1",
+                "course_id": 745,
+                "title": "(GE). Ethics and Moral Reasoning in Everyday Life",
+                "type": "NA",
+                "is_academic": true,
+                "is_multiple_enrollment": false,
+                "is_repeatable": false,
+                "course_code_title": "ETHICS 1 - (GE). Ethics and Moral Reasoning in Everyday Life",
+                "acad_orgs": [
+                    "LBDHUM"
+                ],
+                "acad_groups": [
+                    "CAS"
+                ]
+            }
+        },
+        {
+            "id": 4744,
+            "curriculum_id": 59,
+            "course_id": 811,
+            "year": "0",
+            "sem": "0",
+            "description": "",
+            "course_type": "GE ELECTIVE",
+            "sub_type": "--",
+            "group_id": null,
+            "created_at": null,
+            "updated_at": null,
+            "units": null,
+            "course": {
+                "course_code": "WIKA 1",
+                "course_id": 811,
+                "title": "(GE). Wika, Kultura, at Lipunan",
+                "type": "NA",
+                "is_academic": true,
+                "is_multiple_enrollment": false,
+                "is_repeatable": false,
+                "course_code_title": "WIKA 1 - (GE). Wika, Kultura, at Lipunan",
+                "acad_orgs": [
+                    "LBDHUM"
+                ],
+                "acad_groups": [
+                    "CAS"
+                ]
+            }
+        },
+        {
+            "id": 4745,
+            "curriculum_id": 59,
+            "course_id": 758,
+            "year": "0",
+            "sem": "0",
+            "description": "",
+            "course_type": "GE ELECTIVE",
+            "sub_type": "--",
+            "group_id": null,
+            "created_at": null,
+            "updated_at": null,
+            "units": null,
+            "course": {
+                "course_code": "PHILARTS 1",
+                "course_id": 758,
+                "title": "(GE). Philippine Arts and Culture",
+                "type": "NA",
+                "is_academic": true,
+                "is_multiple_enrollment": false,
+                "is_repeatable": false,
+                "course_code_title": "PHILARTS 1 - (GE). Philippine Arts and Culture",
+                "acad_orgs": [
+                    "LBDHUM"
+                ],
+                "acad_groups": [
+                    "CAS"
+                ]
+            }
+        },
+        {
+            "id": 4746,
+            "curriculum_id": 59,
+            "course_id": 691,
+            "year": "0",
+            "sem": "0",
+            "description": "",
+            "course_type": "GE ELECTIVE",
+            "sub_type": "--",
+            "group_id": null,
+            "created_at": null,
+            "updated_at": null,
+            "units": null,
+            "course": {
+                "course_code": "SCIENCE 10",
+                "course_id": 691,
+                "title": "(GE). Probing the Physical World",
+                "type": "NA",
+                "is_academic": true,
+                "is_multiple_enrollment": false,
+                "is_repeatable": false,
+                "course_code_title": "SCIENCE 10 - (GE). Probing the Physical World",
+                "acad_orgs": [
+                    "LBIC",
+                    "LBIMSP",
+                    "LBIoP"
+                ],
+                "acad_groups": [
+                    "CAS"
+                ]
+            }
+        },
+        {
+            "id": 4747,
+            "curriculum_id": 59,
+            "course_id": 464,
+            "year": "0",
+            "sem": "0",
+            "description": "",
+            "course_type": "GE ELECTIVE",
+            "sub_type": "--",
+            "group_id": null,
+            "created_at": null,
+            "updated_at": null,
+            "units": null,
+            "course": {
+                "course_code": "SCIENCE 11",
+                "course_id": 464,
+                "title": "(GE). Living Systems: Concepts and Dynamics",
+                "type": "NA",
+                "is_academic": true,
+                "is_multiple_enrollment": false,
+                "is_repeatable": false,
+                "course_code_title": "SCIENCE 11 - (GE). Living Systems: Concepts and Dynamics",
+                "acad_orgs": [
+                    "LBIBS"
+                ],
+                "acad_groups": [
+                    "CAS"
+                ]
+            }
+        },
+        {
+            "id": 4748,
+            "curriculum_id": 59,
+            "course_id": 752,
+            "year": "0",
+            "sem": "0",
+            "description": "",
+            "course_type": "GE ELECTIVE",
+            "sub_type": "--",
+            "group_id": null,
+            "created_at": null,
+            "updated_at": null,
+            "units": null,
+            "course": {
+                "course_code": "HUM 3",
+                "course_id": 752,
+                "title": "(GE). Reading Film, TV, and the Internet",
+                "type": "NA",
+                "is_academic": true,
+                "is_multiple_enrollment": false,
+                "is_repeatable": false,
+                "course_code_title": "HUM 3 - (GE). Reading Film, TV, and the Internet",
+                "acad_orgs": [
+                    "LBDHUM"
+                ],
+                "acad_groups": [
+                    "CAS"
+                ]
+            }
+        },
+        {
+            "id": 4749,
+            "curriculum_id": 59,
+            "course_id": 843,
+            "year": "0",
+            "sem": "0",
+            "description": "",
+            "course_type": "GE ELECTIVE",
+            "sub_type": "--",
+            "group_id": null,
+            "created_at": null,
+            "updated_at": null,
+            "units": null,
+            "course": {
+                "course_code": "SOSC 3",
+                "course_id": 843,
+                "title": "(GE). Exploring Gender and Sexuality",
+                "type": "NA",
+                "is_academic": true,
+                "is_multiple_enrollment": false,
+                "is_repeatable": false,
+                "course_code_title": "SOSC 3 - (GE). Exploring Gender and Sexuality",
+                "acad_orgs": [
+                    "LBDSS"
+                ],
+                "acad_groups": [
+                    "CAS"
+                ]
+            }
+        },
+        {
+            "id": 4750,
+            "curriculum_id": 59,
+            "course_id": 760,
+            "year": "0",
+            "sem": "0",
+            "description": "",
+            "course_type": "GE ELECTIVE",
+            "sub_type": "--",
+            "group_id": null,
+            "created_at": null,
+            "updated_at": null,
+            "units": null,
+            "course": {
+                "course_code": "PHLO 1",
+                "course_id": 760,
+                "title": "(GE). Understanding Philosophy",
+                "type": "NA",
+                "is_academic": true,
+                "is_multiple_enrollment": false,
+                "is_repeatable": false,
+                "course_code_title": "PHLO 1 - (GE). Understanding Philosophy",
+                "acad_orgs": [
+                    "LBDHUM"
+                ],
+                "acad_groups": [
+                    "CAS"
+                ]
+            }
+        },
+        {
+            "id": 4751,
+            "curriculum_id": 59,
+            "course_id": 759,
+            "year": "0",
+            "sem": "0",
+            "description": "",
+            "course_type": "GE ELECTIVE",
+            "sub_type": "--",
+            "group_id": null,
+            "created_at": null,
+            "updated_at": null,
+            "units": null,
+            "course": {
+                "course_code": "PS 21",
+                "course_id": 759,
+                "title": "(GE). Wika, Panitikan, at Kultura sa Ilalim ng Batas Militar sa Pilipinas.",
+                "type": "NA",
+                "is_academic": true,
+                "is_multiple_enrollment": false,
+                "is_repeatable": false,
+                "course_code_title": "PS 21 - (GE). Wika, Panitikan, at Kultura sa Ilalim ng Batas Militar sa Pilipinas.",
+                "acad_orgs": [
+                    "LBDHUM"
+                ],
+                "acad_groups": [
+                    "CAS"
+                ]
+            }
+        },
+        {
+            "id": 4752,
+            "curriculum_id": 59,
+            "course_id": 822,
+            "year": "0",
+            "sem": "0",
+            "description": "",
+            "course_type": "GE ELECTIVE",
+            "sub_type": "--",
+            "group_id": null,
+            "created_at": null,
+            "updated_at": null,
+            "units": null,
+            "course": {
+                "course_code": "KAS 4",
+                "course_id": 822,
+                "title": "(GE). Ang Kababaihan sa Kasaysayan ng Pilipinas",
+                "type": "NA",
+                "is_academic": true,
+                "is_multiple_enrollment": false,
+                "is_repeatable": false,
+                "course_code_title": "KAS 4 - (GE). Ang Kababaihan sa Kasaysayan ng Pilipinas",
+                "acad_orgs": [
+                    "LBDSS"
+                ],
+                "acad_groups": [
+                    "CAS"
+                ]
+            }
+        },
+        {
+            "id": 4753,
+            "curriculum_id": 59,
+            "course_id": null,
+            "year": "0",
+            "sem": "0",
+            "description": "",
+            "course_type": "ELECTIVE",
+            "sub_type": "--",
+            "group_id": null,
+            "created_at": null,
+            "updated_at": null,
+            "units": null,
+            "course": null
+        },
+        {
+            "id": 4754,
+            "curriculum_id": 59,
+            "course_id": 426,
+            "year": "0",
+            "sem": "0",
+            "description": "",
+            "course_type": "MAJOR",
+            "sub_type": "--",
+            "group_id": null,
+            "created_at": null,
+            "updated_at": null,
+            "units": null,
+            "course": {
+                "course_code": "BIO 151",
+                "course_id": 426,
+                "title": "Environmental Management",
+                "type": "NA",
+                "is_academic": true,
+                "is_multiple_enrollment": false,
+                "is_repeatable": false,
+                "course_code_title": "BIO 151 - Environmental Management",
+                "acad_orgs": [
+                    "LBIBS"
+                ],
+                "acad_groups": [
+                    "CAS"
+                ]
+            },
+            "prerequisites": "BIO 150 or COI"
+        },
+        {
+            "id": 4755,
+            "curriculum_id": 59,
+            "course_id": 429,
+            "year": "0",
+            "sem": "0",
+            "description": "",
+            "course_type": "MAJOR",
+            "sub_type": "--",
+            "group_id": null,
+            "created_at": null,
+            "updated_at": null,
+            "units": null,
+            "course": {
+                "course_code": "BIO 155",
+                "course_id": 429,
+                "title": "Biology of Pollution",
+                "type": "NA",
+                "is_academic": true,
+                "is_multiple_enrollment": false,
+                "is_repeatable": false,
+                "course_code_title": "BIO 155 - Biology of Pollution",
+                "acad_orgs": [
+                    "LBIBS"
+                ],
+                "acad_groups": [
+                    "CAS"
+                ]
+            },
+            "prerequisites": "BIO 150 or COI"
+        },
+        {
+            "id": 4756,
+            "curriculum_id": 59,
+            "course_id": 449,
+            "year": "0",
+            "sem": "0",
+            "description": "",
+            "course_type": "MAJOR",
+            "sub_type": "--",
+            "group_id": null,
+            "created_at": null,
+            "updated_at": null,
+            "units": null,
+            "course": {
+                "course_code": "BOT 150",
+                "course_id": 449,
+                "title": "Plant Ecology",
+                "type": "NA",
+                "is_academic": true,
+                "is_multiple_enrollment": false,
+                "is_repeatable": false,
+                "course_code_title": "BOT 150 - Plant Ecology",
+                "acad_orgs": [
+                    "LBIBS"
+                ],
+                "acad_groups": [
+                    "CAS"
+                ]
+            },
+            "prerequisites": "BOT 3 or COI"
+        },
+        {
+            "id": 4757,
+            "curriculum_id": 59,
+            "course_id": 459,
+            "year": "0",
+            "sem": "0",
+            "description": "",
+            "course_type": "MAJOR",
+            "sub_type": "--",
+            "group_id": null,
+            "created_at": null,
+            "updated_at": null,
+            "units": null,
+            "course": {
+                "course_code": "MCB 150",
+                "course_id": 459,
+                "title": "Microbial Ecology",
+                "type": "NA",
+                "is_academic": true,
+                "is_multiple_enrollment": false,
+                "is_repeatable": false,
+                "course_code_title": "MCB 150 - Microbial Ecology",
+                "acad_orgs": [
+                    "LBIBS"
+                ],
+                "acad_groups": [
+                    "CAS"
+                ]
+            },
+            "prerequisites": "MCB 1"
+        },
+        {
+            "id": 4758,
+            "curriculum_id": 59,
+            "course_id": 480,
+            "year": "0",
+            "sem": "0",
+            "description": "",
+            "course_type": "MAJOR",
+            "sub_type": "--",
+            "group_id": null,
+            "created_at": null,
+            "updated_at": null,
+            "units": null,
+            "course": {
+                "course_code": "ZOO 150",
+                "course_id": 480,
+                "title": "Animal Ecology",
+                "type": "NA",
+                "is_academic": true,
+                "is_multiple_enrollment": false,
+                "is_repeatable": false,
+                "course_code_title": "ZOO 150 - Animal Ecology",
+                "acad_orgs": [
+                    "LBIBS"
+                ],
+                "acad_groups": [
+                    "CAS"
+                ]
+            },
+            "prerequisites": "ZOO 1 or BIO 2 or BIO 3"
+        },
+        {
+            "id": 4759,
+            "curriculum_id": 59,
+            "course_id": 1096,
+            "year": "0",
+            "sem": "0",
+            "description": "",
+            "course_type": "MAJOR",
+            "sub_type": "--",
+            "group_id": null,
+            "created_at": null,
+            "updated_at": null,
+            "units": null,
+            "course": {
+                "course_code": "AGRI 51",
+                "course_id": 1096,
+                "title": "Principles of Soil Science",
+                "type": "NA",
+                "is_academic": true,
+                "is_multiple_enrollment": false,
+                "is_repeatable": false,
+                "course_code_title": "AGRI 51 - Principles of Soil Science",
+                "acad_orgs": [
+                    "LBASI"
+                ],
+                "acad_groups": [
+                    "CAFS"
+                ]
+            }
+        },
+        {
+            "id": 4760,
+            "curriculum_id": 59,
+            "course_id": 1186,
+            "year": "0",
+            "sem": "0",
+            "description": "",
+            "course_type": "MAJOR",
+            "sub_type": "--",
+            "group_id": null,
+            "created_at": null,
+            "updated_at": null,
+            "units": null,
+            "course": {
+                "course_code": "AGRI 121",
+                "course_id": 1186,
+                "title": "Introduction to Ecological Agriculture",
+                "type": "NA",
+                "is_academic": true,
+                "is_multiple_enrollment": false,
+                "is_repeatable": false,
+                "course_code_title": "AGRI 121 - Introduction to Ecological Agriculture",
+                "acad_orgs": [
+                    "LBICROPS"
+                ],
+                "acad_groups": [
+                    "CAFS"
+                ]
+            },
+            "prerequisites": "CRSC 2 or COI"
+        },
+        {
+            "id": 4761,
+            "curriculum_id": 59,
+            "course_id": 414,
+            "year": "0",
+            "sem": "0",
+            "description": "",
+            "course_type": "MAJOR",
+            "sub_type": "--",
+            "group_id": null,
+            "created_at": null,
+            "updated_at": null,
+            "units": null,
+            "course": {
+                "course_code": "BIO 125",
+                "course_id": 414,
+                "title": "Principles of Cell and Molecular Biology Techniques",
+                "type": "NA",
+                "is_academic": true,
+                "is_multiple_enrollment": false,
+                "is_repeatable": false,
+                "course_code_title": "BIO 125 - Principles of Cell and Molecular Biology Techniques",
+                "acad_orgs": [
+                    "LBIBS"
+                ],
+                "acad_groups": [
+                    "CAS"
+                ]
+            }
+        },
+        {
+            "id": 4762,
+            "curriculum_id": 59,
+            "course_id": 416,
+            "year": "0",
+            "sem": "0",
+            "description": "",
+            "course_type": "MAJOR",
+            "sub_type": "--",
+            "group_id": null,
+            "created_at": null,
+            "updated_at": null,
+            "units": null,
+            "course": {
+                "course_code": "BIO 130a",
+                "course_id": 416,
+                "title": "Intermediate Genetics I",
+                "type": "NA",
+                "is_academic": true,
+                "is_multiple_enrollment": false,
+                "is_repeatable": false,
+                "course_code_title": "BIO 130a - Intermediate Genetics I",
+                "acad_orgs": [
+                    "LBIBS"
+                ],
+                "acad_groups": [
+                    "CAS"
+                ]
+            }
+        },
+        {
+            "id": 4763,
+            "curriculum_id": 59,
+            "course_id": 417,
+            "year": "0",
+            "sem": "0",
+            "description": "",
+            "course_type": "MAJOR",
+            "sub_type": "--",
+            "group_id": null,
+            "created_at": null,
+            "updated_at": null,
+            "units": null,
+            "course": {
+                "course_code": "BIO 130b",
+                "course_id": 417,
+                "title": "Intermediate Genetics II",
+                "type": "NA",
+                "is_academic": true,
+                "is_multiple_enrollment": false,
+                "is_repeatable": false,
+                "course_code_title": "BIO 130b - Intermediate Genetics II",
+                "acad_orgs": [
+                    "LBIBS"
+                ],
+                "acad_groups": [
+                    "CAS"
+                ]
+            }
+        },
+        {
+            "id": 4764,
+            "curriculum_id": 59,
+            "course_id": 421,
+            "year": "0",
+            "sem": "0",
+            "description": "",
+            "course_type": "MAJOR",
+            "sub_type": "--",
+            "group_id": null,
+            "created_at": null,
+            "updated_at": null,
+            "units": null,
+            "course": {
+                "course_code": "BIO 138",
+                "course_id": 421,
+                "title": "Molecular Genetics",
+                "type": "NA",
+                "is_academic": true,
+                "is_multiple_enrollment": false,
+                "is_repeatable": false,
+                "course_code_title": "BIO 138 - Molecular Genetics",
+                "acad_orgs": [
+                    "LBIBS"
+                ],
+                "acad_groups": [
+                    "CAS"
+                ]
+            }
+        },
+        {
+            "id": 4765,
+            "curriculum_id": 59,
+            "course_id": 427,
+            "year": "0",
+            "sem": "0",
+            "description": "",
+            "course_type": "MAJOR",
+            "sub_type": "--",
+            "group_id": null,
+            "created_at": null,
+            "updated_at": null,
+            "units": null,
+            "course": {
+                "course_code": "BIO 152",
+                "course_id": 427,
+                "title": "Biogeography",
+                "type": "NA",
+                "is_academic": true,
+                "is_multiple_enrollment": false,
+                "is_repeatable": false,
+                "course_code_title": "BIO 152 - Biogeography",
+                "acad_orgs": [
+                    "LBIBS"
+                ],
+                "acad_groups": [
+                    "CAS"
+                ]
+            }
+        },
+        {
+            "id": 4766,
+            "curriculum_id": 59,
+            "course_id": 428,
+            "year": "0",
+            "sem": "0",
+            "description": "",
+            "course_type": "MAJOR",
+            "sub_type": "--",
+            "group_id": null,
+            "created_at": null,
+            "updated_at": null,
+            "units": null,
+            "course": {
+                "course_code": "BIO 154",
+                "course_id": 428,
+                "title": "Cave Ecology",
+                "type": "NA",
+                "is_academic": true,
+                "is_multiple_enrollment": false,
+                "is_repeatable": false,
+                "course_code_title": "BIO 154 - Cave Ecology",
+                "acad_orgs": [
+                    "LBIBS"
+                ],
+                "acad_groups": [
+                    "CAS"
+                ]
+            },
+            "prerequisites": "BIO 150 or COI"
+        },
+        {
+            "id": 4767,
+            "curriculum_id": 59,
+            "course_id": 430,
+            "year": "0",
+            "sem": "0",
+            "description": "",
+            "course_type": "MAJOR",
+            "sub_type": "--",
+            "group_id": null,
+            "created_at": null,
+            "updated_at": null,
+            "units": null,
+            "course": {
+                "course_code": "BIO 159",
+                "course_id": 430,
+                "title": "Conservation Biology in the Tropics",
+                "type": "NA",
+                "is_academic": true,
+                "is_multiple_enrollment": false,
+                "is_repeatable": false,
+                "course_code_title": "BIO 159 - Conservation Biology in the Tropics",
+                "acad_orgs": [
+                    "LBIBS"
+                ],
+                "acad_groups": [
+                    "CAS"
+                ]
+            },
+            "prerequisites": "BIO 150\nor COI"
+        },
+        {
+            "id": 4768,
+            "curriculum_id": 59,
+            "course_id": 432,
+            "year": "0",
+            "sem": "0",
+            "description": "",
+            "course_type": "MAJOR",
+            "sub_type": "--",
+            "group_id": null,
+            "created_at": null,
+            "updated_at": null,
+            "units": null,
+            "course": {
+                "course_code": "BIO 190",
+                "course_id": 432,
+                "title": "Special Problems",
+                "type": "NA",
+                "is_academic": true,
+                "is_multiple_enrollment": true,
+                "is_repeatable": true,
+                "course_code_title": "BIO 190 - Special Problems",
+                "acad_orgs": [
+                    "LBIBS"
+                ],
+                "acad_groups": [
+                    "CAS"
+                ]
+            },
+            "prerequisites": "ZOO 140 and BOT 140"
+        },
+        {
+            "id": 4769,
+            "curriculum_id": 59,
+            "course_id": 433,
+            "year": "0",
+            "sem": "0",
+            "description": "",
+            "course_type": "MAJOR",
+            "sub_type": "--",
+            "group_id": null,
+            "created_at": null,
+            "updated_at": null,
+            "units": null,
+            "course": {
+                "course_code": "BIO 191",
+                "course_id": 433,
+                "title": "Special Topics",
+                "type": "NA",
+                "is_academic": true,
+                "is_multiple_enrollment": true,
+                "is_repeatable": true,
+                "course_code_title": "BIO 191 - Special Topics",
+                "acad_orgs": [
+                    "LBIBS"
+                ],
+                "acad_groups": [
+                    "CAS"
+                ]
+            }
+        },
+        {
+            "id": 4770,
+            "curriculum_id": 59,
+            "course_id": 440,
+            "year": "0",
+            "sem": "0",
+            "description": "",
+            "course_type": "MAJOR",
+            "sub_type": "--",
+            "group_id": null,
+            "created_at": null,
+            "updated_at": null,
+            "units": null,
+            "course": {
+                "course_code": "BOT 20",
+                "course_id": 440,
+                "title": "Fundamentals of Plant Physiology",
+                "type": "NA",
+                "is_academic": true,
+                "is_multiple_enrollment": false,
+                "is_repeatable": false,
+                "course_code_title": "BOT 20 - Fundamentals of Plant Physiology",
+                "acad_orgs": [
+                    "LBIBS"
+                ],
+                "acad_groups": [
+                    "CAS"
+                ]
+            },
+            "prerequisites": "BOT 20"
+        },
+        {
+            "id": 4771,
+            "curriculum_id": 59,
+            "course_id": 441,
+            "year": "0",
+            "sem": "0",
+            "description": "",
+            "course_type": "MAJOR",
+            "sub_type": "--",
+            "group_id": null,
+            "created_at": null,
+            "updated_at": null,
+            "units": null,
+            "course": {
+                "course_code": "BOT 101",
+                "course_id": 441,
+                "title": "Phycology",
+                "type": "NA",
+                "is_academic": true,
+                "is_multiple_enrollment": false,
+                "is_repeatable": false,
+                "course_code_title": "BOT 101 - Phycology",
+                "acad_orgs": [
+                    "LBIBS"
+                ],
+                "acad_groups": [
+                    "CAS"
+                ]
+            },
+            "prerequisites": "BOT 1 or BIO 2 or\nBIO 3"
+        },
+        {
+            "id": 4772,
+            "curriculum_id": 59,
+            "course_id": 444,
+            "year": "0",
+            "sem": "0",
+            "description": "",
+            "course_type": "MAJOR",
+            "sub_type": "--",
+            "group_id": null,
+            "created_at": null,
+            "updated_at": null,
+            "units": null,
+            "course": {
+                "course_code": "BOT 120",
+                "course_id": 444,
+                "title": "Advanced Plant Physiology",
+                "type": "NA",
+                "is_academic": true,
+                "is_multiple_enrollment": false,
+                "is_repeatable": false,
+                "course_code_title": "BOT 120 - Advanced Plant Physiology",
+                "acad_orgs": [
+                    "LBIBS"
+                ],
+                "acad_groups": [
+                    "CAS"
+                ]
+            },
+            "prerequisites": "BOT 20 or COI"
+        },
+        {
+            "id": 4773,
+            "curriculum_id": 59,
+            "course_id": 447,
+            "year": "0",
+            "sem": "0",
+            "description": "",
+            "course_type": "MAJOR",
+            "sub_type": "--",
+            "group_id": null,
+            "created_at": null,
+            "updated_at": null,
+            "units": null,
+            "course": {
+                "course_code": "BOT 140",
+                "course_id": 447,
+                "title": "Systematics of the Spermatophytes",
+                "type": "NA",
+                "is_academic": true,
+                "is_multiple_enrollment": false,
+                "is_repeatable": false,
+                "course_code_title": "BOT 140 - Systematics of the Spermatophytes",
+                "acad_orgs": [
+                    "LBIBS"
+                ],
+                "acad_groups": [
+                    "CAS"
+                ]
+            },
+            "prerequisites": "COI"
+        },
+        {
+            "id": 4774,
+            "curriculum_id": 59,
+            "course_id": 450,
+            "year": "0",
+            "sem": "0",
+            "description": "",
+            "course_type": "MAJOR",
+            "sub_type": "--",
+            "group_id": null,
+            "created_at": null,
+            "updated_at": null,
+            "units": null,
+            "course": {
+                "course_code": "BOT 152",
+                "course_id": 450,
+                "title": "Phytogeography",
+                "type": "NA",
+                "is_academic": true,
+                "is_multiple_enrollment": false,
+                "is_repeatable": false,
+                "course_code_title": "BOT 152 - Phytogeography",
+                "acad_orgs": [
+                    "LBIBS"
+                ],
+                "acad_groups": [
+                    "CAS"
+                ]
+            },
+            "prerequisites": "BOT 150 or COI"
+        },
+        {
+            "id": 4775,
+            "curriculum_id": 59,
+            "course_id": 114,
+            "year": "0",
+            "sem": "0",
+            "description": "",
+            "course_type": "MAJOR",
+            "sub_type": "--",
+            "group_id": null,
+            "created_at": null,
+            "updated_at": null,
+            "units": null,
+            "course": {
+                "course_code": "CERP 122",
+                "course_id": 114,
+                "title": "Conservation of Natural Resources",
+                "type": "NA",
+                "is_academic": true,
+                "is_multiple_enrollment": false,
+                "is_repeatable": false,
+                "course_code_title": "CERP 122 - Conservation of Natural Resources",
+                "acad_orgs": [
+                    "LBDCERP"
+                ],
+                "acad_groups": [
+                    "CHE"
+                ]
+            },
+            "prerequisites": "BIO 150 or COI"
+        },
+        {
+            "id": 4776,
+            "curriculum_id": 59,
+            "course_id": 953,
+            "year": "0",
+            "sem": "0",
+            "description": "",
+            "course_type": "MAJOR",
+            "sub_type": "--",
+            "group_id": null,
+            "created_at": null,
+            "updated_at": null,
+            "units": null,
+            "course": {
+                "course_code": "ChE 180",
+                "course_id": 953,
+                "title": "Agro-industrial Waste Management",
+                "type": "NA",
+                "is_academic": true,
+                "is_multiple_enrollment": false,
+                "is_repeatable": false,
+                "course_code_title": "ChE 180 - Agro-industrial Waste Management",
+                "acad_orgs": [
+                    "LBDCHE"
+                ],
+                "acad_groups": [
+                    "CEAT"
+                ]
+            }
+        },
+        {
+            "id": 4777,
+            "curriculum_id": 59,
+            "course_id": 534,
+            "year": "0",
+            "sem": "0",
+            "description": "",
+            "course_type": "MAJOR",
+            "sub_type": "--",
+            "group_id": null,
+            "created_at": null,
+            "updated_at": null,
+            "units": null,
+            "course": {
+                "course_code": "CHEM 180",
+                "course_id": 534,
+                "title": "Environmental Chemistry",
+                "type": "NA",
+                "is_academic": true,
+                "is_multiple_enrollment": false,
+                "is_repeatable": false,
+                "course_code_title": "CHEM 180 - Environmental Chemistry",
+                "acad_orgs": [
+                    "LBIC"
+                ],
+                "acad_groups": [
+                    "CAS"
+                ]
+            }
+        },
+        {
+            "id": 4778,
+            "curriculum_id": 59,
+            "course_id": 535,
+            "year": "0",
+            "sem": "0",
+            "description": "",
+            "course_type": "MAJOR",
+            "sub_type": "--",
+            "group_id": null,
+            "created_at": null,
+            "updated_at": null,
+            "units": null,
+            "course": {
+                "course_code": "CHEM 181",
+                "course_id": 535,
+                "title": "Pollution Chemistry",
+                "type": "NA",
+                "is_academic": true,
+                "is_multiple_enrollment": false,
+                "is_repeatable": false,
+                "course_code_title": "CHEM 181 - Pollution Chemistry",
+                "acad_orgs": [
+                    "LBIC"
+                ],
+                "acad_groups": [
+                    "CAS"
+                ]
+            },
+            "prerequisites": "CHEM 180 or COI"
+        },
+        {
+            "id": 4779,
+            "curriculum_id": 59,
+            "course_id": 1272,
+            "year": "0",
+            "sem": "0",
+            "description": "",
+            "course_type": "MAJOR",
+            "sub_type": "--",
+            "group_id": null,
+            "created_at": null,
+            "updated_at": null,
+            "units": null,
+            "course": {
+                "course_code": "ENT 101",
+                "course_id": 1272,
+                "title": "General Entomology",
+                "type": "NA",
+                "is_academic": true,
+                "is_multiple_enrollment": false,
+                "is_repeatable": false,
+                "course_code_title": "ENT 101 - General Entomology",
+                "acad_orgs": [
+                    "LBIWEP"
+                ],
+                "acad_groups": [
+                    "CAFS"
+                ]
+            },
+            "prerequisites": "BIO 2 or BIO 3 or ZOO 1"
+        },
+        {
+            "id": 4780,
+            "curriculum_id": 59,
+            "course_id": 1277,
+            "year": "0",
+            "sem": "0",
+            "description": "",
+            "course_type": "MAJOR",
+            "sub_type": "--",
+            "group_id": null,
+            "created_at": null,
+            "updated_at": null,
+            "units": null,
+            "course": {
+                "course_code": "ENT 140",
+                "course_id": 1277,
+                "title": "Insect Taxonomy",
+                "type": "NA",
+                "is_academic": true,
+                "is_multiple_enrollment": false,
+                "is_repeatable": false,
+                "course_code_title": "ENT 140 - Insect Taxonomy",
+                "acad_orgs": [
+                    "LBIWEP"
+                ],
+                "acad_groups": [
+                    "CAFS"
+                ]
+            },
+            "prerequisites": "ENT 110 or COI"
+        },
+        {
+            "id": 4781,
+            "curriculum_id": 59,
+            "course_id": 1279,
+            "year": "0",
+            "sem": "0",
+            "description": "",
+            "course_type": "MAJOR",
+            "sub_type": "--",
+            "group_id": null,
+            "created_at": null,
+            "updated_at": null,
+            "units": null,
+            "course": {
+                "course_code": "ENT 151",
+                "course_id": 1279,
+                "title": "Insect Ecology",
+                "type": "NA",
+                "is_academic": true,
+                "is_multiple_enrollment": false,
+                "is_repeatable": false,
+                "course_code_title": "ENT 151 - Insect Ecology",
+                "acad_orgs": [
+                    "LBIWEP"
+                ],
+                "acad_groups": [
+                    "CAFS"
+                ]
+            },
+            "prerequisites": "ENT 140 or COI"
+        },
+        {
+            "id": 4782,
+            "curriculum_id": 59,
+            "course_id": 217,
+            "year": "0",
+            "sem": "0",
+            "description": "",
+            "course_type": "MAJOR",
+            "sub_type": "--",
+            "group_id": null,
+            "created_at": null,
+            "updated_at": null,
+            "units": null,
+            "course": {
+                "course_code": "FBS 101",
+                "course_id": 217,
+                "title": "Forest Biodiversity",
+                "type": "NA",
+                "is_academic": true,
+                "is_multiple_enrollment": false,
+                "is_repeatable": false,
+                "course_code_title": "FBS 101 - Forest Biodiversity",
+                "acad_orgs": [
+                    "LBDFBS"
+                ],
+                "acad_groups": [
+                    "CFNR"
+                ]
+            },
+            "prerequisites": "BOT 1 and ZOO 1, or BIO 1"
+        },
+        {
+            "id": 4783,
+            "curriculum_id": 59,
+            "course_id": 218,
+            "year": "0",
+            "sem": "0",
+            "description": "",
+            "course_type": "MAJOR",
+            "sub_type": "--",
+            "group_id": null,
+            "created_at": null,
+            "updated_at": null,
+            "units": null,
+            "course": {
+                "course_code": "FBS 126",
+                "course_id": 218,
+                "title": "Forest Entomology",
+                "type": "NA",
+                "is_academic": true,
+                "is_multiple_enrollment": false,
+                "is_repeatable": false,
+                "course_code_title": "FBS 126 - Forest Entomology",
+                "acad_orgs": [
+                    "LBDFBS"
+                ],
+                "acad_groups": [
+                    "CFNR"
+                ]
+            },
+            "prerequisites": "ZOO 1"
+        },
+        {
+            "id": 4784,
+            "curriculum_id": 59,
+            "course_id": 154,
+            "year": "0",
+            "sem": "0",
+            "description": "",
+            "course_type": "MAJOR",
+            "sub_type": "--",
+            "group_id": null,
+            "created_at": null,
+            "updated_at": null,
+            "units": null,
+            "course": {
+                "course_code": "FRM 102",
+                "course_id": 154,
+                "title": "Fundamentals of Environmental Forest Management",
+                "type": "NA",
+                "is_academic": true,
+                "is_multiple_enrollment": false,
+                "is_repeatable": false,
+                "course_code_title": "FRM 102 - Fundamentals of Environmental Forest Management",
+                "acad_orgs": [
+                    "LBIRNR"
+                ],
+                "acad_groups": [
+                    "CFNR"
+                ]
+            }
+        },
+        {
+            "id": 4785,
+            "curriculum_id": 59,
+            "course_id": 124,
+            "year": "0",
+            "sem": "0",
+            "description": "",
+            "course_type": "MAJOR",
+            "sub_type": "--",
+            "group_id": null,
+            "created_at": null,
+            "updated_at": null,
+            "units": null,
+            "course": {
+                "course_code": "HUME 105",
+                "course_id": 124,
+                "title": "Humans and Their Environment",
+                "type": "NA",
+                "is_academic": true,
+                "is_multiple_enrollment": false,
+                "is_repeatable": false,
+                "course_code_title": "HUME 105 - Humans and Their Environment",
+                "acad_orgs": [
+                    "LBDCERP"
+                ],
+                "acad_groups": [
+                    "CHE"
+                ]
+            }
+        },
+        {
+            "id": 4786,
+            "curriculum_id": 59,
+            "course_id": 109,
+            "year": "0",
+            "sem": "0",
+            "description": "",
+            "course_type": "MAJOR",
+            "sub_type": "--",
+            "group_id": null,
+            "created_at": null,
+            "updated_at": null,
+            "units": null,
+            "course": {
+                "course_code": "HUME 110",
+                "course_id": 109,
+                "title": "Ecology and Value Systems",
+                "type": "NA",
+                "is_academic": true,
+                "is_multiple_enrollment": false,
+                "is_repeatable": false,
+                "course_code_title": "HUME 110 - Ecology and Value Systems",
+                "acad_orgs": [
+                    "LBDHFDS"
+                ],
+                "acad_groups": [
+                    "CHE"
+                ]
+            }
+        },
+        {
+            "id": 4787,
+            "curriculum_id": 59,
+            "course_id": 935,
+            "year": "0",
+            "sem": "0",
+            "description": "",
+            "course_type": "MAJOR",
+            "sub_type": "--",
+            "group_id": null,
+            "created_at": null,
+            "updated_at": null,
+            "units": null,
+            "course": {
+                "course_code": "LWRE 178",
+                "course_id": 935,
+                "title": "Principles of Tropical Water Quality Management",
+                "type": "NA",
+                "is_academic": true,
+                "is_multiple_enrollment": false,
+                "is_repeatable": false,
+                "course_code_title": "LWRE 178 - Principles of Tropical Water Quality Management",
+                "acad_orgs": [
+                    "LBDLWRE"
+                ],
+                "acad_groups": [
+                    "CEAT"
+                ]
+            }
+        },
+        {
+            "id": 4788,
+            "curriculum_id": 59,
+            "course_id": 454,
+            "year": "0",
+            "sem": "0",
+            "description": "",
+            "course_type": "MAJOR",
+            "sub_type": "--",
+            "group_id": null,
+            "created_at": null,
+            "updated_at": null,
+            "units": null,
+            "course": {
+                "course_code": "MCB 101",
+                "course_id": 454,
+                "title": "Microbial Identification Techniques",
+                "type": "NA",
+                "is_academic": true,
+                "is_multiple_enrollment": false,
+                "is_repeatable": false,
+                "course_code_title": "MCB 101 - Microbial Identification Techniques",
+                "acad_orgs": [
+                    "LBIBS"
+                ],
+                "acad_groups": [
+                    "CAS"
+                ]
+            }
+        },
+        {
+            "id": 4789,
+            "curriculum_id": 59,
+            "course_id": 457,
+            "year": "0",
+            "sem": "0",
+            "description": "",
+            "course_type": "MAJOR",
+            "sub_type": "--",
+            "group_id": null,
+            "created_at": null,
+            "updated_at": null,
+            "units": null,
+            "course": {
+                "course_code": "MCB 120",
+                "course_id": 457,
+                "title": "Microbial Physiology",
+                "type": "NA",
+                "is_academic": true,
+                "is_multiple_enrollment": false,
+                "is_repeatable": false,
+                "course_code_title": "MCB 120 - Microbial Physiology",
+                "acad_orgs": [
+                    "LBIBS"
+                ],
+                "acad_groups": [
+                    "CAS"
+                ]
+            },
+            "prerequisites": "MCB 1 and CHEM 160"
+        },
+        {
+            "id": 4790,
+            "curriculum_id": 59,
+            "course_id": 458,
+            "year": "0",
+            "sem": "0",
+            "description": "",
+            "course_type": "MAJOR",
+            "sub_type": "--",
+            "group_id": null,
+            "created_at": null,
+            "updated_at": null,
+            "units": null,
+            "course": {
+                "course_code": "MCB 130",
+                "course_id": 458,
+                "title": "Microbial Genetics",
+                "type": "NA",
+                "is_academic": true,
+                "is_multiple_enrollment": false,
+                "is_repeatable": false,
+                "course_code_title": "MCB 130 - Microbial Genetics",
+                "acad_orgs": [
+                    "LBIBS"
+                ],
+                "acad_groups": [
+                    "CAS"
+                ]
+            },
+            "prerequisites": "MCB 101 and BIO 101 or COI"
+        },
+        {
+            "id": 4791,
+            "curriculum_id": 59,
+            "course_id": 1294,
+            "year": "0",
+            "sem": "0",
+            "description": "",
+            "course_type": "MAJOR",
+            "sub_type": "--",
+            "group_id": null,
+            "created_at": null,
+            "updated_at": null,
+            "units": null,
+            "course": {
+                "course_code": "PPTH 103",
+                "course_id": 1294,
+                "title": "Introductory Phytobacteriology",
+                "type": "NA",
+                "is_academic": true,
+                "is_multiple_enrollment": false,
+                "is_repeatable": false,
+                "course_code_title": "PPTH 103 - Introductory Phytobacteriology",
+                "acad_orgs": [
+                    "LBIWEP"
+                ],
+                "acad_groups": [
+                    "CAFS"
+                ]
+            },
+            "prerequisites": "CRPT\n1 or MCB 1"
+        },
+        {
+            "id": 4792,
+            "curriculum_id": 59,
+            "course_id": 1299,
+            "year": "0",
+            "sem": "0",
+            "description": "",
+            "course_type": "MAJOR",
+            "sub_type": "--",
+            "group_id": null,
+            "created_at": null,
+            "updated_at": null,
+            "units": null,
+            "course": {
+                "course_code": "PPTH 115",
+                "course_id": 1299,
+                "title": "Introductory Plant Virology",
+                "type": "NA",
+                "is_academic": true,
+                "is_multiple_enrollment": false,
+                "is_repeatable": false,
+                "course_code_title": "PPTH 115 - Introductory Plant Virology",
+                "acad_orgs": [
+                    "LBIWEP"
+                ],
+                "acad_groups": [
+                    "CAFS"
+                ]
+            },
+            "prerequisites": "CRPT 1 or MCB 1"
+        },
+        {
+            "id": 4793,
+            "curriculum_id": 59,
+            "course_id": 185,
+            "year": "0",
+            "sem": "0",
+            "description": "",
+            "course_type": "MAJOR",
+            "sub_type": "--",
+            "group_id": null,
+            "created_at": null,
+            "updated_at": null,
+            "units": null,
+            "course": {
+                "course_code": "SFI 103",
+                "course_id": 185,
+                "title": "Fundamentals of Agroforestry",
+                "type": "NA",
+                "is_academic": true,
+                "is_multiple_enrollment": false,
+                "is_repeatable": false,
+                "course_code_title": "SFI 103 - Fundamentals of Agroforestry",
+                "acad_orgs": [
+                    "LBIRNR"
+                ],
+                "acad_groups": [
+                    "CFNR"
+                ]
+            }
+        },
+        {
+            "id": 4794,
+            "curriculum_id": 59,
+            "course_id": 1135,
+            "year": "0",
+            "sem": "0",
+            "description": "",
+            "course_type": "MAJOR",
+            "sub_type": "--",
+            "group_id": null,
+            "created_at": null,
+            "updated_at": null,
+            "units": null,
+            "course": {
+                "course_code": "SOIL 150",
+                "course_id": 1135,
+                "title": "Soil Fertility",
+                "type": "NA",
+                "is_academic": true,
+                "is_multiple_enrollment": false,
+                "is_repeatable": false,
+                "course_code_title": "SOIL 150 - Soil Fertility",
+                "acad_orgs": [
+                    "LBASI"
+                ],
+                "acad_groups": [
+                    "CAFS"
+                ]
+            },
+            "prerequisites": "SOIL 1 or COI"
+        },
+        {
+            "id": 4795,
+            "curriculum_id": 59,
+            "course_id": 17,
+            "year": "0",
+            "sem": "0",
+            "description": "",
+            "course_type": "MAJOR",
+            "sub_type": "--",
+            "group_id": null,
+            "created_at": null,
+            "updated_at": null,
+            "units": null,
+            "course": {
+                "course_code": "VMCB 122",
+                "course_id": 17,
+                "title": "Veterinary Bacteriology and Mycology",
+                "type": "NA",
+                "is_academic": true,
+                "is_multiple_enrollment": true,
+                "is_repeatable": false,
+                "course_code_title": "VMCB 122 - Veterinary Bacteriology and Mycology",
+                "acad_orgs": [
+                    "LBDVPS"
+                ],
+                "acad_groups": [
+                    "CVM"
+                ]
+            },
+            "prerequisites": "VMCB\n121"
+        },
+        {
+            "id": 4796,
+            "curriculum_id": 59,
+            "course_id": 18,
+            "year": "0",
+            "sem": "0",
+            "description": "",
+            "course_type": "MAJOR",
+            "sub_type": "--",
+            "group_id": null,
+            "created_at": null,
+            "updated_at": null,
+            "units": null,
+            "course": {
+                "course_code": "VMCB 123",
+                "course_id": 18,
+                "title": "Veterinary Virology",
+                "type": "NA",
+                "is_academic": true,
+                "is_multiple_enrollment": false,
+                "is_repeatable": false,
+                "course_code_title": "VMCB 123 - Veterinary Virology",
+                "acad_orgs": [
+                    "LBDVPS"
+                ],
+                "acad_groups": [
+                    "CVM"
+                ]
+            },
+            "prerequisites": "VMCB 121"
+        },
+        {
+            "id": 4797,
+            "curriculum_id": 59,
+            "course_id": 19,
+            "year": "0",
+            "sem": "0",
+            "description": "",
+            "course_type": "MAJOR",
+            "sub_type": "--",
+            "group_id": null,
+            "created_at": null,
+            "updated_at": null,
+            "units": null,
+            "course": {
+                "course_code": "VMCB 124",
+                "course_id": 19,
+                "title": "Fundamentals of Immunology",
+                "type": "NA",
+                "is_academic": true,
+                "is_multiple_enrollment": false,
+                "is_repeatable": false,
+                "course_code_title": "VMCB 124 - Fundamentals of Immunology",
+                "acad_orgs": [
+                    "LBDVPS"
+                ],
+                "acad_groups": [
+                    "CVM"
+                ]
+            },
+            "prerequisites": "COI"
+        },
+        {
+            "id": 4798,
+            "curriculum_id": 59,
+            "course_id": 25,
+            "year": "0",
+            "sem": "0",
+            "description": "",
+            "course_type": "MAJOR",
+            "sub_type": "--",
+            "group_id": null,
+            "created_at": null,
+            "updated_at": null,
+            "units": null,
+            "course": {
+                "course_code": "VPH 121",
+                "course_id": 25,
+                "title": "Epidemiology",
+                "type": "NA",
+                "is_academic": true,
+                "is_multiple_enrollment": false,
+                "is_repeatable": false,
+                "course_code_title": "VPH 121 - Epidemiology",
+                "acad_orgs": [
+                    "LBDVPS"
+                ],
+                "acad_groups": [
+                    "CVM"
+                ]
+            },
+            "prerequisites": "VMCB 121"
+        },
+        {
+            "id": 4799,
+            "curriculum_id": 59,
+            "course_id": 465,
+            "year": "0",
+            "sem": "0",
+            "description": "",
+            "course_type": "MAJOR",
+            "sub_type": "--",
+            "group_id": null,
+            "created_at": null,
+            "updated_at": null,
+            "units": null,
+            "course": {
+                "course_code": "WLDL 101",
+                "course_id": 465,
+                "title": "Introduction to Philippine Wildlife",
+                "type": "NA",
+                "is_academic": true,
+                "is_multiple_enrollment": false,
+                "is_repeatable": false,
+                "course_code_title": "WLDL 101 - Introduction to Philippine Wildlife",
+                "acad_orgs": [
+                    "LBIBS"
+                ],
+                "acad_groups": [
+                    "CAS"
+                ]
+            },
+            "prerequisites": "BOT 1\nand ZOO 1 or BIO 2 or BIO 3"
+        },
+        {
+            "id": 4800,
+            "curriculum_id": 59,
+            "course_id": 233,
+            "year": "0",
+            "sem": "0",
+            "description": "",
+            "course_type": "MAJOR",
+            "sub_type": "--",
+            "group_id": null,
+            "created_at": null,
+            "updated_at": null,
+            "units": null,
+            "course": {
+                "course_code": "WLDL 105",
+                "course_id": 233,
+                "title": "Principles of Wildlife Management",
+                "type": "NA",
+                "is_academic": true,
+                "is_multiple_enrollment": false,
+                "is_repeatable": false,
+                "course_code_title": "WLDL 105 - Principles of Wildlife Management",
+                "acad_orgs": [
+                    "LBDFBS"
+                ],
+                "acad_groups": [
+                    "CFNR"
+                ]
+            }
+        },
+        {
+            "id": 4801,
+            "curriculum_id": 59,
+            "course_id": 234,
+            "year": "0",
+            "sem": "0",
+            "description": "",
+            "course_type": "MAJOR",
+            "sub_type": "--",
+            "group_id": null,
+            "created_at": null,
+            "updated_at": null,
+            "units": null,
+            "course": {
+                "course_code": "WLDL 195",
+                "course_id": 234,
+                "title": "Techniques of Wildlife Management",
+                "type": "NA",
+                "is_academic": true,
+                "is_multiple_enrollment": false,
+                "is_repeatable": false,
+                "course_code_title": "WLDL 195 - Techniques of Wildlife Management",
+                "acad_orgs": [
+                    "LBDFBS",
+                    "LBIBS"
+                ],
+                "acad_groups": [
+                    "CFNR"
+                ]
+            },
+            "prerequisites": "WLDL 105"
+        },
+        {
+            "id": 4802,
+            "curriculum_id": 59,
+            "course_id": 474,
+            "year": "0",
+            "sem": "0",
+            "description": "",
+            "course_type": "MAJOR",
+            "sub_type": "--",
+            "group_id": null,
+            "created_at": null,
+            "updated_at": null,
+            "units": null,
+            "course": {
+                "course_code": "ZOO 140",
+                "course_id": 474,
+                "title": "Animal Taxonomy",
+                "type": "NA",
+                "is_academic": true,
+                "is_multiple_enrollment": false,
+                "is_repeatable": false,
+                "course_code_title": "ZOO 140 - Animal Taxonomy",
+                "acad_orgs": [
+                    "LBIBS"
+                ],
+                "acad_groups": [
+                    "CAS"
+                ]
+            },
+            "prerequisites": "ZOO 1 or BIO 2 or BIO 3"
+        },
+        {
+            "id": 4803,
+            "curriculum_id": 59,
+            "course_id": 475,
+            "year": "0",
+            "sem": "0",
+            "description": "",
+            "course_type": "MAJOR",
+            "sub_type": "--",
+            "group_id": null,
+            "created_at": null,
+            "updated_at": null,
+            "units": null,
+            "course": {
+                "course_code": "ZOO 142",
+                "course_id": 475,
+                "title": "Invertebrate Zoology",
+                "type": "NA",
+                "is_academic": true,
+                "is_multiple_enrollment": false,
+                "is_repeatable": false,
+                "course_code_title": "ZOO 142 - Invertebrate Zoology",
+                "acad_orgs": [
+                    "LBIBS"
+                ],
+                "acad_groups": [
+                    "CAS"
+                ]
+            },
+            "prerequisites": "ZOO 3"
+        },
+        {
+            "id": 4804,
+            "curriculum_id": 59,
+            "course_id": 476,
+            "year": "0",
+            "sem": "0",
+            "description": "",
+            "course_type": "MAJOR",
+            "sub_type": "--",
+            "group_id": null,
+            "created_at": null,
+            "updated_at": null,
+            "units": null,
+            "course": {
+                "course_code": "ZOO 145",
+                "course_id": 476,
+                "title": "Herpetology",
+                "type": "NA",
+                "is_academic": true,
+                "is_multiple_enrollment": false,
+                "is_repeatable": false,
+                "course_code_title": "ZOO 145 - Herpetology",
+                "acad_orgs": [
+                    "LBIBS"
+                ],
+                "acad_groups": [
+                    "CAS"
+                ]
+            },
+            "prerequisites": "ZOO 3"
+        },
+        {
+            "id": 4805,
+            "curriculum_id": 59,
+            "course_id": 477,
+            "year": "0",
+            "sem": "0",
+            "description": "",
+            "course_type": "MAJOR",
+            "sub_type": "--",
+            "group_id": null,
+            "created_at": null,
+            "updated_at": null,
+            "units": null,
+            "course": {
+                "course_code": "ZOO 146",
+                "course_id": 477,
+                "title": "Ornithology",
+                "type": "NA",
+                "is_academic": true,
+                "is_multiple_enrollment": false,
+                "is_repeatable": false,
+                "course_code_title": "ZOO 146 - Ornithology",
+                "acad_orgs": [
+                    "LBIBS"
+                ],
+                "acad_groups": [
+                    "CAS"
+                ]
+            },
+            "prerequisites": "ZOO 3"
+        },
+        {
+            "id": 4806,
+            "curriculum_id": 59,
+            "course_id": 478,
+            "year": "0",
+            "sem": "0",
+            "description": "",
+            "course_type": "MAJOR",
+            "sub_type": "--",
+            "group_id": null,
+            "created_at": null,
+            "updated_at": null,
+            "units": null,
+            "course": {
+                "course_code": "ZOO 148",
+                "course_id": 478,
+                "title": "Mammalogy",
+                "type": "NA",
+                "is_academic": true,
+                "is_multiple_enrollment": false,
+                "is_repeatable": false,
+                "course_code_title": "ZOO 148 - Mammalogy",
+                "acad_orgs": [
+                    "LBIBS"
+                ],
+                "acad_groups": [
+                    "CAS"
+                ]
+            },
+            "prerequisites": "ZOO 3"
+        },
+        {
+            "id": 4807,
+            "curriculum_id": 59,
+            "course_id": 479,
+            "year": "0",
+            "sem": "0",
+            "description": "",
+            "course_type": "MAJOR",
+            "sub_type": "--",
+            "group_id": null,
+            "created_at": null,
+            "updated_at": null,
+            "units": null,
+            "course": {
+                "course_code": "ZOO 149",
+                "course_id": 479,
+                "title": "Biology of Marine Mammals",
+                "type": "NA",
+                "is_academic": true,
+                "is_multiple_enrollment": false,
+                "is_repeatable": false,
+                "course_code_title": "ZOO 149 - Biology of Marine Mammals",
+                "acad_orgs": [
+                    "LBIBS"
+                ],
+                "acad_groups": [
+                    "CAS"
+                ]
+            },
+            "prerequisites": "ZOO 3\nor COI"
+        },
+        {
+            "id": 4808,
+            "curriculum_id": 59,
+            "course_id": 481,
+            "year": "0",
+            "sem": "0",
+            "description": "",
+            "course_type": "MAJOR",
+            "sub_type": "--",
+            "group_id": null,
+            "created_at": null,
+            "updated_at": null,
+            "units": null,
+            "course": {
+                "course_code": "ZOO 151",
+                "course_id": 481,
+                "title": "Marine Zoology",
+                "type": "NA",
+                "is_academic": true,
+                "is_multiple_enrollment": false,
+                "is_repeatable": false,
+                "course_code_title": "ZOO 151 - Marine Zoology",
+                "acad_orgs": [
+                    "LBIBS"
+                ],
+                "acad_groups": [
+                    "CAS"
+                ]
+            },
+            "prerequisites": "ZOO 3 and BIO\n150 or ZOO 150"
+        },
+        {
+            "id": 4809,
+            "curriculum_id": 59,
+            "course_id": 482,
+            "year": "0",
+            "sem": "0",
+            "description": "",
+            "course_type": "MAJOR",
+            "sub_type": "--",
+            "group_id": null,
+            "created_at": null,
+            "updated_at": null,
+            "units": null,
+            "course": {
+                "course_code": "ZOO 152",
+                "course_id": 482,
+                "title": "Freshwater Zoology",
+                "type": "NA",
+                "is_academic": true,
+                "is_multiple_enrollment": false,
+                "is_repeatable": false,
+                "course_code_title": "ZOO 152 - Freshwater Zoology",
+                "acad_orgs": [
+                    "LBIBS"
+                ],
+                "acad_groups": [
+                    "CAS"
+                ]
+            },
+            "prerequisites": "ZOO 3 and BIO 150 or ZOO 150"
+        },
+        {
+            "id": 4810,
+            "curriculum_id": 59,
+            "course_id": 483,
+            "year": "0",
+            "sem": "0",
+            "description": "",
+            "course_type": "MAJOR",
+            "sub_type": "--",
+            "group_id": null,
+            "created_at": null,
+            "updated_at": null,
+            "units": null,
+            "course": {
+                "course_code": "ZOO 153",
+                "course_id": 483,
+                "title": "Marine Animal Ecology",
+                "type": "NA",
+                "is_academic": true,
+                "is_multiple_enrollment": false,
+                "is_repeatable": false,
+                "course_code_title": "ZOO 153 - Marine Animal Ecology",
+                "acad_orgs": [
+                    "LBIBS"
+                ],
+                "acad_groups": [
+                    "CAS"
+                ]
+            }
+        },
+        {
+            "id": 4811,
+            "curriculum_id": 59,
+            "course_id": 484,
+            "year": "0",
+            "sem": "0",
+            "description": "",
+            "course_type": "MAJOR",
+            "sub_type": "--",
+            "group_id": null,
+            "created_at": null,
+            "updated_at": null,
+            "units": null,
+            "course": {
+                "course_code": "ZOO 155",
+                "course_id": 484,
+                "title": "General Limnology",
+                "type": "NA",
+                "is_academic": true,
+                "is_multiple_enrollment": false,
+                "is_repeatable": false,
+                "course_code_title": "ZOO 155 - General Limnology",
+                "acad_orgs": [
+                    "LBIBS"
+                ],
+                "acad_groups": [
+                    "CAS"
+                ]
+            },
+            "prerequisites": "COI"
+        },
+        {
+            "id": 4812,
+            "curriculum_id": 59,
+            "course_id": 485,
+            "year": "0",
+            "sem": "0",
+            "description": "",
+            "course_type": "MAJOR",
+            "sub_type": "--",
+            "group_id": null,
+            "created_at": null,
+            "updated_at": null,
+            "units": null,
+            "course": {
+                "course_code": "ZOO 160",
+                "course_id": 485,
+                "title": "General Malacology",
+                "type": "NA",
+                "is_academic": true,
+                "is_multiple_enrollment": false,
+                "is_repeatable": false,
+                "course_code_title": "ZOO 160 - General Malacology",
+                "acad_orgs": [
+                    "LBIBS"
+                ],
+                "acad_groups": [
+                    "CAS"
+                ]
+            },
+            "prerequisites": "ZOO 3 and BIO 150\nor ZOO 150"
+        },
+        {
+            "id": 4813,
+            "curriculum_id": 59,
+            "course_id": 486,
+            "year": "0",
+            "sem": "0",
+            "description": "",
+            "course_type": "MAJOR",
+            "sub_type": "--",
+            "group_id": null,
+            "created_at": null,
+            "updated_at": null,
+            "units": null,
+            "course": {
+                "course_code": "ZOO 173",
+                "course_id": 486,
+                "title": "Introduction to Parasitology",
+                "type": "NA",
+                "is_academic": true,
+                "is_multiple_enrollment": false,
+                "is_repeatable": false,
+                "course_code_title": "ZOO 173 - Introduction to Parasitology",
+                "acad_orgs": [
+                    "LBIBS"
+                ],
+                "acad_groups": [
+                    "CAS"
+                ]
+            }
+        },
+        {
+            "id": 4702,
+            "curriculum_id": 59,
+            "course_id": 821,
+            "year": "1",
+            "sem": "1",
+            "description": "",
+            "course_type": "REQUIRED",
+            "sub_type": "--",
+            "group_id": 1,
+            "created_at": null,
+            "updated_at": null,
+            "units": null,
+            "course": {
+                "course_code": "KAS 1",
+                "course_id": 821,
+                "title": "(GE). Kasaysayan ng Pilipinas",
+                "type": "NA",
+                "is_academic": true,
+                "is_multiple_enrollment": false,
+                "is_repeatable": false,
+                "course_code_title": "KAS 1 - (GE). Kasaysayan ng Pilipinas",
+                "acad_orgs": [
+                    "LBDSS"
+                ],
+                "acad_groups": [
+                    "CAS"
+                ]
+            }
+        }
+    ],
+    "curriculum_structures": [
+        {
+            "curriculum_id": 59,
+            "year": "1",
+            "sem": "1",
+            "major_units": 0,
+            "ge_elective_units": 0,
+            "required_units": 0,
+            "elective_units": 0,
+            "cognate_units": 0,
+            "specialized_units": 0,
+            "track_units": 0,
+            "total_units": 0,
+            "major_count": 0,
+            "ge_elective_count": 0,
+            "required_count": 7,
+            "elective_count": 0,
+            "cognate_count": 0,
+            "specialized_count": 0,
+            "track_count": 0,
+            "total_count": 7,
+            "created_at": null,
+            "updated_at": null
+        },
+        {
+            "curriculum_id": 59,
+            "year": "1",
+            "sem": "2",
+            "major_units": 0,
+            "ge_elective_units": 0,
+            "required_units": 0,
+            "elective_units": 0,
+            "cognate_units": 0,
+            "specialized_units": 0,
+            "track_units": 0,
+            "total_units": 0,
+            "major_count": 0,
+            "ge_elective_count": 0,
+            "required_count": 6,
+            "elective_count": 0,
+            "cognate_count": 0,
+            "specialized_count": 0,
+            "track_count": 0,
+            "total_count": 6,
+            "created_at": null,
+            "updated_at": null
+        },
+        {
+            "curriculum_id": 59,
+            "year": "2",
+            "sem": "1",
+            "major_units": 0,
+            "ge_elective_units": 0,
+            "required_units": 0,
+            "elective_units": 0,
+            "cognate_units": 0,
+            "specialized_units": 0,
+            "track_units": 0,
+            "total_units": 0,
+            "major_count": 0,
+            "ge_elective_count": 2,
+            "required_count": 4,
+            "elective_count": 0,
+            "cognate_count": 0,
+            "specialized_count": 0,
+            "track_count": 0,
+            "total_count": 6,
+            "created_at": null,
+            "updated_at": null
+        },
+        {
+            "curriculum_id": 59,
+            "year": "2",
+            "sem": "2",
+            "major_units": 0,
+            "ge_elective_units": 0,
+            "required_units": 0,
+            "elective_units": 0,
+            "cognate_units": 0,
+            "specialized_units": 0,
+            "track_units": 0,
+            "total_units": 0,
+            "major_count": 0,
+            "ge_elective_count": 1,
+            "required_count": 6,
+            "elective_count": 0,
+            "cognate_count": 0,
+            "specialized_count": 0,
+            "track_count": 0,
+            "total_count": 7,
+            "created_at": null,
+            "updated_at": null
+        },
+        {
+            "curriculum_id": 59,
+            "year": "3",
+            "sem": "1",
+            "major_units": 0,
+            "ge_elective_units": 0,
+            "required_units": 0,
+            "elective_units": 0,
+            "cognate_units": 0,
+            "specialized_units": 0,
+            "track_units": 0,
+            "total_units": 0,
+            "major_count": 2,
+            "ge_elective_count": 0,
+            "required_count": 4,
+            "elective_count": 0,
+            "cognate_count": 0,
+            "specialized_count": 0,
+            "track_count": 0,
+            "total_count": 6,
+            "created_at": null,
+            "updated_at": null
+        },
+        {
+            "curriculum_id": 59,
+            "year": "3",
+            "sem": "2",
+            "major_units": 0,
+            "ge_elective_units": 0,
+            "required_units": 0,
+            "elective_units": 0,
+            "cognate_units": 0,
+            "specialized_units": 0,
+            "track_units": 0,
+            "total_units": 0,
+            "major_count": 2,
+            "ge_elective_count": 0,
+            "required_count": 3,
+            "elective_count": 1,
+            "cognate_count": 0,
+            "specialized_count": 0,
+            "track_count": 0,
+            "total_count": 6,
+            "created_at": null,
+            "updated_at": null
+        },
+        {
+            "curriculum_id": 59,
+            "year": "3",
+            "sem": "3",
+            "major_units": 0,
+            "ge_elective_units": 0,
+            "required_units": 0,
+            "elective_units": 0,
+            "cognate_units": 0,
+            "specialized_units": 0,
+            "track_units": 0,
+            "total_units": 0,
+            "major_count": 0,
+            "ge_elective_count": 0,
+            "required_count": 1,
+            "elective_count": 0,
+            "cognate_count": 0,
+            "specialized_count": 0,
+            "track_count": 0,
+            "total_count": 1,
+            "created_at": null,
+            "updated_at": null
+        },
+        {
+            "curriculum_id": 59,
+            "year": "4",
+            "sem": "1",
+            "major_units": 0,
+            "ge_elective_units": 0,
+            "required_units": 0,
+            "elective_units": 0,
+            "cognate_units": 0,
+            "specialized_units": 0,
+            "track_units": 0,
+            "total_units": 0,
+            "major_count": 3,
+            "ge_elective_count": 0,
+            "required_count": 3,
+            "elective_count": 1,
+            "cognate_count": 0,
+            "specialized_count": 0,
+            "track_count": 0,
+            "total_count": 7,
+            "created_at": null,
+            "updated_at": null
+        },
+        {
+            "curriculum_id": 59,
+            "year": "4",
+            "sem": "2",
+            "major_units": 0,
+            "ge_elective_units": 0,
+            "required_units": 0,
+            "elective_units": 0,
+            "cognate_units": 0,
+            "specialized_units": 0,
+            "track_units": 0,
+            "total_units": 0,
+            "major_count": 1,
+            "ge_elective_count": 0,
+            "required_count": 1,
+            "elective_count": 1,
+            "cognate_count": 0,
+            "specialized_count": 0,
+            "track_count": 0,
+            "total_count": 3,
+            "created_at": null,
+            "updated_at": null
+        }
+    ],
+    "curriculum_courses_list": [],
+    "curriculum_components": [],
+    "number_of_required_mentors": []
+}

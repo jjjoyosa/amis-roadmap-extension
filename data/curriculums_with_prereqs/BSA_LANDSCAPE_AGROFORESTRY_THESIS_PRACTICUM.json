@@ -1,0 +1,2544 @@
+{
+    "curriculum_id": 35,
+    "code": "BSA_2018_LAF_THPR",
+    "program_id": 1,
+    "name": "BSA 2018 Landscape Agroforestry (Thesis/Practicum)",
+    "type": null,
+    "status": "ACTIVE",
+    "acad_org": null,
+    "acad_group": null,
+    "created_at": null,
+    "updated_at": null,
+    "is_visible": "true",
+    "course_work_guide": null,
+    "approved_by": null,
+    "date_approved": null,
+    "program": {
+        "program_id": 1,
+        "acronym": "BSA",
+        "title": "Bachelor of Science in Agriculture",
+        "career": "UGRD",
+        "college": "CAFS",
+        "description": "This program aims to educate students towards a career in scientifically based sustainable agriculture, to enable them to develop and effectively manage a self-reliant and economically viable agriculture-related enterprise, and to prepare them to become professionals with social commitment. Students may opt for a combination of thesis and practicum or major practice and special problem. The practicum and major practice options are farm/plant practice, research internship, agricultural entrepreneurship, teaching, and extension/community internship. This career can be pursued in any of the following major areas and fields of specialization.",
+        "degree_id": 1,
+        "created_at": null,
+        "updated_at": null,
+        "max_units": 21,
+        "is_visible": "YES",
+        "term_type_offer": "Semestral",
+        "acad_org": null
+    },
+    "curriculum_courses": [
+        {
+            "id": 2742,
+            "curriculum_id": 35,
+            "course_id": 1095,
+            "year": "1",
+            "sem": "1",
+            "description": "",
+            "course_type": "REQUIRED",
+            "sub_type": "--",
+            "group_id": null,
+            "created_at": null,
+            "updated_at": null,
+            "units": null,
+            "course": {
+                "course_code": "AGRI 11",
+                "course_id": 1095,
+                "title": "Introduction to Agriculture",
+                "type": "NA",
+                "is_academic": true,
+                "is_multiple_enrollment": false,
+                "is_repeatable": false,
+                "course_code_title": "AGRI 11 - Introduction to Agriculture",
+                "acad_orgs": [
+                    "LBASI"
+                ],
+                "acad_groups": [
+                    "CAFS"
+                ]
+            }
+        },
+        {
+            "id": 2743,
+            "curriculum_id": 35,
+            "course_id": 1145,
+            "year": "1",
+            "sem": "1",
+            "description": "",
+            "course_type": "REQUIRED",
+            "sub_type": "--",
+            "group_id": null,
+            "created_at": null,
+            "updated_at": null,
+            "units": null,
+            "course": {
+                "course_code": "AGRI 21",
+                "course_id": 1145,
+                "title": "Introduction to Animal Science",
+                "type": "NA",
+                "is_academic": true,
+                "is_multiple_enrollment": false,
+                "is_repeatable": false,
+                "course_code_title": "AGRI 21 - Introduction to Animal Science",
+                "acad_orgs": [
+                    "LBIAS"
+                ],
+                "acad_groups": [
+                    "CAFS"
+                ]
+            }
+        },
+        {
+            "id": 2744,
+            "curriculum_id": 35,
+            "course_id": 1183,
+            "year": "1",
+            "sem": "1",
+            "description": "",
+            "course_type": "REQUIRED",
+            "sub_type": "--",
+            "group_id": null,
+            "created_at": null,
+            "updated_at": null,
+            "units": null,
+            "course": {
+                "course_code": "AGRI 31",
+                "course_id": 1183,
+                "title": "Fundamentals of Crop Science I",
+                "type": "NA",
+                "is_academic": true,
+                "is_multiple_enrollment": false,
+                "is_repeatable": false,
+                "course_code_title": "AGRI 31 - Fundamentals of Crop Science I",
+                "acad_orgs": [
+                    "LBASC",
+                    "LBICROPS"
+                ],
+                "acad_groups": [
+                    "CAFS"
+                ]
+            }
+        },
+        {
+            "id": 2745,
+            "curriculum_id": 35,
+            "course_id": 492,
+            "year": "1",
+            "sem": "1",
+            "description": "",
+            "course_type": "REQUIRED",
+            "sub_type": "--",
+            "group_id": null,
+            "created_at": null,
+            "updated_at": null,
+            "units": null,
+            "course": {
+                "course_code": "CHEM 18",
+                "course_id": 492,
+                "title": "University Chemistry",
+                "type": "NA",
+                "is_academic": true,
+                "is_multiple_enrollment": false,
+                "is_repeatable": false,
+                "course_code_title": "CHEM 18 - University Chemistry",
+                "acad_orgs": [
+                    "LBIC"
+                ],
+                "acad_groups": [
+                    "CAS"
+                ]
+            }
+        },
+        {
+            "id": 2746,
+            "curriculum_id": 35,
+            "course_id": 493,
+            "year": "1",
+            "sem": "1",
+            "description": "",
+            "course_type": "REQUIRED",
+            "sub_type": "--",
+            "group_id": null,
+            "created_at": null,
+            "updated_at": null,
+            "units": null,
+            "course": {
+                "course_code": "CHEM 18.1",
+                "course_id": 493,
+                "title": "University Chemistry Laboratory",
+                "type": "NA",
+                "is_academic": true,
+                "is_multiple_enrollment": false,
+                "is_repeatable": false,
+                "course_code_title": "CHEM 18.1 - University Chemistry Laboratory",
+                "acad_orgs": [
+                    "LBIC"
+                ],
+                "acad_groups": [
+                    "CAS"
+                ]
+            }
+        },
+        {
+            "id": 2749,
+            "curriculum_id": 35,
+            "course_id": 813,
+            "year": "1",
+            "sem": "1",
+            "description": "",
+            "course_type": "REQUIRED",
+            "sub_type": "--",
+            "group_id": null,
+            "created_at": null,
+            "updated_at": null,
+            "units": 2,
+            "course": {
+                "course_code": "HK 11",
+                "course_id": 813,
+                "title": "Wellness and Basic Injury Management",
+                "type": "NA",
+                "is_academic": false,
+                "is_multiple_enrollment": false,
+                "is_repeatable": false,
+                "course_code_title": "HK 11 - Wellness and Basic Injury Management",
+                "acad_orgs": [
+                    "LBDHK"
+                ],
+                "acad_groups": [
+                    "CAS"
+                ]
+            }
+        },
+        {
+            "id": 2750,
+            "curriculum_id": 35,
+            "course_id": 1270,
+            "year": "1",
+            "sem": "2",
+            "description": "",
+            "course_type": "REQUIRED",
+            "sub_type": "--",
+            "group_id": null,
+            "created_at": null,
+            "updated_at": null,
+            "units": null,
+            "course": {
+                "course_code": "AGRI 41",
+                "course_id": 1270,
+                "title": "Principles of Crop Protection",
+                "type": "NA",
+                "is_academic": true,
+                "is_multiple_enrollment": false,
+                "is_repeatable": false,
+                "course_code_title": "AGRI 41 - Principles of Crop Protection",
+                "acad_orgs": [
+                    "LBIWEP"
+                ],
+                "acad_groups": [
+                    "CAFS"
+                ]
+            }
+        },
+        {
+            "id": 2751,
+            "curriculum_id": 35,
+            "course_id": 1096,
+            "year": "1",
+            "sem": "2",
+            "description": "",
+            "course_type": "REQUIRED",
+            "sub_type": "--",
+            "group_id": null,
+            "created_at": null,
+            "updated_at": null,
+            "units": null,
+            "course": {
+                "course_code": "AGRI 51",
+                "course_id": 1096,
+                "title": "Principles of Soil Science",
+                "type": "NA",
+                "is_academic": true,
+                "is_multiple_enrollment": false,
+                "is_repeatable": false,
+                "course_code_title": "AGRI 51 - Principles of Soil Science",
+                "acad_orgs": [
+                    "LBASI"
+                ],
+                "acad_groups": [
+                    "CAFS"
+                ]
+            }
+        },
+        {
+            "id": 2752,
+            "curriculum_id": 35,
+            "course_id": 1146,
+            "year": "1",
+            "sem": "2",
+            "description": "",
+            "course_type": "REQUIRED",
+            "sub_type": "--",
+            "group_id": null,
+            "created_at": null,
+            "updated_at": null,
+            "units": null,
+            "course": {
+                "course_code": "AGRI 22",
+                "course_id": 1146,
+                "title": "Introduction to Livestock and Poultry Production",
+                "type": "NA",
+                "is_academic": true,
+                "is_multiple_enrollment": false,
+                "is_repeatable": false,
+                "course_code_title": "AGRI 22 - Introduction to Livestock and Poultry Production",
+                "acad_orgs": [
+                    "LBIAS"
+                ],
+                "acad_groups": [
+                    "CAFS"
+                ]
+            }
+        },
+        {
+            "id": 2753,
+            "curriculum_id": 35,
+            "course_id": 1184,
+            "year": "1",
+            "sem": "2",
+            "description": "",
+            "course_type": "REQUIRED",
+            "sub_type": "--",
+            "group_id": null,
+            "created_at": null,
+            "updated_at": null,
+            "units": null,
+            "course": {
+                "course_code": "AGRI 32",
+                "course_id": 1184,
+                "title": "Fundamentals of Crop Science II",
+                "type": "NA",
+                "is_academic": true,
+                "is_multiple_enrollment": false,
+                "is_repeatable": false,
+                "course_code_title": "AGRI 32 - Fundamentals of Crop Science II",
+                "acad_orgs": [
+                    "LBICROPS"
+                ],
+                "acad_groups": [
+                    "CAFS"
+                ]
+            }
+        },
+        {
+            "id": 2759,
+            "curriculum_id": 35,
+            "course_id": 1097,
+            "year": "2",
+            "sem": "1",
+            "description": "",
+            "course_type": "REQUIRED",
+            "sub_type": "--",
+            "group_id": null,
+            "created_at": null,
+            "updated_at": null,
+            "units": null,
+            "course": {
+                "course_code": "AGRI 61",
+                "course_id": 1097,
+                "title": "Fundamentals of Agricultural Extension Communication",
+                "type": "NA",
+                "is_academic": true,
+                "is_multiple_enrollment": false,
+                "is_repeatable": false,
+                "course_code_title": "AGRI 61 - Fundamentals of Agricultural Extension Communication",
+                "acad_orgs": [
+                    "LBASI"
+                ],
+                "acad_groups": [
+                    "CAFS"
+                ]
+            }
+        },
+        {
+            "id": 2760,
+            "curriculum_id": 35,
+            "course_id": 294,
+            "year": "2",
+            "sem": "1",
+            "description": "",
+            "course_type": "REQUIRED",
+            "sub_type": "--",
+            "group_id": null,
+            "created_at": null,
+            "updated_at": null,
+            "units": null,
+            "course": {
+                "course_code": "ABME 10",
+                "course_id": 294,
+                "title": "Foundations of Entrepreneurship",
+                "type": "NA",
+                "is_academic": true,
+                "is_multiple_enrollment": false,
+                "is_repeatable": false,
+                "course_code_title": "ABME 10 - Foundations of Entrepreneurship",
+                "acad_orgs": [
+                    "LBDAME"
+                ],
+                "acad_groups": [
+                    "CEM"
+                ]
+            }
+        },
+        {
+            "id": 2761,
+            "curriculum_id": 35,
+            "course_id": 1271,
+            "year": "2",
+            "sem": "1",
+            "description": "",
+            "course_type": "REQUIRED",
+            "sub_type": "--",
+            "group_id": null,
+            "created_at": null,
+            "updated_at": null,
+            "units": null,
+            "course": {
+                "course_code": "AGRI 42",
+                "course_id": 1271,
+                "title": "Pest Management",
+                "type": "NA",
+                "is_academic": true,
+                "is_multiple_enrollment": false,
+                "is_repeatable": false,
+                "course_code_title": "AGRI 42 - Pest Management",
+                "acad_orgs": [
+                    "LBIWEP"
+                ],
+                "acad_groups": [
+                    "CAFS"
+                ]
+            }
+        },
+        {
+            "id": 2762,
+            "curriculum_id": 35,
+            "course_id": 440,
+            "year": "2",
+            "sem": "1",
+            "description": "",
+            "course_type": "REQUIRED",
+            "sub_type": "--",
+            "group_id": null,
+            "created_at": null,
+            "updated_at": null,
+            "units": null,
+            "course": {
+                "course_code": "BOT 20",
+                "course_id": 440,
+                "title": "Fundamentals of Plant Physiology",
+                "type": "NA",
+                "is_academic": true,
+                "is_multiple_enrollment": false,
+                "is_repeatable": false,
+                "course_code_title": "BOT 20 - Fundamentals of Plant Physiology",
+                "acad_orgs": [
+                    "LBIBS"
+                ],
+                "acad_groups": [
+                    "CAS"
+                ]
+            },
+            "prerequisites": "BOT 20"
+        },
+        {
+            "id": 2763,
+            "curriculum_id": 35,
+            "course_id": 348,
+            "year": "2",
+            "sem": "1",
+            "description": "",
+            "course_type": "REQUIRED",
+            "sub_type": "--",
+            "group_id": null,
+            "created_at": null,
+            "updated_at": null,
+            "units": null,
+            "course": {
+                "course_code": "ECON 11",
+                "course_id": 348,
+                "title": "General Economics",
+                "type": "NA",
+                "is_academic": true,
+                "is_multiple_enrollment": false,
+                "is_repeatable": false,
+                "course_code_title": "ECON 11 - General Economics",
+                "acad_orgs": [
+                    "LBDE"
+                ],
+                "acad_groups": [
+                    "CEM"
+                ]
+            },
+            "prerequisites": "PHYS 3"
+        },
+        {
+            "id": 2766,
+            "curriculum_id": 35,
+            "course_id": 3107,
+            "year": "2",
+            "sem": "1",
+            "description": "",
+            "course_type": "REQUIRED",
+            "sub_type": "--",
+            "group_id": null,
+            "created_at": null,
+            "updated_at": null,
+            "units": 3,
+            "course": {
+                "course_code": "NSTP 1",
+                "course_id": 3107,
+                "title": "National Service Training Program I",
+                "type": "NA",
+                "is_academic": false,
+                "is_multiple_enrollment": true,
+                "is_repeatable": true,
+                "course_code_title": "NSTP 1 - National Service Training Program I",
+                "acad_orgs": [
+                    "LBASI",
+                    "LBDAAE",
+                    "LBDAME",
+                    "LBDBVS",
+                    "LBDCE",
+                    "LBDCERP",
+                    "LBDCHE",
+                    "LBDDBT",
+                    "LBDDJ",
+                    "LBDEC",
+                    "LBDEE",
+                    "LBDENSC",
+                    "LBDFBS",
+                    "LBDFPPS",
+                    "LBDHFDS",
+                    "LBDIE",
+                    "LBDME",
+                    "LBDMST",
+                    "LBDSC",
+                    "LBDSDS",
+                    "LBDSFFG",
+                    "LBDVCS",
+                    "LBDVPS",
+                    "LBIABE",
+                    "LBIAS",
+                    "LBICOPED",
+                    "LBIHNF",
+                    "LBIRNR",
+                    "LBOVCCA"
+                ],
+                "acad_groups": [
+                    "CAFS",
+                    "CAS",
+                    "CEAT",
+                    "CEM",
+                    "CHE",
+                    "CVM"
+                ]
+            }
+        },
+        {
+            "id": 2767,
+            "curriculum_id": 35,
+            "course_id": 917,
+            "year": "2",
+            "sem": "2",
+            "description": "",
+            "course_type": "REQUIRED",
+            "sub_type": "--",
+            "group_id": null,
+            "created_at": null,
+            "updated_at": null,
+            "units": null,
+            "course": {
+                "course_code": "ABE 1",
+                "course_id": 917,
+                "title": "Fundamentals of Agricultural and Biosystems Engineering I",
+                "type": "NA",
+                "is_academic": true,
+                "is_multiple_enrollment": false,
+                "is_repeatable": false,
+                "course_code_title": "ABE 1 - Fundamentals of Agricultural and Biosystems Engineering I",
+                "acad_orgs": [
+                    "LBIABE"
+                ],
+                "acad_groups": [
+                    "CEAT"
+                ]
+            },
+            "prerequisites": "PHYS\n3 and SOIL 1"
+        },
+        {
+            "id": 2768,
+            "curriculum_id": 35,
+            "course_id": 497,
+            "year": "2",
+            "sem": "2",
+            "description": "",
+            "course_type": "REQUIRED",
+            "sub_type": "--",
+            "group_id": null,
+            "created_at": null,
+            "updated_at": null,
+            "units": null,
+            "course": {
+                "course_code": "CHEM 40",
+                "course_id": 497,
+                "title": "Basic Organic Chemistry",
+                "type": "NA",
+                "is_academic": true,
+                "is_multiple_enrollment": false,
+                "is_repeatable": false,
+                "course_code_title": "CHEM 40 - Basic Organic Chemistry",
+                "acad_orgs": [
+                    "LBIC"
+                ],
+                "acad_groups": [
+                    "CAS"
+                ]
+            },
+            "prerequisites": "BIO 101"
+        },
+        {
+            "id": 2769,
+            "curriculum_id": 35,
+            "course_id": 498,
+            "year": "2",
+            "sem": "2",
+            "description": "",
+            "course_type": "REQUIRED",
+            "sub_type": "--",
+            "group_id": null,
+            "created_at": null,
+            "updated_at": null,
+            "units": null,
+            "course": {
+                "course_code": "CHEM 40.1",
+                "course_id": 498,
+                "title": "Basic Organic Chemistry Laboratory",
+                "type": "NA",
+                "is_academic": true,
+                "is_multiple_enrollment": false,
+                "is_repeatable": false,
+                "course_code_title": "CHEM 40.1 - Basic Organic Chemistry Laboratory",
+                "acad_orgs": [
+                    "LBIC"
+                ],
+                "acad_groups": [
+                    "CAS"
+                ]
+            }
+        },
+        {
+            "id": 2770,
+            "curriculum_id": 35,
+            "course_id": 1185,
+            "year": "2",
+            "sem": "2",
+            "description": "",
+            "course_type": "REQUIRED",
+            "sub_type": "--",
+            "group_id": null,
+            "created_at": null,
+            "updated_at": null,
+            "units": null,
+            "course": {
+                "course_code": "AGRI 111",
+                "course_id": 1185,
+                "title": "Introduction to Farming Systems",
+                "type": "NA",
+                "is_academic": true,
+                "is_multiple_enrollment": false,
+                "is_repeatable": false,
+                "course_code_title": "AGRI 111 - Introduction to Farming Systems",
+                "acad_orgs": [
+                    "LBICROPS"
+                ],
+                "acad_groups": [
+                    "CAFS"
+                ]
+            },
+            "prerequisites": "CRSC 2 and ANSC 2 or COI"
+        },
+        {
+            "id": 2771,
+            "curriculum_id": 35,
+            "course_id": 1187,
+            "year": "2",
+            "sem": "2",
+            "description": "",
+            "course_type": "REQUIRED",
+            "sub_type": "--",
+            "group_id": null,
+            "created_at": null,
+            "updated_at": null,
+            "units": null,
+            "course": {
+                "course_code": "AGRI 171",
+                "course_id": 1187,
+                "title": "Ethics, Laws and Policies in Agriculture",
+                "type": "NA",
+                "is_academic": true,
+                "is_multiple_enrollment": false,
+                "is_repeatable": false,
+                "course_code_title": "AGRI 171 - Ethics, Laws and Policies in Agriculture",
+                "acad_orgs": [
+                    "LBICROPS"
+                ],
+                "acad_groups": [
+                    "CAFS"
+                ]
+            }
+        },
+        {
+            "id": 2772,
+            "curriculum_id": 35,
+            "course_id": 304,
+            "year": "2",
+            "sem": "2",
+            "description": "",
+            "course_type": "REQUIRED",
+            "sub_type": "--",
+            "group_id": null,
+            "created_at": null,
+            "updated_at": null,
+            "units": null,
+            "course": {
+                "course_code": "MGT 101",
+                "course_id": 304,
+                "title": "Concepts and Dynamics of Management",
+                "type": "NA",
+                "is_academic": true,
+                "is_multiple_enrollment": false,
+                "is_repeatable": false,
+                "course_code_title": "MGT 101 - Concepts and Dynamics of Management",
+                "acad_orgs": [
+                    "LBDAME"
+                ],
+                "acad_groups": [
+                    "CEM"
+                ]
+            },
+            "prerequisites": "COI"
+        },
+        {
+            "id": 2775,
+            "curriculum_id": 35,
+            "course_id": 2055,
+            "year": "2",
+            "sem": "2",
+            "description": "",
+            "course_type": "REQUIRED",
+            "sub_type": "--",
+            "group_id": null,
+            "created_at": null,
+            "updated_at": null,
+            "units": 3,
+            "course": {
+                "course_code": "NSTP 2",
+                "course_id": 2055,
+                "title": "National Service Training Program II",
+                "type": "NA",
+                "is_academic": false,
+                "is_multiple_enrollment": true,
+                "is_repeatable": true,
+                "course_code_title": "NSTP 2 - National Service Training Program II",
+                "acad_orgs": [
+                    "LBASI",
+                    "LBDAAE",
+                    "LBDAECO",
+                    "LBDAME",
+                    "LBDBVS",
+                    "LBDCE",
+                    "LBDCERP",
+                    "LBDCHE",
+                    "LBDDBT",
+                    "LBDDJ",
+                    "LBDE",
+                    "LBDEC",
+                    "LBDECO",
+                    "LBDEE",
+                    "LBDENSC",
+                    "LBDFBS",
+                    "LBDFPPS",
+                    "LBDHFDS",
+                    "LBDIE",
+                    "LBDME",
+                    "LBDMST",
+                    "LBDSC",
+                    "LBDSDS",
+                    "LBDSFFG",
+                    "LBDVCS",
+                    "LBDVPS",
+                    "LBIABE",
+                    "LBICOPED",
+                    "LBIHNF",
+                    "LBIRNR",
+                    "LBOVCCA"
+                ],
+                "acad_groups": [
+                    "CAFS",
+                    "CAS",
+                    "CEAT",
+                    "CEM",
+                    "CHE",
+                    "CVM"
+                ]
+            }
+        },
+        {
+            "id": 2776,
+            "curriculum_id": 35,
+            "course_id": 410,
+            "year": "3",
+            "sem": "1",
+            "description": "",
+            "course_type": "REQUIRED",
+            "sub_type": "--",
+            "group_id": null,
+            "created_at": null,
+            "updated_at": null,
+            "units": null,
+            "course": {
+                "course_code": "BIO 30",
+                "course_id": 410,
+                "title": "Genetics",
+                "type": "NA",
+                "is_academic": true,
+                "is_multiple_enrollment": false,
+                "is_repeatable": false,
+                "course_code_title": "BIO 30 - Genetics",
+                "acad_orgs": [
+                    "LBIBS"
+                ],
+                "acad_groups": [
+                    "CAS"
+                ]
+            },
+            "prerequisites": "BIO\n2 or BIO 3 or BOT 1 and ZOO 1"
+        },
+        {
+            "id": 2777,
+            "curriculum_id": 35,
+            "course_id": 1237,
+            "year": "3",
+            "sem": "1",
+            "description": "",
+            "course_type": "REQUIRED",
+            "sub_type": "--",
+            "group_id": null,
+            "created_at": null,
+            "updated_at": null,
+            "units": null,
+            "course": {
+                "course_code": "ABT 10",
+                "course_id": 1237,
+                "title": "Traditional and Modern Biotechnology: Principles and Applications",
+                "type": "NA",
+                "is_academic": true,
+                "is_multiple_enrollment": false,
+                "is_repeatable": false,
+                "course_code_title": "ABT 10 - Traditional and Modern Biotechnology: Principles and Applications",
+                "acad_orgs": [
+                    "LBICROPS"
+                ],
+                "acad_groups": [
+                    "CAFS"
+                ]
+            }
+        },
+        {
+            "id": 2778,
+            "curriculum_id": 35,
+            "course_id": 1186,
+            "year": "3",
+            "sem": "1",
+            "description": "",
+            "course_type": "REQUIRED",
+            "sub_type": "--",
+            "group_id": null,
+            "created_at": null,
+            "updated_at": null,
+            "units": null,
+            "course": {
+                "course_code": "AGRI 121",
+                "course_id": 1186,
+                "title": "Introduction to Ecological Agriculture",
+                "type": "NA",
+                "is_academic": true,
+                "is_multiple_enrollment": false,
+                "is_repeatable": false,
+                "course_code_title": "AGRI 121 - Introduction to Ecological Agriculture",
+                "acad_orgs": [
+                    "LBICROPS"
+                ],
+                "acad_groups": [
+                    "CAFS"
+                ]
+            },
+            "prerequisites": "CRSC 2 or COI"
+        },
+        {
+            "id": 2779,
+            "curriculum_id": 35,
+            "course_id": 702,
+            "year": "3",
+            "sem": "1",
+            "description": "",
+            "course_type": "REQUIRED",
+            "sub_type": "--",
+            "group_id": null,
+            "created_at": null,
+            "updated_at": null,
+            "units": null,
+            "course": {
+                "course_code": "STAT 162",
+                "course_id": 702,
+                "title": "Experimental Designs",
+                "type": "NA",
+                "is_academic": true,
+                "is_multiple_enrollment": false,
+                "is_repeatable": false,
+                "course_code_title": "STAT 162 - Experimental Designs",
+                "acad_orgs": [
+                    "LBINSTAT"
+                ],
+                "acad_groups": [
+                    "CAS"
+                ]
+            },
+            "prerequisites": "STAT 1 or\nCOI"
+        },
+        {
+            "id": 2780,
+            "curriculum_id": 35,
+            "course_id": 185,
+            "year": "3",
+            "sem": "1",
+            "description": "",
+            "course_type": "REQUIRED",
+            "sub_type": "--",
+            "group_id": null,
+            "created_at": null,
+            "updated_at": null,
+            "units": null,
+            "course": {
+                "course_code": "SFI 103",
+                "course_id": 185,
+                "title": "Fundamentals of Agroforestry",
+                "type": "NA",
+                "is_academic": true,
+                "is_multiple_enrollment": false,
+                "is_repeatable": false,
+                "course_code_title": "SFI 103 - Fundamentals of Agroforestry",
+                "acad_orgs": [
+                    "LBIRNR"
+                ],
+                "acad_groups": [
+                    "CFNR"
+                ]
+            }
+        },
+        {
+            "id": 2781,
+            "curriculum_id": 35,
+            "course_id": 322,
+            "year": "3",
+            "sem": "2",
+            "description": "",
+            "course_type": "REQUIRED",
+            "sub_type": "--",
+            "group_id": null,
+            "created_at": null,
+            "updated_at": null,
+            "units": null,
+            "course": {
+                "course_code": "AAE 111",
+                "course_id": 322,
+                "title": "Farm Management",
+                "type": "NA",
+                "is_academic": true,
+                "is_multiple_enrollment": false,
+                "is_repeatable": false,
+                "course_code_title": "AAE 111 - Farm Management",
+                "acad_orgs": [
+                    "LBDAAE"
+                ],
+                "acad_groups": [
+                    "CEM"
+                ]
+            }
+        },
+        {
+            "id": 2782,
+            "curriculum_id": 35,
+            "course_id": 1099,
+            "year": "3",
+            "sem": "2",
+            "description": "",
+            "course_type": "REQUIRED",
+            "sub_type": "--",
+            "group_id": null,
+            "created_at": null,
+            "updated_at": null,
+            "units": null,
+            "course": {
+                "course_code": "AGRI 195",
+                "course_id": 1099,
+                "title": "Research Methods in Agriculture and Food Science",
+                "type": "NA",
+                "is_academic": true,
+                "is_multiple_enrollment": false,
+                "is_repeatable": false,
+                "course_code_title": "AGRI 195 - Research Methods in Agriculture and Food Science",
+                "acad_orgs": [
+                    "LBASI",
+                    "LBIAS",
+                    "LBICROPS",
+                    "LBIFST",
+                    "LBIWEP"
+                ],
+                "acad_groups": [
+                    "CAFS"
+                ]
+            }
+        },
+        {
+            "id": 2783,
+            "curriculum_id": 35,
+            "course_id": 828,
+            "year": "3",
+            "sem": "2",
+            "description": "",
+            "course_type": "REQUIRED",
+            "sub_type": "--",
+            "group_id": null,
+            "created_at": null,
+            "updated_at": null,
+            "units": null,
+            "course": {
+                "course_code": "PI 10",
+                "course_id": 828,
+                "title": "(GE). The Life and Works of Rizal",
+                "type": "NA",
+                "is_academic": true,
+                "is_multiple_enrollment": false,
+                "is_repeatable": false,
+                "course_code_title": "PI 10 - (GE). The Life and Works of Rizal",
+                "acad_orgs": [
+                    "LBDSS"
+                ],
+                "acad_groups": [
+                    "CAS"
+                ]
+            }
+        },
+        {
+            "id": 2784,
+            "curriculum_id": 35,
+            "course_id": 1123,
+            "year": "3",
+            "sem": "2",
+            "description": "",
+            "course_type": "REQUIRED",
+            "sub_type": "--",
+            "group_id": null,
+            "created_at": null,
+            "updated_at": null,
+            "units": null,
+            "course": {
+                "course_code": "LAF 101",
+                "course_id": 1123,
+                "title": "Landscape Agroforestry",
+                "type": "NA",
+                "is_academic": true,
+                "is_multiple_enrollment": false,
+                "is_repeatable": false,
+                "course_code_title": "LAF 101 - Landscape Agroforestry",
+                "acad_orgs": [
+                    "LBASI"
+                ],
+                "acad_groups": [
+                    "CAFS"
+                ]
+            }
+        },
+        {
+            "id": 2785,
+            "curriculum_id": 35,
+            "course_id": 195,
+            "year": "3",
+            "sem": "2",
+            "description": "",
+            "course_type": "REQUIRED",
+            "sub_type": "--",
+            "group_id": null,
+            "created_at": null,
+            "updated_at": null,
+            "units": null,
+            "course": {
+                "course_code": "SFI 147",
+                "course_id": 195,
+                "title": "Agroforestry System Design and Development",
+                "type": "NA",
+                "is_academic": true,
+                "is_multiple_enrollment": false,
+                "is_repeatable": false,
+                "course_code_title": "SFI 147 - Agroforestry System Design and Development",
+                "acad_orgs": [
+                    "LBIRNR"
+                ],
+                "acad_groups": [
+                    "CFNR"
+                ]
+            }
+        },
+        {
+            "id": 2786,
+            "curriculum_id": 35,
+            "course_id": 1124,
+            "year": "3",
+            "sem": "3",
+            "description": "",
+            "course_type": "REQUIRED",
+            "sub_type": "--",
+            "group_id": null,
+            "created_at": null,
+            "updated_at": null,
+            "units": null,
+            "course": {
+                "course_code": "LAF 198",
+                "course_id": 1124,
+                "title": "Practicum",
+                "type": "NA",
+                "is_academic": true,
+                "is_multiple_enrollment": false,
+                "is_repeatable": false,
+                "course_code_title": "LAF 198 - Practicum",
+                "acad_orgs": [
+                    "LBASI"
+                ],
+                "acad_groups": [
+                    "CAFS"
+                ]
+            }
+        },
+        {
+            "id": 2787,
+            "curriculum_id": 35,
+            "course_id": 1100,
+            "year": "4",
+            "sem": "1",
+            "description": "",
+            "course_type": "REQUIRED",
+            "sub_type": "--",
+            "group_id": null,
+            "created_at": null,
+            "updated_at": null,
+            "units": null,
+            "course": {
+                "course_code": "AGRI 199",
+                "course_id": 1100,
+                "title": "Colloquium in Agriculture",
+                "type": "NA",
+                "is_academic": true,
+                "is_multiple_enrollment": false,
+                "is_repeatable": true,
+                "course_code_title": "AGRI 199 - Colloquium in Agriculture",
+                "acad_orgs": [
+                    "LBASI"
+                ],
+                "acad_groups": [
+                    "CAFS"
+                ]
+            },
+            "prerequisites": "Senior standing"
+        },
+        {
+            "id": 2788,
+            "curriculum_id": 35,
+            "course_id": 1105,
+            "year": "4",
+            "sem": "1",
+            "description": "",
+            "course_type": "REQUIRED",
+            "sub_type": "--",
+            "group_id": null,
+            "created_at": null,
+            "updated_at": null,
+            "units": null,
+            "course": {
+                "course_code": "ASYS 145",
+                "course_id": 1105,
+                "title": "Participatory Methodologies in Agricultural Systems Research and Extension",
+                "type": "NA",
+                "is_academic": true,
+                "is_multiple_enrollment": false,
+                "is_repeatable": false,
+                "course_code_title": "ASYS 145 - Participatory Methodologies in Agricultural Systems Research and Extension",
+                "acad_orgs": [
+                    "LBASI"
+                ],
+                "acad_groups": [
+                    "CAFS"
+                ]
+            },
+            "prerequisites": "AEC 1 and AGR 111, or COI"
+        },
+        {
+            "id": 2789,
+            "curriculum_id": 35,
+            "course_id": 284,
+            "year": "4",
+            "sem": "1",
+            "description": "",
+            "course_type": "REQUIRED",
+            "sub_type": "--",
+            "group_id": null,
+            "created_at": null,
+            "updated_at": null,
+            "units": null,
+            "course": {
+                "course_code": "SFFG 133",
+                "course_id": 284,
+                "title": "Socio-Economics of Agroforestry",
+                "type": "NA",
+                "is_academic": true,
+                "is_multiple_enrollment": false,
+                "is_repeatable": false,
+                "course_code_title": "SFFG 133 - Socio-Economics of Agroforestry",
+                "acad_orgs": [
+                    "LBDSFFG"
+                ],
+                "acad_groups": [
+                    "CFNR"
+                ]
+            },
+            "prerequisites": "SFFG 101 and ECON 11 or COI"
+        },
+        {
+            "id": 2790,
+            "curriculum_id": 35,
+            "course_id": 174,
+            "year": "4",
+            "sem": "1",
+            "description": "",
+            "course_type": "REQUIRED",
+            "sub_type": "--",
+            "group_id": null,
+            "created_at": null,
+            "updated_at": null,
+            "units": null,
+            "course": {
+                "course_code": "NRC 140",
+                "course_id": 174,
+                "title": "Introduction to Geographic Information Systems",
+                "type": "NA",
+                "is_academic": true,
+                "is_multiple_enrollment": false,
+                "is_repeatable": false,
+                "course_code_title": "NRC 140 - Introduction to Geographic Information Systems",
+                "acad_orgs": [
+                    "LBDFBS"
+                ],
+                "acad_groups": [
+                    "CFNR"
+                ]
+            }
+        },
+        {
+            "id": 2791,
+            "curriculum_id": 35,
+            "course_id": 1126,
+            "year": "4",
+            "sem": "1",
+            "description": "",
+            "course_type": "REQUIRED",
+            "sub_type": "--",
+            "group_id": null,
+            "created_at": null,
+            "updated_at": null,
+            "units": null,
+            "course": {
+                "course_code": "LAF 200",
+                "course_id": 1126,
+                "title": "Undergraduate Thesis",
+                "type": "NA",
+                "is_academic": true,
+                "is_multiple_enrollment": true,
+                "is_repeatable": true,
+                "course_code_title": "LAF 200 - Undergraduate Thesis",
+                "acad_orgs": [
+                    "LBASI"
+                ],
+                "acad_groups": [
+                    "CAFS"
+                ]
+            }
+        },
+        {
+            "id": 2755,
+            "curriculum_id": 35,
+            "course_id": 2642,
+            "year": "1",
+            "sem": "2",
+            "description": "",
+            "course_type": "REQUIRED",
+            "sub_type": "--",
+            "group_id": 1,
+            "created_at": null,
+            "updated_at": null,
+            "units": null,
+            "course": {
+                "course_code": "HIST 1",
+                "course_id": 2642,
+                "title": "(GE). Philippine History",
+                "type": "NA",
+                "is_academic": true,
+                "is_multiple_enrollment": false,
+                "is_repeatable": false,
+                "course_code_title": "HIST 1 - (GE). Philippine History",
+                "acad_orgs": [
+                    "LBDSS"
+                ],
+                "acad_groups": [
+                    "CAS"
+                ]
+            }
+        },
+        {
+            "id": 2757,
+            "curriculum_id": 35,
+            "course_id": 814,
+            "year": "1",
+            "sem": "2",
+            "description": "",
+            "course_type": "REQUIRED",
+            "sub_type": "--",
+            "group_id": 2,
+            "created_at": null,
+            "updated_at": null,
+            "units": 2,
+            "course": {
+                "course_code": "HK 12",
+                "course_id": 814,
+                "title": "Human Kinetics Activities",
+                "type": "NA",
+                "is_academic": false,
+                "is_multiple_enrollment": true,
+                "is_repeatable": true,
+                "course_code_title": "HK 12 - Human Kinetics Activities",
+                "acad_orgs": [
+                    "LBDHK"
+                ],
+                "acad_groups": [
+                    "CAS"
+                ]
+            }
+        },
+        {
+            "id": 2758,
+            "curriculum_id": 35,
+            "course_id": 815,
+            "year": "1",
+            "sem": "2",
+            "description": "",
+            "course_type": "REQUIRED",
+            "sub_type": "--",
+            "group_id": 2,
+            "created_at": null,
+            "updated_at": null,
+            "units": 2,
+            "course": {
+                "course_code": "HK 13",
+                "course_id": 815,
+                "title": "Advanced Human Kinetics Activities",
+                "type": "NA",
+                "is_academic": false,
+                "is_multiple_enrollment": false,
+                "is_repeatable": false,
+                "course_code_title": "HK 13 - Advanced Human Kinetics Activities",
+                "acad_orgs": [],
+                "acad_groups": []
+            }
+        },
+        {
+            "id": 2764,
+            "curriculum_id": 35,
+            "course_id": 814,
+            "year": "2",
+            "sem": "1",
+            "description": "",
+            "course_type": "REQUIRED",
+            "sub_type": "--",
+            "group_id": 1,
+            "created_at": null,
+            "updated_at": null,
+            "units": 2,
+            "course": {
+                "course_code": "HK 12",
+                "course_id": 814,
+                "title": "Human Kinetics Activities",
+                "type": "NA",
+                "is_academic": false,
+                "is_multiple_enrollment": true,
+                "is_repeatable": true,
+                "course_code_title": "HK 12 - Human Kinetics Activities",
+                "acad_orgs": [
+                    "LBDHK"
+                ],
+                "acad_groups": [
+                    "CAS"
+                ]
+            }
+        },
+        {
+            "id": 2765,
+            "curriculum_id": 35,
+            "course_id": 815,
+            "year": "2",
+            "sem": "1",
+            "description": "",
+            "course_type": "REQUIRED",
+            "sub_type": "--",
+            "group_id": 1,
+            "created_at": null,
+            "updated_at": null,
+            "units": 2,
+            "course": {
+                "course_code": "HK 13",
+                "course_id": 815,
+                "title": "Advanced Human Kinetics Activities",
+                "type": "NA",
+                "is_academic": false,
+                "is_multiple_enrollment": false,
+                "is_repeatable": false,
+                "course_code_title": "HK 13 - Advanced Human Kinetics Activities",
+                "acad_orgs": [],
+                "acad_groups": []
+            }
+        },
+        {
+            "id": 2774,
+            "curriculum_id": 35,
+            "course_id": 815,
+            "year": "2",
+            "sem": "2",
+            "description": "",
+            "course_type": "REQUIRED",
+            "sub_type": "--",
+            "group_id": 1,
+            "created_at": null,
+            "updated_at": null,
+            "units": 2,
+            "course": {
+                "course_code": "HK 13",
+                "course_id": 815,
+                "title": "Advanced Human Kinetics Activities",
+                "type": "NA",
+                "is_academic": false,
+                "is_multiple_enrollment": false,
+                "is_repeatable": false,
+                "course_code_title": "HK 13 - Advanced Human Kinetics Activities",
+                "acad_orgs": [],
+                "acad_groups": []
+            }
+        },
+        {
+            "id": 2793,
+            "curriculum_id": 35,
+            "course_id": 1125,
+            "year": "4",
+            "sem": "1",
+            "description": "",
+            "course_type": "REQUIRED",
+            "sub_type": "--",
+            "group_id": null,
+            "created_at": null,
+            "updated_at": null,
+            "units": null,
+            "course": {
+                "course_code": "LAF 199",
+                "course_id": 1125,
+                "title": "Undergraduate Seminar",
+                "type": "NA",
+                "is_academic": true,
+                "is_multiple_enrollment": false,
+                "is_repeatable": true,
+                "course_code_title": "LAF 199 - Undergraduate Seminar",
+                "acad_orgs": [
+                    "LBASI"
+                ],
+                "acad_groups": [
+                    "CAFS"
+                ]
+            }
+        },
+        {
+            "id": 2794,
+            "curriculum_id": 35,
+            "course_id": 1126,
+            "year": "4",
+            "sem": "2",
+            "description": "",
+            "course_type": "REQUIRED",
+            "sub_type": "--",
+            "group_id": null,
+            "created_at": null,
+            "updated_at": null,
+            "units": null,
+            "course": {
+                "course_code": "LAF 200",
+                "course_id": 1126,
+                "title": "Undergraduate Thesis",
+                "type": "NA",
+                "is_academic": true,
+                "is_multiple_enrollment": true,
+                "is_repeatable": true,
+                "course_code_title": "LAF 200 - Undergraduate Thesis",
+                "acad_orgs": [
+                    "LBASI"
+                ],
+                "acad_groups": [
+                    "CAFS"
+                ]
+            }
+        },
+        {
+            "id": 2795,
+            "curriculum_id": 35,
+            "course_id": 752,
+            "year": "0",
+            "sem": "0",
+            "description": "",
+            "course_type": "GE ELECTIVE",
+            "sub_type": "--",
+            "group_id": null,
+            "created_at": null,
+            "updated_at": null,
+            "units": null,
+            "course": {
+                "course_code": "HUM 3",
+                "course_id": 752,
+                "title": "(GE). Reading Film, TV, and the Internet",
+                "type": "NA",
+                "is_academic": true,
+                "is_multiple_enrollment": false,
+                "is_repeatable": false,
+                "course_code_title": "HUM 3 - (GE). Reading Film, TV, and the Internet",
+                "acad_orgs": [
+                    "LBDHUM"
+                ],
+                "acad_groups": [
+                    "CAS"
+                ]
+            }
+        },
+        {
+            "id": 2796,
+            "curriculum_id": 35,
+            "course_id": 822,
+            "year": "0",
+            "sem": "0",
+            "description": "",
+            "course_type": "GE ELECTIVE",
+            "sub_type": "--",
+            "group_id": null,
+            "created_at": null,
+            "updated_at": null,
+            "units": null,
+            "course": {
+                "course_code": "KAS 4",
+                "course_id": 822,
+                "title": "(GE). Ang Kababaihan sa Kasaysayan ng Pilipinas",
+                "type": "NA",
+                "is_academic": true,
+                "is_multiple_enrollment": false,
+                "is_repeatable": false,
+                "course_code_title": "KAS 4 - (GE). Ang Kababaihan sa Kasaysayan ng Pilipinas",
+                "acad_orgs": [
+                    "LBDSS"
+                ],
+                "acad_groups": [
+                    "CAS"
+                ]
+            }
+        },
+        {
+            "id": 2797,
+            "curriculum_id": 35,
+            "course_id": 619,
+            "year": "0",
+            "sem": "0",
+            "description": "",
+            "course_type": "GE ELECTIVE",
+            "sub_type": "--",
+            "group_id": null,
+            "created_at": null,
+            "updated_at": null,
+            "units": null,
+            "course": {
+                "course_code": "MATH 10",
+                "course_id": 619,
+                "title": "(GE). Mathematics, Culture, and Society",
+                "type": "NA",
+                "is_academic": true,
+                "is_multiple_enrollment": false,
+                "is_repeatable": false,
+                "course_code_title": "MATH 10 - (GE). Mathematics, Culture, and Society",
+                "acad_orgs": [
+                    "LBIMS"
+                ],
+                "acad_groups": [
+                    "CAS"
+                ]
+            }
+        },
+        {
+            "id": 2798,
+            "curriculum_id": 35,
+            "course_id": 758,
+            "year": "0",
+            "sem": "0",
+            "description": "",
+            "course_type": "GE ELECTIVE",
+            "sub_type": "--",
+            "group_id": null,
+            "created_at": null,
+            "updated_at": null,
+            "units": null,
+            "course": {
+                "course_code": "PHILARTS 1",
+                "course_id": 758,
+                "title": "(GE). Philippine Arts and Culture",
+                "type": "NA",
+                "is_academic": true,
+                "is_multiple_enrollment": false,
+                "is_repeatable": false,
+                "course_code_title": "PHILARTS 1 - (GE). Philippine Arts and Culture",
+                "acad_orgs": [
+                    "LBDHUM"
+                ],
+                "acad_groups": [
+                    "CAS"
+                ]
+            }
+        },
+        {
+            "id": 2799,
+            "curriculum_id": 35,
+            "course_id": 760,
+            "year": "0",
+            "sem": "0",
+            "description": "",
+            "course_type": "GE ELECTIVE",
+            "sub_type": "--",
+            "group_id": null,
+            "created_at": null,
+            "updated_at": null,
+            "units": null,
+            "course": {
+                "course_code": "PHLO 1",
+                "course_id": 760,
+                "title": "(GE). Understanding Philosophy",
+                "type": "NA",
+                "is_academic": true,
+                "is_multiple_enrollment": false,
+                "is_repeatable": false,
+                "course_code_title": "PHLO 1 - (GE). Understanding Philosophy",
+                "acad_orgs": [
+                    "LBDHUM"
+                ],
+                "acad_groups": [
+                    "CAS"
+                ]
+            }
+        },
+        {
+            "id": 2800,
+            "curriculum_id": 35,
+            "course_id": 759,
+            "year": "0",
+            "sem": "0",
+            "description": "",
+            "course_type": "GE ELECTIVE",
+            "sub_type": "--",
+            "group_id": null,
+            "created_at": null,
+            "updated_at": null,
+            "units": null,
+            "course": {
+                "course_code": "PS 21",
+                "course_id": 759,
+                "title": "(GE). Wika, Panitikan, at Kultura sa Ilalim ng Batas Militar sa Pilipinas.",
+                "type": "NA",
+                "is_academic": true,
+                "is_multiple_enrollment": false,
+                "is_repeatable": false,
+                "course_code_title": "PS 21 - (GE). Wika, Panitikan, at Kultura sa Ilalim ng Batas Militar sa Pilipinas.",
+                "acad_orgs": [
+                    "LBDHUM"
+                ],
+                "acad_groups": [
+                    "CAS"
+                ]
+            }
+        },
+        {
+            "id": 2801,
+            "curriculum_id": 35,
+            "course_id": 842,
+            "year": "0",
+            "sem": "0",
+            "description": "",
+            "course_type": "GE ELECTIVE",
+            "sub_type": "--",
+            "group_id": null,
+            "created_at": null,
+            "updated_at": null,
+            "units": null,
+            "course": {
+                "course_code": "SAS 1",
+                "course_id": 842,
+                "title": "(GE). Self and Society",
+                "type": "NA",
+                "is_academic": true,
+                "is_multiple_enrollment": false,
+                "is_repeatable": false,
+                "course_code_title": "SAS 1 - (GE). Self and Society",
+                "acad_orgs": [
+                    "LBDSS"
+                ],
+                "acad_groups": [
+                    "CAS"
+                ]
+            }
+        },
+        {
+            "id": 2802,
+            "curriculum_id": 35,
+            "course_id": 691,
+            "year": "0",
+            "sem": "0",
+            "description": "",
+            "course_type": "GE ELECTIVE",
+            "sub_type": "--",
+            "group_id": null,
+            "created_at": null,
+            "updated_at": null,
+            "units": null,
+            "course": {
+                "course_code": "SCIENCE 10",
+                "course_id": 691,
+                "title": "(GE). Probing the Physical World",
+                "type": "NA",
+                "is_academic": true,
+                "is_multiple_enrollment": false,
+                "is_repeatable": false,
+                "course_code_title": "SCIENCE 10 - (GE). Probing the Physical World",
+                "acad_orgs": [
+                    "LBIC",
+                    "LBIMSP",
+                    "LBIoP"
+                ],
+                "acad_groups": [
+                    "CAS"
+                ]
+            }
+        },
+        {
+            "id": 2803,
+            "curriculum_id": 35,
+            "course_id": 464,
+            "year": "0",
+            "sem": "0",
+            "description": "",
+            "course_type": "GE ELECTIVE",
+            "sub_type": "--",
+            "group_id": null,
+            "created_at": null,
+            "updated_at": null,
+            "units": null,
+            "course": {
+                "course_code": "SCIENCE 11",
+                "course_id": 464,
+                "title": "(GE). Living Systems: Concepts and Dynamics",
+                "type": "NA",
+                "is_academic": true,
+                "is_multiple_enrollment": false,
+                "is_repeatable": false,
+                "course_code_title": "SCIENCE 11 - (GE). Living Systems: Concepts and Dynamics",
+                "acad_orgs": [
+                    "LBIBS"
+                ],
+                "acad_groups": [
+                    "CAS"
+                ]
+            }
+        },
+        {
+            "id": 2804,
+            "curriculum_id": 35,
+            "course_id": 843,
+            "year": "0",
+            "sem": "0",
+            "description": "",
+            "course_type": "GE ELECTIVE",
+            "sub_type": "--",
+            "group_id": null,
+            "created_at": null,
+            "updated_at": null,
+            "units": null,
+            "course": {
+                "course_code": "SOSC 3",
+                "course_id": 843,
+                "title": "(GE). Exploring Gender and Sexuality",
+                "type": "NA",
+                "is_academic": true,
+                "is_multiple_enrollment": false,
+                "is_repeatable": false,
+                "course_code_title": "SOSC 3 - (GE). Exploring Gender and Sexuality",
+                "acad_orgs": [
+                    "LBDSS"
+                ],
+                "acad_groups": [
+                    "CAS"
+                ]
+            }
+        },
+        {
+            "id": 2805,
+            "curriculum_id": 35,
+            "course_id": 811,
+            "year": "0",
+            "sem": "0",
+            "description": "",
+            "course_type": "GE ELECTIVE",
+            "sub_type": "--",
+            "group_id": null,
+            "created_at": null,
+            "updated_at": null,
+            "units": null,
+            "course": {
+                "course_code": "WIKA 1",
+                "course_id": 811,
+                "title": "(GE). Wika, Kultura, at Lipunan",
+                "type": "NA",
+                "is_academic": true,
+                "is_multiple_enrollment": false,
+                "is_repeatable": false,
+                "course_code_title": "WIKA 1 - (GE). Wika, Kultura, at Lipunan",
+                "acad_orgs": [
+                    "LBDHUM"
+                ],
+                "acad_groups": [
+                    "CAS"
+                ]
+            }
+        },
+        {
+            "id": 2806,
+            "curriculum_id": 35,
+            "course_id": 1102,
+            "year": "0",
+            "sem": "0",
+            "description": "",
+            "course_type": "SPECIALIZED",
+            "sub_type": "--",
+            "group_id": null,
+            "created_at": null,
+            "updated_at": null,
+            "units": null,
+            "course": {
+                "course_code": "ASYS 110",
+                "course_id": 1102,
+                "title": "Organic Agriculture",
+                "type": "NA",
+                "is_academic": true,
+                "is_multiple_enrollment": false,
+                "is_repeatable": false,
+                "course_code_title": "ASYS 110 - Organic Agriculture",
+                "acad_orgs": [
+                    "LBASI"
+                ],
+                "acad_groups": [
+                    "CAFS"
+                ]
+            }
+        },
+        {
+            "id": 2807,
+            "curriculum_id": 35,
+            "course_id": 1103,
+            "year": "0",
+            "sem": "0",
+            "description": "",
+            "course_type": "SPECIALIZED",
+            "sub_type": "--",
+            "group_id": null,
+            "created_at": null,
+            "updated_at": null,
+            "units": null,
+            "course": {
+                "course_code": "ASYS 120",
+                "course_id": 1103,
+                "title": "Crop-Animal Systems",
+                "type": "NA",
+                "is_academic": true,
+                "is_multiple_enrollment": false,
+                "is_repeatable": false,
+                "course_code_title": "ASYS 120 - Crop-Animal Systems",
+                "acad_orgs": [
+                    "LBASI"
+                ],
+                "acad_groups": [
+                    "CAFS"
+                ]
+            },
+            "prerequisites": "CRSC 1 and ANSC 1"
+        },
+        {
+            "id": 2808,
+            "curriculum_id": 35,
+            "course_id": 1106,
+            "year": "0",
+            "sem": "0",
+            "description": "",
+            "course_type": "SPECIALIZED",
+            "sub_type": "--",
+            "group_id": null,
+            "created_at": null,
+            "updated_at": null,
+            "units": null,
+            "course": {
+                "course_code": "ASYS 146",
+                "course_id": 1106,
+                "title": "Agricultural Systems Analysis and Modeling",
+                "type": "NA",
+                "is_academic": true,
+                "is_multiple_enrollment": false,
+                "is_repeatable": false,
+                "course_code_title": "ASYS 146 - Agricultural Systems Analysis and Modeling",
+                "acad_orgs": [
+                    "LBASI"
+                ],
+                "acad_groups": [
+                    "CAFS"
+                ]
+            },
+            "prerequisites": "CRSC\n1 and ANSC 1"
+        },
+        {
+            "id": 2809,
+            "curriculum_id": 35,
+            "course_id": 1138,
+            "year": "0",
+            "sem": "0",
+            "description": "",
+            "course_type": "SPECIALIZED",
+            "sub_type": "--",
+            "group_id": null,
+            "created_at": null,
+            "updated_at": null,
+            "units": null,
+            "course": {
+                "course_code": "SOIL 170",
+                "course_id": 1138,
+                "title": "Soil Conservation and Management",
+                "type": "NA",
+                "is_academic": true,
+                "is_multiple_enrollment": false,
+                "is_repeatable": false,
+                "course_code_title": "SOIL 170 - Soil Conservation and Management",
+                "acad_orgs": [
+                    "LBASI"
+                ],
+                "acad_groups": [
+                    "CAFS"
+                ]
+            },
+            "prerequisites": "SOIL 1 or COI"
+        },
+        {
+            "id": 2810,
+            "curriculum_id": 35,
+            "course_id": 1104,
+            "year": "0",
+            "sem": "0",
+            "description": "",
+            "course_type": "ELECTIVE",
+            "sub_type": "--",
+            "group_id": null,
+            "created_at": null,
+            "updated_at": null,
+            "units": null,
+            "course": {
+                "course_code": "ASYS 130",
+                "course_id": 1104,
+                "title": "Sustainable Management of Organic Agricultural Systems",
+                "type": "NA",
+                "is_academic": true,
+                "is_multiple_enrollment": false,
+                "is_repeatable": false,
+                "course_code_title": "ASYS 130 - Sustainable Management of Organic Agricultural Systems",
+                "acad_orgs": [
+                    "LBASI"
+                ],
+                "acad_groups": [
+                    "CAFS"
+                ]
+            }
+        },
+        {
+            "id": 2811,
+            "curriculum_id": 35,
+            "course_id": 1137,
+            "year": "0",
+            "sem": "0",
+            "description": "",
+            "course_type": "ELECTIVE",
+            "sub_type": "--",
+            "group_id": null,
+            "created_at": null,
+            "updated_at": null,
+            "units": null,
+            "course": {
+                "course_code": "SOIL 161",
+                "course_id": 1137,
+                "title": "Spatial Analysis and Soil Mapping",
+                "type": "NA",
+                "is_academic": true,
+                "is_multiple_enrollment": false,
+                "is_repeatable": false,
+                "course_code_title": "SOIL 161 - Spatial Analysis and Soil Mapping",
+                "acad_orgs": [
+                    "LBASI"
+                ],
+                "acad_groups": [
+                    "CAFS"
+                ]
+            }
+        },
+        {
+            "id": 2812,
+            "curriculum_id": 35,
+            "course_id": 1205,
+            "year": "0",
+            "sem": "0",
+            "description": "",
+            "course_type": "ELECTIVE",
+            "sub_type": "--",
+            "group_id": null,
+            "created_at": null,
+            "updated_at": null,
+            "units": null,
+            "course": {
+                "course_code": "CRSC 102",
+                "course_id": 1205,
+                "title": "Tropical Perennial Crops Production and Management",
+                "type": "NA",
+                "is_academic": true,
+                "is_multiple_enrollment": false,
+                "is_repeatable": false,
+                "course_code_title": "CRSC 102 - Tropical Perennial Crops Production and Management",
+                "acad_orgs": [
+                    "LBICROPS"
+                ],
+                "acad_groups": [
+                    "CAFS"
+                ]
+            }
+        },
+        {
+            "id": 2747,
+            "curriculum_id": 35,
+            "course_id": 720,
+            "year": "1",
+            "sem": "1",
+            "description": "",
+            "course_type": "REQUIRED",
+            "sub_type": "--",
+            "group_id": null,
+            "created_at": null,
+            "updated_at": null,
+            "units": null,
+            "course": {
+                "course_code": "ARTS 1",
+                "course_id": 720,
+                "title": "(GE). Critical Perspectives in the Arts",
+                "type": "NA",
+                "is_academic": true,
+                "is_multiple_enrollment": false,
+                "is_repeatable": false,
+                "course_code_title": "ARTS 1 - (GE). Critical Perspectives in the Arts",
+                "acad_orgs": [
+                    "LBDHUM"
+                ],
+                "acad_groups": [
+                    "CAS"
+                ]
+            }
+        },
+        {
+            "id": 2748,
+            "curriculum_id": 35,
+            "course_id": 841,
+            "year": "1",
+            "sem": "1",
+            "description": "",
+            "course_type": "REQUIRED",
+            "sub_type": "--",
+            "group_id": null,
+            "created_at": null,
+            "updated_at": null,
+            "units": null,
+            "course": {
+                "course_code": "STS 1",
+                "course_id": 841,
+                "title": "(GE). Science, Technology, and Society",
+                "type": "NA",
+                "is_academic": true,
+                "is_multiple_enrollment": false,
+                "is_repeatable": false,
+                "course_code_title": "STS 1 - (GE). Science, Technology, and Society",
+                "acad_orgs": [
+                    "LBDSS"
+                ],
+                "acad_groups": [
+                    "CAS"
+                ]
+            }
+        },
+        {
+            "id": 2756,
+            "curriculum_id": 35,
+            "course_id": 745,
+            "year": "1",
+            "sem": "2",
+            "description": "",
+            "course_type": "REQUIRED",
+            "sub_type": "--",
+            "group_id": null,
+            "created_at": null,
+            "updated_at": null,
+            "units": null,
+            "course": {
+                "course_code": "ETHICS 1",
+                "course_id": 745,
+                "title": "(GE). Ethics and Moral Reasoning in Everyday Life",
+                "type": "NA",
+                "is_academic": true,
+                "is_multiple_enrollment": false,
+                "is_repeatable": false,
+                "course_code_title": "ETHICS 1 - (GE). Ethics and Moral Reasoning in Everyday Life",
+                "acad_orgs": [
+                    "LBDHUM"
+                ],
+                "acad_groups": [
+                    "CAS"
+                ]
+            }
+        },
+        {
+            "id": 2792,
+            "curriculum_id": 35,
+            "course_id": 721,
+            "year": "4",
+            "sem": "1",
+            "description": "",
+            "course_type": "REQUIRED",
+            "sub_type": "--",
+            "group_id": null,
+            "created_at": null,
+            "updated_at": null,
+            "units": null,
+            "course": {
+                "course_code": "COMM 10",
+                "course_id": 721,
+                "title": "(GE). Critical Perspectives in Communication",
+                "type": "NA",
+                "is_academic": true,
+                "is_multiple_enrollment": false,
+                "is_repeatable": false,
+                "course_code_title": "COMM 10 - (GE). Critical Perspectives in Communication",
+                "acad_orgs": [
+                    "LBDHUM"
+                ],
+                "acad_groups": [
+                    "CDC"
+                ]
+            }
+        },
+        {
+            "id": 2813,
+            "curriculum_id": 35,
+            "course_id": 1098,
+            "year": "0",
+            "sem": "0",
+            "description": "",
+            "course_type": "ELECTIVE",
+            "sub_type": "--",
+            "group_id": null,
+            "created_at": null,
+            "updated_at": null,
+            "units": null,
+            "course": {
+                "course_code": "AGRI 161",
+                "course_id": 1098,
+                "title": "Introduction to Innovation and Entrepreneurship in Agriculture",
+                "type": "NA",
+                "is_academic": true,
+                "is_multiple_enrollment": false,
+                "is_repeatable": false,
+                "course_code_title": "AGRI 161 - Introduction to Innovation and Entrepreneurship in Agriculture",
+                "acad_orgs": [
+                    "LBASI"
+                ],
+                "acad_groups": [
+                    "CAFS"
+                ]
+            }
+        },
+        {
+            "id": 2814,
+            "curriculum_id": 35,
+            "course_id": 1187,
+            "year": "0",
+            "sem": "0",
+            "description": "",
+            "course_type": "ELECTIVE",
+            "sub_type": "--",
+            "group_id": null,
+            "created_at": null,
+            "updated_at": null,
+            "units": null,
+            "course": {
+                "course_code": "AGRI 171",
+                "course_id": 1187,
+                "title": "Ethics, Laws and Policies in Agriculture",
+                "type": "NA",
+                "is_academic": true,
+                "is_multiple_enrollment": false,
+                "is_repeatable": false,
+                "course_code_title": "AGRI 171 - Ethics, Laws and Policies in Agriculture",
+                "acad_orgs": [
+                    "LBICROPS"
+                ],
+                "acad_groups": [
+                    "CAFS"
+                ]
+            }
+        },
+        {
+            "id": 2815,
+            "curriculum_id": 35,
+            "course_id": 2296,
+            "year": "0",
+            "sem": "0",
+            "description": "",
+            "course_type": "ELECTIVE",
+            "sub_type": "--",
+            "group_id": null,
+            "created_at": null,
+            "updated_at": null,
+            "units": null,
+            "course": {
+                "course_code": "HORT 20",
+                "course_id": 2296,
+                "title": "Principles of Vegetable Production",
+                "type": "NA",
+                "is_academic": true,
+                "is_multiple_enrollment": false,
+                "is_repeatable": false,
+                "course_code_title": "HORT 20 - Principles of Vegetable Production",
+                "acad_orgs": [
+                    "LBICROPS"
+                ],
+                "acad_groups": [
+                    "CAFS"
+                ]
+            },
+            "prerequisites": "CRSC 1 and CRSC 2"
+        },
+        {
+            "id": 2754,
+            "curriculum_id": 35,
+            "course_id": 821,
+            "year": "1",
+            "sem": "2",
+            "description": "",
+            "course_type": "REQUIRED",
+            "sub_type": "--",
+            "group_id": 1,
+            "created_at": null,
+            "updated_at": null,
+            "units": null,
+            "course": {
+                "course_code": "KAS 1",
+                "course_id": 821,
+                "title": "(GE). Kasaysayan ng Pilipinas",
+                "type": "NA",
+                "is_academic": true,
+                "is_multiple_enrollment": false,
+                "is_repeatable": false,
+                "course_code_title": "KAS 1 - (GE). Kasaysayan ng Pilipinas",
+                "acad_orgs": [
+                    "LBDSS"
+                ],
+                "acad_groups": [
+                    "CAS"
+                ]
+            }
+        },
+        {
+            "id": 2773,
+            "curriculum_id": 35,
+            "course_id": 814,
+            "year": "2",
+            "sem": "2",
+            "description": "",
+            "course_type": "REQUIRED",
+            "sub_type": "--",
+            "group_id": 1,
+            "created_at": null,
+            "updated_at": null,
+            "units": 2,
+            "course": {
+                "course_code": "HK 12",
+                "course_id": 814,
+                "title": "Human Kinetics Activities",
+                "type": "NA",
+                "is_academic": false,
+                "is_multiple_enrollment": true,
+                "is_repeatable": true,
+                "course_code_title": "HK 12 - Human Kinetics Activities",
+                "acad_orgs": [
+                    "LBDHK"
+                ],
+                "acad_groups": [
+                    "CAS"
+                ]
+            }
+        }
+    ],
+    "curriculum_structures": [
+        {
+            "curriculum_id": 35,
+            "year": "1",
+            "sem": "1",
+            "major_units": 0,
+            "ge_elective_units": 0,
+            "required_units": 0,
+            "elective_units": 0,
+            "cognate_units": 0,
+            "specialized_units": 0,
+            "track_units": 0,
+            "total_units": 0,
+            "major_count": 0,
+            "ge_elective_count": 0,
+            "required_count": 7,
+            "elective_count": 0,
+            "cognate_count": 0,
+            "specialized_count": 0,
+            "track_count": 0,
+            "total_count": 7,
+            "created_at": null,
+            "updated_at": null
+        },
+        {
+            "curriculum_id": 35,
+            "year": "1",
+            "sem": "2",
+            "major_units": 0,
+            "ge_elective_units": 0,
+            "required_units": 0,
+            "elective_units": 0,
+            "cognate_units": 0,
+            "specialized_units": 0,
+            "track_units": 0,
+            "total_units": 0,
+            "major_count": 0,
+            "ge_elective_count": 0,
+            "required_count": 6,
+            "elective_count": 0,
+            "cognate_count": 0,
+            "specialized_count": 0,
+            "track_count": 0,
+            "total_count": 6,
+            "created_at": null,
+            "updated_at": null
+        },
+        {
+            "curriculum_id": 35,
+            "year": "2",
+            "sem": "1",
+            "major_units": 0,
+            "ge_elective_units": 0,
+            "required_units": 0,
+            "elective_units": 0,
+            "cognate_units": 0,
+            "specialized_units": 0,
+            "track_units": 0,
+            "total_units": 0,
+            "major_count": 0,
+            "ge_elective_count": 1,
+            "required_count": 5,
+            "elective_count": 0,
+            "cognate_count": 0,
+            "specialized_count": 0,
+            "track_count": 0,
+            "total_count": 6,
+            "created_at": null,
+            "updated_at": null
+        },
+        {
+            "curriculum_id": 35,
+            "year": "2",
+            "sem": "2",
+            "major_units": 0,
+            "ge_elective_units": 0,
+            "required_units": 0,
+            "elective_units": 0,
+            "cognate_units": 0,
+            "specialized_units": 0,
+            "track_units": 0,
+            "total_units": 0,
+            "major_count": 0,
+            "ge_elective_count": 1,
+            "required_count": 6,
+            "elective_count": 0,
+            "cognate_count": 0,
+            "specialized_count": 0,
+            "track_count": 0,
+            "total_count": 7,
+            "created_at": null,
+            "updated_at": null
+        },
+        {
+            "curriculum_id": 35,
+            "year": "3",
+            "sem": "1",
+            "major_units": 0,
+            "ge_elective_units": 0,
+            "required_units": 0,
+            "elective_units": 0,
+            "cognate_units": 0,
+            "specialized_units": 0,
+            "track_units": 0,
+            "total_units": 0,
+            "major_count": 0,
+            "ge_elective_count": 1,
+            "required_count": 5,
+            "elective_count": 0,
+            "cognate_count": 0,
+            "specialized_count": 0,
+            "track_count": 0,
+            "total_count": 6,
+            "created_at": null,
+            "updated_at": null
+        },
+        {
+            "curriculum_id": 35,
+            "year": "3",
+            "sem": "2",
+            "major_units": 0,
+            "ge_elective_units": 0,
+            "required_units": 0,
+            "elective_units": 0,
+            "cognate_units": 0,
+            "specialized_units": 0,
+            "track_units": 0,
+            "total_units": 0,
+            "major_count": 0,
+            "ge_elective_count": 0,
+            "required_count": 5,
+            "elective_count": 0,
+            "cognate_count": 0,
+            "specialized_count": 1,
+            "track_count": 0,
+            "total_count": 6,
+            "created_at": null,
+            "updated_at": null
+        },
+        {
+            "curriculum_id": 35,
+            "year": "3",
+            "sem": "3",
+            "major_units": 0,
+            "ge_elective_units": 0,
+            "required_units": 0,
+            "elective_units": 0,
+            "cognate_units": 0,
+            "specialized_units": 0,
+            "track_units": 0,
+            "total_units": 0,
+            "major_count": 0,
+            "ge_elective_count": 0,
+            "required_count": 1,
+            "elective_count": 0,
+            "cognate_count": 0,
+            "specialized_count": 0,
+            "track_count": 0,
+            "total_count": 1,
+            "created_at": null,
+            "updated_at": null
+        },
+        {
+            "curriculum_id": 35,
+            "year": "4",
+            "sem": "1",
+            "major_units": 0,
+            "ge_elective_units": 0,
+            "required_units": 0,
+            "elective_units": 0,
+            "cognate_units": 0,
+            "specialized_units": 0,
+            "track_units": 0,
+            "total_units": 0,
+            "major_count": 0,
+            "ge_elective_count": 0,
+            "required_count": 7,
+            "elective_count": 0,
+            "cognate_count": 0,
+            "specialized_count": 0,
+            "track_count": 0,
+            "total_count": 7,
+            "created_at": null,
+            "updated_at": null
+        },
+        {
+            "curriculum_id": 35,
+            "year": "4",
+            "sem": "2",
+            "major_units": 0,
+            "ge_elective_units": 0,
+            "required_units": 0,
+            "elective_units": 0,
+            "cognate_units": 0,
+            "specialized_units": 0,
+            "track_units": 0,
+            "total_units": 0,
+            "major_count": 0,
+            "ge_elective_count": 0,
+            "required_count": 1,
+            "elective_count": 1,
+            "cognate_count": 0,
+            "specialized_count": 3,
+            "track_count": 0,
+            "total_count": 5,
+            "created_at": null,
+            "updated_at": null
+        }
+    ],
+    "curriculum_courses_list": [],
+    "curriculum_components": [],
+    "number_of_required_mentors": []
+}

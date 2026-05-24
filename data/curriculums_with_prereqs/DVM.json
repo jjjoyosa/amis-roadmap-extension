@@ -1,0 +1,2736 @@
+{
+    "curriculum_id": 140,
+    "code": "DVM_2018",
+    "program_id": 28,
+    "name": "DVM 2018",
+    "type": null,
+    "status": "ACTIVE",
+    "acad_org": null,
+    "acad_group": null,
+    "created_at": null,
+    "updated_at": null,
+    "is_visible": "true",
+    "course_work_guide": null,
+    "approved_by": null,
+    "date_approved": null,
+    "program": {
+        "program_id": 28,
+        "acronym": "DVM",
+        "title": "Doctor of Veterinary Medicine",
+        "career": "UGRD",
+        "college": "CVM",
+        "description": "The College offers a six-year Doctor of Veterinary Medicine (DVM) program with 27 units of General Education (GE) courses taken in the College of Arts and Sciences, 21 units of foundation courses, and 173 units of core courses. The core courses are structured to provide an ever-increasing aptitude in the veterinary sciences to the students as they progress through the program. The core courses of the DVM program are offered by the three departments of the CVM, namely, the Department of Basic Veterinary Sciences, the Department of Veterinary Paraclinical Sciences, and the Department of Veterinary Clinical Sciences. The students acquire both theoretical knowledge and practical experience in animal production and in the diagnosis, prevention, treatment and control of diseases in companion, exotic and farm animals.",
+        "degree_id": 1,
+        "created_at": null,
+        "updated_at": null,
+        "max_units": 21,
+        "is_visible": "YES",
+        "term_type_offer": "Semestral",
+        "acad_org": null
+    },
+    "curriculum_courses": [
+        {
+            "id": 9433,
+            "curriculum_id": 140,
+            "course_id": 2642,
+            "year": "1",
+            "sem": "1",
+            "description": "",
+            "course_type": "REQUIRED",
+            "sub_type": "--",
+            "group_id": null,
+            "created_at": null,
+            "updated_at": null,
+            "units": null,
+            "course": {
+                "course_code": "HIST 1",
+                "course_id": 2642,
+                "title": "(GE). Philippine History",
+                "type": "NA",
+                "is_academic": true,
+                "is_multiple_enrollment": false,
+                "is_repeatable": false,
+                "course_code_title": "HIST 1 - (GE). Philippine History",
+                "acad_orgs": [
+                    "LBDSS"
+                ],
+                "acad_groups": [
+                    "CAS"
+                ]
+            }
+        },
+        {
+            "id": 9434,
+            "curriculum_id": 140,
+            "course_id": 828,
+            "year": "1",
+            "sem": "1",
+            "description": "",
+            "course_type": "REQUIRED",
+            "sub_type": "--",
+            "group_id": null,
+            "created_at": null,
+            "updated_at": null,
+            "units": null,
+            "course": {
+                "course_code": "PI 10",
+                "course_id": 828,
+                "title": "(GE). The Life and Works of Rizal",
+                "type": "NA",
+                "is_academic": true,
+                "is_multiple_enrollment": false,
+                "is_repeatable": false,
+                "course_code_title": "PI 10 - (GE). The Life and Works of Rizal",
+                "acad_orgs": [
+                    "LBDSS"
+                ],
+                "acad_groups": [
+                    "CAS"
+                ]
+            }
+        },
+        {
+            "id": 9435,
+            "curriculum_id": 140,
+            "course_id": 35,
+            "year": "1",
+            "sem": "1",
+            "description": "",
+            "course_type": "REQUIRED",
+            "sub_type": "--",
+            "group_id": null,
+            "created_at": null,
+            "updated_at": null,
+            "units": null,
+            "course": {
+                "course_code": "VMED 101",
+                "course_id": 35,
+                "title": "Animal Welfare",
+                "type": "NA",
+                "is_academic": true,
+                "is_multiple_enrollment": false,
+                "is_repeatable": false,
+                "course_code_title": "VMED 101 - Animal Welfare",
+                "acad_orgs": [
+                    "LBDBVS"
+                ],
+                "acad_groups": [
+                    "CVM"
+                ]
+            }
+        },
+        {
+            "id": 9436,
+            "curriculum_id": 140,
+            "course_id": 492,
+            "year": "1",
+            "sem": "1",
+            "description": "",
+            "course_type": "REQUIRED",
+            "sub_type": "--",
+            "group_id": null,
+            "created_at": null,
+            "updated_at": null,
+            "units": null,
+            "course": {
+                "course_code": "CHEM 18",
+                "course_id": 492,
+                "title": "University Chemistry",
+                "type": "NA",
+                "is_academic": true,
+                "is_multiple_enrollment": false,
+                "is_repeatable": false,
+                "course_code_title": "CHEM 18 - University Chemistry",
+                "acad_orgs": [
+                    "LBIC"
+                ],
+                "acad_groups": [
+                    "CAS"
+                ]
+            }
+        },
+        {
+            "id": 9437,
+            "curriculum_id": 140,
+            "course_id": 493,
+            "year": "1",
+            "sem": "1",
+            "description": "",
+            "course_type": "REQUIRED",
+            "sub_type": "--",
+            "group_id": null,
+            "created_at": null,
+            "updated_at": null,
+            "units": null,
+            "course": {
+                "course_code": "CHEM 18.1",
+                "course_id": 493,
+                "title": "University Chemistry Laboratory",
+                "type": "NA",
+                "is_academic": true,
+                "is_multiple_enrollment": false,
+                "is_repeatable": false,
+                "course_code_title": "CHEM 18.1 - University Chemistry Laboratory",
+                "acad_orgs": [
+                    "LBIC"
+                ],
+                "acad_groups": [
+                    "CAS"
+                ]
+            }
+        },
+        {
+            "id": 9438,
+            "curriculum_id": 140,
+            "course_id": 3107,
+            "year": "1",
+            "sem": "1",
+            "description": "",
+            "course_type": "REQUIRED",
+            "sub_type": "--",
+            "group_id": null,
+            "created_at": null,
+            "updated_at": null,
+            "units": 3,
+            "course": {
+                "course_code": "NSTP 1",
+                "course_id": 3107,
+                "title": "National Service Training Program I",
+                "type": "NA",
+                "is_academic": false,
+                "is_multiple_enrollment": true,
+                "is_repeatable": true,
+                "course_code_title": "NSTP 1 - National Service Training Program I",
+                "acad_orgs": [
+                    "LBASI",
+                    "LBDAAE",
+                    "LBDAME",
+                    "LBDBVS",
+                    "LBDCE",
+                    "LBDCERP",
+                    "LBDCHE",
+                    "LBDDBT",
+                    "LBDDJ",
+                    "LBDEC",
+                    "LBDEE",
+                    "LBDENSC",
+                    "LBDFBS",
+                    "LBDFPPS",
+                    "LBDHFDS",
+                    "LBDIE",
+                    "LBDME",
+                    "LBDMST",
+                    "LBDSC",
+                    "LBDSDS",
+                    "LBDSFFG",
+                    "LBDVCS",
+                    "LBDVPS",
+                    "LBIABE",
+                    "LBIAS",
+                    "LBICOPED",
+                    "LBIHNF",
+                    "LBIRNR",
+                    "LBOVCCA"
+                ],
+                "acad_groups": [
+                    "CAFS",
+                    "CAS",
+                    "CEAT",
+                    "CEM",
+                    "CHE",
+                    "CVM"
+                ]
+            }
+        },
+        {
+            "id": 9439,
+            "curriculum_id": 140,
+            "course_id": 813,
+            "year": "1",
+            "sem": "1",
+            "description": "",
+            "course_type": "REQUIRED",
+            "sub_type": "--",
+            "group_id": null,
+            "created_at": null,
+            "updated_at": null,
+            "units": 2,
+            "course": {
+                "course_code": "HK 11",
+                "course_id": 813,
+                "title": "Wellness and Basic Injury Management",
+                "type": "NA",
+                "is_academic": false,
+                "is_multiple_enrollment": false,
+                "is_repeatable": false,
+                "course_code_title": "HK 11 - Wellness and Basic Injury Management",
+                "acad_orgs": [
+                    "LBDHK"
+                ],
+                "acad_groups": [
+                    "CAS"
+                ]
+            }
+        },
+        {
+            "id": 9442,
+            "curriculum_id": 140,
+            "course_id": 497,
+            "year": "1",
+            "sem": "2",
+            "description": "",
+            "course_type": "REQUIRED",
+            "sub_type": "--",
+            "group_id": null,
+            "created_at": null,
+            "updated_at": null,
+            "units": null,
+            "course": {
+                "course_code": "CHEM 40",
+                "course_id": 497,
+                "title": "Basic Organic Chemistry",
+                "type": "NA",
+                "is_academic": true,
+                "is_multiple_enrollment": false,
+                "is_repeatable": false,
+                "course_code_title": "CHEM 40 - Basic Organic Chemistry",
+                "acad_orgs": [
+                    "LBIC"
+                ],
+                "acad_groups": [
+                    "CAS"
+                ]
+            },
+            "prerequisites": "BIO 101"
+        },
+        {
+            "id": 9443,
+            "curriculum_id": 140,
+            "course_id": 498,
+            "year": "1",
+            "sem": "2",
+            "description": "",
+            "course_type": "REQUIRED",
+            "sub_type": "--",
+            "group_id": null,
+            "created_at": null,
+            "updated_at": null,
+            "units": null,
+            "course": {
+                "course_code": "CHEM 40.1",
+                "course_id": 498,
+                "title": "Basic Organic Chemistry Laboratory",
+                "type": "NA",
+                "is_academic": true,
+                "is_multiple_enrollment": false,
+                "is_repeatable": false,
+                "course_code_title": "CHEM 40.1 - Basic Organic Chemistry Laboratory",
+                "acad_orgs": [
+                    "LBIC"
+                ],
+                "acad_groups": [
+                    "CAS"
+                ]
+            }
+        },
+        {
+            "id": 9444,
+            "curriculum_id": 140,
+            "course_id": 704,
+            "year": "1",
+            "sem": "2",
+            "description": "",
+            "course_type": "REQUIRED",
+            "sub_type": "--",
+            "group_id": null,
+            "created_at": null,
+            "updated_at": null,
+            "units": null,
+            "course": {
+                "course_code": "STAT 164",
+                "course_id": 704,
+                "title": "Statistics for the Biological Sciences",
+                "type": "NA",
+                "is_academic": true,
+                "is_multiple_enrollment": false,
+                "is_repeatable": false,
+                "course_code_title": "STAT 164 - Statistics for the Biological Sciences",
+                "acad_orgs": [
+                    "LBINSTAT"
+                ],
+                "acad_groups": [
+                    "CAS"
+                ]
+            },
+            "prerequisites": "STAT 1"
+        },
+        {
+            "id": 9445,
+            "curriculum_id": 140,
+            "course_id": 12,
+            "year": "1",
+            "sem": "2",
+            "description": "",
+            "course_type": "REQUIRED",
+            "sub_type": "--",
+            "group_id": null,
+            "created_at": null,
+            "updated_at": null,
+            "units": null,
+            "course": {
+                "course_code": "ZOTC 111",
+                "course_id": 12,
+                "title": "General Principles of Animal Production",
+                "type": "NA",
+                "is_academic": true,
+                "is_multiple_enrollment": false,
+                "is_repeatable": false,
+                "course_code_title": "ZOTC 111 - General Principles of Animal Production",
+                "acad_orgs": [
+                    "LBDBVS"
+                ],
+                "acad_groups": [
+                    "CVM"
+                ]
+            },
+            "prerequisites": "ZOTC 111"
+        },
+        {
+            "id": 9446,
+            "curriculum_id": 140,
+            "course_id": 2055,
+            "year": "1",
+            "sem": "2",
+            "description": "",
+            "course_type": "REQUIRED",
+            "sub_type": "--",
+            "group_id": null,
+            "created_at": null,
+            "updated_at": null,
+            "units": 3,
+            "course": {
+                "course_code": "NSTP 2",
+                "course_id": 2055,
+                "title": "National Service Training Program II",
+                "type": "NA",
+                "is_academic": false,
+                "is_multiple_enrollment": true,
+                "is_repeatable": true,
+                "course_code_title": "NSTP 2 - National Service Training Program II",
+                "acad_orgs": [
+                    "LBASI",
+                    "LBDAAE",
+                    "LBDAECO",
+                    "LBDAME",
+                    "LBDBVS",
+                    "LBDCE",
+                    "LBDCERP",
+                    "LBDCHE",
+                    "LBDDBT",
+                    "LBDDJ",
+                    "LBDE",
+                    "LBDEC",
+                    "LBDECO",
+                    "LBDEE",
+                    "LBDENSC",
+                    "LBDFBS",
+                    "LBDFPPS",
+                    "LBDHFDS",
+                    "LBDIE",
+                    "LBDME",
+                    "LBDMST",
+                    "LBDSC",
+                    "LBDSDS",
+                    "LBDSFFG",
+                    "LBDVCS",
+                    "LBDVPS",
+                    "LBIABE",
+                    "LBICOPED",
+                    "LBIHNF",
+                    "LBIRNR",
+                    "LBOVCCA"
+                ],
+                "acad_groups": [
+                    "CAFS",
+                    "CAS",
+                    "CEAT",
+                    "CEM",
+                    "CHE",
+                    "CVM"
+                ]
+            }
+        },
+        {
+            "id": 9447,
+            "curriculum_id": 140,
+            "course_id": 814,
+            "year": "1",
+            "sem": "2",
+            "description": "",
+            "course_type": "REQUIRED",
+            "sub_type": "--",
+            "group_id": null,
+            "created_at": null,
+            "updated_at": null,
+            "units": 2,
+            "course": {
+                "course_code": "HK 12",
+                "course_id": 814,
+                "title": "Human Kinetics Activities",
+                "type": "NA",
+                "is_academic": false,
+                "is_multiple_enrollment": true,
+                "is_repeatable": true,
+                "course_code_title": "HK 12 - Human Kinetics Activities",
+                "acad_orgs": [
+                    "LBDHK"
+                ],
+                "acad_groups": [
+                    "CAS"
+                ]
+            }
+        },
+        {
+            "id": 9448,
+            "curriculum_id": 140,
+            "course_id": 294,
+            "year": "2",
+            "sem": "1",
+            "description": "",
+            "course_type": "REQUIRED",
+            "sub_type": "--",
+            "group_id": null,
+            "created_at": null,
+            "updated_at": null,
+            "units": null,
+            "course": {
+                "course_code": "ABME 10",
+                "course_id": 294,
+                "title": "Foundations of Entrepreneurship",
+                "type": "NA",
+                "is_academic": true,
+                "is_multiple_enrollment": false,
+                "is_repeatable": false,
+                "course_code_title": "ABME 10 - Foundations of Entrepreneurship",
+                "acad_orgs": [
+                    "LBDAME"
+                ],
+                "acad_groups": [
+                    "CEM"
+                ]
+            }
+        },
+        {
+            "id": 9449,
+            "curriculum_id": 140,
+            "course_id": 13,
+            "year": "2",
+            "sem": "1",
+            "description": "",
+            "course_type": "REQUIRED",
+            "sub_type": "--",
+            "group_id": null,
+            "created_at": null,
+            "updated_at": null,
+            "units": null,
+            "course": {
+                "course_code": "ZOTC 112",
+                "course_id": 13,
+                "title": "Principles of Animal Breeding",
+                "type": "NA",
+                "is_academic": true,
+                "is_multiple_enrollment": false,
+                "is_repeatable": false,
+                "course_code_title": "ZOTC 112 - Principles of Animal Breeding",
+                "acad_orgs": [
+                    "LBDBVS"
+                ],
+                "acad_groups": [
+                    "CVM"
+                ]
+            }
+        },
+        {
+            "id": 9450,
+            "curriculum_id": 140,
+            "course_id": 518,
+            "year": "2",
+            "sem": "1",
+            "description": "",
+            "course_type": "REQUIRED",
+            "sub_type": "--",
+            "group_id": null,
+            "created_at": null,
+            "updated_at": null,
+            "units": null,
+            "course": {
+                "course_code": "CHEM 160",
+                "course_id": 518,
+                "title": "Introductory Biochemistry",
+                "type": "NA",
+                "is_academic": true,
+                "is_multiple_enrollment": false,
+                "is_repeatable": false,
+                "course_code_title": "CHEM 160 - Introductory Biochemistry",
+                "acad_orgs": [
+                    "LBIC"
+                ],
+                "acad_groups": [
+                    "CAS"
+                ]
+            },
+            "prerequisites": "CHEM 40 and CHEM 40"
+        },
+        {
+            "id": 9451,
+            "curriculum_id": 140,
+            "course_id": 8,
+            "year": "2",
+            "sem": "1",
+            "description": "",
+            "course_type": "REQUIRED",
+            "sub_type": "--",
+            "group_id": null,
+            "created_at": null,
+            "updated_at": null,
+            "units": null,
+            "course": {
+                "course_code": "VPHY 140",
+                "course_id": 8,
+                "title": "Biochemical Aspects of Animal Processes",
+                "type": "NA",
+                "is_academic": true,
+                "is_multiple_enrollment": false,
+                "is_repeatable": false,
+                "course_code_title": "VPHY 140 - Biochemical Aspects of Animal Processes",
+                "acad_orgs": [
+                    "LBDBVS"
+                ],
+                "acad_groups": [
+                    "CVM"
+                ]
+            }
+        },
+        {
+            "id": 9452,
+            "curriculum_id": 140,
+            "course_id": 14,
+            "year": "2",
+            "sem": "1",
+            "description": "",
+            "course_type": "REQUIRED",
+            "sub_type": "--",
+            "group_id": null,
+            "created_at": null,
+            "updated_at": null,
+            "units": null,
+            "course": {
+                "course_code": "ZOTC 113",
+                "course_id": 14,
+                "title": "Principles of Animal Nutrition",
+                "type": "NA",
+                "is_academic": true,
+                "is_multiple_enrollment": false,
+                "is_repeatable": false,
+                "course_code_title": "ZOTC 113 - Principles of Animal Nutrition",
+                "acad_orgs": [
+                    "LBDBVS"
+                ],
+                "acad_groups": [
+                    "CVM"
+                ]
+            },
+            "prerequisites": "ZOTC 111"
+        },
+        {
+            "id": 9453,
+            "curriculum_id": 140,
+            "course_id": 814,
+            "year": "2",
+            "sem": "1",
+            "description": "",
+            "course_type": "REQUIRED",
+            "sub_type": "--",
+            "group_id": null,
+            "created_at": null,
+            "updated_at": null,
+            "units": 2,
+            "course": {
+                "course_code": "HK 12",
+                "course_id": 814,
+                "title": "Human Kinetics Activities",
+                "type": "NA",
+                "is_academic": false,
+                "is_multiple_enrollment": true,
+                "is_repeatable": true,
+                "course_code_title": "HK 12 - Human Kinetics Activities",
+                "acad_orgs": [
+                    "LBDHK"
+                ],
+                "acad_groups": [
+                    "CAS"
+                ]
+            }
+        },
+        {
+            "id": 9454,
+            "curriculum_id": 140,
+            "course_id": 815,
+            "year": "2",
+            "sem": "1",
+            "description": "",
+            "course_type": "REQUIRED",
+            "sub_type": "--",
+            "group_id": null,
+            "created_at": null,
+            "updated_at": null,
+            "units": 2,
+            "course": {
+                "course_code": "HK 13",
+                "course_id": 815,
+                "title": "Advanced Human Kinetics Activities",
+                "type": "NA",
+                "is_academic": false,
+                "is_multiple_enrollment": false,
+                "is_repeatable": false,
+                "course_code_title": "HK 13 - Advanced Human Kinetics Activities",
+                "acad_orgs": [],
+                "acad_groups": []
+            }
+        },
+        {
+            "id": 9456,
+            "curriculum_id": 140,
+            "course_id": 1,
+            "year": "2",
+            "sem": "2",
+            "description": "",
+            "course_type": "REQUIRED",
+            "sub_type": "--",
+            "group_id": null,
+            "created_at": null,
+            "updated_at": null,
+            "units": null,
+            "course": {
+                "course_code": "VETA 101",
+                "course_id": 1,
+                "title": "Macroscopic Anatomy I",
+                "type": "NA",
+                "is_academic": true,
+                "is_multiple_enrollment": false,
+                "is_repeatable": false,
+                "course_code_title": "VETA 101 - Macroscopic Anatomy I",
+                "acad_orgs": [
+                    "LBDBVS"
+                ],
+                "acad_groups": [
+                    "CVM"
+                ]
+            }
+        },
+        {
+            "id": 9457,
+            "curriculum_id": 140,
+            "course_id": 3,
+            "year": "2",
+            "sem": "2",
+            "description": "",
+            "course_type": "REQUIRED",
+            "sub_type": "--",
+            "group_id": null,
+            "created_at": null,
+            "updated_at": null,
+            "units": null,
+            "course": {
+                "course_code": "VETA 105",
+                "course_id": 3,
+                "title": "Microscopic and Developmental Anatomy I",
+                "type": "NA",
+                "is_academic": true,
+                "is_multiple_enrollment": false,
+                "is_repeatable": false,
+                "course_code_title": "VETA 105 - Microscopic and Developmental Anatomy I",
+                "acad_orgs": [
+                    "LBDBVS"
+                ],
+                "acad_groups": [
+                    "CVM"
+                ]
+            }
+        },
+        {
+            "id": 9458,
+            "curriculum_id": 140,
+            "course_id": 16,
+            "year": "2",
+            "sem": "2",
+            "description": "",
+            "course_type": "REQUIRED",
+            "sub_type": "--",
+            "group_id": null,
+            "created_at": null,
+            "updated_at": null,
+            "units": null,
+            "course": {
+                "course_code": "VMCB 121",
+                "course_id": 16,
+                "title": "General Microbiology",
+                "type": "NA",
+                "is_academic": true,
+                "is_multiple_enrollment": false,
+                "is_repeatable": false,
+                "course_code_title": "VMCB 121 - General Microbiology",
+                "acad_orgs": [
+                    "LBDVPS"
+                ],
+                "acad_groups": [
+                    "CVM"
+                ]
+            },
+            "prerequisites": "BOT 11 or COI"
+        },
+        {
+            "id": 9459,
+            "curriculum_id": 140,
+            "course_id": 9,
+            "year": "2",
+            "sem": "2",
+            "description": "",
+            "course_type": "REQUIRED",
+            "sub_type": "--",
+            "group_id": null,
+            "created_at": null,
+            "updated_at": null,
+            "units": null,
+            "course": {
+                "course_code": "VPHY 141",
+                "course_id": 9,
+                "title": "General Physiology",
+                "type": "NA",
+                "is_academic": true,
+                "is_multiple_enrollment": false,
+                "is_repeatable": false,
+                "course_code_title": "VPHY 141 - General Physiology",
+                "acad_orgs": [
+                    "LBDBVS"
+                ],
+                "acad_groups": [
+                    "CVM"
+                ]
+            },
+            "prerequisites": "CHEM 160, CHEM\n160"
+        },
+        {
+            "id": 9460,
+            "curriculum_id": 140,
+            "course_id": 814,
+            "year": "2",
+            "sem": "2",
+            "description": "",
+            "course_type": "REQUIRED",
+            "sub_type": "--",
+            "group_id": null,
+            "created_at": null,
+            "updated_at": null,
+            "units": 2,
+            "course": {
+                "course_code": "HK 12",
+                "course_id": 814,
+                "title": "Human Kinetics Activities",
+                "type": "NA",
+                "is_academic": false,
+                "is_multiple_enrollment": true,
+                "is_repeatable": true,
+                "course_code_title": "HK 12 - Human Kinetics Activities",
+                "acad_orgs": [
+                    "LBDHK"
+                ],
+                "acad_groups": [
+                    "CAS"
+                ]
+            }
+        },
+        {
+            "id": 9461,
+            "curriculum_id": 140,
+            "course_id": 815,
+            "year": "2",
+            "sem": "2",
+            "description": "",
+            "course_type": "REQUIRED",
+            "sub_type": "--",
+            "group_id": null,
+            "created_at": null,
+            "updated_at": null,
+            "units": 2,
+            "course": {
+                "course_code": "HK 13",
+                "course_id": 815,
+                "title": "Advanced Human Kinetics Activities",
+                "type": "NA",
+                "is_academic": false,
+                "is_multiple_enrollment": false,
+                "is_repeatable": false,
+                "course_code_title": "HK 13 - Advanced Human Kinetics Activities",
+                "acad_orgs": [],
+                "acad_groups": []
+            }
+        },
+        {
+            "id": 9462,
+            "curriculum_id": 140,
+            "course_id": 2,
+            "year": "3",
+            "sem": "1",
+            "description": "",
+            "course_type": "REQUIRED",
+            "sub_type": "--",
+            "group_id": null,
+            "created_at": null,
+            "updated_at": null,
+            "units": null,
+            "course": {
+                "course_code": "VETA 102",
+                "course_id": 2,
+                "title": "Macroscopic Anatomy II",
+                "type": "NA",
+                "is_academic": true,
+                "is_multiple_enrollment": false,
+                "is_repeatable": false,
+                "course_code_title": "VETA 102 - Macroscopic Anatomy II",
+                "acad_orgs": [
+                    "LBDBVS"
+                ],
+                "acad_groups": [
+                    "CVM"
+                ]
+            },
+            "prerequisites": "VETA 101 or COI"
+        },
+        {
+            "id": 9463,
+            "curriculum_id": 140,
+            "course_id": 4,
+            "year": "3",
+            "sem": "1",
+            "description": "",
+            "course_type": "REQUIRED",
+            "sub_type": "--",
+            "group_id": null,
+            "created_at": null,
+            "updated_at": null,
+            "units": null,
+            "course": {
+                "course_code": "VETA 106",
+                "course_id": 4,
+                "title": "Microscopic and Developmental Anatomy II",
+                "type": "NA",
+                "is_academic": true,
+                "is_multiple_enrollment": false,
+                "is_repeatable": false,
+                "course_code_title": "VETA 106 - Microscopic and Developmental Anatomy II",
+                "acad_orgs": [
+                    "LBDBVS"
+                ],
+                "acad_groups": [
+                    "CVM"
+                ]
+            }
+        },
+        {
+            "id": 9464,
+            "curriculum_id": 140,
+            "course_id": 17,
+            "year": "3",
+            "sem": "1",
+            "description": "",
+            "course_type": "REQUIRED",
+            "sub_type": "--",
+            "group_id": null,
+            "created_at": null,
+            "updated_at": null,
+            "units": null,
+            "course": {
+                "course_code": "VMCB 122",
+                "course_id": 17,
+                "title": "Veterinary Bacteriology and Mycology",
+                "type": "NA",
+                "is_academic": true,
+                "is_multiple_enrollment": true,
+                "is_repeatable": false,
+                "course_code_title": "VMCB 122 - Veterinary Bacteriology and Mycology",
+                "acad_orgs": [
+                    "LBDVPS"
+                ],
+                "acad_groups": [
+                    "CVM"
+                ]
+            },
+            "prerequisites": "VMCB\n121"
+        },
+        {
+            "id": 9465,
+            "curriculum_id": 140,
+            "course_id": 10,
+            "year": "3",
+            "sem": "1",
+            "description": "",
+            "course_type": "REQUIRED",
+            "sub_type": "--",
+            "group_id": null,
+            "created_at": null,
+            "updated_at": null,
+            "units": null,
+            "course": {
+                "course_code": "VPHY 142",
+                "course_id": 10,
+                "title": "Systemic Physiology",
+                "type": "NA",
+                "is_academic": true,
+                "is_multiple_enrollment": false,
+                "is_repeatable": false,
+                "course_code_title": "VPHY 142 - Systemic Physiology",
+                "acad_orgs": [
+                    "LBDBVS"
+                ],
+                "acad_groups": [
+                    "CVM"
+                ]
+            },
+            "prerequisites": "ZOTC 111"
+        },
+        {
+            "id": 9466,
+            "curriculum_id": 140,
+            "course_id": 49,
+            "year": "3",
+            "sem": "1",
+            "description": "",
+            "course_type": "REQUIRED",
+            "sub_type": "--",
+            "group_id": null,
+            "created_at": null,
+            "updated_at": null,
+            "units": null,
+            "course": {
+                "course_code": "ZOTC 114",
+                "course_id": 49,
+                "title": "Swine Production",
+                "type": "NA",
+                "is_academic": true,
+                "is_multiple_enrollment": false,
+                "is_repeatable": false,
+                "course_code_title": "ZOTC 114 - Swine Production",
+                "acad_orgs": [
+                    "LBDBVS"
+                ],
+                "acad_groups": [
+                    "CVM"
+                ]
+            },
+            "prerequisites": "ZOTC 111"
+        },
+        {
+            "id": 9467,
+            "curriculum_id": 140,
+            "course_id": 50,
+            "year": "3",
+            "sem": "1",
+            "description": "",
+            "course_type": "REQUIRED",
+            "sub_type": "--",
+            "group_id": null,
+            "created_at": null,
+            "updated_at": null,
+            "units": null,
+            "course": {
+                "course_code": "ZOTC 115",
+                "course_id": 50,
+                "title": "Ruminant Production",
+                "type": "NA",
+                "is_academic": true,
+                "is_multiple_enrollment": false,
+                "is_repeatable": false,
+                "course_code_title": "ZOTC 115 - Ruminant Production",
+                "acad_orgs": [
+                    "LBDBVS"
+                ],
+                "acad_groups": [
+                    "CVM"
+                ]
+            }
+        },
+        {
+            "id": 9468,
+            "curriculum_id": 140,
+            "course_id": 18,
+            "year": "3",
+            "sem": "2",
+            "description": "",
+            "course_type": "REQUIRED",
+            "sub_type": "--",
+            "group_id": null,
+            "created_at": null,
+            "updated_at": null,
+            "units": null,
+            "course": {
+                "course_code": "VMCB 123",
+                "course_id": 18,
+                "title": "Veterinary Virology",
+                "type": "NA",
+                "is_academic": true,
+                "is_multiple_enrollment": false,
+                "is_repeatable": false,
+                "course_code_title": "VMCB 123 - Veterinary Virology",
+                "acad_orgs": [
+                    "LBDVPS"
+                ],
+                "acad_groups": [
+                    "CVM"
+                ]
+            },
+            "prerequisites": "VMCB 121"
+        },
+        {
+            "id": 9469,
+            "curriculum_id": 140,
+            "course_id": 20,
+            "year": "3",
+            "sem": "2",
+            "description": "",
+            "course_type": "REQUIRED",
+            "sub_type": "--",
+            "group_id": null,
+            "created_at": null,
+            "updated_at": null,
+            "units": null,
+            "course": {
+                "course_code": "VPAR 131",
+                "course_id": 20,
+                "title": "Veterinary Entomology and Protozoology",
+                "type": "NA",
+                "is_academic": true,
+                "is_multiple_enrollment": false,
+                "is_repeatable": false,
+                "course_code_title": "VPAR 131 - Veterinary Entomology and Protozoology",
+                "acad_orgs": [
+                    "LBDVPS"
+                ],
+                "acad_groups": [
+                    "CVM"
+                ]
+            },
+            "prerequisites": "ZOO\n11 or COI"
+        },
+        {
+            "id": 9470,
+            "curriculum_id": 140,
+            "course_id": 6,
+            "year": "3",
+            "sem": "2",
+            "description": "",
+            "course_type": "REQUIRED",
+            "sub_type": "--",
+            "group_id": null,
+            "created_at": null,
+            "updated_at": null,
+            "units": null,
+            "course": {
+                "course_code": "VPHM 141",
+                "course_id": 6,
+                "title": "Pharmacology and Therapeutics I",
+                "type": "NA",
+                "is_academic": true,
+                "is_multiple_enrollment": false,
+                "is_repeatable": false,
+                "course_code_title": "VPHM 141 - Pharmacology and Therapeutics I",
+                "acad_orgs": [
+                    "LBDBVS"
+                ],
+                "acad_groups": [
+                    "CVM"
+                ]
+            },
+            "prerequisites": "VPHY 142"
+        },
+        {
+            "id": 9471,
+            "curriculum_id": 140,
+            "course_id": 22,
+            "year": "3",
+            "sem": "2",
+            "description": "",
+            "course_type": "REQUIRED",
+            "sub_type": "--",
+            "group_id": null,
+            "created_at": null,
+            "updated_at": null,
+            "units": null,
+            "course": {
+                "course_code": "VPTH 121",
+                "course_id": 22,
+                "title": "General Pathology",
+                "type": "NA",
+                "is_academic": true,
+                "is_multiple_enrollment": false,
+                "is_repeatable": false,
+                "course_code_title": "VPTH 121 - General Pathology",
+                "acad_orgs": [
+                    "LBDVPS"
+                ],
+                "acad_groups": [
+                    "CVM"
+                ]
+            },
+            "prerequisites": "VETA 104"
+        },
+        {
+            "id": 9472,
+            "curriculum_id": 140,
+            "course_id": 51,
+            "year": "3",
+            "sem": "2",
+            "description": "",
+            "course_type": "REQUIRED",
+            "sub_type": "--",
+            "group_id": null,
+            "created_at": null,
+            "updated_at": null,
+            "units": null,
+            "course": {
+                "course_code": "ZOTC 116",
+                "course_id": 51,
+                "title": "Poultry Production",
+                "type": "NA",
+                "is_academic": true,
+                "is_multiple_enrollment": false,
+                "is_repeatable": false,
+                "course_code_title": "ZOTC 116 - Poultry Production",
+                "acad_orgs": [
+                    "LBDBVS"
+                ],
+                "acad_groups": [
+                    "CVM"
+                ]
+            }
+        },
+        {
+            "id": 9473,
+            "curriculum_id": 140,
+            "course_id": 19,
+            "year": "4",
+            "sem": "1",
+            "description": "",
+            "course_type": "REQUIRED",
+            "sub_type": "--",
+            "group_id": null,
+            "created_at": null,
+            "updated_at": null,
+            "units": null,
+            "course": {
+                "course_code": "VMCB 124",
+                "course_id": 19,
+                "title": "Fundamentals of Immunology",
+                "type": "NA",
+                "is_academic": true,
+                "is_multiple_enrollment": false,
+                "is_repeatable": false,
+                "course_code_title": "VMCB 124 - Fundamentals of Immunology",
+                "acad_orgs": [
+                    "LBDVPS"
+                ],
+                "acad_groups": [
+                    "CVM"
+                ]
+            },
+            "prerequisites": "COI"
+        },
+        {
+            "id": 9474,
+            "curriculum_id": 140,
+            "course_id": 21,
+            "year": "4",
+            "sem": "1",
+            "description": "",
+            "course_type": "REQUIRED",
+            "sub_type": "--",
+            "group_id": null,
+            "created_at": null,
+            "updated_at": null,
+            "units": null,
+            "course": {
+                "course_code": "VPAR 132",
+                "course_id": 21,
+                "title": "Veterinary Helminthology",
+                "type": "NA",
+                "is_academic": true,
+                "is_multiple_enrollment": false,
+                "is_repeatable": false,
+                "course_code_title": "VPAR 132 - Veterinary Helminthology",
+                "acad_orgs": [
+                    "LBDVPS"
+                ],
+                "acad_groups": [
+                    "CVM"
+                ]
+            },
+            "prerequisites": "VPAR 131"
+        },
+        {
+            "id": 9431,
+            "curriculum_id": 140,
+            "course_id": 745,
+            "year": "1",
+            "sem": "1",
+            "description": "",
+            "course_type": "REQUIRED",
+            "sub_type": "--",
+            "group_id": null,
+            "created_at": null,
+            "updated_at": null,
+            "units": null,
+            "course": {
+                "course_code": "ETHICS 1",
+                "course_id": 745,
+                "title": "(GE). Ethics and Moral Reasoning in Everyday Life",
+                "type": "NA",
+                "is_academic": true,
+                "is_multiple_enrollment": false,
+                "is_repeatable": false,
+                "course_code_title": "ETHICS 1 - (GE). Ethics and Moral Reasoning in Everyday Life",
+                "acad_orgs": [
+                    "LBDHUM"
+                ],
+                "acad_groups": [
+                    "CAS"
+                ]
+            }
+        },
+        {
+            "id": 9432,
+            "curriculum_id": 140,
+            "course_id": 821,
+            "year": "1",
+            "sem": "1",
+            "description": "",
+            "course_type": "REQUIRED",
+            "sub_type": "--",
+            "group_id": null,
+            "created_at": null,
+            "updated_at": null,
+            "units": null,
+            "course": {
+                "course_code": "KAS 1",
+                "course_id": 821,
+                "title": "(GE). Kasaysayan ng Pilipinas",
+                "type": "NA",
+                "is_academic": true,
+                "is_multiple_enrollment": false,
+                "is_repeatable": false,
+                "course_code_title": "KAS 1 - (GE). Kasaysayan ng Pilipinas",
+                "acad_orgs": [
+                    "LBDSS"
+                ],
+                "acad_groups": [
+                    "CAS"
+                ]
+            }
+        },
+        {
+            "id": 9440,
+            "curriculum_id": 140,
+            "course_id": 841,
+            "year": "1",
+            "sem": "2",
+            "description": "",
+            "course_type": "REQUIRED",
+            "sub_type": "--",
+            "group_id": null,
+            "created_at": null,
+            "updated_at": null,
+            "units": null,
+            "course": {
+                "course_code": "STS 1",
+                "course_id": 841,
+                "title": "(GE). Science, Technology, and Society",
+                "type": "NA",
+                "is_academic": true,
+                "is_multiple_enrollment": false,
+                "is_repeatable": false,
+                "course_code_title": "STS 1 - (GE). Science, Technology, and Society",
+                "acad_orgs": [
+                    "LBDSS"
+                ],
+                "acad_groups": [
+                    "CAS"
+                ]
+            }
+        },
+        {
+            "id": 9441,
+            "curriculum_id": 140,
+            "course_id": 720,
+            "year": "1",
+            "sem": "2",
+            "description": "",
+            "course_type": "REQUIRED",
+            "sub_type": "--",
+            "group_id": null,
+            "created_at": null,
+            "updated_at": null,
+            "units": null,
+            "course": {
+                "course_code": "ARTS 1",
+                "course_id": 720,
+                "title": "(GE). Critical Perspectives in the Arts",
+                "type": "NA",
+                "is_academic": true,
+                "is_multiple_enrollment": false,
+                "is_repeatable": false,
+                "course_code_title": "ARTS 1 - (GE). Critical Perspectives in the Arts",
+                "acad_orgs": [
+                    "LBDHUM"
+                ],
+                "acad_groups": [
+                    "CAS"
+                ]
+            }
+        },
+        {
+            "id": 9455,
+            "curriculum_id": 140,
+            "course_id": 721,
+            "year": "2",
+            "sem": "2",
+            "description": "",
+            "course_type": "REQUIRED",
+            "sub_type": "--",
+            "group_id": null,
+            "created_at": null,
+            "updated_at": null,
+            "units": null,
+            "course": {
+                "course_code": "COMM 10",
+                "course_id": 721,
+                "title": "(GE). Critical Perspectives in Communication",
+                "type": "NA",
+                "is_academic": true,
+                "is_multiple_enrollment": false,
+                "is_repeatable": false,
+                "course_code_title": "COMM 10 - (GE). Critical Perspectives in Communication",
+                "acad_orgs": [
+                    "LBDHUM"
+                ],
+                "acad_groups": [
+                    "CDC"
+                ]
+            }
+        },
+        {
+            "id": 9475,
+            "curriculum_id": 140,
+            "course_id": 25,
+            "year": "4",
+            "sem": "1",
+            "description": "",
+            "course_type": "REQUIRED",
+            "sub_type": "--",
+            "group_id": null,
+            "created_at": null,
+            "updated_at": null,
+            "units": null,
+            "course": {
+                "course_code": "VPH 121",
+                "course_id": 25,
+                "title": "Epidemiology",
+                "type": "NA",
+                "is_academic": true,
+                "is_multiple_enrollment": false,
+                "is_repeatable": false,
+                "course_code_title": "VPH 121 - Epidemiology",
+                "acad_orgs": [
+                    "LBDVPS"
+                ],
+                "acad_groups": [
+                    "CVM"
+                ]
+            },
+            "prerequisites": "VMCB 121"
+        },
+        {
+            "id": 9476,
+            "curriculum_id": 140,
+            "course_id": 7,
+            "year": "4",
+            "sem": "1",
+            "description": "",
+            "course_type": "REQUIRED",
+            "sub_type": "--",
+            "group_id": null,
+            "created_at": null,
+            "updated_at": null,
+            "units": null,
+            "course": {
+                "course_code": "VPHM 142",
+                "course_id": 7,
+                "title": "Pharmacology and Therapeutics II",
+                "type": "NA",
+                "is_academic": true,
+                "is_multiple_enrollment": false,
+                "is_repeatable": false,
+                "course_code_title": "VPHM 142 - Pharmacology and Therapeutics II",
+                "acad_orgs": [
+                    "LBDBVS"
+                ],
+                "acad_groups": [
+                    "CVM"
+                ]
+            },
+            "prerequisites": "VPHM 141"
+        },
+        {
+            "id": 9477,
+            "curriculum_id": 140,
+            "course_id": 23,
+            "year": "4",
+            "sem": "1",
+            "description": "",
+            "course_type": "REQUIRED",
+            "sub_type": "--",
+            "group_id": null,
+            "created_at": null,
+            "updated_at": null,
+            "units": null,
+            "course": {
+                "course_code": "VPTH 122",
+                "course_id": 23,
+                "title": "Systemic Pathology",
+                "type": "NA",
+                "is_academic": true,
+                "is_multiple_enrollment": false,
+                "is_repeatable": false,
+                "course_code_title": "VPTH 122 - Systemic Pathology",
+                "acad_orgs": [
+                    "LBDVPS"
+                ],
+                "acad_groups": [
+                    "CVM"
+                ]
+            },
+            "prerequisites": "VPTH 121 and VPHY 141"
+        },
+        {
+            "id": 9478,
+            "curriculum_id": 140,
+            "course_id": 52,
+            "year": "4",
+            "sem": "1",
+            "description": "",
+            "course_type": "REQUIRED",
+            "sub_type": "--",
+            "group_id": null,
+            "created_at": null,
+            "updated_at": null,
+            "units": null,
+            "course": {
+                "course_code": "ZOTC 117",
+                "course_id": 52,
+                "title": "Equine Production",
+                "type": "NA",
+                "is_academic": true,
+                "is_multiple_enrollment": false,
+                "is_repeatable": false,
+                "course_code_title": "ZOTC 117 - Equine Production",
+                "acad_orgs": [
+                    "LBDBVS"
+                ],
+                "acad_groups": [
+                    "CVM"
+                ]
+            },
+            "prerequisites": "ZOTC 111"
+        },
+        {
+            "id": 9479,
+            "curriculum_id": 140,
+            "course_id": 15,
+            "year": "4",
+            "sem": "1",
+            "description": "",
+            "course_type": "REQUIRED",
+            "sub_type": "--",
+            "group_id": null,
+            "created_at": null,
+            "updated_at": null,
+            "units": null,
+            "course": {
+                "course_code": "ZOTC 119",
+                "course_id": 15,
+                "title": "Husbandry and Health Management of Laboratory Animals",
+                "type": "NA",
+                "is_academic": true,
+                "is_multiple_enrollment": false,
+                "is_repeatable": false,
+                "course_code_title": "ZOTC 119 - Husbandry and Health Management of Laboratory Animals",
+                "acad_orgs": [
+                    "LBDBVS"
+                ],
+                "acad_groups": [
+                    "CVM"
+                ]
+            }
+        },
+        {
+            "id": 9480,
+            "curriculum_id": 140,
+            "course_id": 36,
+            "year": "4",
+            "sem": "2",
+            "description": "",
+            "course_type": "REQUIRED",
+            "sub_type": "--",
+            "group_id": null,
+            "created_at": null,
+            "updated_at": null,
+            "units": null,
+            "course": {
+                "course_code": "VMED 151",
+                "course_id": 36,
+                "title": "General Principles of Veterinary Medicine",
+                "type": "NA",
+                "is_academic": true,
+                "is_multiple_enrollment": false,
+                "is_repeatable": false,
+                "course_code_title": "VMED 151 - General Principles of Veterinary Medicine",
+                "acad_orgs": [
+                    "LBDBVS"
+                ],
+                "acad_groups": [
+                    "CVM"
+                ]
+            },
+            "prerequisites": "VPHM 142 and\nVPAR 132"
+        },
+        {
+            "id": 9481,
+            "curriculum_id": 140,
+            "course_id": 5,
+            "year": "4",
+            "sem": "2",
+            "description": "",
+            "course_type": "REQUIRED",
+            "sub_type": "--",
+            "group_id": null,
+            "created_at": null,
+            "updated_at": null,
+            "units": null,
+            "course": {
+                "course_code": "VMED 195",
+                "course_id": 5,
+                "title": "Research Methods in Veterinary Medicine",
+                "type": "NA",
+                "is_academic": true,
+                "is_multiple_enrollment": false,
+                "is_repeatable": false,
+                "course_code_title": "VMED 195 - Research Methods in Veterinary Medicine",
+                "acad_orgs": [
+                    "LBDBVS"
+                ],
+                "acad_groups": [
+                    "CVM"
+                ]
+            },
+            "prerequisites": "STAT 162 or COI"
+        },
+        {
+            "id": 9482,
+            "curriculum_id": 140,
+            "course_id": 26,
+            "year": "4",
+            "sem": "2",
+            "description": "",
+            "course_type": "REQUIRED",
+            "sub_type": "--",
+            "group_id": null,
+            "created_at": null,
+            "updated_at": null,
+            "units": null,
+            "course": {
+                "course_code": "VPH 122",
+                "course_id": 26,
+                "title": "Zoonoses",
+                "type": "NA",
+                "is_academic": true,
+                "is_multiple_enrollment": false,
+                "is_repeatable": false,
+                "course_code_title": "VPH 122 - Zoonoses",
+                "acad_orgs": [
+                    "LBDVPS"
+                ],
+                "acad_groups": [
+                    "CVM"
+                ]
+            },
+            "prerequisites": "VPH 121"
+        },
+        {
+            "id": 9483,
+            "curriculum_id": 140,
+            "course_id": 24,
+            "year": "4",
+            "sem": "2",
+            "description": "",
+            "course_type": "REQUIRED",
+            "sub_type": "--",
+            "group_id": null,
+            "created_at": null,
+            "updated_at": null,
+            "units": null,
+            "course": {
+                "course_code": "VPTH 123",
+                "course_id": 24,
+                "title": "Clinical Pathology",
+                "type": "NA",
+                "is_academic": true,
+                "is_multiple_enrollment": false,
+                "is_repeatable": false,
+                "course_code_title": "VPTH 123 - Clinical Pathology",
+                "acad_orgs": [
+                    "LBDVPS"
+                ],
+                "acad_groups": [
+                    "CVM"
+                ]
+            },
+            "prerequisites": "VPTH 122 and VPHY 142"
+        },
+        {
+            "id": 9484,
+            "curriculum_id": 140,
+            "course_id": 11,
+            "year": "4",
+            "sem": "2",
+            "description": "",
+            "course_type": "REQUIRED",
+            "sub_type": "--",
+            "group_id": null,
+            "created_at": null,
+            "updated_at": null,
+            "units": null,
+            "course": {
+                "course_code": "VPHY 143",
+                "course_id": 11,
+                "title": "Endocrinology and Reproductive Physiology",
+                "type": "NA",
+                "is_academic": true,
+                "is_multiple_enrollment": false,
+                "is_repeatable": false,
+                "course_code_title": "VPHY 143 - Endocrinology and Reproductive Physiology",
+                "acad_orgs": [
+                    "LBDBVS"
+                ],
+                "acad_groups": [
+                    "CVM"
+                ]
+            }
+        },
+        {
+            "id": 9485,
+            "curriculum_id": 140,
+            "course_id": 45,
+            "year": "4",
+            "sem": "2",
+            "description": "",
+            "course_type": "REQUIRED",
+            "sub_type": "--",
+            "group_id": null,
+            "created_at": null,
+            "updated_at": null,
+            "units": null,
+            "course": {
+                "course_code": "VSUR 151",
+                "course_id": 45,
+                "title": "Principles of Veterinary Anesthesiology and Surgery",
+                "type": "NA",
+                "is_academic": true,
+                "is_multiple_enrollment": false,
+                "is_repeatable": false,
+                "course_code_title": "VSUR 151 - Principles of Veterinary Anesthesiology and Surgery",
+                "acad_orgs": [
+                    "LBDVCS"
+                ],
+                "acad_groups": [
+                    "CVM"
+                ]
+            }
+        },
+        {
+            "id": 9486,
+            "curriculum_id": 140,
+            "course_id": 48,
+            "year": "5",
+            "sem": "1",
+            "description": "",
+            "course_type": "REQUIRED",
+            "sub_type": "--",
+            "group_id": null,
+            "created_at": null,
+            "updated_at": null,
+            "units": null,
+            "course": {
+                "course_code": "VSUR 154",
+                "course_id": 48,
+                "title": "Diagnostic Imaging",
+                "type": "NA",
+                "is_academic": true,
+                "is_multiple_enrollment": false,
+                "is_repeatable": false,
+                "course_code_title": "VSUR 154 - Diagnostic Imaging",
+                "acad_orgs": [
+                    "LBDVCS"
+                ],
+                "acad_groups": [
+                    "CVM"
+                ]
+            },
+            "prerequisites": "VMED 151"
+        },
+        {
+            "id": 9487,
+            "curriculum_id": 140,
+            "course_id": 29,
+            "year": "5",
+            "sem": "1",
+            "description": "",
+            "course_type": "REQUIRED",
+            "sub_type": "--",
+            "group_id": null,
+            "created_at": null,
+            "updated_at": null,
+            "units": null,
+            "course": {
+                "course_code": "VETC 171",
+                "course_id": 29,
+                "title": "Introduction to Clinics",
+                "type": "NA",
+                "is_academic": true,
+                "is_multiple_enrollment": false,
+                "is_repeatable": false,
+                "course_code_title": "VETC 171 - Introduction to Clinics",
+                "acad_orgs": [
+                    "LBDVCS"
+                ],
+                "acad_groups": [
+                    "CVM"
+                ]
+            },
+            "prerequisites": "Completion of 1st and 2nd year\nveterinary proper courses"
+        },
+        {
+            "id": 9488,
+            "curriculum_id": 140,
+            "course_id": 37,
+            "year": "5",
+            "sem": "1",
+            "description": "",
+            "course_type": "REQUIRED",
+            "sub_type": "--",
+            "group_id": null,
+            "created_at": null,
+            "updated_at": null,
+            "units": null,
+            "course": {
+                "course_code": "VMED 152",
+                "course_id": 37,
+                "title": "Canine and Feline Medicine",
+                "type": "NA",
+                "is_academic": true,
+                "is_multiple_enrollment": false,
+                "is_repeatable": false,
+                "course_code_title": "VMED 152 - Canine and Feline Medicine",
+                "acad_orgs": [
+                    "LBDBVS"
+                ],
+                "acad_groups": [
+                    "CVM"
+                ]
+            },
+            "prerequisites": "VMED 151"
+        },
+        {
+            "id": 9489,
+            "curriculum_id": 140,
+            "course_id": 41,
+            "year": "5",
+            "sem": "1",
+            "description": "",
+            "course_type": "REQUIRED",
+            "sub_type": "--",
+            "group_id": null,
+            "created_at": null,
+            "updated_at": null,
+            "units": null,
+            "course": {
+                "course_code": "VMED 162",
+                "course_id": 41,
+                "title": "Poultry Medicine",
+                "type": "NA",
+                "is_academic": true,
+                "is_multiple_enrollment": false,
+                "is_repeatable": false,
+                "course_code_title": "VMED 162 - Poultry Medicine",
+                "acad_orgs": [
+                    "LBDBVS"
+                ],
+                "acad_groups": [
+                    "CVM"
+                ]
+            }
+        },
+        {
+            "id": 9490,
+            "curriculum_id": 140,
+            "course_id": 27,
+            "year": "5",
+            "sem": "1",
+            "description": "",
+            "course_type": "REQUIRED",
+            "sub_type": "--",
+            "group_id": null,
+            "created_at": null,
+            "updated_at": null,
+            "units": null,
+            "course": {
+                "course_code": "VPH 123",
+                "course_id": 27,
+                "title": "Food Hygiene",
+                "type": "NA",
+                "is_academic": true,
+                "is_multiple_enrollment": false,
+                "is_repeatable": false,
+                "course_code_title": "VPH 123 - Food Hygiene",
+                "acad_orgs": [
+                    "LBDVPS"
+                ],
+                "acad_groups": [
+                    "CVM"
+                ]
+            },
+            "prerequisites": "VPH 122"
+        },
+        {
+            "id": 9491,
+            "curriculum_id": 140,
+            "course_id": 46,
+            "year": "5",
+            "sem": "1",
+            "description": "",
+            "course_type": "REQUIRED",
+            "sub_type": "--",
+            "group_id": null,
+            "created_at": null,
+            "updated_at": null,
+            "units": null,
+            "course": {
+                "course_code": "VSUR 152",
+                "course_id": 46,
+                "title": "Small Animal Surgery",
+                "type": "NA",
+                "is_academic": true,
+                "is_multiple_enrollment": false,
+                "is_repeatable": false,
+                "course_code_title": "VSUR 152 - Small Animal Surgery",
+                "acad_orgs": [
+                    "LBDVCS"
+                ],
+                "acad_groups": [
+                    "CVM"
+                ]
+            },
+            "prerequisites": "VSUR 151"
+        },
+        {
+            "id": 9492,
+            "curriculum_id": 140,
+            "course_id": 30,
+            "year": "5",
+            "sem": "2",
+            "description": "",
+            "course_type": "REQUIRED",
+            "sub_type": "--",
+            "group_id": null,
+            "created_at": null,
+            "updated_at": null,
+            "units": null,
+            "course": {
+                "course_code": "VETC 172",
+                "course_id": 30,
+                "title": "Clinical Clerkship",
+                "type": "NA",
+                "is_academic": true,
+                "is_multiple_enrollment": false,
+                "is_repeatable": false,
+                "course_code_title": "VETC 172 - Clinical Clerkship",
+                "acad_orgs": [
+                    "LBDVCS"
+                ],
+                "acad_groups": [
+                    "CVM"
+                ]
+            },
+            "prerequisites": "VETC 171"
+        },
+        {
+            "id": 9493,
+            "curriculum_id": 140,
+            "course_id": 38,
+            "year": "5",
+            "sem": "2",
+            "description": "",
+            "course_type": "REQUIRED",
+            "sub_type": "--",
+            "group_id": null,
+            "created_at": null,
+            "updated_at": null,
+            "units": null,
+            "course": {
+                "course_code": "VMED 155",
+                "course_id": 38,
+                "title": "Theriogenology",
+                "type": "NA",
+                "is_academic": true,
+                "is_multiple_enrollment": false,
+                "is_repeatable": false,
+                "course_code_title": "VMED 155 - Theriogenology",
+                "acad_orgs": [
+                    "LBDBVS"
+                ],
+                "acad_groups": [
+                    "CVM"
+                ]
+            },
+            "prerequisites": "VPHY 143 and VSUR 154"
+        },
+        {
+            "id": 9494,
+            "curriculum_id": 140,
+            "course_id": 40,
+            "year": "5",
+            "sem": "2",
+            "description": "",
+            "course_type": "REQUIRED",
+            "sub_type": "--",
+            "group_id": null,
+            "created_at": null,
+            "updated_at": null,
+            "units": null,
+            "course": {
+                "course_code": "VMED 161",
+                "course_id": 40,
+                "title": "Equine Medicine",
+                "type": "NA",
+                "is_academic": true,
+                "is_multiple_enrollment": false,
+                "is_repeatable": false,
+                "course_code_title": "VMED 161 - Equine Medicine",
+                "acad_orgs": [
+                    "LBDBVS"
+                ],
+                "acad_groups": [
+                    "CVM"
+                ]
+            }
+        },
+        {
+            "id": 9495,
+            "curriculum_id": 140,
+            "course_id": 42,
+            "year": "5",
+            "sem": "2",
+            "description": "",
+            "course_type": "REQUIRED",
+            "sub_type": "--",
+            "group_id": null,
+            "created_at": null,
+            "updated_at": null,
+            "units": null,
+            "course": {
+                "course_code": "VMED 163",
+                "course_id": 42,
+                "title": "Ruminant Medicine",
+                "type": "NA",
+                "is_academic": true,
+                "is_multiple_enrollment": false,
+                "is_repeatable": false,
+                "course_code_title": "VMED 163 - Ruminant Medicine",
+                "acad_orgs": [
+                    "LBDBVS"
+                ],
+                "acad_groups": [
+                    "CVM"
+                ]
+            }
+        },
+        {
+            "id": 9496,
+            "curriculum_id": 140,
+            "course_id": 43,
+            "year": "5",
+            "sem": "2",
+            "description": "",
+            "course_type": "REQUIRED",
+            "sub_type": "--",
+            "group_id": null,
+            "created_at": null,
+            "updated_at": null,
+            "units": null,
+            "course": {
+                "course_code": "VMED 164",
+                "course_id": 43,
+                "title": "Swine Medicine",
+                "type": "NA",
+                "is_academic": true,
+                "is_multiple_enrollment": false,
+                "is_repeatable": false,
+                "course_code_title": "VMED 164 - Swine Medicine",
+                "acad_orgs": [
+                    "LBDBVS"
+                ],
+                "acad_groups": [
+                    "CVM"
+                ]
+            }
+        },
+        {
+            "id": 9497,
+            "curriculum_id": 140,
+            "course_id": 2068,
+            "year": "5",
+            "sem": "2",
+            "description": "",
+            "course_type": "REQUIRED",
+            "sub_type": "--",
+            "group_id": null,
+            "created_at": null,
+            "updated_at": null,
+            "units": null,
+            "course": {
+                "course_code": "VMED 165",
+                "course_id": 2068,
+                "title": "Aquatic and Wildlife Medicine",
+                "type": "NA",
+                "is_academic": true,
+                "is_multiple_enrollment": false,
+                "is_repeatable": false,
+                "course_code_title": "VMED 165 - Aquatic and Wildlife Medicine",
+                "acad_orgs": [
+                    "LBDVCS"
+                ],
+                "acad_groups": [
+                    "CVM"
+                ]
+            }
+        },
+        {
+            "id": 9498,
+            "curriculum_id": 140,
+            "course_id": 47,
+            "year": "5",
+            "sem": "2",
+            "description": "",
+            "course_type": "REQUIRED",
+            "sub_type": "--",
+            "group_id": null,
+            "created_at": null,
+            "updated_at": null,
+            "units": null,
+            "course": {
+                "course_code": "VSUR 153",
+                "course_id": 47,
+                "title": "Large Animal Surgery",
+                "type": "NA",
+                "is_academic": true,
+                "is_multiple_enrollment": false,
+                "is_repeatable": false,
+                "course_code_title": "VSUR 153 - Large Animal Surgery",
+                "acad_orgs": [
+                    "LBDVCS"
+                ],
+                "acad_groups": [
+                    "CVM"
+                ]
+            },
+            "prerequisites": "VSUR 151"
+        },
+        {
+            "id": 9499,
+            "curriculum_id": 140,
+            "course_id": 44,
+            "year": "5",
+            "sem": "2",
+            "description": "",
+            "course_type": "REQUIRED",
+            "sub_type": "--",
+            "group_id": null,
+            "created_at": null,
+            "updated_at": null,
+            "units": null,
+            "course": {
+                "course_code": "VMED 200",
+                "course_id": 44,
+                "title": "Undergraduate Thesis",
+                "type": "NA",
+                "is_academic": true,
+                "is_multiple_enrollment": true,
+                "is_repeatable": true,
+                "course_code_title": "VMED 200 - Undergraduate Thesis",
+                "acad_orgs": [
+                    "LBDBVS",
+                    "LBDVCS",
+                    "LBDVPS"
+                ],
+                "acad_groups": [
+                    "CVM"
+                ]
+            },
+            "prerequisites": "VETA101; Concurrent\nregistration with VPHM 142"
+        },
+        {
+            "id": 9500,
+            "curriculum_id": 140,
+            "course_id": 31,
+            "year": "6",
+            "sem": "1",
+            "description": "",
+            "course_type": "REQUIRED",
+            "sub_type": "--",
+            "group_id": null,
+            "created_at": null,
+            "updated_at": null,
+            "units": null,
+            "course": {
+                "course_code": "VETC 173",
+                "course_id": 31,
+                "title": "Clinical Conference I",
+                "type": "NA",
+                "is_academic": true,
+                "is_multiple_enrollment": false,
+                "is_repeatable": false,
+                "course_code_title": "VETC 173 - Clinical Conference I",
+                "acad_orgs": [
+                    "LBDVCS"
+                ],
+                "acad_groups": [
+                    "CVM"
+                ]
+            },
+            "prerequisites": "Completion\nof 1\nst to 3rd year veterinary proper courses"
+        },
+        {
+            "id": 9501,
+            "curriculum_id": 140,
+            "course_id": 33,
+            "year": "6",
+            "sem": "1",
+            "description": "",
+            "course_type": "REQUIRED",
+            "sub_type": "--",
+            "group_id": null,
+            "created_at": null,
+            "updated_at": null,
+            "units": null,
+            "course": {
+                "course_code": "VETC 175",
+                "course_id": 33,
+                "title": "Clinics I (Internship)",
+                "type": "NA",
+                "is_academic": true,
+                "is_multiple_enrollment": false,
+                "is_repeatable": false,
+                "course_code_title": "VETC 175 - Clinics I (Internship)",
+                "acad_orgs": [
+                    "LBDVCS"
+                ],
+                "acad_groups": [
+                    "CVM"
+                ]
+            },
+            "prerequisites": "Completion of 1\nst to 3\nrd year veterinary proper courses"
+        },
+        {
+            "id": 9502,
+            "curriculum_id": 140,
+            "course_id": 28,
+            "year": "6",
+            "sem": "1",
+            "description": "",
+            "course_type": "REQUIRED",
+            "sub_type": "--",
+            "group_id": null,
+            "created_at": null,
+            "updated_at": null,
+            "units": null,
+            "course": {
+                "course_code": "VELD 161.1",
+                "course_id": 28,
+                "title": "Laboratory Diagnostics in Veterinary Medicine",
+                "type": "NA",
+                "is_academic": true,
+                "is_multiple_enrollment": false,
+                "is_repeatable": false,
+                "course_code_title": "VELD 161.1 - Laboratory Diagnostics in Veterinary Medicine",
+                "acad_orgs": [
+                    "LBDVPS"
+                ],
+                "acad_groups": [
+                    "CVM"
+                ]
+            }
+        },
+        {
+            "id": 9503,
+            "curriculum_id": 140,
+            "course_id": 39,
+            "year": "6",
+            "sem": "1",
+            "description": "",
+            "course_type": "REQUIRED",
+            "sub_type": "--",
+            "group_id": null,
+            "created_at": null,
+            "updated_at": null,
+            "units": null,
+            "course": {
+                "course_code": "VMED 156",
+                "course_id": 39,
+                "title": "Jurisprudence, Ethics and Economics",
+                "type": "NA",
+                "is_academic": true,
+                "is_multiple_enrollment": false,
+                "is_repeatable": false,
+                "course_code_title": "VMED 156 - Jurisprudence, Ethics and Economics",
+                "acad_orgs": [
+                    "LBDBVS"
+                ],
+                "acad_groups": [
+                    "CVM"
+                ]
+            },
+            "prerequisites": "COI"
+        },
+        {
+            "id": 9504,
+            "curriculum_id": 140,
+            "course_id": 44,
+            "year": "6",
+            "sem": "1",
+            "description": "",
+            "course_type": "REQUIRED",
+            "sub_type": "--",
+            "group_id": null,
+            "created_at": null,
+            "updated_at": null,
+            "units": null,
+            "course": {
+                "course_code": "VMED 200",
+                "course_id": 44,
+                "title": "Undergraduate Thesis",
+                "type": "NA",
+                "is_academic": true,
+                "is_multiple_enrollment": true,
+                "is_repeatable": true,
+                "course_code_title": "VMED 200 - Undergraduate Thesis",
+                "acad_orgs": [
+                    "LBDBVS",
+                    "LBDVCS",
+                    "LBDVPS"
+                ],
+                "acad_groups": [
+                    "CVM"
+                ]
+            },
+            "prerequisites": "VETA101; Concurrent\nregistration with VPHM 142"
+        },
+        {
+            "id": 9505,
+            "curriculum_id": 140,
+            "course_id": 32,
+            "year": "6",
+            "sem": "2",
+            "description": "",
+            "course_type": "REQUIRED",
+            "sub_type": "--",
+            "group_id": null,
+            "created_at": null,
+            "updated_at": null,
+            "units": null,
+            "course": {
+                "course_code": "VETC 174",
+                "course_id": 32,
+                "title": "Clinical Conference II",
+                "type": "NA",
+                "is_academic": true,
+                "is_multiple_enrollment": false,
+                "is_repeatable": false,
+                "course_code_title": "VETC 174 - Clinical Conference II",
+                "acad_orgs": [
+                    "LBDVCS"
+                ],
+                "acad_groups": [
+                    "CVM"
+                ]
+            },
+            "prerequisites": "VETC 173"
+        },
+        {
+            "id": 9506,
+            "curriculum_id": 140,
+            "course_id": 34,
+            "year": "6",
+            "sem": "2",
+            "description": "",
+            "course_type": "REQUIRED",
+            "sub_type": "--",
+            "group_id": null,
+            "created_at": null,
+            "updated_at": null,
+            "units": null,
+            "course": {
+                "course_code": "VETC 176",
+                "course_id": 34,
+                "title": "Clinics II (Internship)",
+                "type": "NA",
+                "is_academic": true,
+                "is_multiple_enrollment": false,
+                "is_repeatable": false,
+                "course_code_title": "VETC 176 - Clinics II (Internship)",
+                "acad_orgs": [
+                    "LBDVCS"
+                ],
+                "acad_groups": [
+                    "CVM"
+                ]
+            },
+            "prerequisites": "VETC 175"
+        },
+        {
+            "id": 9507,
+            "curriculum_id": 140,
+            "course_id": null,
+            "year": "0",
+            "sem": "0",
+            "description": "",
+            "course_type": "GE ELECTIVE",
+            "sub_type": "--",
+            "group_id": null,
+            "created_at": null,
+            "updated_at": null,
+            "units": null,
+            "course": null
+        },
+        {
+            "id": 9999,
+            "curriculum_id": 140,
+            "course_id": 999,
+            "year": "0",
+            "sem": "0",
+            "course_type": "GE ELECTIVE",
+            "sub_type": "--",
+            "course": {
+                "course_code": "PHLO 1",
+                "course_id": 999,
+                "title": "(GE). Philosophical Analysis",
+                "type": "GE ELECTIVE",
+                "is_academic": true,
+                "course_code_title": "PHLO 1 - (GE). Philosophical Analysis",
+                "acad_orgs": [
+                    "LBDHUM"
+                ],
+                "acad_groups": [
+                    "CAS"
+                ]
+            }
+        }
+    ],
+    "curriculum_structures": [
+        {
+            "curriculum_id": 140,
+            "year": "1",
+            "sem": "1",
+            "major_units": 0,
+            "ge_elective_units": 0,
+            "required_units": 0,
+            "elective_units": 0,
+            "cognate_units": 0,
+            "specialized_units": 0,
+            "track_units": 0,
+            "total_units": 0,
+            "major_count": 0,
+            "ge_elective_count": 0,
+            "required_count": 6,
+            "elective_count": 0,
+            "cognate_count": 0,
+            "specialized_count": 0,
+            "track_count": 0,
+            "total_count": 6,
+            "created_at": null,
+            "updated_at": null
+        },
+        {
+            "curriculum_id": 140,
+            "year": "1",
+            "sem": "2",
+            "major_units": 0,
+            "ge_elective_units": 0,
+            "required_units": 0,
+            "elective_units": 0,
+            "cognate_units": 0,
+            "specialized_units": 0,
+            "track_units": 0,
+            "total_units": 0,
+            "major_count": 0,
+            "ge_elective_count": 1,
+            "required_count": 6,
+            "elective_count": 0,
+            "cognate_count": 0,
+            "specialized_count": 0,
+            "track_count": 0,
+            "total_count": 7,
+            "created_at": null,
+            "updated_at": null
+        },
+        {
+            "curriculum_id": 140,
+            "year": "2",
+            "sem": "1",
+            "major_units": 0,
+            "ge_elective_units": 0,
+            "required_units": 0,
+            "elective_units": 0,
+            "cognate_units": 0,
+            "specialized_units": 0,
+            "track_units": 0,
+            "total_units": 0,
+            "major_count": 0,
+            "ge_elective_count": 2,
+            "required_count": 5,
+            "elective_count": 0,
+            "cognate_count": 0,
+            "specialized_count": 0,
+            "track_count": 0,
+            "total_count": 7,
+            "created_at": null,
+            "updated_at": null
+        },
+        {
+            "curriculum_id": 140,
+            "year": "2",
+            "sem": "2",
+            "major_units": 0,
+            "ge_elective_units": 0,
+            "required_units": 0,
+            "elective_units": 0,
+            "cognate_units": 0,
+            "specialized_units": 0,
+            "track_units": 0,
+            "total_units": 0,
+            "major_count": 0,
+            "ge_elective_count": 0,
+            "required_count": 5,
+            "elective_count": 0,
+            "cognate_count": 0,
+            "specialized_count": 0,
+            "track_count": 0,
+            "total_count": 5,
+            "created_at": null,
+            "updated_at": null
+        },
+        {
+            "curriculum_id": 140,
+            "year": "3",
+            "sem": "1",
+            "major_units": 0,
+            "ge_elective_units": 0,
+            "required_units": 0,
+            "elective_units": 0,
+            "cognate_units": 0,
+            "specialized_units": 0,
+            "track_units": 0,
+            "total_units": 0,
+            "major_count": 0,
+            "ge_elective_count": 0,
+            "required_count": 6,
+            "elective_count": 0,
+            "cognate_count": 0,
+            "specialized_count": 0,
+            "track_count": 0,
+            "total_count": 6,
+            "created_at": null,
+            "updated_at": null
+        },
+        {
+            "curriculum_id": 140,
+            "year": "3",
+            "sem": "2",
+            "major_units": 0,
+            "ge_elective_units": 0,
+            "required_units": 0,
+            "elective_units": 0,
+            "cognate_units": 0,
+            "specialized_units": 0,
+            "track_units": 0,
+            "total_units": 0,
+            "major_count": 0,
+            "ge_elective_count": 0,
+            "required_count": 5,
+            "elective_count": 0,
+            "cognate_count": 0,
+            "specialized_count": 0,
+            "track_count": 0,
+            "total_count": 5,
+            "created_at": null,
+            "updated_at": null
+        },
+        {
+            "curriculum_id": 140,
+            "year": "4",
+            "sem": "1",
+            "major_units": 0,
+            "ge_elective_units": 0,
+            "required_units": 0,
+            "elective_units": 0,
+            "cognate_units": 0,
+            "specialized_units": 0,
+            "track_units": 0,
+            "total_units": 0,
+            "major_count": 0,
+            "ge_elective_count": 0,
+            "required_count": 7,
+            "elective_count": 0,
+            "cognate_count": 0,
+            "specialized_count": 0,
+            "track_count": 0,
+            "total_count": 7,
+            "created_at": null,
+            "updated_at": null
+        },
+        {
+            "curriculum_id": 140,
+            "year": "4",
+            "sem": "2",
+            "major_units": 0,
+            "ge_elective_units": 0,
+            "required_units": 0,
+            "elective_units": 0,
+            "cognate_units": 0,
+            "specialized_units": 0,
+            "track_units": 0,
+            "total_units": 0,
+            "major_count": 0,
+            "ge_elective_count": 0,
+            "required_count": 6,
+            "elective_count": 0,
+            "cognate_count": 0,
+            "specialized_count": 0,
+            "track_count": 0,
+            "total_count": 6,
+            "created_at": null,
+            "updated_at": null
+        },
+        {
+            "curriculum_id": 140,
+            "year": "5",
+            "sem": "1",
+            "major_units": 0,
+            "ge_elective_units": 0,
+            "required_units": 0,
+            "elective_units": 0,
+            "cognate_units": 0,
+            "specialized_units": 0,
+            "track_units": 0,
+            "total_units": 0,
+            "major_count": 0,
+            "ge_elective_count": 0,
+            "required_count": 6,
+            "elective_count": 0,
+            "cognate_count": 0,
+            "specialized_count": 0,
+            "track_count": 0,
+            "total_count": 6,
+            "created_at": null,
+            "updated_at": null
+        },
+        {
+            "curriculum_id": 140,
+            "year": "5",
+            "sem": "2",
+            "major_units": 0,
+            "ge_elective_units": 0,
+            "required_units": 0,
+            "elective_units": 0,
+            "cognate_units": 0,
+            "specialized_units": 0,
+            "track_units": 0,
+            "total_units": 0,
+            "major_count": 0,
+            "ge_elective_count": 0,
+            "required_count": 8,
+            "elective_count": 0,
+            "cognate_count": 0,
+            "specialized_count": 0,
+            "track_count": 0,
+            "total_count": 8,
+            "created_at": null,
+            "updated_at": null
+        },
+        {
+            "curriculum_id": 140,
+            "year": "6",
+            "sem": "1",
+            "major_units": 0,
+            "ge_elective_units": 0,
+            "required_units": 0,
+            "elective_units": 0,
+            "cognate_units": 0,
+            "specialized_units": 0,
+            "track_units": 0,
+            "total_units": 0,
+            "major_count": 0,
+            "ge_elective_count": 0,
+            "required_count": 5,
+            "elective_count": 0,
+            "cognate_count": 0,
+            "specialized_count": 0,
+            "track_count": 0,
+            "total_count": 5,
+            "created_at": null,
+            "updated_at": null
+        },
+        {
+            "curriculum_id": 140,
+            "year": "6",
+            "sem": "2",
+            "major_units": 0,
+            "ge_elective_units": 0,
+            "required_units": 0,
+            "elective_units": 0,
+            "cognate_units": 0,
+            "specialized_units": 0,
+            "track_units": 0,
+            "total_units": 0,
+            "major_count": 0,
+            "ge_elective_count": 0,
+            "required_count": 2,
+            "elective_count": 0,
+            "cognate_count": 0,
+            "specialized_count": 0,
+            "track_count": 0,
+            "total_count": 2,
+            "created_at": null,
+            "updated_at": null
+        }
+    ],
+    "curriculum_courses_list": [],
+    "curriculum_components": [],
+    "number_of_required_mentors": []
+}

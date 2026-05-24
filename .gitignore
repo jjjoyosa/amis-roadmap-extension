@@ -1,0 +1,34 @@
+# OS generated files
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+
+# Environment variables (Always ignore these for security)
+.env
+.env.local
+.env.development
+.env.production
+
+# Node modules (If you ever add npm packages later)
+node_modules/
+npm-debug.log
+yarn-error.log
+
+# Build directories and compressed files
+dist/
+build/
+*.zip
+*.tar.gz
+
+# IDE / Editor folders
+.vscode/
+.idea/
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+*.sw?
