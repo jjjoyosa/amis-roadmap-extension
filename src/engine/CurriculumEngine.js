@@ -206,11 +206,11 @@ export class CurriculumEngine {
         const usedEquivGroups = new Set();
         const getGroupKey = (code) => this.equivalenceGroups.find(g => g.includes(code))?.sort().join('|');
 
-        // STRICT TRACKER: Reserves slots for GEs and Electives before Major subjects
+        
         let geElecSlotsUsed = 0;
         const MAX_GE_ELEC_SLOTS = isMidyear ? (isOverloading ? 2 : 1) : (isOverloading ? 3 : 2); 
 
-        // 1. Core GEs
+        
         while (geElecSlotsUsed < MAX_GE_ELEC_SLOTS && coreGePool.length > 0 && acadUnits + 3 <= targetAcadLoad) {
             const course = coreGePool.shift();
             const groupKey = getGroupKey(course.code);
@@ -222,7 +222,7 @@ export class CurriculumEngine {
             geElecSlotsUsed++;
         }
 
-        // 2. GE Electives
+        
         let geElecsNeeded = report.audit["GE ELECTIVE"] ? (report.audit["GE ELECTIVE"].requiredCourses - report.audit["GE ELECTIVE"].earnedCourses) : 0;
         while (geElecsNeeded > 0 && geElecSlotsUsed < MAX_GE_ELEC_SLOTS && geElectivePool.length > 0 && acadUnits + 3 <= targetAcadLoad) {
             const uniqueOptions = [...new Set(geElectivePool.map(c => c.code))].slice(0, 3).join(" / ");
@@ -233,7 +233,7 @@ export class CurriculumEngine {
             geElecsNeeded--;
         }
 
-        // 3. Explicit Free Electives from JSON
+        
         let electivesNeeded = report.audit["ELECTIVE"] ? (report.audit["ELECTIVE"].requiredCourses - report.audit["ELECTIVE"].earnedCourses) : 0;
         while (electivesNeeded > 0 && geElecSlotsUsed < MAX_GE_ELEC_SLOTS && electivePool.length > 0 && acadUnits + 3 <= targetAcadLoad) {
             const uniqueOptions = [...new Set(electivePool.map(c => c.code))].slice(0, 3).join(" / ");
@@ -244,7 +244,7 @@ export class CurriculumEngine {
             electivesNeeded--;
         }
 
-        // 4. Aggressive Elective Padding (Generic Placeholders if JSON pool is empty)
+        
         while (electivesNeeded > 0 && geElecSlotsUsed < MAX_GE_ELEC_SLOTS && acadUnits + 3 <= targetAcadLoad) {
             schedule.push({ code: `[ELECTIVE]`, title: `Any 3-Unit Free Elective`, units: 3, category: 'ACADEMIC' });
             acadUnits += 3;
@@ -252,7 +252,7 @@ export class CurriculumEngine {
             electivesNeeded--;
         }
 
-        // 5. Major Subjects (Fills the remaining space up to the target load)
+        
         for (const course of majorPool) {
             const groupKey = getGroupKey(course.code);
             if (groupKey && usedEquivGroups.has(groupKey)) continue;
@@ -268,7 +268,7 @@ export class CurriculumEngine {
         majorPool = majorPool.filter(c => !c.added);
         const fallbackPool = [...majorPool, ...coreGePool]; 
 
-        // 6. Fallback Pool (Bypasses the GE slot limit to ensure you hit the target load if out of majors)
+        
         for (const course of fallbackPool) {
             if (acadUnits >= targetAcadLoad && !isMidyear) break; 
             
@@ -282,14 +282,14 @@ export class CurriculumEngine {
             }
         }
 
-        // 7. Unrestricted Final Padding (If STILL below target load during an overload)
+        
         while (electivesNeeded > 0 && acadUnits + 3 <= targetAcadLoad) {
             schedule.push({ code: `[ELECTIVE]`, title: `Any 3-Unit Free Elective`, units: 3, category: 'ACADEMIC' });
             acadUnits += 3;
             electivesNeeded--;
         }
 
-        // 8. Non-Academic Pool
+        
         const processedNonAcadGroups = new Set();
 
         for (const course of nonAcadPool) {

@@ -82,19 +82,19 @@ async function render() {
     const totalAcadUnits = path.recommendedCourses.filter(c => c.category !== "NON-ACAD").reduce((sum, c) => sum + (c.units || 0), 0);
     const totalNonAcadUnits = path.recommendedCourses.filter(c => c.category === "NON-ACAD").reduce((sum, c) => sum + (c.units || 0), 0);
 
-    // NEW: Render the dropdown HTML strictly based on the last completed term
+    
     let termOptionsHTML = "";
     if (state.lastTermType === "1") {
-        // If finished 1st Sem, lock to 2nd Sem only
+        
         termOptionsHTML = `<option value="2" selected>2nd Sem</option>`;
     } else if (state.lastTermType === "2") {
-        // If finished 2nd Sem, offer Midyear or 1st Sem
+        
         termOptionsHTML = `
             <option value="M" ${state.targetTerm === "M" ? "selected" : ""}>Midyear</option>
             <option value="1" ${state.targetTerm === "1" ? "selected" : ""}>1st Sem</option>
         `;
     } else {
-        // If finished Midyear (or fresh account), lock to 1st Sem only
+        
         termOptionsHTML = `<option value="1" selected>1st Sem</option>`;
     }
 
@@ -192,7 +192,7 @@ async function render() {
         });
     });
 
-    // ... (Keep the exportBtn event listener exactly the same as before) ...
+    
     document.getElementById("exportBtn").addEventListener("click", async () => {
         try {
             const cssResponse = await fetch(chrome.runtime.getURL("popup/popup.css"));
@@ -243,7 +243,7 @@ async function init() {
 
         state.curriculumMap = await fetch(chrome.runtime.getURL("curriculums_with_prereqs/curriculum_map.json")).then(r => r.json());
 
-        // NEW: Load the strict timeline state
+        
         const gradesData = state.grades.student_grades || state.grades;
         const termInfo = analyzeAMISTerms(gradesData);
         state.lastTermType = termInfo.last;
